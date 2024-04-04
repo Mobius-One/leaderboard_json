@@ -9,6 +9,15 @@
         "nextNodeType": "newjunglebrush"
     },
     {
+        "dungeonRunId": "159116",
+        "completedLevels": "80",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-03-28 04:33:30",
+        "endTime": "2024-03-28 12:11:55",
+        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
+        "nextNodeType": "tomblandsbossmummylord"
+    },
+    {
         "dungeonRunId": "157661",
         "completedLevels": "80",
         "twitchDisplayName": "ThaTrueBeast",
@@ -24,15 +33,6 @@
         "startTime": "2024-03-26 05:49:22",
         "endTime": "2024-03-28 04:55:31",
         "captainBoons": "gladiator_war_machine,bomber_dangerzone,warrior_frostguard,archer_soulpenetration",
-        "nextNodeType": "tomblandsbossmummylord"
-    },
-    {
-        "dungeonRunId": "159116",
-        "completedLevels": "80",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-03-28 04:33:30",
-        "endTime": "2024-03-28 12:11:55",
-        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
@@ -72,12 +72,12 @@
         "nextNodeType": "winterglacier"
     },
     {
-        "dungeonRunId": "157947",
+        "dungeonRunId": "158879",
         "completedLevels": "74",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-03-22 20:59:25",
-        "endTime": "2024-03-23 04:42:46",
-        "captainBoons": "common_classic_comeback,bomber_ricochet,musk_volley_tactics,bomber_dangerzone,archer_soulpenetration,berserker_rancor,barbarian_immortal",
+        "twitchDisplayName": "TheClonedOne",
+        "startTime": "2024-03-27 01:33:16",
+        "endTime": "2024-03-27 22:52:21",
+        "captainBoons": "common_classic_comeback,warrior_frostguard,musk_volley_tactics,warrior_armor_pierce,rogue_veilingcloak,berserker_enrage,berserker_frenzy",
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
