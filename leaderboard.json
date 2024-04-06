@@ -9,15 +9,6 @@
         "nextNodeType": "newjunglebrush"
     },
     {
-        "dungeonRunId": "159116",
-        "completedLevels": "80",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-03-28 04:33:30",
-        "endTime": "2024-03-28 12:11:55",
-        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
-        "nextNodeType": "tomblandsbossmummylord"
-    },
-    {
         "dungeonRunId": "157661",
         "completedLevels": "80",
         "twitchDisplayName": "ThaTrueBeast",
@@ -25,6 +16,15 @@
         "endTime": "2024-03-22 02:21:54",
         "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
         "nextNodeType": "icecaveboss"
+    },
+    {
+        "dungeonRunId": "159116",
+        "completedLevels": "80",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-03-28 04:33:30",
+        "endTime": "2024-03-28 12:11:55",
+        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
+        "nextNodeType": "tomblandsbossmummylord"
     },
     {
         "dungeonRunId": "158710",
@@ -81,12 +81,12 @@
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
-        "dungeonRunId": "158879",
+        "dungeonRunId": "159148",
         "completedLevels": "74",
-        "twitchDisplayName": "TheClonedOne",
-        "startTime": "2024-03-27 01:33:16",
-        "endTime": "2024-03-27 22:52:21",
-        "captainBoons": "common_classic_comeback,warrior_frostguard,musk_volley_tactics,warrior_armor_pierce,rogue_veilingcloak,berserker_enrage,berserker_frenzy",
-        "nextNodeType": "tomblandsbossmummylord"
+        "twitchDisplayName": "PradoxOficial",
+        "startTime": "2024-03-28 07:26:34",
+        "endTime": "2024-04-02 07:17:32",
+        "captainBoons": "bomber_dangerzone,berserker_frenzy,archer_longbows,common_specialists,bomber_bombardment,musketeer_rapidreload,fairy_fireflyconjuration",
+        "nextNodeType": "icecaveboss"
     }
 ]
