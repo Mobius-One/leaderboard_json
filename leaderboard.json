@@ -9,13 +9,13 @@
         "nextNodeType": "newjunglebrush"
     },
     {
-        "dungeonRunId": "159116",
+        "dungeonRunId": "157661",
         "completedLevels": "80",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-03-28 04:33:30",
-        "endTime": "2024-03-28 12:11:55",
-        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
-        "nextNodeType": "tomblandsbossmummylord"
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-03-21 19:51:11",
+        "endTime": "2024-03-22 02:21:54",
+        "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
+        "nextNodeType": "icecaveboss"
     },
     {
         "dungeonRunId": "158710",
@@ -27,13 +27,13 @@
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
-        "dungeonRunId": "157661",
+        "dungeonRunId": "159116",
         "completedLevels": "80",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-03-21 19:51:11",
-        "endTime": "2024-03-22 02:21:54",
-        "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
-        "nextNodeType": "icecaveboss"
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-03-28 04:33:30",
+        "endTime": "2024-03-28 12:11:55",
+        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
+        "nextNodeType": "tomblandsbossmummylord"
     },
     {
         "dungeonRunId": "158257",
@@ -72,21 +72,21 @@
         "nextNodeType": "winterglacier"
     },
     {
-        "dungeonRunId": "157947",
+        "dungeonRunId": "159148",
         "completedLevels": "74",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-03-22 20:59:25",
-        "endTime": "2024-03-23 04:42:46",
-        "captainBoons": "common_classic_comeback,bomber_ricochet,musk_volley_tactics,bomber_dangerzone,archer_soulpenetration,berserker_rancor,barbarian_immortal",
-        "nextNodeType": "tomblandsbossmummylord"
+        "twitchDisplayName": "PradoxOficial",
+        "startTime": "2024-03-28 07:26:34",
+        "endTime": "2024-04-02 07:17:32",
+        "captainBoons": "bomber_dangerzone,berserker_frenzy,archer_longbows,common_specialists,bomber_bombardment,musketeer_rapidreload,fairy_fireflyconjuration",
+        "nextNodeType": "icecaveboss"
     },
     {
-        "dungeonRunId": "158751",
+        "dungeonRunId": "158879",
         "completedLevels": "74",
-        "twitchDisplayName": "CrazyFugee",
-        "startTime": "2024-03-26 13:07:56",
-        "endTime": "2024-03-26 23:48:51",
-        "captainBoons": "warrior_flameslash,bomber_dangerzone,archer_soulpenetration,berserker_rancor,archer_longbows,bomber_ricochet,amazon_vineclone",
+        "twitchDisplayName": "TheClonedOne",
+        "startTime": "2024-03-27 01:33:16",
+        "endTime": "2024-03-27 22:52:21",
+        "captainBoons": "common_classic_comeback,warrior_frostguard,musk_volley_tactics,warrior_armor_pierce,rogue_veilingcloak,berserker_enrage,berserker_frenzy",
         "nextNodeType": "tomblandsbossmummylord"
     }
 ]
