@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "159263",
-        "completedLevels": "82",
+        "completedLevels": "84",
         "twitchDisplayName": "AngelNDarkness",
         "startTime": "2024-03-28 17:39:19",
         "endTime": null,
         "captainBoons": "archer_longbows,warrior_frostguard,bomber_dangerzone",
-        "nextNodeType": "winterglacier"
+        "nextNodeType": "plaguecreep"
     },
     {
         "dungeonRunId": "157661",
