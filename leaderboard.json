@@ -18,6 +18,15 @@
         "nextNodeType": "plaguecreep"
     },
     {
+        "dungeonRunId": "159116",
+        "completedLevels": "80",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-03-28 04:33:30",
+        "endTime": "2024-03-28 12:11:55",
+        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
+        "nextNodeType": "tomblandsbossmummylord"
+    },
+    {
         "dungeonRunId": "158710",
         "completedLevels": "80",
         "twitchDisplayName": "elcanadiano",
@@ -34,15 +43,6 @@
         "endTime": "2024-03-22 02:21:54",
         "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
         "nextNodeType": "icecaveboss"
-    },
-    {
-        "dungeonRunId": "159116",
-        "completedLevels": "80",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-03-28 04:33:30",
-        "endTime": "2024-03-28 12:11:55",
-        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
-        "nextNodeType": "tomblandsbossmummylord"
     },
     {
         "dungeonRunId": "158257",
