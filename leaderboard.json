@@ -18,21 +18,21 @@
         "nextNodeType": "plaguecreep"
     },
     {
-        "dungeonRunId": "158710",
-        "completedLevels": "80",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-03-26 05:49:22",
-        "endTime": "2024-03-28 04:55:31",
-        "captainBoons": "gladiator_war_machine,bomber_dangerzone,warrior_frostguard,archer_soulpenetration",
-        "nextNodeType": "tomblandsbossmummylord"
-    },
-    {
         "dungeonRunId": "159116",
         "completedLevels": "80",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-03-28 04:33:30",
         "endTime": "2024-03-28 12:11:55",
         "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
+        "nextNodeType": "tomblandsbossmummylord"
+    },
+    {
+        "dungeonRunId": "158710",
+        "completedLevels": "80",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-03-26 05:49:22",
+        "endTime": "2024-03-28 04:55:31",
+        "captainBoons": "gladiator_war_machine,bomber_dangerzone,warrior_frostguard,archer_soulpenetration",
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "winterglacier"
     },
     {
-        "dungeonRunId": "159148",
+        "dungeonRunId": "158751",
         "completedLevels": "74",
-        "twitchDisplayName": "PradoxOficial",
-        "startTime": "2024-03-28 07:26:34",
-        "endTime": "2024-04-02 07:17:32",
-        "captainBoons": "bomber_dangerzone,berserker_frenzy,archer_longbows,common_specialists,bomber_bombardment,musketeer_rapidreload,fairy_fireflyconjuration",
-        "nextNodeType": "icecaveboss"
+        "twitchDisplayName": "CrazyFugee",
+        "startTime": "2024-03-26 13:07:56",
+        "endTime": "2024-03-26 23:48:51",
+        "captainBoons": "warrior_flameslash,bomber_dangerzone,archer_soulpenetration,berserker_rancor,archer_longbows,bomber_ricochet,amazon_vineclone",
+        "nextNodeType": "tomblandsbossmummylord"
     }
 ]
