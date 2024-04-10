@@ -63,15 +63,6 @@
         "nextNodeType": "winterboss"
     },
     {
-        "dungeonRunId": "157562",
-        "completedLevels": "76",
-        "twitchDisplayName": "eggchica",
-        "startTime": "2024-03-21 12:27:43",
-        "endTime": "2024-03-26 04:13:46",
-        "captainBoons": "bomber_ricochet,fairy_fireflyconjuration,berserker_enrage,archer_soulpenetration,bomber_dangerzone,musk_volley_tactics",
-        "nextNodeType": "winterglacier"
-    },
-    {
         "dungeonRunId": "158164",
         "completedLevels": "76",
         "twitchDisplayName": "jensvapes",
@@ -81,12 +72,21 @@
         "nextNodeType": "winterglacier"
     },
     {
-        "dungeonRunId": "158879",
+        "dungeonRunId": "157562",
+        "completedLevels": "76",
+        "twitchDisplayName": "eggchica",
+        "startTime": "2024-03-21 12:27:43",
+        "endTime": "2024-03-26 04:13:46",
+        "captainBoons": "bomber_ricochet,fairy_fireflyconjuration,berserker_enrage,archer_soulpenetration,bomber_dangerzone,musk_volley_tactics",
+        "nextNodeType": "winterglacier"
+    },
+    {
+        "dungeonRunId": "157947",
         "completedLevels": "74",
-        "twitchDisplayName": "TheClonedOne",
-        "startTime": "2024-03-27 01:33:16",
-        "endTime": "2024-03-27 22:52:21",
-        "captainBoons": "common_classic_comeback,warrior_frostguard,musk_volley_tactics,warrior_armor_pierce,rogue_veilingcloak,berserker_enrage,berserker_frenzy",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-03-22 20:59:25",
+        "endTime": "2024-03-23 04:42:46",
+        "captainBoons": "common_classic_comeback,bomber_ricochet,musk_volley_tactics,bomber_dangerzone,archer_soulpenetration,berserker_rancor,barbarian_immortal",
         "nextNodeType": "tomblandsbossmummylord"
     }
 ]
