@@ -18,6 +18,15 @@
         "nextNodeType": "plaguecreep"
     },
     {
+        "dungeonRunId": "158884",
+        "completedLevels": "80",
+        "twitchDisplayName": "anunnakistarseed",
+        "startTime": "2024-03-27 01:41:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musk_volley_tactics,berserker_enrage,warrior_frostguard,bomber_dangerzone",
+        "nextNodeType": "tomblandsbossmummylord"
+    },
+    {
         "dungeonRunId": "158710",
         "completedLevels": "80",
         "twitchDisplayName": "elcanadiano",
@@ -52,15 +61,6 @@
         "endTime": "2024-03-24 05:21:43",
         "captainBoons": "art_siege_weapons,berserker_rancor,frogue_air_snipers,bomber_dangerzone,archer_soulpenetration",
         "nextNodeType": "newjunglebrush"
-    },
-    {
-        "dungeonRunId": "158884",
-        "completedLevels": "78",
-        "twitchDisplayName": "anunnakistarseed",
-        "startTime": "2024-03-27 01:41:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musk_volley_tactics,berserker_enrage,warrior_frostguard,bomber_dangerzone",
-        "nextNodeType": "snowfall03"
     },
     {
         "dungeonRunId": "158971",
