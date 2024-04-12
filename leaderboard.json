@@ -18,15 +18,6 @@
         "nextNodeType": "plaguecreep"
     },
     {
-        "dungeonRunId": "157661",
-        "completedLevels": "80",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-03-21 19:51:11",
-        "endTime": "2024-03-22 02:21:54",
-        "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
-        "nextNodeType": "icecaveboss"
-    },
-    {
         "dungeonRunId": "158710",
         "completedLevels": "80",
         "twitchDisplayName": "elcanadiano",
@@ -45,6 +36,15 @@
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
+        "dungeonRunId": "157661",
+        "completedLevels": "80",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-03-21 19:51:11",
+        "endTime": "2024-03-22 02:21:54",
+        "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
+        "nextNodeType": "icecaveboss"
+    },
+    {
         "dungeonRunId": "158257",
         "completedLevels": "79",
         "twitchDisplayName": "Angel",
@@ -54,6 +54,15 @@
         "nextNodeType": "newjunglebrush"
     },
     {
+        "dungeonRunId": "158884",
+        "completedLevels": "78",
+        "twitchDisplayName": "anunnakistarseed",
+        "startTime": "2024-03-27 01:41:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,musk_volley_tactics,berserker_enrage,warrior_frostguard,bomber_dangerzone",
+        "nextNodeType": "snowfall03"
+    },
+    {
         "dungeonRunId": "158971",
         "completedLevels": "77",
         "twitchDisplayName": "FinalSun",
@@ -61,15 +70,6 @@
         "endTime": "2024-03-28 14:33:48",
         "captainBoons": "archer_longbows,musk_golden_rounds,archer_venomarrows,bomber_bombardment,warrior_bladedancer,musk_volley_tactics",
         "nextNodeType": "winterboss"
-    },
-    {
-        "dungeonRunId": "158884",
-        "completedLevels": "76",
-        "twitchDisplayName": "anunnakistarseed",
-        "startTime": "2024-03-27 01:41:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,musk_volley_tactics,berserker_enrage,warrior_frostguard,bomber_dangerzone",
-        "nextNodeType": "winterglacier"
     },
     {
         "dungeonRunId": "158164",
