@@ -81,12 +81,12 @@
         "nextNodeType": "winterglacier"
     },
     {
-        "dungeonRunId": "158879",
-        "completedLevels": "74",
-        "twitchDisplayName": "TheClonedOne",
-        "startTime": "2024-03-27 01:33:16",
-        "endTime": "2024-03-27 22:52:21",
-        "captainBoons": "common_classic_comeback,warrior_frostguard,musk_volley_tactics,warrior_armor_pierce,rogue_veilingcloak,berserker_enrage,berserker_frenzy",
-        "nextNodeType": "tomblandsbossmummylord"
+        "dungeonRunId": "158884",
+        "completedLevels": "75",
+        "twitchDisplayName": "anunnakistarseed",
+        "startTime": "2024-03-27 01:41:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,musk_volley_tactics,saint_exalt,berserker_enrage,warrior_frostguard,bomber_dangerzone",
+        "nextNodeType": "orcriversiege"
     }
 ]
