@@ -18,15 +18,6 @@
         "nextNodeType": "plaguecreep"
     },
     {
-        "dungeonRunId": "159116",
-        "completedLevels": "80",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-03-28 04:33:30",
-        "endTime": "2024-03-28 12:11:55",
-        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
-        "nextNodeType": "tomblandsbossmummylord"
-    },
-    {
         "dungeonRunId": "158884",
         "completedLevels": "80",
         "twitchDisplayName": "anunnakistarseed",
@@ -54,6 +45,15 @@
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
+        "dungeonRunId": "159116",
+        "completedLevels": "80",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-03-28 04:33:30",
+        "endTime": "2024-03-28 12:11:55",
+        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
+        "nextNodeType": "tomblandsbossmummylord"
+    },
+    {
         "dungeonRunId": "158257",
         "completedLevels": "79",
         "twitchDisplayName": "Angel",
@@ -72,21 +72,21 @@
         "nextNodeType": "winterboss"
     },
     {
-        "dungeonRunId": "157562",
-        "completedLevels": "76",
-        "twitchDisplayName": "eggchica",
-        "startTime": "2024-03-21 12:27:43",
-        "endTime": "2024-03-26 04:13:46",
-        "captainBoons": "bomber_ricochet,fairy_fireflyconjuration,berserker_enrage,archer_soulpenetration,bomber_dangerzone,musk_volley_tactics",
-        "nextNodeType": "winterglacier"
-    },
-    {
         "dungeonRunId": "158164",
         "completedLevels": "76",
         "twitchDisplayName": "jensvapes",
         "startTime": "2024-03-23 15:19:43",
         "endTime": "2024-03-27 06:15:37",
         "captainBoons": "flagbearer_focused_morale,archer_soulpenetration,archer_longbows,warrior_flameslash,gladiator_war_machine,musk_volley_tactics",
+        "nextNodeType": "winterglacier"
+    },
+    {
+        "dungeonRunId": "157562",
+        "completedLevels": "76",
+        "twitchDisplayName": "eggchica",
+        "startTime": "2024-03-21 12:27:43",
+        "endTime": "2024-03-26 04:13:46",
+        "captainBoons": "bomber_ricochet,fairy_fireflyconjuration,berserker_enrage,archer_soulpenetration,bomber_dangerzone,musk_volley_tactics",
         "nextNodeType": "winterglacier"
     }
 ]
