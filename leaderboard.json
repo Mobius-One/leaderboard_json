@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "158513",
-        "completedLevels": "82",
+        "completedLevels": "83",
         "twitchDisplayName": "Nekovius",
         "startTime": "2024-03-25 06:29:52",
         "endTime": null,
         "captainBoons": "musk_volley_tactics,bomber_dangerzone,warrior_frostguard",
-        "nextNodeType": "sugargiantsgarden"
+        "nextNodeType": "winterboss"
     },
     {
         "dungeonRunId": "158710",
