@@ -27,21 +27,21 @@
         "nextNodeType": "plaguecreep"
     },
     {
-        "dungeonRunId": "158710",
-        "completedLevels": "80",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-03-26 05:49:22",
-        "endTime": "2024-03-28 04:55:31",
-        "captainBoons": "gladiator_war_machine,bomber_dangerzone,warrior_frostguard,archer_soulpenetration",
-        "nextNodeType": "tomblandsbossmummylord"
-    },
-    {
         "dungeonRunId": "159116",
         "completedLevels": "80",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-03-28 04:33:30",
         "endTime": "2024-03-28 12:11:55",
         "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
+        "nextNodeType": "tomblandsbossmummylord"
+    },
+    {
+        "dungeonRunId": "158884",
+        "completedLevels": "80",
+        "twitchDisplayName": "anunnakistarseed",
+        "startTime": "2024-03-27 01:41:08",
+        "endTime": "2024-04-12 02:00:59",
+        "captainBoons": "common_classic_comeback,musk_volley_tactics,warrior_frostguard,bomber_dangerzone",
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
@@ -54,12 +54,12 @@
         "nextNodeType": "icecaveboss"
     },
     {
-        "dungeonRunId": "158884",
+        "dungeonRunId": "158710",
         "completedLevels": "80",
-        "twitchDisplayName": "anunnakistarseed",
-        "startTime": "2024-03-27 01:41:08",
-        "endTime": "2024-04-12 02:00:59",
-        "captainBoons": "common_classic_comeback,musk_volley_tactics,warrior_frostguard,bomber_dangerzone",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-03-26 05:49:22",
+        "endTime": "2024-03-28 04:55:31",
+        "captainBoons": "gladiator_war_machine,bomber_dangerzone,warrior_frostguard,archer_soulpenetration",
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
