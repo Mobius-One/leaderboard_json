@@ -45,15 +45,6 @@
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
-        "dungeonRunId": "157661",
-        "completedLevels": "80",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-03-21 19:51:11",
-        "endTime": "2024-03-22 02:21:54",
-        "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
-        "nextNodeType": "icecaveboss"
-    },
-    {
         "dungeonRunId": "158710",
         "completedLevels": "80",
         "twitchDisplayName": "elcanadiano",
@@ -61,6 +52,15 @@
         "endTime": "2024-03-28 04:55:31",
         "captainBoons": "gladiator_war_machine,bomber_dangerzone,warrior_frostguard,archer_soulpenetration",
         "nextNodeType": "tomblandsbossmummylord"
+    },
+    {
+        "dungeonRunId": "157661",
+        "completedLevels": "80",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-03-21 19:51:11",
+        "endTime": "2024-03-22 02:21:54",
+        "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
+        "nextNodeType": "icecaveboss"
     },
     {
         "dungeonRunId": "158257",
