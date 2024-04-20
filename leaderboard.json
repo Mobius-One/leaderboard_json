@@ -36,15 +36,6 @@
         "nextNodeType": "tomblandsbossmummylord"
     },
     {
-        "dungeonRunId": "158884",
-        "completedLevels": "80",
-        "twitchDisplayName": "anunnakistarseed",
-        "startTime": "2024-03-27 01:41:08",
-        "endTime": "2024-04-12 02:00:59",
-        "captainBoons": "common_classic_comeback,musk_volley_tactics,warrior_frostguard,bomber_dangerzone",
-        "nextNodeType": "tomblandsbossmummylord"
-    },
-    {
         "dungeonRunId": "157661",
         "completedLevels": "80",
         "twitchDisplayName": "ThaTrueBeast",
@@ -52,6 +43,15 @@
         "endTime": "2024-03-22 02:21:54",
         "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
         "nextNodeType": "icecaveboss"
+    },
+    {
+        "dungeonRunId": "158884",
+        "completedLevels": "80",
+        "twitchDisplayName": "anunnakistarseed",
+        "startTime": "2024-03-27 01:41:08",
+        "endTime": "2024-04-12 02:00:59",
+        "captainBoons": "common_classic_comeback,musk_volley_tactics,warrior_frostguard,bomber_dangerzone",
+        "nextNodeType": "tomblandsbossmummylord"
     },
     {
         "dungeonRunId": "159116",
@@ -81,12 +81,12 @@
         "nextNodeType": "winterboss"
     },
     {
-        "dungeonRunId": "158164",
+        "dungeonRunId": "157562",
         "completedLevels": "76",
-        "twitchDisplayName": "jensvapes",
-        "startTime": "2024-03-23 15:19:43",
-        "endTime": "2024-03-27 06:15:37",
-        "captainBoons": "flagbearer_focused_morale,archer_soulpenetration,archer_longbows,warrior_flameslash,gladiator_war_machine,musk_volley_tactics",
+        "twitchDisplayName": "eggchica",
+        "startTime": "2024-03-21 12:27:43",
+        "endTime": "2024-03-26 04:13:46",
+        "captainBoons": "bomber_ricochet,fairy_fireflyconjuration,berserker_enrage,archer_soulpenetration,bomber_dangerzone,musk_volley_tactics",
         "nextNodeType": "winterglacier"
     }
 ]
