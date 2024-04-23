@@ -1,92 +1,74 @@
 [
     {
-        "dungeonRunId": "158513",
-        "completedLevels": "86",
-        "twitchDisplayName": "Nekovius",
-        "startTime": "2024-03-25 06:29:52",
-        "endTime": "2024-04-14 21:31:27",
-        "captainBoons": "musk_volley_tactics",
-        "nextNodeType": "skyjudgement"
+        "dungeonRunId": "159293",
+        "completedLevels": "2",
+        "twitchDisplayName": "SkyEyeBot",
+        "startTime": "2024-04-23 18:03:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,epic_giants_blessing",
+        "nextNodeType": "iceboss"
     },
     {
-        "dungeonRunId": "159275",
-        "completedLevels": "85",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-03-28 17:51:25",
-        "endTime": "2024-03-29 22:28:40",
-        "captainBoons": "bomber_dangerzone,warrior_frostguard",
-        "nextNodeType": "newjunglebrush"
+        "dungeonRunId": "159291",
+        "completedLevels": "2",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-04-23 18:01:57",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain,ranged_damage_2",
+        "nextNodeType": "iceboss"
     },
     {
-        "dungeonRunId": "159263",
-        "completedLevels": "84",
-        "twitchDisplayName": "AngelNDarkness",
-        "startTime": "2024-03-28 17:39:19",
-        "endTime": "2024-04-08 03:20:22",
-        "captainBoons": "archer_longbows,bomber_dangerzone",
-        "nextNodeType": "plaguecreep"
+        "dungeonRunId": "159285",
+        "completedLevels": "2",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-04-23 18:00:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing",
+        "nextNodeType": "olympiadbossHercules1"
     },
     {
-        "dungeonRunId": "159259",
-        "completedLevels": "83",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-03-28 17:34:08",
-        "endTime": "2024-04-19 01:05:50",
-        "captainBoons": "warrior_frostguard,archer_longbows,bomber_dangerzone",
-        "nextNodeType": "tomblandsbossmummylord"
+        "dungeonRunId": "159286",
+        "completedLevels": "2",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-04-23 18:01:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,archer_enchantedammo",
+        "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "158884",
-        "completedLevels": "80",
-        "twitchDisplayName": "anunnakistarseed",
-        "startTime": "2024-03-27 01:41:08",
-        "endTime": "2024-04-12 02:00:59",
-        "captainBoons": "common_classic_comeback,musk_volley_tactics,warrior_frostguard,bomber_dangerzone",
-        "nextNodeType": "tomblandsbossmummylord"
+        "dungeonRunId": "159288",
+        "completedLevels": "1",
+        "twitchDisplayName": "HipsuVT",
+        "startTime": "2024-04-23 18:01:28",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_rapidshot",
+        "nextNodeType": "thehiveconveyor"
     },
     {
-        "dungeonRunId": "159116",
-        "completedLevels": "80",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-03-28 04:33:30",
-        "endTime": "2024-03-28 12:11:55",
-        "captainBoons": "archer_longbows,bomber_dangerzone,amazon_hermesblessing,warrior_frostguard",
-        "nextNodeType": "tomblandsbossmummylord"
-    },
-    {
-        "dungeonRunId": "157661",
-        "completedLevels": "80",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-03-21 19:51:11",
-        "endTime": "2024-03-22 02:21:54",
-        "captainBoons": "barbarian_immortal,bomber_dangerzone,warrior_flameslash,archer_soulpenetration",
-        "nextNodeType": "icecaveboss"
-    },
-    {
-        "dungeonRunId": "158257",
-        "completedLevels": "79",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-03-23 22:03:55",
-        "endTime": "2024-03-24 05:21:43",
-        "captainBoons": "art_siege_weapons,berserker_rancor,frogue_air_snipers,bomber_dangerzone,archer_soulpenetration",
-        "nextNodeType": "newjunglebrush"
-    },
-    {
-        "dungeonRunId": "158971",
-        "completedLevels": "77",
+        "dungeonRunId": "159295",
+        "completedLevels": "1",
         "twitchDisplayName": "FinalSun",
-        "startTime": "2024-03-27 17:19:37",
-        "endTime": "2024-03-28 14:33:48",
-        "captainBoons": "archer_longbows,musk_golden_rounds,archer_venomarrows,bomber_bombardment,warrior_bladedancer,musk_volley_tactics",
-        "nextNodeType": "winterboss"
+        "startTime": "2024-04-23 18:04:07",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload",
+        "nextNodeType": "crystalcavetreasure"
     },
     {
-        "dungeonRunId": "157562",
-        "completedLevels": "76",
-        "twitchDisplayName": "eggchica",
-        "startTime": "2024-03-21 12:27:43",
-        "endTime": "2024-03-26 04:13:46",
-        "captainBoons": "bomber_ricochet,fairy_fireflyconjuration,berserker_enrage,archer_soulpenetration,bomber_dangerzone,musk_volley_tactics",
-        "nextNodeType": "winterglacier"
+        "dungeonRunId": "159294",
+        "completedLevels": "1",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-04-23 18:03:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration",
+        "nextNodeType": "boardlandiakeep"
+    },
+    {
+        "dungeonRunId": "159289",
+        "completedLevels": "1",
+        "twitchDisplayName": "sconniephd",
+        "startTime": "2024-04-23 18:01:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune",
+        "nextNodeType": "boardlandiakeep"
     }
 ]
