@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "159302",
-        "completedLevels": "50",
+        "completedLevels": "51",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-04-23 18:07:55",
         "endTime": null,
         "captainBoons": "common_classic_comeback,paladin_layonhands,archer_soulpenetration,armored_ignorepain,fairy_hocuspocus,saint_exalt,epic_melee_glory_of_victory,berserker_rancor,captain_fragile_commander,frogue_air_snipers,gladiator_sonofthunder,gladiator_browbeat,flag_rally_defense,saint_godspeed,flagbearer_bannerofluck,epic_giants_blessing,warrior_lance_of_ruin,centurion_2,fairy_fireflyconjuration",
-        "nextNodeType": "ancientspider"
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "159337",
-        "completedLevels": "35",
+        "completedLevels": "37",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-04-23 20:29:34",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_follow_up,epic_melee_glory_of_victory,elf_elvenimmortality,epic_ranged_dragonarrows,fairy_fireflyconjuration,undead_undeadresilience,monk_pure_focus,musketeer_rapidreload,lancer_spearofvengeance,saint_godspeed,gladiator_browbeat,archer_enchantedammo,warrior_lance_of_ruin,saint_exalt,flag_rally_defense,amazon_vineclone,bomber_dangerzone,bomber_concentrated_burst,barb_giant_swings,warrior_soldieroffortune,dagger_disappearing_act,archer_soulpenetration,armored_ignorepain,saint_surge_of_confidence,epic_giantsbrewzero",
-        "nextNodeType": "raidhallamidgardboss"
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_follow_up,epic_melee_glory_of_victory,elf_elvenimmortality,epic_ranged_dragonarrows,fairy_fireflyconjuration,undead_undeadresilience,monk_pure_focus,musketeer_rapidreload,lancer_spearofvengeance,saint_godspeed,gladiator_browbeat,archer_enchantedammo,warrior_lance_of_ruin,saint_exalt,flag_rally_defense,amazon_vineclone,bomber_dangerzone,bomber_concentrated_burst,warrior_soldieroffortune,dagger_disappearing_act,archer_soulpenetration,armored_ignorepain,saint_surge_of_confidence,epic_giantsbrewzero",
+        "nextNodeType": "elementalicestream"
     },
     {
         "dungeonRunId": "159307",
@@ -45,6 +45,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "159330",
+        "completedLevels": "23",
+        "twitchDisplayName": "MisterMarvelous",
+        "startTime": "2024-04-23 19:40:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,gladiator_war_machine,bomber_dangerzone,captain_fragile_commander,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,archer_rapidshot,ranged_damage_2,warbeast_underworldbeast,saint_exalt,epic_giants_blessing,warrior_lance_of_ruin,fairy_fireflyconjuration,support_healing_2,centurion_2,gladiator_browbeat,vampire_lordofthedead",
+        "nextNodeType": "iceboss"
+    },
+    {
         "dungeonRunId": "159325",
         "completedLevels": "23",
         "twitchDisplayName": "Meistar",
@@ -54,22 +63,13 @@
         "nextNodeType": "olympiadbossHercules1"
     },
     {
-        "dungeonRunId": "159330",
-        "completedLevels": "22",
-        "twitchDisplayName": "MisterMarvelous",
-        "startTime": "2024-04-23 19:40:10",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,gladiator_war_machine,bomber_dangerzone,captain_fragile_commander,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,archer_rapidshot,ranged_damage_2,warbeast_underworldbeast,saint_exalt,epic_giants_blessing,warrior_lance_of_ruin,fairy_fireflyconjuration,support_healing_2,centurion_2,gladiator_browbeat",
-        "nextNodeType": "thehiveconveyor"
-    },
-    {
         "dungeonRunId": "159343",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "X_Bowzer",
         "startTime": "2024-04-23 21:05:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,tank_guardian,melee_charge,vampire_lordofthedead,saint_godspeed,musketeer_rapidreload,undead_undeadresilience,archer_soulpenetration,paladin_layonhands,archer_enchantedammo,epic_ranged_dragonarrows,support_doomingsong,dagger_disappearing_act,vampire_aerial_fiend,bomber_dangerzone,saint_surge_of_confidence,bomber_avatar_power,flagbearer_bannerofluck,support_healing_2",
-        "nextNodeType": "olympiadbossHercules1"
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,tank_guardian,melee_charge,vampire_lordofthedead,saint_godspeed,musketeer_rapidreload,undead_undeadresilience,archer_soulpenetration,paladin_layonhands,archer_enchantedammo,epic_ranged_dragonarrows,support_doomingsong,dagger_disappearing_act,vampire_aerial_fiend,bomber_dangerzone,saint_surge_of_confidence,bomber_avatar_power,flagbearer_bannerofluck,support_healing_2,flag_1",
+        "nextNodeType": "boardlandiakeep"
     },
     {
         "dungeonRunId": "159288",
