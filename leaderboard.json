@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "159302",
-        "completedLevels": "44",
+        "completedLevels": "46",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-04-23 18:07:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,archer_soulpenetration,armored_ignorepain,fairy_hocuspocus,amazon_vineclone,saint_exalt,epic_melee_glory_of_victory,berserker_rancor,captain_fragile_commander,frogue_air_snipers,archer_rapidshot,gladiator_sonofthunder,gladiator_browbeat,flag_rally_defense,saint_godspeed,flagbearer_bannerofluck,epic_giants_blessing,warrior_lance_of_ruin,bomber_concentrated_burst,centurion_2,fairy_fireflyconjuration",
-        "nextNodeType": "fireboss"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,archer_soulpenetration,armored_ignorepain,fairy_hocuspocus,amazon_vineclone,saint_exalt,epic_melee_glory_of_victory,berserker_rancor,captain_fragile_commander,frogue_air_snipers,gladiator_sonofthunder,gladiator_browbeat,flag_rally_defense,saint_godspeed,flagbearer_bannerofluck,epic_giants_blessing,warrior_lance_of_ruin,bomber_concentrated_burst,centurion_2,fairy_fireflyconjuration",
+        "nextNodeType": "oasisshrine"
     },
     {
         "dungeonRunId": "159307",
@@ -36,13 +36,13 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "159286",
-        "completedLevels": "28",
+        "dungeonRunId": "159337",
+        "completedLevels": "30",
         "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-04-23 18:01:09",
-        "endTime": "2024-04-23 20:29:25",
-        "captainBoons": "common_classic_comeback,berserker_rancor,archer_enchantedammo,tank_guardian,epic_giantsbrewzero,bomber_concentrated_burst,barb_giant_swings,musketeer_rapidreload,melee_follow_up,necro_sepulchral_eye,flagbearer_bannerofluck,elf_elvenimmortality,orcs_counterstance,ranged_attack_1,support_healing_2,epic_epic_aspirations,bomber_dangerzone,warrior_secondwind,rogue_shadow_cloak,saint_exalt,saint_surge_of_confidence,archer_soulpenetration,paladin_layonhands,dagger_disappearing_act,vampire_aerial_fiend,lancer_sarissaspears,gladiator_sonofthunder,musk_hunters_mark,warrior_soldieroffortune",
-        "nextNodeType": "raidhallapath"
+        "startTime": "2024-04-23 20:29:34",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_follow_up,epic_melee_glory_of_victory,archer_rapidshot,elf_elvenimmortality,epic_ranged_dragonarrows,fairy_fireflyconjuration,undead_undeadresilience,monk_pure_focus,musketeer_rapidreload,lancer_spearofvengeance,saint_godspeed,gladiator_browbeat,archer_enchantedammo,warrior_lance_of_ruin,saint_exalt,flag_rally_defense,amazon_vineclone,bomber_dangerzone,bomber_concentrated_burst,barb_giant_swings,warrior_soldieroffortune,dagger_disappearing_act,archer_soulpenetration,armored_ignorepain,saint_surge_of_confidence,epic_giantsbrewzero,general_dawnofvictory",
+        "nextNodeType": "crystalcavetreasure"
     },
     {
         "dungeonRunId": "159325",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "159343",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "X_Bowzer",
         "startTime": "2024-04-23 21:05:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,tank_guardian,melee_charge,vampire_lordofthedead,saint_godspeed,musketeer_rapidreload,undead_undeadresilience,archer_soulpenetration,paladin_layonhands,archer_enchantedammo,epic_ranged_dragonarrows,support_doomingsong,dagger_disappearing_act",
-        "nextNodeType": "retrocity"
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,tank_guardian,melee_charge,vampire_lordofthedead,saint_godspeed,musketeer_rapidreload,undead_undeadresilience,archer_soulpenetration,paladin_layonhands,archer_enchantedammo,epic_ranged_dragonarrows,support_doomingsong,dagger_disappearing_act,vampire_aerial_fiend,bomber_dangerzone",
+        "nextNodeType": "elementalearthmudroad"
     }
 ]
