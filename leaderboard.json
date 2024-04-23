@@ -1,21 +1,48 @@
 [
     {
         "dungeonRunId": "159286",
-        "completedLevels": "11",
+        "completedLevels": "13",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-04-23 18:01:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,archer_enchantedammo,tank_guardian,epic_giantsbrewzero,bomber_concentrated_burst,barb_giant_swings,musketeer_rapidreload,melee_follow_up,necro_sepulchral_eye,flagbearer_bannerofluck,elf_elvenimmortality",
-        "nextNodeType": "raidhallamidgardboss"
+        "captainBoons": "common_classic_comeback,berserker_rancor,archer_enchantedammo,tank_guardian,epic_giantsbrewzero,bomber_concentrated_burst,barb_giant_swings,musketeer_rapidreload,melee_follow_up,necro_sepulchral_eye,flagbearer_bannerofluck,elf_elvenimmortality,orcs_counterstance,ranged_attack_1",
+        "nextNodeType": "retrocity"
+    },
+    {
+        "dungeonRunId": "159288",
+        "completedLevels": "10",
+        "twitchDisplayName": "HipsuVT",
+        "startTime": "2024-04-23 18:01:28",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_rapidshot,general_dawnofvictory,musk_hunters_mark,ranged_attack_1,musketeer_grapeshot,epic_ranged_dragonarrows,musketeer_rapidreload,flag_rally_defense,tank_guardian,epic_giantsbrewzero",
+        "nextNodeType": "plagueroost"
+    },
+    {
+        "dungeonRunId": "159295",
+        "completedLevels": "10",
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-04-23 18:04:07",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,melee_follow_up,epic_melee_glory_of_victory,barbarian_gloriousdeath,flag_rally_defense,berserker_eyeofthestorm,lancer_sarissaspears,lancer_spearofvengeance,warrior_lance_of_ruin,epic_giantsbrewzero",
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "159294",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-04-23 18:03:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,archer_enchantedammo,tank_guardian,armored_ignorepain,bomber_concentrated_burst,gladiator_war_machine,bomber_dangerzone,elf_elvenimmortality",
-        "nextNodeType": "oasisshrine"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,archer_enchantedammo,tank_guardian,armored_ignorepain,bomber_concentrated_burst,gladiator_war_machine,bomber_dangerzone,elf_elvenimmortality,bomber_avatar_power,warrior_soldieroffortune",
+        "nextNodeType": "plagueroost"
+    },
+    {
+        "dungeonRunId": "159291",
+        "completedLevels": "9",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-04-23 18:01:57",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain,ranged_damage_2,centurion_2,berserker_rancor,epic_giants_blessing,amazon_vineclone,fairy_fireflyconjuration,archer_enchantedammo,warrior_lance_of_ruin",
+        "nextNodeType": "elementalicestream"
     },
     {
         "dungeonRunId": "159285",
@@ -27,31 +54,22 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "159295",
+        "dungeonRunId": "159302",
         "completedLevels": "8",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-04-23 18:04:07",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-04-23 18:07:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,melee_follow_up,epic_melee_glory_of_victory,barbarian_gloriousdeath,flag_rally_defense,berserker_eyeofthestorm,lancer_sarissaspears,lancer_spearofvengeance",
-        "nextNodeType": "ancientspider"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,musketeer_grapeshot,archer_soulpenetration,armored_ignorepain,fairy_hocuspocus,amazon_vineclone,saint_exalt,centurion_juggernaut",
+        "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "159291",
-        "completedLevels": "8",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-04-23 18:01:57",
+        "dungeonRunId": "159307",
+        "completedLevels": "6",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-04-23 18:18:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,ranged_damage_2,centurion_2,berserker_rancor,epic_giants_blessing,amazon_vineclone,fairy_fireflyconjuration,archer_enchantedammo",
-        "nextNodeType": "olympiadbossHercules1"
-    },
-    {
-        "dungeonRunId": "159288",
-        "completedLevels": "8",
-        "twitchDisplayName": "HipsuVT",
-        "startTime": "2024-04-23 18:01:28",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_rapidshot,general_dawnofvictory,musk_hunters_mark,ranged_attack_1,musketeer_grapeshot,epic_ranged_dragonarrows,musketeer_rapidreload,flag_rally_defense",
-        "nextNodeType": "iceboss"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,flag_rally_defense,epic_epic_aspirations,epic_giantsbrewzero,monk_first_strike,archer_soulpenetration",
+        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "159293",
@@ -63,30 +81,12 @@
         "nextNodeType": "elementalicestream"
     },
     {
-        "dungeonRunId": "159302",
-        "completedLevels": "6",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-04-23 18:07:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,musketeer_grapeshot,archer_soulpenetration,armored_ignorepain,fairy_hocuspocus,amazon_vineclone",
-        "nextNodeType": "boardlandiakeep"
-    },
-    {
-        "dungeonRunId": "159289",
+        "dungeonRunId": "159299",
         "completedLevels": "5",
-        "twitchDisplayName": "sconniephd",
-        "startTime": "2024-04-23 18:01:33",
-        "endTime": "2024-04-23 18:44:24",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,tank_ironclad,musk_hunters_mark,musketeer_rapidreload,archer_enchantedammo",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-04-23 18:07:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,vampire_darkwings,buster_land_mines,epic_epic_aspirations,epic_giantsbrewzero,shinobi_firetechinique",
         "nextNodeType": "olympiadbossHercules1"
-    },
-    {
-        "dungeonRunId": "159307",
-        "completedLevels": "5",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-04-23 18:18:22",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,flag_rally_defense,epic_epic_aspirations,epic_giantsbrewzero,monk_first_strike",
-        "nextNodeType": "iceboss"
     }
 ]
