@@ -4,7 +4,7 @@
         "completedLevels": "74",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-04-24 06:42:46",
-        "endTime": null,
+        "endTime": "2024-04-24 14:05:56",
         "captainBoons": "musketeer_grapeshot,barb_giant_swings,bomber_dangerzone,archer_enchantedammo,archer_soulpenetration,epic_giantsbrewzero,warrior_lance_of_ruin",
         "nextNodeType": "ancientspider"
     },
@@ -45,6 +45,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "159463",
+        "completedLevels": "38",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-04-24 10:04:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearofvengeance,epic_melee_glory_of_victory,warrior_soldieroffortune,epic_giants_blessing,archer_soulpenetration,elf_elvenimmortality,gladiator_war_machine,saint_exalt,centurion_juggernaut,monk_pure_focus,centurion_tactician,epic_armored_armored_giants,armored_ignorepain,dagger_disappearing_act,warrior_lance_of_ruin,paladin_layonhands,gladiator_sonofthunder,buster_land_mines,buster_carbonplating,gladiator_browbeat,armored_shield_bash,centurion_2,bomber_dangerzone,melee_follow_up",
+        "nextNodeType": "ancientspider"
+    },
+    {
         "dungeonRunId": "159394",
         "completedLevels": "37",
         "twitchDisplayName": "AngelNDarkness",
@@ -52,15 +61,6 @@
         "endTime": "2024-04-24 05:01:24",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_enchantedammo,archer_soulpenetration,ranged_attack_1,warrior_lance_of_ruin,gladiator_browbeat,epic_giants_blessing,blob_parasite,archer_rapidshot,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind,berserker_enrage,musketeer_grapeshot,amazon_vineclone,saint_exalt,barbarian_bringthepain,epic_epic_aspirations,fairy_fireflyconjuration,support_healing_2,gladiator_war_machine,armored_ignorepain,lancer_spearofvengeance",
         "nextNodeType": "wasteraid"
-    },
-    {
-        "dungeonRunId": "159463",
-        "completedLevels": "36",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-04-24 10:04:45",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearofvengeance,epic_melee_glory_of_victory,warrior_soldieroffortune,epic_giants_blessing,archer_soulpenetration,elf_elvenimmortality,gladiator_war_machine,saint_exalt,centurion_juggernaut,monk_pure_focus,centurion_tactician,epic_armored_armored_giants,armored_ignorepain,dagger_disappearing_act,warrior_lance_of_ruin,paladin_layonhands,gladiator_sonofthunder,buster_land_mines,buster_carbonplating,gladiator_browbeat,armored_shield_bash,centurion_2,bomber_dangerzone,melee_follow_up",
-        "nextNodeType": "boardlandiakeep"
     },
     {
         "dungeonRunId": "159307",
