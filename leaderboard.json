@@ -45,6 +45,15 @@
         "nextNodeType": "wasteraid"
     },
     {
+        "dungeonRunId": "159440",
+        "completedLevels": "35",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-04-24 06:42:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_grapeshot,barb_giant_swings,musketeer_rapidreload,ranged_damage_2,epic_epic_aspirations,gladiator_browbeat,dagger_disappearing_act,epic_armored_armored_giants,lancer_sarissaspears,tank_ironclad,epic_ranged_dragonarrows,bomber_dangerzone,lancer_spearofvengeance,monk_pure_focus,archer_enchantedammo,archer_soulpenetration,armored_ignorepain,elf_elvenimmortality,epic_giantsbrewzero,barbarian_bringthepain,warrior_lance_of_ruin,ranged_attack_1,armored_shield_bash,tank_guardian,warrior_soldieroffortune,monk_first_strike",
+        "nextNodeType": "iceboss"
+    },
+    {
         "dungeonRunId": "159307",
         "completedLevels": "35",
         "twitchDisplayName": "Rafipi",
@@ -52,15 +61,6 @@
         "endTime": "2024-04-23 22:41:49",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,flag_rally_defense,epic_giantsbrewzero,monk_first_strike,archer_soulpenetration,centurion_tactician,dagger_disappearing_act,fairy_gift_of_the_wind,warrior_soldieroffortune,berserker_enrage,centurion_2,bomber_dangerzone,elf_elvenimmortality,berserker_eyeofthestorm,berserker_rancor,epic_giants_blessing,shinobi_blink,bomber_concentrated_burst,epic_armored_armored_giants,saint_exalt,archer_enchantedammo,tank_guardian,musketeer_rapidreload,lancer_spearofvengeance,epic_ranged_dragonarrows,gladiator_browbeat",
         "nextNodeType": "ancientspider"
-    },
-    {
-        "dungeonRunId": "159440",
-        "completedLevels": "34",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-04-24 06:42:46",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,barb_giant_swings,musketeer_rapidreload,ranged_damage_2,epic_epic_aspirations,gladiator_browbeat,dagger_disappearing_act,epic_armored_armored_giants,lancer_sarissaspears,tank_ironclad,epic_ranged_dragonarrows,bomber_dangerzone,lancer_spearofvengeance,monk_pure_focus,support_doomingsong,archer_enchantedammo,archer_soulpenetration,armored_ignorepain,elf_elvenimmortality,epic_giantsbrewzero,barbarian_bringthepain,warrior_lance_of_ruin,ranged_attack_1,armored_shield_bash,tank_guardian,warrior_soldieroffortune,monk_first_strike",
-        "nextNodeType": "crystalcavetreasure"
     },
     {
         "dungeonRunId": "159291",
@@ -81,12 +81,12 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "159355",
-        "completedLevels": "26",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-04-23 22:12:29",
-        "endTime": "2024-04-24 02:42:02",
-        "captainBoons": "common_classic_comeback,ranged_attack_1,ranged_damage_2,healer_1,rogue_sneakattack,berserker_enrage,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,bomber_avatar_power,armored_ignorepain,tank_ironclad,flag_1,barbarian_gloriousdeath,captain_fragile_commander,tank_guardian,vampire_darkwings,bomber_concentrated_burst,epic_epic_aspirations,bomber_dangerzone,general_dawnofvictory,human_humandestiny,healer_combatmedic,rogue_momentum,artillery_short_range_nuke,gladiator_browbeat,paladin_divine_wrath",
-        "nextNodeType": "raidhallamidgardboss"
+        "dungeonRunId": "159436",
+        "completedLevels": "27",
+        "twitchDisplayName": "ImortalFrog",
+        "startTime": "2024-04-24 06:12:17",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,musketeer_grapeshot,fairy_gift_of_the_wind,tank_tungstenswords,centurion_juggernaut,vampire_aerial_fiend,paladin_layonhands,epic_giants_blessing,paladin_holyforce,fairy_fireflyconjuration,lancer_spearofvengeance,lancer_ignitingstrike,bomber_dangerzone,bomber_concentrated_burst,necro_sepulchral_eye,lancer_sarissaspears,ranged_damage_2,gladiator_war_machine,centurion_tactician,melee_follow_up,centurion_2,berserker_rancor,armored_shield_bash,epic_armored_armored_giants,vampire_darkwings,flag_rally_defense,epic_melee_glory_of_victory",
+        "nextNodeType": "retrocity"
     }
 ]
