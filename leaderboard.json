@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "159394",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "AngelNDarkness",
         "startTime": "2024-04-24 01:07:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_enchantedammo,archer_soulpenetration,ranged_attack_1,warrior_lance_of_ruin,gladiator_browbeat,epic_giants_blessing,blob_parasite,archer_rapidshot,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind,berserker_enrage,support_doomingsong,musketeer_grapeshot,amazon_vineclone,saint_exalt,barbarian_bringthepain,epic_epic_aspirations,fairy_fireflyconjuration,support_healing_2,gladiator_war_machine,armored_ignorepain,lancer_spearofvengeance",
-        "nextNodeType": "fireboss"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_enchantedammo,archer_soulpenetration,ranged_attack_1,warrior_lance_of_ruin,gladiator_browbeat,epic_giants_blessing,blob_parasite,archer_rapidshot,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind,berserker_enrage,musketeer_grapeshot,amazon_vineclone,saint_exalt,barbarian_bringthepain,epic_epic_aspirations,fairy_fireflyconjuration,support_healing_2,gladiator_war_machine,armored_ignorepain,lancer_spearofvengeance",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "159307",
@@ -63,15 +63,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "159355",
-        "completedLevels": "26",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-04-23 22:12:29",
-        "endTime": "2024-04-24 02:42:02",
-        "captainBoons": "common_classic_comeback,ranged_attack_1,ranged_damage_2,healer_1,rogue_sneakattack,berserker_enrage,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,bomber_avatar_power,armored_ignorepain,tank_ironclad,flag_1,barbarian_gloriousdeath,captain_fragile_commander,tank_guardian,vampire_darkwings,bomber_concentrated_burst,epic_epic_aspirations,bomber_dangerzone,general_dawnofvictory,human_humandestiny,healer_combatmedic,rogue_momentum,artillery_short_range_nuke,gladiator_browbeat,paladin_divine_wrath",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "159343",
         "completedLevels": "26",
         "twitchDisplayName": "X_Bowzer",
@@ -81,12 +72,21 @@
         "nextNodeType": "iceboss"
     },
     {
-        "dungeonRunId": "159325",
+        "dungeonRunId": "159355",
+        "completedLevels": "26",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-04-23 22:12:29",
+        "endTime": "2024-04-24 02:42:02",
+        "captainBoons": "common_classic_comeback,ranged_attack_1,ranged_damage_2,healer_1,rogue_sneakattack,berserker_enrage,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,bomber_avatar_power,armored_ignorepain,tank_ironclad,flag_1,barbarian_gloriousdeath,captain_fragile_commander,tank_guardian,vampire_darkwings,bomber_concentrated_burst,epic_epic_aspirations,bomber_dangerzone,general_dawnofvictory,human_humandestiny,healer_combatmedic,rogue_momentum,artillery_short_range_nuke,gladiator_browbeat,paladin_divine_wrath",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
+        "dungeonRunId": "159406",
         "completedLevels": "23",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-04-23 19:04:45",
-        "endTime": "2024-04-23 21:20:06",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,berserker_eyeofthestorm,saint_exalt,support_healing_2,epic_armored_armored_giants,healer_combatmedic,warrior_secondwind,common_specialists,fairy_fireflyconjuration,musketeer_grapeshot,centurion_2,centurion_tactician,general_dawnofvictory,human_humandestiny,warrior_soldieroffortune,melee_follow_up,musk_hunters_mark,lancer_sarissaspears,flying_evasive_maneuvers,gladiator_war_machine,tank_tungstenswords,saint_surge_of_confidence",
-        "nextNodeType": "olympiadbossHercules1"
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-04-24 01:53:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain,vampire_lordofthedead,epic_epic_aspirations,saint_exalt,barbarian_bringthepain,fairy_gift_of_the_wind,lancer_sarissaspears,archer_enchantedammo,warrior_lance_of_ruin,fairy_fireflyconjuration,ranged_damage_2,archer_soulpenetration,berserker_rancor,centurion_juggernaut,bomber_avatar_power,bomber_dangerzone,armored_shield_bash,amazon_vineclone,flagbearer_bannerofluck,musketeer_grapeshot,vampire_aerial_fiend,support_doomingsong,epic_giants_blessing",
+        "nextNodeType": "raidhallamidgardboss"
     }
 ]
