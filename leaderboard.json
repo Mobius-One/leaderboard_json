@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "159549",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-04-24 17:50:16",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,flying_evasive_maneuvers,epic_armored_armored_giants,saint_exalt,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,bomber_dangerzone,dagger_disappearing_act,lancer_ignitingstrike,lancer_sarissaspears,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
-        "nextNodeType": "raidhallamidgardboss"
+        "nextNodeType": "retroforest"
     },
     {
         "dungeonRunId": "159394",
@@ -81,12 +81,12 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "159539",
-        "completedLevels": "34",
-        "twitchDisplayName": "TheMadameJ",
-        "startTime": "2024-04-24 16:43:46",
-        "endTime": "2024-04-24 21:33:50",
-        "captainBoons": "common_classic_comeback,paladin_layonhands,rogue_momentum,amazon_vineclone,healer_combatmedic,vampire_lordofthedead,lancer_ignitingstrike,berserker_enrage,gladiator_browbeat,support_healing_2,orcs_counterstance,armored_ignorepain,armored_shield_bash,warbeast_underworldbeast,assassin_agility,warrior_secondwind,epic_melee_glory_of_victory,bomber_dangerzone,archer_enchantedammo,templar_1,ranged_attack_1,musketeer_grapeshot,musk_hunters_mark,musketeer_rapidreload,dagger_disappearing_act,fairy_gift_of_the_wind,saint_exalt",
-        "nextNodeType": "boardlandiakeep"
+        "dungeonRunId": "159556",
+        "completedLevels": "35",
+        "twitchDisplayName": "X_Bowzer",
+        "startTime": "2024-04-24 18:21:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_sneakattack,ranged_attack_1,epic_giants_blessing,saint_godspeed,fairy_fireflyconjuration,dagger_disappearing_act,healer_1,assassin_agility,rogue_momentum,berserker_eyeofthestorm,epic_giantsbrewzero,elf_elvenimmortality,saint_exalt,warrior_secondwind,fairy_gift_of_the_wind,archer_rapidshot,fairy_hocuspocus,rogue_shadow_cloak,bomber_dangerzone,flying_evasive_maneuvers,archer_soulpenetration,flyingrogue_aggravate,shinobi_firetechinique,common_specialists,vampire_darkwings,saint_surge_of_confidence",
+        "nextNodeType": "olympiadbossHercules1"
     }
 ]
