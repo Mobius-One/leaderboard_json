@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "159440",
-        "completedLevels": "55",
+        "completedLevels": "57",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-04-24 06:42:46",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,barb_giant_swings,epic_armored_armored_giants,lancer_sarissaspears,tank_ironclad,bomber_dangerzone,lancer_spearofvengeance,archer_enchantedammo,archer_soulpenetration,elf_elvenimmortality,epic_giantsbrewzero,barbarian_bringthepain,warrior_lance_of_ruin,ranged_attack_1,armored_shield_bash,tank_guardian",
-        "nextNodeType": "dungeonlair"
+        "captainBoons": "common_classic_comeback,musketeer_grapeshot,barb_giant_swings,epic_armored_armored_giants,lancer_sarissaspears,bomber_dangerzone,lancer_spearofvengeance,archer_enchantedammo,archer_soulpenetration,elf_elvenimmortality,epic_giantsbrewzero,barbarian_bringthepain,warrior_lance_of_ruin,ranged_attack_1,armored_shield_bash,tank_guardian",
+        "nextNodeType": "boardlandiakeep"
     },
     {
         "dungeonRunId": "159406",
