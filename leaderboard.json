@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "159330",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "MisterMarvelous",
         "startTime": "2024-04-23 19:40:10",
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,bomber_dangerzone,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,ranged_damage_2,warbeast_underworldbeast,epic_giants_blessing,warrior_lance_of_ruin,support_healing_2,centurion_2,vampire_lordofthedead,common_specialists,undead_undeadresilience,epic_epic_aspirations,saint_surge_of_confidence",
-        "nextNodeType": "raidhallamidgardboss"
+        "nextNodeType": "wasteraid"
     },
     {
         "dungeonRunId": "159307",
@@ -54,15 +54,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "159355",
-        "completedLevels": "26",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-04-23 22:12:29",
-        "endTime": "2024-04-24 02:42:02",
-        "captainBoons": "common_classic_comeback,ranged_attack_1,ranged_damage_2,healer_1,rogue_sneakattack,berserker_enrage,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,bomber_avatar_power,armored_ignorepain,tank_ironclad,flag_1,barbarian_gloriousdeath,captain_fragile_commander,tank_guardian,vampire_darkwings,bomber_concentrated_burst,epic_epic_aspirations,bomber_dangerzone,general_dawnofvictory,human_humandestiny,healer_combatmedic,rogue_momentum,artillery_short_range_nuke,gladiator_browbeat,paladin_divine_wrath",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "159343",
         "completedLevels": "26",
         "twitchDisplayName": "X_Bowzer",
@@ -70,6 +61,15 @@
         "endTime": "2024-04-24 00:29:15",
         "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,tank_guardian,melee_charge,vampire_lordofthedead,saint_godspeed,musketeer_rapidreload,undead_undeadresilience,archer_soulpenetration,paladin_layonhands,archer_enchantedammo,epic_ranged_dragonarrows,support_doomingsong,dagger_disappearing_act,vampire_aerial_fiend,bomber_dangerzone,saint_surge_of_confidence,bomber_avatar_power,flagbearer_bannerofluck,support_healing_2,flag_1,assassin_agility,gladiator_sonofthunder,amazon_vineclone,armored_ignorepain,elf_elvenimmortality",
         "nextNodeType": "iceboss"
+    },
+    {
+        "dungeonRunId": "159355",
+        "completedLevels": "26",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-04-23 22:12:29",
+        "endTime": "2024-04-24 02:42:02",
+        "captainBoons": "common_classic_comeback,ranged_attack_1,ranged_damage_2,healer_1,rogue_sneakattack,berserker_enrage,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,bomber_avatar_power,armored_ignorepain,tank_ironclad,flag_1,barbarian_gloriousdeath,captain_fragile_commander,tank_guardian,vampire_darkwings,bomber_concentrated_burst,epic_epic_aspirations,bomber_dangerzone,general_dawnofvictory,human_humandestiny,healer_combatmedic,rogue_momentum,artillery_short_range_nuke,gladiator_browbeat,paladin_divine_wrath",
+        "nextNodeType": "raidhallamidgardboss"
     },
     {
         "dungeonRunId": "159325",
