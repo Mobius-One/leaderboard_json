@@ -81,12 +81,12 @@
         "nextNodeType": "boardlandiakeep"
     },
     {
-        "dungeonRunId": "159291",
-        "completedLevels": "32",
+        "dungeonRunId": "159549",
+        "completedLevels": "33",
         "twitchDisplayName": "chiquik",
-        "startTime": "2024-04-23 18:01:57",
-        "endTime": "2024-04-23 22:34:25",
-        "captainBoons": "common_classic_comeback,armored_ignorepain,ranged_damage_2,centurion_2,berserker_rancor,epic_giants_blessing,amazon_vineclone,fairy_fireflyconjuration,archer_enchantedammo,ranged_attack_1,lancer_spearofvengeance,epic_epic_aspirations,lancer_sarissaspears,elf_elvenimmortality,rogue_sneakattack,healer_arrogantmedium,bomber_avatar_power,flagbearer_bannerofluck,centurion_juggernaut,rogue_shadow_cloak,gladiator_browbeat,captain_fragile_commander,human_humandestiny,epic_giantsbrewzero,paladin_divine_wrath,flag_1,support_doomingsong,saint_surge_of_confidence",
-        "nextNodeType": "raidhallamidgardboss"
+        "startTime": "2024-04-24 17:50:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,musketeer_rapidreload,flying_evasive_maneuvers,epic_armored_armored_giants,saint_exalt,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,flag_1,bomber_dangerzone,dagger_disappearing_act,lancer_ignitingstrike,lancer_sarissaspears,paladin_divine_wrath,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
+        "nextNodeType": "thehiveconveyor"
     }
 ]
