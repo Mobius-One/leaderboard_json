@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "159330",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "MisterMarvelous",
         "startTime": "2024-04-23 19:40:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,gladiator_war_machine,bomber_dangerzone,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,ranged_damage_2,warbeast_underworldbeast,epic_giants_blessing,warrior_lance_of_ruin,support_healing_2,centurion_2,vampire_lordofthedead,common_specialists,undead_undeadresilience,epic_epic_aspirations,barbarian_gloriousdeath,saint_surge_of_confidence",
-        "nextNodeType": "iceboss"
+        "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,bomber_dangerzone,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,ranged_damage_2,warbeast_underworldbeast,epic_giants_blessing,warrior_lance_of_ruin,support_healing_2,centurion_2,vampire_lordofthedead,common_specialists,undead_undeadresilience,epic_epic_aspirations,barbarian_gloriousdeath,saint_surge_of_confidence",
+        "nextNodeType": "boardlandiakeep"
     },
     {
         "dungeonRunId": "159307",
@@ -58,7 +58,7 @@
         "completedLevels": "26",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2024-04-23 22:12:29",
-        "endTime": null,
+        "endTime": "2024-04-24 02:42:02",
         "captainBoons": "common_classic_comeback,ranged_attack_1,ranged_damage_2,healer_1,rogue_sneakattack,berserker_enrage,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,bomber_avatar_power,armored_ignorepain,tank_ironclad,flag_1,barbarian_gloriousdeath,captain_fragile_commander,tank_guardian,vampire_darkwings,bomber_concentrated_burst,epic_epic_aspirations,bomber_dangerzone,general_dawnofvictory,human_humandestiny,healer_combatmedic,rogue_momentum,artillery_short_range_nuke,gladiator_browbeat,paladin_divine_wrath",
         "nextNodeType": "raidhallamidgardboss"
     },
