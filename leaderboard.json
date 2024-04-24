@@ -18,6 +18,15 @@
         "nextNodeType": "tabletopboard"
     },
     {
+        "dungeonRunId": "159440",
+        "completedLevels": "55",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-04-24 06:42:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_grapeshot,barb_giant_swings,epic_armored_armored_giants,lancer_sarissaspears,tank_ironclad,bomber_dangerzone,lancer_spearofvengeance,archer_enchantedammo,archer_soulpenetration,elf_elvenimmortality,epic_giantsbrewzero,barbarian_bringthepain,warrior_lance_of_ruin,ranged_attack_1,armored_shield_bash,tank_guardian",
+        "nextNodeType": "dungeonlair"
+    },
+    {
         "dungeonRunId": "159406",
         "completedLevels": "54",
         "twitchDisplayName": "elcanadiano",
@@ -25,15 +34,6 @@
         "endTime": "2024-04-24 08:26:30",
         "captainBoons": "common_classic_comeback,armored_ignorepain,vampire_lordofthedead,epic_epic_aspirations,saint_exalt,fairy_gift_of_the_wind,lancer_sarissaspears,warrior_lance_of_ruin,fairy_fireflyconjuration,archer_soulpenetration,berserker_rancor,bomber_dangerzone,amazon_vineclone,epic_giants_blessing,berserker_enrage,warbeast_underworldbeast,warrior_soldieroffortune",
         "nextNodeType": "retrocity"
-    },
-    {
-        "dungeonRunId": "159440",
-        "completedLevels": "53",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-04-24 06:42:46",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,barb_giant_swings,musketeer_rapidreload,epic_armored_armored_giants,lancer_sarissaspears,tank_ironclad,bomber_dangerzone,lancer_spearofvengeance,archer_enchantedammo,archer_soulpenetration,elf_elvenimmortality,epic_giantsbrewzero,barbarian_bringthepain,warrior_lance_of_ruin,ranged_attack_1,armored_shield_bash,tank_guardian",
-        "nextNodeType": "olympiadbossHercules1"
     },
     {
         "dungeonRunId": "159330",
