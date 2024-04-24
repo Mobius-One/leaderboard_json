@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "159440",
-        "completedLevels": "35",
+        "completedLevels": "37",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-04-24 06:42:46",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,barb_giant_swings,musketeer_rapidreload,ranged_damage_2,epic_epic_aspirations,gladiator_browbeat,dagger_disappearing_act,epic_armored_armored_giants,lancer_sarissaspears,tank_ironclad,epic_ranged_dragonarrows,bomber_dangerzone,lancer_spearofvengeance,monk_pure_focus,archer_enchantedammo,archer_soulpenetration,armored_ignorepain,elf_elvenimmortality,epic_giantsbrewzero,barbarian_bringthepain,warrior_lance_of_ruin,ranged_attack_1,armored_shield_bash,tank_guardian,warrior_soldieroffortune,monk_first_strike",
-        "nextNodeType": "iceboss"
+        "captainBoons": "common_classic_comeback,musketeer_grapeshot,barb_giant_swings,musketeer_rapidreload,ranged_damage_2,epic_epic_aspirations,gladiator_browbeat,dagger_disappearing_act,epic_armored_armored_giants,lancer_sarissaspears,tank_ironclad,epic_ranged_dragonarrows,bomber_dangerzone,lancer_spearofvengeance,monk_pure_focus,archer_enchantedammo,archer_soulpenetration,armored_ignorepain,elf_elvenimmortality,epic_giantsbrewzero,barbarian_bringthepain,warrior_lance_of_ruin,ranged_attack_1,armored_shield_bash,tank_guardian,warrior_soldieroffortune",
+        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "159307",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "159436",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "ImortalFrog",
         "startTime": "2024-04-24 06:12:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,musketeer_grapeshot,fairy_gift_of_the_wind,tank_tungstenswords,centurion_juggernaut,vampire_aerial_fiend,paladin_layonhands,epic_giants_blessing,paladin_holyforce,fairy_fireflyconjuration,lancer_spearofvengeance,lancer_ignitingstrike,bomber_dangerzone,bomber_concentrated_burst,necro_sepulchral_eye,lancer_sarissaspears,ranged_damage_2,gladiator_war_machine,centurion_tactician,melee_follow_up,centurion_2,berserker_rancor,armored_shield_bash,epic_armored_armored_giants,vampire_darkwings,flag_rally_defense,epic_melee_glory_of_victory",
-        "nextNodeType": "retrocity"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,musketeer_grapeshot,fairy_gift_of_the_wind,tank_tungstenswords,centurion_juggernaut,vampire_aerial_fiend,paladin_layonhands,epic_giants_blessing,paladin_holyforce,fairy_fireflyconjuration,lancer_spearofvengeance,lancer_ignitingstrike,bomber_dangerzone,bomber_concentrated_burst,necro_sepulchral_eye,lancer_sarissaspears,ranged_damage_2,gladiator_war_machine,centurion_tactician,melee_follow_up,centurion_2,berserker_rancor,armored_shield_bash,epic_armored_armored_giants,vampire_darkwings,flag_rally_defense,epic_melee_glory_of_victory,epic_giantsbrewzero",
+        "nextNodeType": "crystalcavetreasure"
     }
 ]
