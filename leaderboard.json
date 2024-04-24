@@ -27,6 +27,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "159394",
+        "completedLevels": "35",
+        "twitchDisplayName": "AngelNDarkness",
+        "startTime": "2024-04-24 01:07:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_enchantedammo,archer_soulpenetration,ranged_attack_1,warrior_lance_of_ruin,gladiator_browbeat,epic_giants_blessing,blob_parasite,archer_rapidshot,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind,berserker_enrage,support_doomingsong,musketeer_grapeshot,amazon_vineclone,saint_exalt,barbarian_bringthepain,epic_epic_aspirations,fairy_fireflyconjuration,support_healing_2,gladiator_war_machine,armored_ignorepain,lancer_spearofvengeance",
+        "nextNodeType": "fireboss"
+    },
+    {
         "dungeonRunId": "159307",
         "completedLevels": "35",
         "twitchDisplayName": "Rafipi",
@@ -34,15 +43,6 @@
         "endTime": "2024-04-23 22:41:49",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,flag_rally_defense,epic_giantsbrewzero,monk_first_strike,archer_soulpenetration,centurion_tactician,dagger_disappearing_act,fairy_gift_of_the_wind,warrior_soldieroffortune,berserker_enrage,centurion_2,bomber_dangerzone,elf_elvenimmortality,berserker_eyeofthestorm,berserker_rancor,epic_giants_blessing,shinobi_blink,bomber_concentrated_burst,epic_armored_armored_giants,saint_exalt,archer_enchantedammo,tank_guardian,musketeer_rapidreload,lancer_spearofvengeance,epic_ranged_dragonarrows,gladiator_browbeat",
         "nextNodeType": "ancientspider"
-    },
-    {
-        "dungeonRunId": "159394",
-        "completedLevels": "33",
-        "twitchDisplayName": "AngelNDarkness",
-        "startTime": "2024-04-24 01:07:42",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_enchantedammo,archer_soulpenetration,ranged_attack_1,warrior_lance_of_ruin,gladiator_browbeat,epic_giants_blessing,blob_parasite,archer_rapidshot,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind,berserker_enrage,vampire_aerial_fiend,support_doomingsong,musketeer_grapeshot,amazon_vineclone,saint_exalt,barbarian_bringthepain,epic_epic_aspirations,fairy_fireflyconjuration,support_healing_2,gladiator_war_machine,armored_ignorepain,lancer_spearofvengeance",
-        "nextNodeType": "elementalearthmudroad"
     },
     {
         "dungeonRunId": "159291",
