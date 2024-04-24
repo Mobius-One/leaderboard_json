@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "159463",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-04-24 10:04:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearofvengeance,epic_melee_glory_of_victory,warrior_soldieroffortune,archer_soulpenetration,elf_elvenimmortality,gladiator_war_machine,saint_exalt,centurion_juggernaut,monk_pure_focus,centurion_tactician,epic_armored_armored_giants,armored_ignorepain,dagger_disappearing_act,warrior_lance_of_ruin,paladin_layonhands,gladiator_sonofthunder,buster_carbonplating,gladiator_browbeat,armored_shield_bash,centurion_2,bomber_dangerzone,melee_follow_up",
-        "nextNodeType": "raidhallamidgardboss"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearofvengeance,epic_melee_glory_of_victory,warrior_soldieroffortune,archer_soulpenetration,elf_elvenimmortality,gladiator_war_machine,saint_exalt,centurion_juggernaut,monk_pure_focus,centurion_tactician,epic_armored_armored_giants,armored_ignorepain,warrior_lance_of_ruin,paladin_layonhands,gladiator_sonofthunder,buster_carbonplating,gladiator_browbeat,armored_shield_bash,centurion_2,bomber_dangerzone,melee_follow_up",
+        "nextNodeType": "elementalicestream"
     },
     {
         "dungeonRunId": "159394",
