@@ -55,21 +55,21 @@
     },
     {
         "dungeonRunId": "159549",
-        "completedLevels": "42",
+        "completedLevels": "43",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-04-24 17:50:16",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,flying_evasive_maneuvers,epic_armored_armored_giants,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,bomber_dangerzone,lancer_ignitingstrike,lancer_sarissaspears,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
-        "nextNodeType": "retrocity"
+        "nextNodeType": "tabletopboard"
     },
     {
         "dungeonRunId": "159556",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "X_Bowzer",
         "startTime": "2024-04-24 18:21:56",
         "endTime": null,
         "captainBoons": "common_classic_comeback,rogue_sneakattack,ranged_attack_1,epic_giants_blessing,saint_godspeed,fairy_fireflyconjuration,dagger_disappearing_act,healer_1,assassin_agility,berserker_eyeofthestorm,epic_giantsbrewzero,elf_elvenimmortality,saint_exalt,warrior_secondwind,fairy_gift_of_the_wind,archer_rapidshot,fairy_hocuspocus,rogue_shadow_cloak,bomber_dangerzone,flying_evasive_maneuvers,archer_soulpenetration,shinobi_firetechinique,common_specialists,vampire_darkwings,saint_surge_of_confidence",
-        "nextNodeType": "thehiveconveyor"
+        "nextNodeType": "boardlandiakeep"
     },
     {
         "dungeonRunId": "159394",
