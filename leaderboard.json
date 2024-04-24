@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "159330",
-        "completedLevels": "43",
+        "completedLevels": "44",
         "twitchDisplayName": "MisterMarvelous",
         "startTime": "2024-04-23 19:40:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,bomber_dangerzone,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,ranged_damage_2,warbeast_underworldbeast,epic_giants_blessing,warrior_lance_of_ruin,support_healing_2,centurion_2,vampire_lordofthedead,common_specialists,undead_undeadresilience,epic_epic_aspirations,barbarian_gloriousdeath,saint_surge_of_confidence",
-        "nextNodeType": "shadeflag"
+        "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,bomber_dangerzone,archer_soulpenetration,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,ranged_damage_2,warbeast_underworldbeast,epic_giants_blessing,warrior_lance_of_ruin,support_healing_2,centurion_2,vampire_lordofthedead,common_specialists,undead_undeadresilience,epic_epic_aspirations,saint_surge_of_confidence",
+        "nextNodeType": "raidhallamidgardboss"
     },
     {
         "dungeonRunId": "159307",
