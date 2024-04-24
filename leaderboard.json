@@ -54,6 +54,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "159549",
+        "completedLevels": "38",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-04-24 17:50:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,flying_evasive_maneuvers,epic_armored_armored_giants,saint_exalt,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,bomber_dangerzone,dagger_disappearing_act,lancer_ignitingstrike,lancer_sarissaspears,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "159394",
         "completedLevels": "37",
         "twitchDisplayName": "AngelNDarkness",
@@ -61,15 +70,6 @@
         "endTime": "2024-04-24 05:01:24",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_enchantedammo,archer_soulpenetration,ranged_attack_1,warrior_lance_of_ruin,gladiator_browbeat,epic_giants_blessing,blob_parasite,archer_rapidshot,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind,berserker_enrage,musketeer_grapeshot,amazon_vineclone,saint_exalt,barbarian_bringthepain,epic_epic_aspirations,fairy_fireflyconjuration,support_healing_2,gladiator_war_machine,armored_ignorepain,lancer_spearofvengeance",
         "nextNodeType": "wasteraid"
-    },
-    {
-        "dungeonRunId": "159549",
-        "completedLevels": "37",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-04-24 17:50:16",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,musketeer_rapidreload,flying_evasive_maneuvers,epic_armored_armored_giants,saint_exalt,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,bomber_dangerzone,dagger_disappearing_act,lancer_ignitingstrike,lancer_sarissaspears,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
-        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "159307",
