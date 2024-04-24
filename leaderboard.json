@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "159406",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2024-04-24 01:53:15",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,vampire_lordofthedead,epic_epic_aspirations,saint_exalt,fairy_gift_of_the_wind,lancer_sarissaspears,warrior_lance_of_ruin,fairy_fireflyconjuration,ranged_damage_2,archer_soulpenetration,berserker_rancor,centurion_juggernaut,bomber_dangerzone,amazon_vineclone,musketeer_grapeshot,vampire_aerial_fiend,epic_giants_blessing,saint_godspeed,epic_giantsbrewzero,berserker_enrage,warbeast_underworldbeast,warrior_soldieroffortune",
-        "nextNodeType": "raidhallamidgardboss"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,vampire_lordofthedead,epic_epic_aspirations,saint_exalt,fairy_gift_of_the_wind,lancer_sarissaspears,warrior_lance_of_ruin,fairy_fireflyconjuration,archer_soulpenetration,berserker_rancor,centurion_juggernaut,bomber_dangerzone,amazon_vineclone,musketeer_grapeshot,vampire_aerial_fiend,epic_giants_blessing,saint_godspeed,epic_giantsbrewzero,berserker_enrage,warbeast_underworldbeast,warrior_soldieroffortune",
+        "nextNodeType": "dungeonlair"
     },
     {
         "dungeonRunId": "159394",
