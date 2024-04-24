@@ -55,12 +55,21 @@
     },
     {
         "dungeonRunId": "159549",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-04-24 17:50:16",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,flying_evasive_maneuvers,epic_armored_armored_giants,saint_exalt,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,bomber_dangerzone,lancer_ignitingstrike,lancer_sarissaspears,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
-        "nextNodeType": "dungeonlair"
+        "nextNodeType": "fireboss"
+    },
+    {
+        "dungeonRunId": "159556",
+        "completedLevels": "37",
+        "twitchDisplayName": "X_Bowzer",
+        "startTime": "2024-04-24 18:21:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_sneakattack,ranged_attack_1,epic_giants_blessing,saint_godspeed,fairy_fireflyconjuration,dagger_disappearing_act,healer_1,assassin_agility,rogue_momentum,berserker_eyeofthestorm,epic_giantsbrewzero,elf_elvenimmortality,saint_exalt,warrior_secondwind,fairy_gift_of_the_wind,archer_rapidshot,fairy_hocuspocus,rogue_shadow_cloak,bomber_dangerzone,flying_evasive_maneuvers,archer_soulpenetration,shinobi_firetechinique,common_specialists,vampire_darkwings,saint_surge_of_confidence",
+        "nextNodeType": "wasteraid"
     },
     {
         "dungeonRunId": "159394",
@@ -70,15 +79,6 @@
         "endTime": "2024-04-24 05:01:24",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_enchantedammo,archer_soulpenetration,ranged_attack_1,warrior_lance_of_ruin,gladiator_browbeat,epic_giants_blessing,blob_parasite,archer_rapidshot,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind,berserker_enrage,musketeer_grapeshot,amazon_vineclone,saint_exalt,barbarian_bringthepain,epic_epic_aspirations,fairy_fireflyconjuration,support_healing_2,gladiator_war_machine,armored_ignorepain,lancer_spearofvengeance",
         "nextNodeType": "wasteraid"
-    },
-    {
-        "dungeonRunId": "159556",
-        "completedLevels": "36",
-        "twitchDisplayName": "X_Bowzer",
-        "startTime": "2024-04-24 18:21:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_sneakattack,ranged_attack_1,epic_giants_blessing,saint_godspeed,fairy_fireflyconjuration,dagger_disappearing_act,healer_1,assassin_agility,rogue_momentum,berserker_eyeofthestorm,epic_giantsbrewzero,elf_elvenimmortality,saint_exalt,warrior_secondwind,fairy_gift_of_the_wind,archer_rapidshot,fairy_hocuspocus,rogue_shadow_cloak,bomber_dangerzone,flying_evasive_maneuvers,archer_soulpenetration,shinobi_firetechinique,common_specialists,vampire_darkwings,saint_surge_of_confidence",
-        "nextNodeType": "crystalcavetreasure"
     },
     {
         "dungeonRunId": "159307",
