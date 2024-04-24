@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "159539",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "TheMadameJ",
         "startTime": "2024-04-24 16:43:46",
         "endTime": null,
         "captainBoons": "common_classic_comeback,paladin_layonhands,rogue_momentum,amazon_vineclone,healer_combatmedic,vampire_lordofthedead,lancer_ignitingstrike,berserker_enrage,buster_carbonplating,gladiator_browbeat,support_healing_2,orcs_counterstance,armored_ignorepain,armored_shield_bash,warbeast_underworldbeast,assassin_agility,warrior_secondwind,epic_melee_glory_of_victory,bomber_dangerzone,archer_enchantedammo,templar_1,ranged_attack_1,musketeer_grapeshot,musk_hunters_mark,musketeer_rapidreload,dagger_disappearing_act,fairy_gift_of_the_wind,saint_exalt",
-        "nextNodeType": "iceboss"
+        "nextNodeType": "retroforest"
     },
     {
         "dungeonRunId": "159291",
