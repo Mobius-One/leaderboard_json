@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "159445",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "CoilGun",
         "startTime": "2024-04-24 07:38:30",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,robot_robotauthority,frogue_air_snipers,epic_giantsbrewzero,warrior_lance_of_ruin,gladiator_browbeat,monk_first_strike,musk_hunters_mark,ranged_attack_1,epic_melee_glory_of_victory,warrior_soldieroffortune,bomber_dangerzone,dagger_disappearing_act,barb_giant_swings,berserker_rancor,archer_soulpenetration,vampire_lordofthedead,lancer_sarissaspears,epic_giants_blessing,gladiator_war_machine,bomber_concentrated_burst",
-        "nextNodeType": "crystalcavetreasure"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,robot_robotauthority,frogue_air_snipers,epic_giantsbrewzero,warrior_lance_of_ruin,gladiator_browbeat,monk_first_strike,musk_hunters_mark,ranged_attack_1,epic_melee_glory_of_victory,bomber_dangerzone,dagger_disappearing_act,barb_giant_swings,berserker_rancor,archer_soulpenetration,vampire_lordofthedead,lancer_sarissaspears,epic_giants_blessing,gladiator_war_machine,bomber_concentrated_burst",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "159594",
