@@ -54,6 +54,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "159594",
+        "completedLevels": "43",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-04-24 22:00:43",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_war_machine,gladiator_browbeat,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,saint_surge_of_confidence,archer_soulpenetration,archer_rapidshot,melee_follow_up,epic_epic_aspirations,elf_elvenimmortality,fairy_gift_of_the_wind,general_dawnofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,epic_melee_glory_of_victory,barbarian_gloriousdeath,frogue_preparation,saint_godspeed,archer_enchantedammo,amazon_vineclone",
+        "nextNodeType": "crystalcavetreasure"
+    },
+    {
         "dungeonRunId": "159549",
         "completedLevels": "43",
         "twitchDisplayName": "chiquik",
@@ -61,15 +70,6 @@
         "endTime": "2024-04-24 23:41:07",
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,flying_evasive_maneuvers,epic_armored_armored_giants,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,bomber_dangerzone,lancer_ignitingstrike,lancer_sarissaspears,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
         "nextNodeType": "tabletopboard"
-    },
-    {
-        "dungeonRunId": "159594",
-        "completedLevels": "42",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-04-24 22:00:43",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_war_machine,gladiator_browbeat,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,saint_surge_of_confidence,archer_soulpenetration,archer_rapidshot,melee_follow_up,epic_epic_aspirations,elf_elvenimmortality,fairy_gift_of_the_wind,general_dawnofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,epic_melee_glory_of_victory,barbarian_gloriousdeath,frogue_preparation,saint_godspeed,archer_enchantedammo,amazon_vineclone",
-        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "159556",
