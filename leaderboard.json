@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "159707",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "KMTlol",
         "startTime": "2024-04-25 10:31:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,dagger_disappearing_act,rogue_shadow_cloak,support_healing_2,assassin_agility,epic_ranged_dragonarrows,armored_ignorepain,epic_giantsbrewzero,gladiator_browbeat,general_dawnofvictory,warrior_soldieroffortune,warrior_lance_of_ruin,lancer_sarissaspears,melee_follow_up,paladin_holyforce,musketeer_grapeshot,necro_sepulchral_eye,fairy_fireflyconjuration,flag_rally_defense",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,dagger_disappearing_act,rogue_shadow_cloak,support_healing_2,epic_ranged_dragonarrows,armored_ignorepain,epic_giantsbrewzero,gladiator_browbeat,general_dawnofvictory,warrior_soldieroffortune,warrior_lance_of_ruin,lancer_sarissaspears,melee_follow_up,paladin_holyforce,musketeer_grapeshot,necro_sepulchral_eye,fairy_fireflyconjuration,flag_rally_defense",
+        "nextNodeType": "olympiadbossHercules1"
     },
     {
         "dungeonRunId": "159445",
