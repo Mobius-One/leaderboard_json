@@ -72,6 +72,15 @@
         "nextNodeType": "tabletopboard"
     },
     {
+        "dungeonRunId": "159445",
+        "completedLevels": "42",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-04-24 07:38:30",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_layonhands,robot_robotauthority,frogue_air_snipers,epic_giantsbrewzero,warrior_lance_of_ruin,gladiator_browbeat,monk_first_strike,musk_hunters_mark,ranged_attack_1,epic_melee_glory_of_victory,warrior_soldieroffortune,bomber_dangerzone,dagger_disappearing_act,barb_giant_swings,berserker_rancor,archer_soulpenetration,vampire_lordofthedead,lancer_sarissaspears,epic_giants_blessing,gladiator_war_machine,saint_exalt,bomber_concentrated_burst",
+        "nextNodeType": "shadeflag"
+    },
+    {
         "dungeonRunId": "159556",
         "completedLevels": "41",
         "twitchDisplayName": "X_Bowzer",
@@ -79,14 +88,5 @@
         "endTime": "2024-04-24 23:49:48",
         "captainBoons": "common_classic_comeback,rogue_sneakattack,ranged_attack_1,epic_giants_blessing,saint_godspeed,fairy_fireflyconjuration,dagger_disappearing_act,healer_1,assassin_agility,berserker_eyeofthestorm,epic_giantsbrewzero,elf_elvenimmortality,saint_exalt,warrior_secondwind,fairy_gift_of_the_wind,archer_rapidshot,fairy_hocuspocus,rogue_shadow_cloak,bomber_dangerzone,flying_evasive_maneuvers,archer_soulpenetration,shinobi_firetechinique,common_specialists,saint_surge_of_confidence",
         "nextNodeType": "raidhallamidgardboss"
-    },
-    {
-        "dungeonRunId": "159445",
-        "completedLevels": "41",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-04-24 07:38:30",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,robot_robotauthority,frogue_air_snipers,epic_giantsbrewzero,armored_shield_bash,warrior_lance_of_ruin,gladiator_browbeat,monk_first_strike,musk_hunters_mark,ranged_attack_1,epic_melee_glory_of_victory,warrior_soldieroffortune,bomber_dangerzone,dagger_disappearing_act,barb_giant_swings,berserker_rancor,archer_soulpenetration,vampire_lordofthedead,lancer_sarissaspears,epic_giants_blessing,gladiator_war_machine,saint_exalt,bomber_concentrated_burst",
-        "nextNodeType": "iceboss"
     }
 ]
