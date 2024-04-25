@@ -36,15 +36,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "159406",
-        "completedLevels": "54",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-04-24 01:53:15",
-        "endTime": "2024-04-24 08:26:30",
-        "captainBoons": "common_classic_comeback,armored_ignorepain,vampire_lordofthedead,epic_epic_aspirations,saint_exalt,fairy_gift_of_the_wind,lancer_sarissaspears,warrior_lance_of_ruin,fairy_fireflyconjuration,archer_soulpenetration,berserker_rancor,bomber_dangerzone,amazon_vineclone,epic_giants_blessing,berserker_enrage,warbeast_underworldbeast,warrior_soldieroffortune",
-        "nextNodeType": "retrocity"
-    },
-    {
         "dungeonRunId": "159707",
         "completedLevels": "54",
         "twitchDisplayName": "KMTlol",
@@ -52,6 +43,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,dagger_disappearing_act,rogue_shadow_cloak,support_healing_2,epic_ranged_dragonarrows,armored_ignorepain,epic_giantsbrewzero,warrior_soldieroffortune,warrior_lance_of_ruin,lancer_sarissaspears,melee_follow_up,paladin_holyforce,musketeer_grapeshot,necro_sepulchral_eye,fairy_fireflyconjuration,flag_rally_defense",
         "nextNodeType": "thehiveconveyor"
+    },
+    {
+        "dungeonRunId": "159406",
+        "completedLevels": "54",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-04-24 01:53:15",
+        "endTime": "2024-04-24 08:26:30",
+        "captainBoons": "common_classic_comeback,armored_ignorepain,vampire_lordofthedead,epic_epic_aspirations,saint_exalt,fairy_gift_of_the_wind,lancer_sarissaspears,warrior_lance_of_ruin,fairy_fireflyconjuration,archer_soulpenetration,berserker_rancor,bomber_dangerzone,amazon_vineclone,epic_giants_blessing,berserker_enrage,warbeast_underworldbeast,warrior_soldieroffortune",
+        "nextNodeType": "retrocity"
     },
     {
         "dungeonRunId": "159330",
