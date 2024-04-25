@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "159756",
-        "completedLevels": "69",
+        "completedLevels": "70",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-04-25 15:44:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,bomber_avatar_power,musketeer_grapeshot,musketeer_rapidreload,barb_giant_swings,saint_exalt,lancer_spearofvengeance",
-        "nextNodeType": "crystalcavetreasure"
+        "captainBoons": "warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,bomber_avatar_power,musketeer_grapeshot,musketeer_rapidreload,barb_giant_swings,saint_exalt,lancer_spearofvengeance",
+        "nextNodeType": "shadeflag"
     },
     {
         "dungeonRunId": "159337",
