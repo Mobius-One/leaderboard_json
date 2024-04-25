@@ -72,6 +72,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "159594",
+        "completedLevels": "38",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-04-24 22:00:43",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_war_machine,gladiator_browbeat,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,saint_surge_of_confidence,archer_soulpenetration,archer_rapidshot,melee_follow_up,epic_epic_aspirations,elf_elvenimmortality,fairy_gift_of_the_wind,general_dawnofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,epic_melee_glory_of_victory,barbarian_gloriousdeath,frogue_preparation,saint_godspeed,lancer_sarissaspears,archer_enchantedammo,amazon_vineclone,paladin_layonhands",
+        "nextNodeType": "fireboss"
+    },
+    {
         "dungeonRunId": "159394",
         "completedLevels": "37",
         "twitchDisplayName": "AngelNDarkness",
@@ -79,14 +88,5 @@
         "endTime": "2024-04-24 05:01:24",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_enchantedammo,archer_soulpenetration,ranged_attack_1,warrior_lance_of_ruin,gladiator_browbeat,epic_giants_blessing,blob_parasite,archer_rapidshot,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind,berserker_enrage,musketeer_grapeshot,amazon_vineclone,saint_exalt,barbarian_bringthepain,epic_epic_aspirations,fairy_fireflyconjuration,support_healing_2,gladiator_war_machine,armored_ignorepain,lancer_spearofvengeance",
         "nextNodeType": "wasteraid"
-    },
-    {
-        "dungeonRunId": "159594",
-        "completedLevels": "37",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-04-24 22:00:43",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_war_machine,gladiator_browbeat,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,saint_surge_of_confidence,archer_soulpenetration,archer_rapidshot,melee_follow_up,epic_epic_aspirations,elf_elvenimmortality,fairy_gift_of_the_wind,general_dawnofvictory,common_specialists,flagbearer_bannerofluck,gladiator_sonofthunder,epic_melee_glory_of_victory,barbarian_gloriousdeath,frogue_preparation,saint_godspeed,lancer_sarissaspears,archer_enchantedammo,amazon_vineclone,paladin_layonhands",
-        "nextNodeType": "tabletopboard"
     }
 ]
