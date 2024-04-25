@@ -9,13 +9,13 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "159695",
-        "completedLevels": "66",
+        "dungeonRunId": "159756",
+        "completedLevels": "67",
         "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-04-25 08:40:45",
-        "endTime": "2024-04-25 15:37:24",
-        "captainBoons": "melee_follow_up,warrior_lance_of_ruin,berserker_eyeofthestorm,berserker_rancor,saint_surge_of_confidence,saint_exalt,epic_giants_blessing,frogue_air_snipers,bomber_dangerzone,bomber_concentrated_burst,epic_giantsbrewzero",
-        "nextNodeType": "plagueroost"
+        "startTime": "2024-04-25 15:44:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,bomber_avatar_power,musketeer_grapeshot,musketeer_rapidreload,berserker_enrage,barb_giant_swings,saint_exalt,lancer_spearofvengeance",
+        "nextNodeType": "retrocity"
     },
     {
         "dungeonRunId": "159337",
