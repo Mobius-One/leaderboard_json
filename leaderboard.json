@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "159695",
-        "completedLevels": "62",
+        "completedLevels": "63",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-04-25 08:40:45",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_rapidshot,melee_follow_up,warrior_lance_of_ruin,berserker_eyeofthestorm,berserker_rancor,saint_surge_of_confidence,saint_exalt,epic_giants_blessing,frogue_air_snipers,bomber_dangerzone,bomber_concentrated_burst,epic_giantsbrewzero",
-        "nextNodeType": "iceboss"
+        "nextNodeType": "elementalicestream"
     },
     {
         "dungeonRunId": "159337",
