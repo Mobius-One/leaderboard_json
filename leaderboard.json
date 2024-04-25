@@ -63,21 +63,21 @@
         "nextNodeType": "tabletopboard"
     },
     {
+        "dungeonRunId": "159594",
+        "completedLevels": "42",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-04-24 22:00:43",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_war_machine,gladiator_browbeat,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,saint_surge_of_confidence,archer_soulpenetration,archer_rapidshot,melee_follow_up,epic_epic_aspirations,elf_elvenimmortality,fairy_gift_of_the_wind,general_dawnofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,epic_melee_glory_of_victory,barbarian_gloriousdeath,frogue_preparation,saint_godspeed,archer_enchantedammo,amazon_vineclone",
+        "nextNodeType": "thehiveconveyor"
+    },
+    {
         "dungeonRunId": "159556",
         "completedLevels": "41",
         "twitchDisplayName": "X_Bowzer",
         "startTime": "2024-04-24 18:21:56",
         "endTime": "2024-04-24 23:49:48",
         "captainBoons": "common_classic_comeback,rogue_sneakattack,ranged_attack_1,epic_giants_blessing,saint_godspeed,fairy_fireflyconjuration,dagger_disappearing_act,healer_1,assassin_agility,berserker_eyeofthestorm,epic_giantsbrewzero,elf_elvenimmortality,saint_exalt,warrior_secondwind,fairy_gift_of_the_wind,archer_rapidshot,fairy_hocuspocus,rogue_shadow_cloak,bomber_dangerzone,flying_evasive_maneuvers,archer_soulpenetration,shinobi_firetechinique,common_specialists,saint_surge_of_confidence",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
-        "dungeonRunId": "159594",
-        "completedLevels": "41",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-04-24 22:00:43",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_war_machine,gladiator_browbeat,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,saint_surge_of_confidence,archer_soulpenetration,archer_rapidshot,melee_follow_up,epic_epic_aspirations,elf_elvenimmortality,fairy_gift_of_the_wind,general_dawnofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,epic_melee_glory_of_victory,barbarian_gloriousdeath,frogue_preparation,saint_godspeed,lancer_sarissaspears,archer_enchantedammo,amazon_vineclone",
         "nextNodeType": "raidhallamidgardboss"
     },
     {
