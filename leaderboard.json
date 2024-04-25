@@ -72,15 +72,6 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "159549",
-        "completedLevels": "43",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-04-24 17:50:16",
-        "endTime": "2024-04-24 23:41:07",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,flying_evasive_maneuvers,epic_armored_armored_giants,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,bomber_dangerzone,lancer_ignitingstrike,lancer_sarissaspears,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
-        "nextNodeType": "tabletopboard"
-    },
-    {
         "dungeonRunId": "159707",
         "completedLevels": "43",
         "twitchDisplayName": "KMTlol",
@@ -88,5 +79,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,dagger_disappearing_act,rogue_shadow_cloak,support_healing_2,common_specialists,assassin_agility,epic_ranged_dragonarrows,armored_ignorepain,epic_giantsbrewzero,captain_fragile_commander,gladiator_browbeat,general_dawnofvictory,warrior_soldieroffortune,robot_robotauthority,warrior_lance_of_ruin,lancer_sarissaspears,melee_follow_up,paladin_holyforce,musketeer_grapeshot,necro_sepulchral_eye,fairy_fireflyconjuration,flag_rally_defense",
         "nextNodeType": "wasteraid"
+    },
+    {
+        "dungeonRunId": "159549",
+        "completedLevels": "43",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-04-24 17:50:16",
+        "endTime": "2024-04-24 23:41:07",
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,flying_evasive_maneuvers,epic_armored_armored_giants,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,bomber_dangerzone,lancer_ignitingstrike,lancer_sarissaspears,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
+        "nextNodeType": "tabletopboard"
     }
 ]
