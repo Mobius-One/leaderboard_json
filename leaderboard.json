@@ -45,6 +45,15 @@
         "nextNodeType": "retrocity"
     },
     {
+        "dungeonRunId": "159707",
+        "completedLevels": "51",
+        "twitchDisplayName": "KMTlol",
+        "startTime": "2024-04-25 10:31:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,dagger_disappearing_act,rogue_shadow_cloak,support_healing_2,epic_ranged_dragonarrows,armored_ignorepain,epic_giantsbrewzero,gladiator_browbeat,general_dawnofvictory,warrior_soldieroffortune,warrior_lance_of_ruin,lancer_sarissaspears,melee_follow_up,paladin_holyforce,musketeer_grapeshot,necro_sepulchral_eye,fairy_fireflyconjuration,flag_rally_defense",
+        "nextNodeType": "shadeflag"
+    },
+    {
         "dungeonRunId": "159330",
         "completedLevels": "51",
         "twitchDisplayName": "MisterMarvelous",
@@ -52,15 +61,6 @@
         "endTime": "2024-04-24 04:11:46",
         "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,bomber_dangerzone,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,ranged_damage_2,warbeast_underworldbeast,epic_giants_blessing,warrior_lance_of_ruin,support_healing_2,vampire_lordofthedead,undead_undeadresilience,epic_epic_aspirations,saint_surge_of_confidence",
         "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "159707",
-        "completedLevels": "50",
-        "twitchDisplayName": "KMTlol",
-        "startTime": "2024-04-25 10:31:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,dagger_disappearing_act,rogue_shadow_cloak,support_healing_2,epic_ranged_dragonarrows,armored_ignorepain,epic_giantsbrewzero,gladiator_browbeat,general_dawnofvictory,warrior_soldieroffortune,warrior_lance_of_ruin,lancer_sarissaspears,melee_follow_up,paladin_holyforce,musketeer_grapeshot,necro_sepulchral_eye,fairy_fireflyconjuration,flag_rally_defense",
-        "nextNodeType": "olympiadbossHercules1"
     },
     {
         "dungeonRunId": "159445",
