@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "159594",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "Angel",
         "startTime": "2024-04-24 22:00:43",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_war_machine,gladiator_browbeat,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,saint_surge_of_confidence,archer_soulpenetration,archer_rapidshot,melee_follow_up,epic_epic_aspirations,elf_elvenimmortality,fairy_gift_of_the_wind,general_dawnofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,epic_melee_glory_of_victory,barbarian_gloriousdeath,frogue_preparation,saint_godspeed,lancer_sarissaspears,archer_enchantedammo,amazon_vineclone,paladin_layonhands",
-        "nextNodeType": "elementalearthmudroad"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_war_machine,gladiator_browbeat,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,saint_surge_of_confidence,archer_soulpenetration,archer_rapidshot,melee_follow_up,epic_epic_aspirations,elf_elvenimmortality,fairy_gift_of_the_wind,general_dawnofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,epic_melee_glory_of_victory,barbarian_gloriousdeath,frogue_preparation,saint_godspeed,lancer_sarissaspears,archer_enchantedammo,amazon_vineclone",
+        "nextNodeType": "retroforest"
     },
     {
         "dungeonRunId": "159394",
