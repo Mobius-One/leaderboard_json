@@ -72,6 +72,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "159820",
+        "completedLevels": "47",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-04-26 02:07:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,centurion_2,fairy_fireflyconjuration,dagger_disappearing_act,warrior_lance_of_ruin,warrior_soldieroffortune,rogue_momentum,epic_melee_glory_of_victory,melee_follow_up,saint_exalt,amazon_vineclone,gladiator_browbeat,gladiator_war_machine,archer_rapidshot,epic_giantsbrewzero,berserker_eyeofthestorm,berserker_rancor,gladiator_sonofthunder,barb_giant_swings,general_dawnofvictory",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "159445",
         "completedLevels": "47",
         "twitchDisplayName": "CoilGun",
@@ -79,14 +88,5 @@
         "endTime": "2024-04-25 08:57:08",
         "captainBoons": "common_classic_comeback,paladin_layonhands,robot_robotauthority,frogue_air_snipers,epic_giantsbrewzero,warrior_lance_of_ruin,gladiator_browbeat,monk_first_strike,musk_hunters_mark,ranged_attack_1,epic_melee_glory_of_victory,bomber_dangerzone,dagger_disappearing_act,barb_giant_swings,berserker_rancor,archer_soulpenetration,vampire_lordofthedead,lancer_sarissaspears,epic_giants_blessing,gladiator_war_machine,bomber_concentrated_burst",
         "nextNodeType": "ancientspider"
-    },
-    {
-        "dungeonRunId": "159820",
-        "completedLevels": "46",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-04-26 02:07:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,centurion_2,fairy_fireflyconjuration,dagger_disappearing_act,warrior_lance_of_ruin,warrior_soldieroffortune,rogue_momentum,epic_melee_glory_of_victory,melee_follow_up,saint_exalt,amazon_vineclone,gladiator_browbeat,gladiator_war_machine,archer_rapidshot,epic_giantsbrewzero,berserker_eyeofthestorm,berserker_rancor,gladiator_sonofthunder,barb_giant_swings,general_dawnofvictory",
-        "nextNodeType": "elementalearthmudroad"
     }
 ]
