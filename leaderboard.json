@@ -81,12 +81,12 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "159549",
+        "dungeonRunId": "159820",
         "completedLevels": "43",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-04-24 17:50:16",
-        "endTime": "2024-04-24 23:41:07",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_damage_2,warrior_lance_of_ruin,support_doomingsong,epic_giants_blessing,epic_melee_glory_of_victory,gladiator_browbeat,barbarian_bringthepain,epic_ranged_dragonarrows,flying_evasive_maneuvers,epic_armored_armored_giants,general_dawnofvictory,healer_1,common_specialists,paladin_layonhands,captain_fragile_commander,bomber_dangerzone,lancer_ignitingstrike,lancer_sarissaspears,epic_epic_aspirations,fairy_fireflyconjuration,melee_follow_up",
-        "nextNodeType": "tabletopboard"
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-04-26 02:07:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,barbarian_bringthepain,centurion_2,fairy_fireflyconjuration,dagger_disappearing_act,warrior_lance_of_ruin,warrior_soldieroffortune,rogue_momentum,epic_melee_glory_of_victory,melee_follow_up,saint_exalt,amazon_vineclone,gladiator_browbeat,gladiator_war_machine,archer_rapidshot,frogue_preparation,epic_giantsbrewzero,berserker_eyeofthestorm,berserker_rancor,gladiator_sonofthunder,barb_giant_swings,general_dawnofvictory",
+        "nextNodeType": "oasisshrine"
     }
 ]
