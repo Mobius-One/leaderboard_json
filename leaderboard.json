@@ -18,6 +18,15 @@
         "nextNodeType": "ancientspider"
     },
     {
+        "dungeonRunId": "159800",
+        "completedLevels": "60",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-04-25 23:21:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,bomber_dangerzone,epic_epic_aspirations,lancer_ignitingstrike,musketeer_rapidreload,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,musketeer_grapeshot",
+        "nextNodeType": "plagueroost"
+    },
+    {
         "dungeonRunId": "159337",
         "completedLevels": "60",
         "twitchDisplayName": "Hairtrigger83",
@@ -25,15 +34,6 @@
         "endTime": "2024-04-24 02:02:26",
         "captainBoons": "common_classic_comeback,melee_follow_up,epic_melee_glory_of_victory,epic_ranged_dragonarrows,musketeer_rapidreload,gladiator_browbeat,archer_enchantedammo,warrior_lance_of_ruin,bomber_dangerzone,bomber_concentrated_burst,dagger_disappearing_act,archer_soulpenetration,saint_surge_of_confidence,epic_giantsbrewzero",
         "nextNodeType": "tabletopboard"
-    },
-    {
-        "dungeonRunId": "159800",
-        "completedLevels": "60",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-04-25 23:21:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,bomber_dangerzone,epic_epic_aspirations,lancer_ignitingstrike,musketeer_rapidreload,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,epic_giantsbrewzero,musketeer_grapeshot",
-        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "159707",
