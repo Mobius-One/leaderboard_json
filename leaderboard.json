@@ -63,6 +63,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "159800",
+        "completedLevels": "48",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-04-25 23:21:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,common_specialists,bomber_dangerzone,epic_epic_aspirations,elf_elvenimmortality,lancer_ignitingstrike,musketeer_rapidreload,dagger_disappearing_act,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,warbeast_underworldbeast,epic_giantsbrewzero,musketeer_grapeshot",
+        "nextNodeType": "dungeonlair"
+    },
+    {
         "dungeonRunId": "159445",
         "completedLevels": "47",
         "twitchDisplayName": "CoilGun",
@@ -70,15 +79,6 @@
         "endTime": "2024-04-25 08:57:08",
         "captainBoons": "common_classic_comeback,paladin_layonhands,robot_robotauthority,frogue_air_snipers,epic_giantsbrewzero,warrior_lance_of_ruin,gladiator_browbeat,monk_first_strike,musk_hunters_mark,ranged_attack_1,epic_melee_glory_of_victory,bomber_dangerzone,dagger_disappearing_act,barb_giant_swings,berserker_rancor,archer_soulpenetration,vampire_lordofthedead,lancer_sarissaspears,epic_giants_blessing,gladiator_war_machine,bomber_concentrated_burst",
         "nextNodeType": "ancientspider"
-    },
-    {
-        "dungeonRunId": "159800",
-        "completedLevels": "47",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-04-25 23:21:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,common_specialists,bomber_dangerzone,epic_epic_aspirations,elf_elvenimmortality,lancer_ignitingstrike,musketeer_rapidreload,dagger_disappearing_act,gladiator_browbeat,melee_follow_up,epic_melee_glory_of_victory,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,warbeast_underworldbeast,epic_giantsbrewzero,musketeer_grapeshot",
-        "nextNodeType": "iceboss"
     },
     {
         "dungeonRunId": "159549",
