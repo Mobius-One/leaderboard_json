@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "159756",
-        "completedLevels": "81",
+        "completedLevels": "82",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-04-25 15:44:01",
         "endTime": null,
-        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,saint_exalt,lancer_spearofvengeance",
-        "nextNodeType": "tombsummoning"
+        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,lancer_spearofvengeance",
+        "nextNodeType": "boardlandiakeep"
     },
     {
         "dungeonRunId": "159440",
