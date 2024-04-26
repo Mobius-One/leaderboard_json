@@ -45,6 +45,15 @@
         "nextNodeType": "dungeonlair"
     },
     {
+        "dungeonRunId": "159820",
+        "completedLevels": "56",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-04-26 02:07:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,centurion_2,fairy_fireflyconjuration,dagger_disappearing_act,warrior_lance_of_ruin,warrior_soldieroffortune,epic_melee_glory_of_victory,melee_follow_up,saint_exalt,gladiator_browbeat,gladiator_war_machine,archer_rapidshot,gladiator_sonofthunder,barb_giant_swings,general_dawnofvictory",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "159463",
         "completedLevels": "56",
         "twitchDisplayName": "OvidiuZ94",
@@ -52,15 +61,6 @@
         "endTime": "2024-04-24 16:50:42",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_melee_glory_of_victory,warrior_soldieroffortune,archer_soulpenetration,elf_elvenimmortality,gladiator_war_machine,saint_exalt,centurion_tactician,warrior_lance_of_ruin,gladiator_sonofthunder,buster_carbonplating,armored_shield_bash,centurion_2,bomber_dangerzone,melee_follow_up",
         "nextNodeType": "raidhallamidgardboss"
-    },
-    {
-        "dungeonRunId": "159820",
-        "completedLevels": "55",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-04-26 02:07:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,centurion_2,fairy_fireflyconjuration,dagger_disappearing_act,warrior_lance_of_ruin,warrior_soldieroffortune,epic_melee_glory_of_victory,melee_follow_up,saint_exalt,gladiator_browbeat,gladiator_war_machine,archer_rapidshot,berserker_rancor,gladiator_sonofthunder,barb_giant_swings,general_dawnofvictory",
-        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "159406",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "159698",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "CoilGun",
         "startTime": "2024-04-25 08:58:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,melee_follow_up,bomber_dangerzone,epic_giants_blessing,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_browbeat,flag_rally_defense,gladiator_war_machine,epic_giantsbrewzero,warbeast_underworldbeast,flagbearer_bannerofluck,berserker_enrage,musk_hunters_mark,armored_ignorepain,undead_undeadresilience,archer_soulpenetration,elf_elvenimmortality,monk_pure_focus",
-        "nextNodeType": "plagueroost"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,melee_follow_up,bomber_dangerzone,epic_giants_blessing,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_browbeat,flag_rally_defense,gladiator_war_machine,epic_giantsbrewzero,warbeast_underworldbeast,berserker_enrage,musk_hunters_mark,armored_ignorepain,undead_undeadresilience,archer_soulpenetration,elf_elvenimmortality,monk_pure_focus",
+        "nextNodeType": "ancientspider"
     }
 ]
