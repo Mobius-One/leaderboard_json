@@ -36,6 +36,15 @@
         "nextNodeType": "dungeonlair"
     },
     {
+        "dungeonRunId": "159800",
+        "completedLevels": "57",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-04-25 23:21:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,common_specialists,bomber_dangerzone,epic_epic_aspirations,lancer_ignitingstrike,musketeer_rapidreload,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,epic_giantsbrewzero,musketeer_grapeshot",
+        "nextNodeType": "thehiveconveyor"
+    },
+    {
         "dungeonRunId": "159463",
         "completedLevels": "56",
         "twitchDisplayName": "OvidiuZ94",
@@ -43,15 +52,6 @@
         "endTime": "2024-04-24 16:50:42",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_melee_glory_of_victory,warrior_soldieroffortune,archer_soulpenetration,elf_elvenimmortality,gladiator_war_machine,saint_exalt,centurion_tactician,warrior_lance_of_ruin,gladiator_sonofthunder,buster_carbonplating,armored_shield_bash,centurion_2,bomber_dangerzone,melee_follow_up",
         "nextNodeType": "raidhallamidgardboss"
-    },
-    {
-        "dungeonRunId": "159800",
-        "completedLevels": "56",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-04-25 23:21:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,common_specialists,bomber_dangerzone,epic_epic_aspirations,lancer_ignitingstrike,musketeer_rapidreload,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,epic_giantsbrewzero,musketeer_grapeshot",
-        "nextNodeType": "olympiadbossHercules1"
     },
     {
         "dungeonRunId": "159406",
