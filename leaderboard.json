@@ -72,13 +72,13 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "159594",
-        "completedLevels": "44",
+        "dungeonRunId": "159800",
+        "completedLevels": "45",
         "twitchDisplayName": "Angel",
-        "startTime": "2024-04-24 22:00:43",
-        "endTime": "2024-04-25 02:10:02",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_war_machine,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,saint_surge_of_confidence,archer_soulpenetration,archer_rapidshot,melee_follow_up,epic_epic_aspirations,elf_elvenimmortality,fairy_gift_of_the_wind,general_dawnofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,epic_melee_glory_of_victory,barbarian_gloriousdeath,frogue_preparation,saint_godspeed,archer_enchantedammo,amazon_vineclone",
-        "nextNodeType": "ancientspider"
+        "startTime": "2024-04-25 23:21:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,support_doomingsong,common_specialists,bomber_dangerzone,epic_epic_aspirations,elf_elvenimmortality,lancer_ignitingstrike,musketeer_rapidreload,dagger_disappearing_act,gladiator_browbeat,melee_follow_up,epic_melee_glory_of_victory,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,warbeast_underworldbeast,epic_giantsbrewzero,musketeer_grapeshot",
+        "nextNodeType": "tabletopboard"
     },
     {
         "dungeonRunId": "159549",
