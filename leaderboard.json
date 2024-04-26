@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "159800",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "Angel",
         "startTime": "2024-04-25 23:21:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,common_specialists,bomber_dangerzone,epic_epic_aspirations,lancer_ignitingstrike,musketeer_rapidreload,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,epic_giantsbrewzero,musketeer_grapeshot",
-        "nextNodeType": "thehiveconveyor"
+        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,bomber_dangerzone,epic_epic_aspirations,lancer_ignitingstrike,musketeer_rapidreload,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,epic_giantsbrewzero,musketeer_grapeshot",
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "159463",
