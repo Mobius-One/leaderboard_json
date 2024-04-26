@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "159756",
-        "completedLevels": "77",
+        "completedLevels": "78",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-04-25 15:44:01",
         "endTime": null,
-        "captainBoons": "warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,musketeer_grapeshot,saint_exalt,lancer_spearofvengeance",
-        "nextNodeType": "ancientspider"
+        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,musketeer_grapeshot,saint_exalt,lancer_spearofvengeance",
+        "nextNodeType": "elementalearthmudroad"
     },
     {
         "dungeonRunId": "159440",
