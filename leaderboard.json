@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "159820",
-        "completedLevels": "54",
+        "completedLevels": "55",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-04-26 02:07:04",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,centurion_2,fairy_fireflyconjuration,dagger_disappearing_act,warrior_lance_of_ruin,warrior_soldieroffortune,epic_melee_glory_of_victory,melee_follow_up,saint_exalt,gladiator_browbeat,gladiator_war_machine,archer_rapidshot,berserker_rancor,gladiator_sonofthunder,barb_giant_swings,general_dawnofvictory",
-        "nextNodeType": "dungeonlair"
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "159406",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "159698",
-        "completedLevels": "48",
+        "completedLevels": "49",
         "twitchDisplayName": "CoilGun",
         "startTime": "2024-04-25 08:58:13",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,melee_follow_up,bomber_dangerzone,epic_giants_blessing,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_browbeat,flag_rally_defense,gladiator_war_machine,epic_giantsbrewzero,warbeast_underworldbeast,flagbearer_bannerofluck,berserker_enrage,musk_hunters_mark,armored_ignorepain,undead_undeadresilience,archer_soulpenetration,elf_elvenimmortality,monk_pure_focus",
-        "nextNodeType": "boardlandiakeep"
+        "nextNodeType": "plagueroost"
     }
 ]
