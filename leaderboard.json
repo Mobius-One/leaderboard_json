@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "159800",
-        "completedLevels": "60",
+        "completedLevels": "61",
         "twitchDisplayName": "Angel",
         "startTime": "2024-04-25 23:21:04",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,bomber_dangerzone,epic_epic_aspirations,lancer_ignitingstrike,musketeer_rapidreload,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,musketeer_grapeshot",
-        "nextNodeType": "plagueroost"
+        "nextNodeType": "boardlandiakeep"
     },
     {
         "dungeonRunId": "159337",
