@@ -54,6 +54,15 @@
         "nextNodeType": "retrocity"
     },
     {
+        "dungeonRunId": "159800",
+        "completedLevels": "52",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-04-25 23:21:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,common_specialists,bomber_dangerzone,epic_epic_aspirations,lancer_ignitingstrike,musketeer_rapidreload,dagger_disappearing_act,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,epic_giantsbrewzero,musketeer_grapeshot",
+        "nextNodeType": "retroforest"
+    },
+    {
         "dungeonRunId": "159330",
         "completedLevels": "51",
         "twitchDisplayName": "MisterMarvelous",
@@ -61,15 +70,6 @@
         "endTime": "2024-04-24 04:11:46",
         "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,bomber_dangerzone,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,ranged_damage_2,warbeast_underworldbeast,epic_giants_blessing,warrior_lance_of_ruin,support_healing_2,vampire_lordofthedead,undead_undeadresilience,epic_epic_aspirations,saint_surge_of_confidence",
         "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "159800",
-        "completedLevels": "51",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-04-25 23:21:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,common_specialists,bomber_dangerzone,epic_epic_aspirations,lancer_ignitingstrike,musketeer_rapidreload,dagger_disappearing_act,gladiator_browbeat,melee_follow_up,ranged_damage_2,archer_soulpenetration,lancer_sarissaspears,barb_giant_swings,epic_giants_blessing,warbeast_underworldbeast,epic_giantsbrewzero,musketeer_grapeshot",
-        "nextNodeType": "elementalearthmudroad"
     },
     {
         "dungeonRunId": "159445",
