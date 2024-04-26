@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "159756",
-        "completedLevels": "82",
+        "completedLevels": "83",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-04-25 15:44:01",
         "endTime": null,
         "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,lancer_spearofvengeance",
-        "nextNodeType": "boardlandiakeep"
+        "nextNodeType": "raidhallamidgardboss"
     },
     {
         "dungeonRunId": "159440",
