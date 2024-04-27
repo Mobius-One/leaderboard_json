@@ -36,13 +36,13 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "159337",
-        "completedLevels": "60",
+        "dungeonRunId": "159993",
+        "completedLevels": "61",
         "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-04-23 20:29:34",
-        "endTime": "2024-04-24 02:02:26",
-        "captainBoons": "common_classic_comeback,melee_follow_up,epic_melee_glory_of_victory,epic_ranged_dragonarrows,musketeer_rapidreload,gladiator_browbeat,archer_enchantedammo,warrior_lance_of_ruin,bomber_dangerzone,bomber_concentrated_burst,dagger_disappearing_act,archer_soulpenetration,saint_surge_of_confidence,epic_giantsbrewzero",
-        "nextNodeType": "tabletopboard"
+        "startTime": "2024-04-26 23:48:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,barb_giant_swings,saint_exalt,berserker_eyeofthestorm,archer_soulpenetration,lancer_sarissaspears,berserker_enrage,saint_godspeed,warrior_lance_of_ruin,gladiator_war_machine,berserker_rancor,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
+        "nextNodeType": "elementalearthmudroad"
     },
     {
         "dungeonRunId": "159942",
@@ -81,12 +81,12 @@
         "nextNodeType": "tabletopboard"
     },
     {
-        "dungeonRunId": "159406",
-        "completedLevels": "54",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-04-24 01:53:15",
-        "endTime": "2024-04-24 08:26:30",
-        "captainBoons": "common_classic_comeback,armored_ignorepain,vampire_lordofthedead,epic_epic_aspirations,saint_exalt,fairy_gift_of_the_wind,lancer_sarissaspears,warrior_lance_of_ruin,fairy_fireflyconjuration,archer_soulpenetration,berserker_rancor,bomber_dangerzone,amazon_vineclone,epic_giants_blessing,berserker_enrage,warbeast_underworldbeast,warrior_soldieroffortune",
-        "nextNodeType": "retrocity"
+        "dungeonRunId": "159974",
+        "completedLevels": "55",
+        "twitchDisplayName": "AngelNDarkness",
+        "startTime": "2024-04-26 22:45:17",
+        "endTime": null,
+        "captainBoons": "monk_pure_focus,fairy_fireflyconjuration,epic_giants_blessing,epic_giantsbrewzero,fairy_hocuspocus,epic_melee_glory_of_victory,lancer_spearofvengeance,warrior_lance_of_ruin,saint_exalt,centurion_juggernaut,fairy_gift_of_the_wind,berserker_enrage,support_doomingsong,monk_first_strike,bomber_dangerzone,gladiator_sonofthunder,berserker_rancor",
+        "nextNodeType": "oasisshrine"
     }
 ]
