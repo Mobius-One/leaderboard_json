@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "159934",
-        "completedLevels": "53",
+        "completedLevels": "54",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2024-04-26 19:55:52",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,archer_soulpenetration,epic_giantsbrewzero,epic_giants_blessing,bomber_dangerzone,lancer_spearofvengeance,epic_ranged_dragonarrows,warrior_secondwind,berserker_rancor,archer_enchantedammo,berserker_eyeofthestorm,melee_follow_up,epic_melee_glory_of_victory,lancer_sarissaspears,paladin_holyforce,archer_rapidshot,berserker_enrage",
-        "nextNodeType": "ancientspider"
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "159330",
