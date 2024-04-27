@@ -63,6 +63,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "159934",
+        "completedLevels": "55",
+        "twitchDisplayName": "Juzy_Fruit",
+        "startTime": "2024-04-26 19:55:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,archer_soulpenetration,epic_giantsbrewzero,epic_giants_blessing,bomber_dangerzone,lancer_spearofvengeance,warrior_secondwind,berserker_rancor,archer_enchantedammo,berserker_eyeofthestorm,melee_follow_up,epic_melee_glory_of_victory,lancer_sarissaspears,paladin_holyforce,archer_rapidshot,berserker_enrage",
+        "nextNodeType": "tabletopboard"
+    },
+    {
         "dungeonRunId": "159406",
         "completedLevels": "54",
         "twitchDisplayName": "elcanadiano",
@@ -70,15 +79,6 @@
         "endTime": "2024-04-24 08:26:30",
         "captainBoons": "common_classic_comeback,armored_ignorepain,vampire_lordofthedead,epic_epic_aspirations,saint_exalt,fairy_gift_of_the_wind,lancer_sarissaspears,warrior_lance_of_ruin,fairy_fireflyconjuration,archer_soulpenetration,berserker_rancor,bomber_dangerzone,amazon_vineclone,epic_giants_blessing,berserker_enrage,warbeast_underworldbeast,warrior_soldieroffortune",
         "nextNodeType": "retrocity"
-    },
-    {
-        "dungeonRunId": "159934",
-        "completedLevels": "54",
-        "twitchDisplayName": "Juzy_Fruit",
-        "startTime": "2024-04-26 19:55:52",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,archer_soulpenetration,epic_giantsbrewzero,epic_giants_blessing,bomber_dangerzone,lancer_spearofvengeance,warrior_secondwind,berserker_rancor,archer_enchantedammo,berserker_eyeofthestorm,melee_follow_up,epic_melee_glory_of_victory,lancer_sarissaspears,paladin_holyforce,archer_rapidshot,berserker_enrage",
-        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "159330",
