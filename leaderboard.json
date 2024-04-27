@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "159993",
-        "completedLevels": "61",
+        "completedLevels": "62",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-04-26 23:48:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barb_giant_swings,saint_exalt,berserker_eyeofthestorm,archer_soulpenetration,lancer_sarissaspears,berserker_enrage,saint_godspeed,warrior_lance_of_ruin,gladiator_war_machine,berserker_rancor,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
-        "nextNodeType": "elementalearthmudroad"
+        "captainBoons": "common_classic_comeback,barb_giant_swings,saint_exalt,berserker_eyeofthestorm,archer_soulpenetration,lancer_sarissaspears,berserker_enrage,warrior_lance_of_ruin,gladiator_war_machine,berserker_rancor,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
+        "nextNodeType": "ancientspider"
     },
     {
         "dungeonRunId": "159942",
