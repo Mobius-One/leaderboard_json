@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "159942",
-        "completedLevels": "53",
+        "completedLevels": "54",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-04-26 20:25:51",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,archer_soulpenetration,epic_giantsbrewzero,saint_surge_of_confidence,warrior_lance_of_ruin,bomber_dangerzone,gladiator_war_machine,archer_rapidshot,epic_giants_blessing,berserker_enrage,berserker_eyeofthestorm,saint_exalt,centurion_2,gladiator_sonofthunder,barb_giant_swings,lancer_sarissaspears,fairy_hocuspocus",
-        "nextNodeType": "fireboss"
+        "nextNodeType": "retroforest"
     }
 ]
