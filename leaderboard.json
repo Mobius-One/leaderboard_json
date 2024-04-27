@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "159993",
-        "completedLevels": "63",
+        "completedLevels": "64",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-04-26 23:48:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barb_giant_swings,saint_exalt,berserker_eyeofthestorm,archer_soulpenetration,lancer_sarissaspears,berserker_enrage,warrior_lance_of_ruin,gladiator_war_machine,berserker_rancor,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
-        "nextNodeType": "elementalicestream"
+        "captainBoons": "common_classic_comeback,barb_giant_swings,saint_exalt,berserker_eyeofthestorm,archer_soulpenetration,lancer_sarissaspears,warrior_lance_of_ruin,gladiator_war_machine,berserker_rancor,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "159820",
@@ -76,7 +76,7 @@
         "completedLevels": "56",
         "twitchDisplayName": "AngelNDarkness",
         "startTime": "2024-04-26 22:45:17",
-        "endTime": null,
+        "endTime": "2024-04-27 05:26:34",
         "captainBoons": "monk_pure_focus,fairy_fireflyconjuration,epic_giants_blessing,epic_giantsbrewzero,fairy_hocuspocus,epic_melee_glory_of_victory,lancer_spearofvengeance,warrior_lance_of_ruin,saint_exalt,centurion_juggernaut,fairy_gift_of_the_wind,berserker_enrage,monk_first_strike,bomber_dangerzone,gladiator_sonofthunder,berserker_rancor",
         "nextNodeType": "raidhallamidgardboss"
     },
