@@ -81,12 +81,12 @@
         "nextNodeType": "retrocity"
     },
     {
-        "dungeonRunId": "159942",
+        "dungeonRunId": "159330",
         "completedLevels": "51",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-04-26 20:25:51",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,archer_soulpenetration,epic_giantsbrewzero,saint_surge_of_confidence,warrior_lance_of_ruin,bomber_dangerzone,gladiator_war_machine,archer_rapidshot,epic_giants_blessing,blob_parasite,berserker_enrage,berserker_eyeofthestorm,saint_exalt,centurion_2,gladiator_sonofthunder,barb_giant_swings,lancer_sarissaspears,fairy_hocuspocus",
-        "nextNodeType": "thehiveconveyor"
+        "twitchDisplayName": "MisterMarvelous",
+        "startTime": "2024-04-23 19:40:10",
+        "endTime": "2024-04-24 04:11:46",
+        "captainBoons": "common_classic_comeback,ranged_attack_1,armored_shield_bash,bomber_dangerzone,epic_giantsbrewzero,melee_follow_up,fairy_gift_of_the_wind,lancer_sarissaspears,berserker_enrage,blob_parasite,ranged_damage_2,warbeast_underworldbeast,epic_giants_blessing,warrior_lance_of_ruin,support_healing_2,vampire_lordofthedead,undead_undeadresilience,epic_epic_aspirations,saint_surge_of_confidence",
+        "nextNodeType": "plagueroost"
     }
 ]
