@@ -81,12 +81,12 @@
         "nextNodeType": "plagueroost"
     },
     {
-        "dungeonRunId": "159698",
+        "dungeonRunId": "159934",
         "completedLevels": "50",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-04-25 08:58:13",
-        "endTime": "2024-04-26 09:19:39",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,melee_follow_up,bomber_dangerzone,epic_giants_blessing,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_browbeat,flag_rally_defense,gladiator_war_machine,epic_giantsbrewzero,warbeast_underworldbeast,berserker_enrage,musk_hunters_mark,armored_ignorepain,undead_undeadresilience,archer_soulpenetration,elf_elvenimmortality,monk_pure_focus",
-        "nextNodeType": "ancientspider"
+        "twitchDisplayName": "Juzy_Fruit",
+        "startTime": "2024-04-26 19:55:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,archer_soulpenetration,epic_giantsbrewzero,epic_giants_blessing,bomber_dangerzone,lancer_spearofvengeance,epic_ranged_dragonarrows,warrior_soldieroffortune,warrior_secondwind,berserker_rancor,archer_enchantedammo,berserker_eyeofthestorm,melee_follow_up,epic_melee_glory_of_victory,lancer_sarissaspears,paladin_holyforce,archer_rapidshot,berserker_enrage",
+        "nextNodeType": "iceboss"
     }
 ]
