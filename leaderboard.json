@@ -45,6 +45,15 @@
         "nextNodeType": "tabletopboard"
     },
     {
+        "dungeonRunId": "159942",
+        "completedLevels": "58",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-04-26 20:25:51",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,archer_soulpenetration,epic_giantsbrewzero,saint_surge_of_confidence,warrior_lance_of_ruin,bomber_dangerzone,epic_giants_blessing,berserker_enrage,berserker_eyeofthestorm,saint_exalt,centurion_2,gladiator_sonofthunder,barb_giant_swings,lancer_sarissaspears",
+        "nextNodeType": "dungeonlair"
+    },
+    {
         "dungeonRunId": "159707",
         "completedLevels": "58",
         "twitchDisplayName": "KMTlol",
@@ -52,15 +61,6 @@
         "endTime": "2024-04-25 18:05:45",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,dagger_disappearing_act,rogue_shadow_cloak,epic_ranged_dragonarrows,armored_ignorepain,epic_giantsbrewzero,warrior_soldieroffortune,warrior_lance_of_ruin,lancer_sarissaspears,melee_follow_up,paladin_holyforce,necro_sepulchral_eye,fairy_fireflyconjuration,flag_rally_defense",
         "nextNodeType": "dungeonlair"
-    },
-    {
-        "dungeonRunId": "159942",
-        "completedLevels": "57",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-04-26 20:25:51",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,archer_soulpenetration,epic_giantsbrewzero,saint_surge_of_confidence,warrior_lance_of_ruin,bomber_dangerzone,gladiator_war_machine,epic_giants_blessing,berserker_enrage,berserker_eyeofthestorm,saint_exalt,centurion_2,gladiator_sonofthunder,barb_giant_swings,lancer_sarissaspears",
-        "nextNodeType": "boardlandiakeep"
     },
     {
         "dungeonRunId": "159463",
