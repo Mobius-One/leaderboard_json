@@ -18,15 +18,6 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "159993",
-        "completedLevels": "68",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-04-26 23:48:54",
-        "endTime": "2024-04-27 06:00:56",
-        "captainBoons": "common_classic_comeback,barb_giant_swings,saint_exalt,berserker_eyeofthestorm,archer_soulpenetration,warrior_lance_of_ruin,berserker_rancor,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "159800",
         "completedLevels": "68",
         "twitchDisplayName": "Angel",
@@ -34,6 +25,15 @@
         "endTime": "2024-04-26 05:45:10",
         "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,bomber_dangerzone,musketeer_rapidreload,melee_follow_up,ranged_damage_2,archer_soulpenetration,barb_giant_swings,epic_giants_blessing,musketeer_grapeshot",
         "nextNodeType": "ancientspider"
+    },
+    {
+        "dungeonRunId": "159993",
+        "completedLevels": "68",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-04-26 23:48:54",
+        "endTime": "2024-04-27 06:00:56",
+        "captainBoons": "common_classic_comeback,barb_giant_swings,saint_exalt,berserker_eyeofthestorm,archer_soulpenetration,warrior_lance_of_ruin,berserker_rancor,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
+        "nextNodeType": "raidhallamidgardboss"
     },
     {
         "dungeonRunId": "159820",
@@ -72,12 +72,12 @@
         "nextNodeType": "crystalcavetreasure"
     },
     {
-        "dungeonRunId": "159463",
+        "dungeonRunId": "159974",
         "completedLevels": "56",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-04-24 10:04:45",
-        "endTime": "2024-04-24 16:50:42",
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_melee_glory_of_victory,warrior_soldieroffortune,archer_soulpenetration,elf_elvenimmortality,gladiator_war_machine,saint_exalt,centurion_tactician,warrior_lance_of_ruin,gladiator_sonofthunder,buster_carbonplating,armored_shield_bash,centurion_2,bomber_dangerzone,melee_follow_up",
+        "twitchDisplayName": "AngelNDarkness",
+        "startTime": "2024-04-26 22:45:17",
+        "endTime": "2024-04-27 05:26:34",
+        "captainBoons": "monk_pure_focus,fairy_fireflyconjuration,epic_giants_blessing,epic_giantsbrewzero,fairy_hocuspocus,epic_melee_glory_of_victory,lancer_spearofvengeance,warrior_lance_of_ruin,saint_exalt,centurion_juggernaut,fairy_gift_of_the_wind,berserker_enrage,monk_first_strike,bomber_dangerzone,gladiator_sonofthunder,berserker_rancor",
         "nextNodeType": "raidhallamidgardboss"
     },
     {
