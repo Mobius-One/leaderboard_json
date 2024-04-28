@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "160235",
-        "completedLevels": "75",
+        "completedLevels": "76",
         "twitchDisplayName": "Angel",
         "startTime": "2024-04-28 07:43:52",
         "endTime": null,
-        "captainBoons": "bomber_dangerzone,archer_soulpenetration,warrior_lance_of_ruin,ranged_attack_1,musketeer_grapeshot,fairy_gift_of_the_wind,gladiator_war_machine",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "bomber_dangerzone,archer_soulpenetration,warrior_lance_of_ruin,ranged_attack_1,musketeer_grapeshot,fairy_gift_of_the_wind",
+        "nextNodeType": "crystalcavetreasure"
     },
     {
         "dungeonRunId": "159440",
