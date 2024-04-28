@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "160235",
-        "completedLevels": "70",
+        "completedLevels": "71",
         "twitchDisplayName": "Angel",
         "startTime": "2024-04-28 07:43:52",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,warrior_lance_of_ruin,ranged_attack_1,musketeer_grapeshot,fairy_gift_of_the_wind,elf_elvenimmortality,gladiator_war_machine",
-        "nextNodeType": "shadeflag"
+        "nextNodeType": "ancientspider"
     },
     {
         "dungeonRunId": "159993",
