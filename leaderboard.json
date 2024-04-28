@@ -9,6 +9,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "160235",
+        "completedLevels": "75",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-04-28 07:43:52",
+        "endTime": null,
+        "captainBoons": "bomber_dangerzone,archer_soulpenetration,warrior_lance_of_ruin,ranged_attack_1,musketeer_grapeshot,fairy_gift_of_the_wind,gladiator_war_machine",
+        "nextNodeType": "raidhallapath"
+    },
+    {
         "dungeonRunId": "159440",
         "completedLevels": "74",
         "twitchDisplayName": "HighHopesTV",
@@ -16,15 +25,6 @@
         "endTime": "2024-04-24 14:05:56",
         "captainBoons": "musketeer_grapeshot,barb_giant_swings,bomber_dangerzone,archer_enchantedammo,archer_soulpenetration,epic_giantsbrewzero,warrior_lance_of_ruin",
         "nextNodeType": "ancientspider"
-    },
-    {
-        "dungeonRunId": "160235",
-        "completedLevels": "74",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-04-28 07:43:52",
-        "endTime": null,
-        "captainBoons": "bomber_dangerzone,archer_soulpenetration,warrior_lance_of_ruin,ranged_attack_1,musketeer_grapeshot,fairy_gift_of_the_wind,gladiator_war_machine",
-        "nextNodeType": "iceboss"
     },
     {
         "dungeonRunId": "159993",
