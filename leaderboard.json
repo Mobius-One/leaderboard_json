@@ -36,6 +36,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "160572",
+        "completedLevels": "66",
+        "twitchDisplayName": "X_Bowzer",
+        "startTime": "2024-04-29 21:51:45",
+        "endTime": null,
+        "captainBoons": "lancer_sarissaspears,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,amazon_vineclone,epic_giantsbrewzero,gladiator_war_machine,archer_soulpenetration,berserker_rancor,lancer_spearofvengeance,barb_giant_swings,warrior_lance_of_ruin",
+        "nextNodeType": "elementalicestream"
+    },
+    {
         "dungeonRunId": "160422",
         "completedLevels": "65",
         "twitchDisplayName": "lont123",
@@ -43,15 +52,6 @@
         "endTime": "2024-04-29 09:34:05",
         "captainBoons": "common_classic_comeback,berserker_rancor,fairy_fireflyconjuration,lancer_sarissaspears,bomber_concentrated_burst,fairy_gift_of_the_wind,gladiator_browbeat,warrior_lance_of_ruin,archer_soulpenetration,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
         "nextNodeType": "raidhallamidgardboss"
-    },
-    {
-        "dungeonRunId": "160572",
-        "completedLevels": "65",
-        "twitchDisplayName": "X_Bowzer",
-        "startTime": "2024-04-29 21:51:45",
-        "endTime": null,
-        "captainBoons": "lancer_sarissaspears,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,amazon_vineclone,epic_giantsbrewzero,gladiator_war_machine,archer_soulpenetration,berserker_rancor,lancer_spearofvengeance,barb_giant_swings,warrior_lance_of_ruin",
-        "nextNodeType": "iceboss"
     },
     {
         "dungeonRunId": "159820",
@@ -81,12 +81,12 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "159707",
+        "dungeonRunId": "160073",
         "completedLevels": "58",
-        "twitchDisplayName": "KMTlol",
-        "startTime": "2024-04-25 10:31:21",
-        "endTime": "2024-04-25 18:05:45",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,dagger_disappearing_act,rogue_shadow_cloak,epic_ranged_dragonarrows,armored_ignorepain,epic_giantsbrewzero,warrior_soldieroffortune,warrior_lance_of_ruin,lancer_sarissaspears,melee_follow_up,paladin_holyforce,necro_sepulchral_eye,fairy_fireflyconjuration,flag_rally_defense",
-        "nextNodeType": "dungeonlair"
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-04-27 10:46:50",
+        "endTime": "2024-04-29 06:49:32",
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,vampire_lordofthedead,barbarian_bringthepain,gladiator_war_machine,warrior_lance_of_ruin,bomber_dangerzone,elf_elvenimmortality,epic_melee_glory_of_victory,warrior_secondwind,lancer_spearofvengeance,melee_follow_up,musk_hunters_mark,musketeer_grapeshot",
+        "nextNodeType": "crystalcavetreasure"
     }
 ]
