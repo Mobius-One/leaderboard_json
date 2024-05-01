@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "160572",
-        "completedLevels": "71",
+        "completedLevels": "72",
         "twitchDisplayName": "X_Bowzer",
         "startTime": "2024-04-29 21:51:45",
         "endTime": null,
-        "captainBoons": "lancer_sarissaspears,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
-        "nextNodeType": "olympiadbossHercules1"
+        "captainBoons": "lancer_sarissaspears,berserker_eyeofthestorm,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
+        "nextNodeType": "dungeonlair"
     },
     {
         "dungeonRunId": "159993",
@@ -63,21 +63,21 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "160716",
-        "completedLevels": "59",
-        "twitchDisplayName": "Juzy_Fruit",
-        "startTime": "2024-04-30 17:51:04",
-        "endTime": "2024-05-01 01:55:53",
-        "captainBoons": "common_classic_comeback,berserker_eyeofthestorm,berserker_rancor,epic_giants_blessing,epic_armored_armored_giants,saint_exalt,musketeer_grapeshot,bomber_dangerzone,fairy_gift_of_the_wind,fairy_fireflyconjuration,archer_enchantedammo,warrior_lance_of_ruin,robot_robotauthority,archer_soulpenetration,buster_land_mines",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "159942",
         "completedLevels": "59",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-04-26 20:25:51",
         "endTime": "2024-04-27 04:18:19",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,archer_soulpenetration,epic_giantsbrewzero,saint_surge_of_confidence,warrior_lance_of_ruin,bomber_dangerzone,epic_giants_blessing,berserker_enrage,berserker_eyeofthestorm,saint_exalt,centurion_2,gladiator_sonofthunder,barb_giant_swings,lancer_sarissaspears",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
+        "dungeonRunId": "160716",
+        "completedLevels": "59",
+        "twitchDisplayName": "Juzy_Fruit",
+        "startTime": "2024-04-30 17:51:04",
+        "endTime": "2024-05-01 01:55:53",
+        "captainBoons": "common_classic_comeback,berserker_eyeofthestorm,berserker_rancor,epic_giants_blessing,epic_armored_armored_giants,saint_exalt,musketeer_grapeshot,bomber_dangerzone,fairy_gift_of_the_wind,fairy_fireflyconjuration,archer_enchantedammo,warrior_lance_of_ruin,robot_robotauthority,archer_soulpenetration,buster_land_mines",
         "nextNodeType": "raidhallamidgardboss"
     },
     {
