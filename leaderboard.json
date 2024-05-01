@@ -63,15 +63,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160073",
-        "completedLevels": "58",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-04-27 10:46:50",
-        "endTime": "2024-04-29 06:49:32",
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,vampire_lordofthedead,barbarian_bringthepain,gladiator_war_machine,warrior_lance_of_ruin,bomber_dangerzone,elf_elvenimmortality,epic_melee_glory_of_victory,warrior_secondwind,lancer_spearofvengeance,melee_follow_up,musk_hunters_mark,musketeer_grapeshot",
-        "nextNodeType": "crystalcavetreasure"
-    },
-    {
         "dungeonRunId": "159707",
         "completedLevels": "58",
         "twitchDisplayName": "KMTlol",
@@ -81,12 +72,21 @@
         "nextNodeType": "dungeonlair"
     },
     {
-        "dungeonRunId": "160572",
+        "dungeonRunId": "160073",
+        "completedLevels": "58",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-04-27 10:46:50",
+        "endTime": "2024-04-29 06:49:32",
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,vampire_lordofthedead,barbarian_bringthepain,gladiator_war_machine,warrior_lance_of_ruin,bomber_dangerzone,elf_elvenimmortality,epic_melee_glory_of_victory,warrior_secondwind,lancer_spearofvengeance,melee_follow_up,musk_hunters_mark,musketeer_grapeshot",
+        "nextNodeType": "crystalcavetreasure"
+    },
+    {
+        "dungeonRunId": "160100",
         "completedLevels": "56",
-        "twitchDisplayName": "X_Bowzer",
-        "startTime": "2024-04-29 21:51:45",
-        "endTime": null,
-        "captainBoons": "lancer_sarissaspears,epic_ranged_dragonarrows,saint_exalt,epic_giants_blessing,saint_surge_of_confidence,berserker_eyeofthestorm,bomber_dangerzone,amazon_vineclone,epic_giantsbrewzero,gladiator_war_machine,archer_soulpenetration,berserker_rancor,lancer_spearofvengeance,tank_guardian,barb_giant_swings,warrior_lance_of_ruin",
-        "nextNodeType": "fireboss"
+        "twitchDisplayName": "NutshellinChains",
+        "startTime": "2024-04-27 15:35:21",
+        "endTime": "2024-04-27 22:40:25",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,flying_evasive_maneuvers,epic_giantsbrewzero,berserker_enrage,berserker_rancor,elf_elvenimmortality,archer_soulpenetration,general_dawnofvictory,fairy_gift_of_the_wind,archer_enchantedammo,warrior_lance_of_ruin,lancer_spearofvengeance,saint_godspeed,lancer_sarissaspears,warrior_secondwind",
+        "nextNodeType": "raidhallamidgardboss"
     }
 ]
