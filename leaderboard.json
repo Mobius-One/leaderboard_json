@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "160572",
-        "completedLevels": "59",
+        "completedLevels": "60",
         "twitchDisplayName": "X_Bowzer",
         "startTime": "2024-04-29 21:51:45",
         "endTime": null,
-        "captainBoons": "lancer_sarissaspears,epic_ranged_dragonarrows,saint_exalt,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,amazon_vineclone,epic_giantsbrewzero,gladiator_war_machine,archer_soulpenetration,berserker_rancor,lancer_spearofvengeance,tank_guardian,barb_giant_swings,warrior_lance_of_ruin",
-        "nextNodeType": "olympiadbossHercules1"
+        "captainBoons": "lancer_sarissaspears,epic_ranged_dragonarrows,saint_exalt,epic_giants_blessing,berserker_eyeofthestorm,bomber_dangerzone,amazon_vineclone,epic_giantsbrewzero,gladiator_war_machine,archer_soulpenetration,berserker_rancor,lancer_spearofvengeance,barb_giant_swings,warrior_lance_of_ruin",
+        "nextNodeType": "oasisshrine"
     },
     {
         "dungeonRunId": "159942",
