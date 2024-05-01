@@ -72,15 +72,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160073",
-        "completedLevels": "58",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-04-27 10:46:50",
-        "endTime": "2024-04-29 06:49:32",
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,vampire_lordofthedead,barbarian_bringthepain,gladiator_war_machine,warrior_lance_of_ruin,bomber_dangerzone,elf_elvenimmortality,epic_melee_glory_of_victory,warrior_secondwind,lancer_spearofvengeance,melee_follow_up,musk_hunters_mark,musketeer_grapeshot",
-        "nextNodeType": "crystalcavetreasure"
-    },
-    {
         "dungeonRunId": "159707",
         "completedLevels": "58",
         "twitchDisplayName": "KMTlol",
@@ -88,5 +79,14 @@
         "endTime": "2024-04-25 18:05:45",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,dagger_disappearing_act,rogue_shadow_cloak,epic_ranged_dragonarrows,armored_ignorepain,epic_giantsbrewzero,warrior_soldieroffortune,warrior_lance_of_ruin,lancer_sarissaspears,melee_follow_up,paladin_holyforce,necro_sepulchral_eye,fairy_fireflyconjuration,flag_rally_defense",
         "nextNodeType": "dungeonlair"
+    },
+    {
+        "dungeonRunId": "160073",
+        "completedLevels": "58",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-04-27 10:46:50",
+        "endTime": "2024-04-29 06:49:32",
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,vampire_lordofthedead,barbarian_bringthepain,gladiator_war_machine,warrior_lance_of_ruin,bomber_dangerzone,elf_elvenimmortality,epic_melee_glory_of_victory,warrior_secondwind,lancer_spearofvengeance,melee_follow_up,musk_hunters_mark,musketeer_grapeshot",
+        "nextNodeType": "crystalcavetreasure"
     }
 ]
