@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "160997",
-        "completedLevels": "64",
+        "completedLevels": "65",
         "twitchDisplayName": "CloverBug69",
         "startTime": "2024-05-02 17:33:17",
         "endTime": null,
         "captainBoons": "common_classic_comeback,tank_tungstenswords,undead_undeadresilience,gladiator_war_machine,melee_follow_up,gladiator_sonofthunder,archer_soulpenetration,epic_giants_blessing,amazon_vineclone,bomber_dangerzone,epic_melee_glory_of_victory,warrior_lance_of_ruin",
-        "nextNodeType": "retroforest"
+        "nextNodeType": "ancientspider"
     },
     {
         "dungeonRunId": "159820",
