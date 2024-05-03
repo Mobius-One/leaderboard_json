@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "161144",
-        "completedLevels": "61",
+        "completedLevels": "62",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-05-03 12:06:30",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_enrage,archer_soulpenetration,bomber_dangerzone,amazon_vineclone,armored_shield_bash,warrior_lance_of_ruin,flag_rally_defense,fairy_fireflyconjuration,epic_melee_glory_of_victory,epic_ranged_dragonarrows,lancer_sarissaspears,berserker_eyeofthestorm,saint_exalt",
-        "nextNodeType": "thehiveconveyor"
+        "captainBoons": "common_classic_comeback,berserker_enrage,archer_soulpenetration,bomber_dangerzone,amazon_vineclone,armored_shield_bash,warrior_lance_of_ruin,flag_rally_defense,fairy_fireflyconjuration,epic_melee_glory_of_victory,epic_ranged_dragonarrows,berserker_eyeofthestorm,saint_exalt",
+        "nextNodeType": "olympiadbossHercules1"
     },
     {
         "dungeonRunId": "159942",
