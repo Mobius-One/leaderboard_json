@@ -45,15 +45,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "161144",
-        "completedLevels": "65",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-05-03 12:06:30",
-        "endTime": "2024-05-03 20:05:03",
-        "captainBoons": "common_classic_comeback,archer_soulpenetration,bomber_dangerzone,amazon_vineclone,armored_shield_bash,warrior_lance_of_ruin,flag_rally_defense,fairy_fireflyconjuration,epic_melee_glory_of_victory,epic_ranged_dragonarrows,berserker_eyeofthestorm,saint_exalt",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "160422",
         "completedLevels": "65",
         "twitchDisplayName": "lont123",
@@ -72,13 +63,22 @@
         "nextNodeType": "ancientspider"
     },
     {
+        "dungeonRunId": "161144",
+        "completedLevels": "65",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-05-03 12:06:30",
+        "endTime": "2024-05-03 20:05:03",
+        "captainBoons": "common_classic_comeback,archer_soulpenetration,bomber_dangerzone,amazon_vineclone,armored_shield_bash,warrior_lance_of_ruin,flag_rally_defense,fairy_fireflyconjuration,epic_melee_glory_of_victory,epic_ranged_dragonarrows,berserker_eyeofthestorm,saint_exalt",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "161234",
-        "completedLevels": "63",
+        "completedLevels": "64",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-05-03 21:20:16",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,berserker_rancor,flagbearer_bannerofluck,epic_giants_blessing,bomber_dangerzone,saint_exalt,saint_godspeed,musketeer_grapeshot,fairy_fireflyconjuration,warrior_lance_of_ruin,epic_giantsbrewzero",
-        "nextNodeType": "thehiveconveyor"
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,berserker_rancor,flagbearer_bannerofluck,epic_giants_blessing,bomber_dangerzone,saint_exalt,saint_godspeed,fairy_fireflyconjuration,warrior_lance_of_ruin,epic_giantsbrewzero",
+        "nextNodeType": "crystalcavetreasure"
     },
     {
         "dungeonRunId": "159820",
