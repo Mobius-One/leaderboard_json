@@ -45,6 +45,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "161144",
+        "completedLevels": "65",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-05-03 12:06:30",
+        "endTime": "2024-05-03 20:05:03",
+        "captainBoons": "common_classic_comeback,archer_soulpenetration,bomber_dangerzone,amazon_vineclone,armored_shield_bash,warrior_lance_of_ruin,flag_rally_defense,fairy_fireflyconjuration,epic_melee_glory_of_victory,epic_ranged_dragonarrows,berserker_eyeofthestorm,saint_exalt",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "160997",
         "completedLevels": "65",
         "twitchDisplayName": "CloverBug69",
@@ -63,15 +72,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "161144",
-        "completedLevels": "65",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-05-03 12:06:30",
-        "endTime": "2024-05-03 20:05:03",
-        "captainBoons": "common_classic_comeback,archer_soulpenetration,bomber_dangerzone,amazon_vineclone,armored_shield_bash,warrior_lance_of_ruin,flag_rally_defense,fairy_fireflyconjuration,epic_melee_glory_of_victory,epic_ranged_dragonarrows,berserker_eyeofthestorm,saint_exalt",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "159820",
         "completedLevels": "62",
         "twitchDisplayName": "ThaBan4",
@@ -81,12 +81,12 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "160392",
+        "dungeonRunId": "161234",
         "completedLevels": "60",
-        "twitchDisplayName": "AllegingTuna",
-        "startTime": "2024-04-28 23:35:08",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-05-03 21:20:16",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_sneakattack,warrior_lance_of_ruin,epic_giantsbrewzero,fairy_fireflyconjuration,berserker_eyeofthestorm,musketeer_rapidreload,epic_melee_glory_of_victory,support_doomingsong,bomber_concentrated_burst,necro_sepulchral_eye,epic_armored_armored_giants,saint_surge_of_confidence,barb_giant_swings,bomber_dangerzone",
-        "nextNodeType": "dungeonlair"
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,berserker_rancor,flagbearer_bannerofluck,epic_giants_blessing,bomber_dangerzone,gladiator_browbeat,saint_exalt,saint_godspeed,musketeer_grapeshot,fairy_fireflyconjuration,warrior_lance_of_ruin,epic_giantsbrewzero",
+        "nextNodeType": "elementalearthmudroad"
     }
 ]
