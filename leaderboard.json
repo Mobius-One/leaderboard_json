@@ -45,21 +45,21 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160422",
-        "completedLevels": "65",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-04-29 02:37:17",
-        "endTime": "2024-04-29 09:34:05",
-        "captainBoons": "common_classic_comeback,berserker_rancor,fairy_fireflyconjuration,lancer_sarissaspears,bomber_concentrated_burst,fairy_gift_of_the_wind,gladiator_browbeat,warrior_lance_of_ruin,archer_soulpenetration,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "161144",
         "completedLevels": "65",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-05-03 12:06:30",
         "endTime": "2024-05-03 20:05:03",
         "captainBoons": "common_classic_comeback,archer_soulpenetration,bomber_dangerzone,amazon_vineclone,armored_shield_bash,warrior_lance_of_ruin,flag_rally_defense,fairy_fireflyconjuration,epic_melee_glory_of_victory,epic_ranged_dragonarrows,berserker_eyeofthestorm,saint_exalt",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
+        "dungeonRunId": "160422",
+        "completedLevels": "65",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-04-29 02:37:17",
+        "endTime": "2024-04-29 09:34:05",
+        "captainBoons": "common_classic_comeback,berserker_rancor,fairy_fireflyconjuration,lancer_sarissaspears,bomber_concentrated_burst,fairy_gift_of_the_wind,gladiator_browbeat,warrior_lance_of_ruin,archer_soulpenetration,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
         "nextNodeType": "raidhallamidgardboss"
     },
     {
