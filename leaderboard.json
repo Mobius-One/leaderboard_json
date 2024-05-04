@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "161319",
-        "completedLevels": "67",
+        "completedLevels": "68",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-05-04 12:06:43",
         "endTime": null,
-        "captainBoons": "barb_giant_swings,bomber_dangerzone,warrior_lance_of_ruin,musketeer_rapidreload,archer_soulpenetration,musketeer_grapeshot,fairy_gift_of_the_wind,epic_giantsbrewzero,epic_giants_blessing,rogue_momentum,fairy_fireflyconjuration",
-        "nextNodeType": "retroforest"
+        "captainBoons": "barb_giant_swings,bomber_dangerzone,warrior_lance_of_ruin,musketeer_rapidreload,archer_soulpenetration,musketeer_grapeshot,epic_giantsbrewzero,epic_giants_blessing,rogue_momentum,fairy_fireflyconjuration",
+        "nextNodeType": "raidhallamidgardboss"
     },
     {
         "dungeonRunId": "160422",
