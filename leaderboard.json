@@ -45,6 +45,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "160997",
+        "completedLevels": "65",
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2024-05-02 17:33:17",
+        "endTime": "2024-05-03 02:22:08",
+        "captainBoons": "common_classic_comeback,tank_tungstenswords,undead_undeadresilience,gladiator_war_machine,melee_follow_up,gladiator_sonofthunder,archer_soulpenetration,epic_giants_blessing,amazon_vineclone,bomber_dangerzone,epic_melee_glory_of_victory,warrior_lance_of_ruin",
+        "nextNodeType": "ancientspider"
+    },
+    {
         "dungeonRunId": "160422",
         "completedLevels": "65",
         "twitchDisplayName": "lont123",
@@ -63,15 +72,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160997",
-        "completedLevels": "65",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2024-05-02 17:33:17",
-        "endTime": "2024-05-03 02:22:08",
-        "captainBoons": "common_classic_comeback,tank_tungstenswords,undead_undeadresilience,gladiator_war_machine,melee_follow_up,gladiator_sonofthunder,archer_soulpenetration,epic_giants_blessing,amazon_vineclone,bomber_dangerzone,epic_melee_glory_of_victory,warrior_lance_of_ruin",
-        "nextNodeType": "ancientspider"
-    },
-    {
         "dungeonRunId": "159820",
         "completedLevels": "62",
         "twitchDisplayName": "ThaBan4",
@@ -81,12 +81,12 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "159942",
-        "completedLevels": "59",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-04-26 20:25:51",
-        "endTime": "2024-04-27 04:18:19",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,archer_soulpenetration,epic_giantsbrewzero,saint_surge_of_confidence,warrior_lance_of_ruin,bomber_dangerzone,epic_giants_blessing,berserker_enrage,berserker_eyeofthestorm,saint_exalt,centurion_2,gladiator_sonofthunder,barb_giant_swings,lancer_sarissaspears",
-        "nextNodeType": "raidhallamidgardboss"
+        "dungeonRunId": "160392",
+        "completedLevels": "60",
+        "twitchDisplayName": "AllegingTuna",
+        "startTime": "2024-04-28 23:35:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_sneakattack,warrior_lance_of_ruin,epic_giantsbrewzero,fairy_fireflyconjuration,berserker_eyeofthestorm,musketeer_rapidreload,epic_melee_glory_of_victory,support_doomingsong,bomber_concentrated_burst,necro_sepulchral_eye,epic_armored_armored_giants,saint_surge_of_confidence,barb_giant_swings,bomber_dangerzone",
+        "nextNodeType": "dungeonlair"
     }
 ]
