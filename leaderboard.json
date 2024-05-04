@@ -45,6 +45,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "160422",
+        "completedLevels": "65",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-04-29 02:37:17",
+        "endTime": "2024-04-29 09:34:05",
+        "captainBoons": "common_classic_comeback,berserker_rancor,fairy_fireflyconjuration,lancer_sarissaspears,bomber_concentrated_burst,fairy_gift_of_the_wind,gladiator_browbeat,warrior_lance_of_ruin,archer_soulpenetration,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "161144",
         "completedLevels": "65",
         "twitchDisplayName": "OvidiuZ94",
@@ -63,15 +72,6 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "160422",
-        "completedLevels": "65",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-04-29 02:37:17",
-        "endTime": "2024-04-29 09:34:05",
-        "captainBoons": "common_classic_comeback,berserker_rancor,fairy_fireflyconjuration,lancer_sarissaspears,bomber_concentrated_burst,fairy_gift_of_the_wind,gladiator_browbeat,warrior_lance_of_ruin,archer_soulpenetration,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "159820",
         "completedLevels": "62",
         "twitchDisplayName": "ThaBan4",
@@ -81,12 +81,12 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "160716",
+        "dungeonRunId": "159942",
         "completedLevels": "59",
-        "twitchDisplayName": "Juzy_Fruit",
-        "startTime": "2024-04-30 17:51:04",
-        "endTime": "2024-05-01 01:55:53",
-        "captainBoons": "common_classic_comeback,berserker_eyeofthestorm,berserker_rancor,epic_giants_blessing,epic_armored_armored_giants,saint_exalt,musketeer_grapeshot,bomber_dangerzone,fairy_gift_of_the_wind,fairy_fireflyconjuration,archer_enchantedammo,warrior_lance_of_ruin,robot_robotauthority,archer_soulpenetration,buster_land_mines",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-04-26 20:25:51",
+        "endTime": "2024-04-27 04:18:19",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,archer_soulpenetration,epic_giantsbrewzero,saint_surge_of_confidence,warrior_lance_of_ruin,bomber_dangerzone,epic_giants_blessing,berserker_enrage,berserker_eyeofthestorm,saint_exalt,centurion_2,gladiator_sonofthunder,barb_giant_swings,lancer_sarissaspears",
         "nextNodeType": "raidhallamidgardboss"
     }
 ]
