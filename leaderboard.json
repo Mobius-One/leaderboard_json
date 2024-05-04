@@ -45,6 +45,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "161144",
+        "completedLevels": "65",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-05-03 12:06:30",
+        "endTime": "2024-05-03 20:05:03",
+        "captainBoons": "common_classic_comeback,archer_soulpenetration,bomber_dangerzone,amazon_vineclone,armored_shield_bash,warrior_lance_of_ruin,flag_rally_defense,fairy_fireflyconjuration,epic_melee_glory_of_victory,epic_ranged_dragonarrows,berserker_eyeofthestorm,saint_exalt",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "160422",
         "completedLevels": "65",
         "twitchDisplayName": "lont123",
@@ -61,15 +70,6 @@
         "endTime": "2024-05-03 02:22:08",
         "captainBoons": "common_classic_comeback,tank_tungstenswords,undead_undeadresilience,gladiator_war_machine,melee_follow_up,gladiator_sonofthunder,archer_soulpenetration,epic_giants_blessing,amazon_vineclone,bomber_dangerzone,epic_melee_glory_of_victory,warrior_lance_of_ruin",
         "nextNodeType": "ancientspider"
-    },
-    {
-        "dungeonRunId": "161144",
-        "completedLevels": "65",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-05-03 12:06:30",
-        "endTime": "2024-05-03 20:05:03",
-        "captainBoons": "common_classic_comeback,archer_soulpenetration,bomber_dangerzone,amazon_vineclone,armored_shield_bash,warrior_lance_of_ruin,flag_rally_defense,fairy_fireflyconjuration,epic_melee_glory_of_victory,epic_ranged_dragonarrows,berserker_eyeofthestorm,saint_exalt",
-        "nextNodeType": "raidhallamidgardboss"
     },
     {
         "dungeonRunId": "159820",
