@@ -45,6 +45,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "160997",
+        "completedLevels": "65",
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2024-05-02 17:33:17",
+        "endTime": "2024-05-03 02:22:08",
+        "captainBoons": "common_classic_comeback,tank_tungstenswords,undead_undeadresilience,gladiator_war_machine,melee_follow_up,gladiator_sonofthunder,archer_soulpenetration,epic_giants_blessing,amazon_vineclone,bomber_dangerzone,epic_melee_glory_of_victory,warrior_lance_of_ruin",
+        "nextNodeType": "ancientspider"
+    },
+    {
         "dungeonRunId": "161144",
         "completedLevels": "65",
         "twitchDisplayName": "OvidiuZ94",
@@ -63,13 +72,13 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160997",
-        "completedLevels": "65",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2024-05-02 17:33:17",
-        "endTime": "2024-05-03 02:22:08",
-        "captainBoons": "common_classic_comeback,tank_tungstenswords,undead_undeadresilience,gladiator_war_machine,melee_follow_up,gladiator_sonofthunder,archer_soulpenetration,epic_giants_blessing,amazon_vineclone,bomber_dangerzone,epic_melee_glory_of_victory,warrior_lance_of_ruin",
-        "nextNodeType": "ancientspider"
+        "dungeonRunId": "161234",
+        "completedLevels": "62",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-05-03 21:20:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,berserker_rancor,flagbearer_bannerofluck,epic_giants_blessing,bomber_dangerzone,saint_exalt,saint_godspeed,musketeer_grapeshot,fairy_fireflyconjuration,warrior_lance_of_ruin,epic_giantsbrewzero",
+        "nextNodeType": "fireboss"
     },
     {
         "dungeonRunId": "159820",
@@ -79,14 +88,5 @@
         "endTime": "2024-04-26 10:12:26",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,fairy_fireflyconjuration,warrior_lance_of_ruin,warrior_soldieroffortune,epic_melee_glory_of_victory,melee_follow_up,gladiator_browbeat,gladiator_war_machine,archer_rapidshot,gladiator_sonofthunder,barb_giant_swings,general_dawnofvictory",
         "nextNodeType": "ancientspider"
-    },
-    {
-        "dungeonRunId": "161234",
-        "completedLevels": "62",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-05-03 21:20:16",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,berserker_rancor,flagbearer_bannerofluck,epic_giants_blessing,bomber_dangerzone,saint_exalt,saint_godspeed,musketeer_grapeshot,fairy_fireflyconjuration,warrior_lance_of_ruin,epic_giantsbrewzero",
-        "nextNodeType": "fireboss"
     }
 ]
