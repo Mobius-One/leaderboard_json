@@ -36,21 +36,21 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "159993",
-        "completedLevels": "68",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-04-26 23:48:54",
-        "endTime": "2024-04-27 06:00:56",
-        "captainBoons": "common_classic_comeback,barb_giant_swings,saint_exalt,berserker_eyeofthestorm,archer_soulpenetration,warrior_lance_of_ruin,berserker_rancor,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "161319",
         "completedLevels": "68",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-05-04 12:06:43",
         "endTime": "2024-05-04 20:04:30",
         "captainBoons": "barb_giant_swings,bomber_dangerzone,warrior_lance_of_ruin,musketeer_rapidreload,archer_soulpenetration,musketeer_grapeshot,epic_giantsbrewzero,epic_giants_blessing,rogue_momentum,fairy_fireflyconjuration",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
+        "dungeonRunId": "159993",
+        "completedLevels": "68",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-04-26 23:48:54",
+        "endTime": "2024-04-27 06:00:56",
+        "captainBoons": "common_classic_comeback,barb_giant_swings,saint_exalt,berserker_eyeofthestorm,archer_soulpenetration,warrior_lance_of_ruin,berserker_rancor,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
         "nextNodeType": "raidhallamidgardboss"
     },
     {
