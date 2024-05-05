@@ -9,6 +9,15 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
+        "dungeonRunId": "161486",
+        "completedLevels": "77",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-05-05 14:43:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giants_blessing,barb_giant_swings,warrior_lance_of_ruin,berserker_eyeofthestorm,monk_pure_focus",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "160235",
         "completedLevels": "77",
         "twitchDisplayName": "Angel",
@@ -16,15 +25,6 @@
         "endTime": "2024-04-28 14:58:03",
         "captainBoons": "bomber_dangerzone,archer_soulpenetration,warrior_lance_of_ruin,ranged_attack_1,musketeer_grapeshot,fairy_gift_of_the_wind",
         "nextNodeType": "raidhallamidgardboss"
-    },
-    {
-        "dungeonRunId": "161486",
-        "completedLevels": "76",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-05-05 14:43:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giants_blessing,barb_giant_swings,warrior_lance_of_ruin,berserker_eyeofthestorm,monk_pure_focus",
-        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "160572",
