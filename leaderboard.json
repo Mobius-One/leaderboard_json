@@ -19,21 +19,12 @@
     },
     {
         "dungeonRunId": "161486",
-        "completedLevels": "75",
+        "completedLevels": "76",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-05-05 14:43:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giants_blessing,barb_giant_swings,warrior_lance_of_ruin,fairy_fireflyconjuration,berserker_eyeofthestorm,monk_pure_focus",
-        "nextNodeType": "wasteraid"
-    },
-    {
-        "dungeonRunId": "159440",
-        "completedLevels": "74",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-04-24 06:42:46",
-        "endTime": "2024-04-24 14:05:56",
-        "captainBoons": "musketeer_grapeshot,barb_giant_swings,bomber_dangerzone,archer_enchantedammo,archer_soulpenetration,epic_giantsbrewzero,warrior_lance_of_ruin",
-        "nextNodeType": "ancientspider"
+        "captainBoons": "common_classic_comeback,epic_giants_blessing,barb_giant_swings,warrior_lance_of_ruin,berserker_eyeofthestorm,monk_pure_focus",
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "160572",
@@ -43,6 +34,15 @@
         "endTime": "2024-05-01 21:42:01",
         "captainBoons": "lancer_sarissaspears,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
         "nextNodeType": "raidhallamidgardboss"
+    },
+    {
+        "dungeonRunId": "159440",
+        "completedLevels": "74",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-04-24 06:42:46",
+        "endTime": "2024-04-24 14:05:56",
+        "captainBoons": "musketeer_grapeshot,barb_giant_swings,bomber_dangerzone,archer_enchantedammo,archer_soulpenetration,epic_giantsbrewzero,warrior_lance_of_ruin",
+        "nextNodeType": "ancientspider"
     },
     {
         "dungeonRunId": "161319",
