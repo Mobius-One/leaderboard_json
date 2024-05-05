@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "161486",
-        "completedLevels": "74",
+        "completedLevels": "75",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-05-05 14:43:13",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giants_blessing,barb_giant_swings,warrior_lance_of_ruin,fairy_fireflyconjuration,berserker_eyeofthestorm,monk_pure_focus",
-        "nextNodeType": "fireboss"
+        "nextNodeType": "wasteraid"
     },
     {
         "dungeonRunId": "159440",
