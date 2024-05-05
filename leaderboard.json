@@ -18,15 +18,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160572",
-        "completedLevels": "74",
-        "twitchDisplayName": "X_Bowzer",
-        "startTime": "2024-04-29 21:51:45",
-        "endTime": "2024-05-01 21:42:01",
-        "captainBoons": "lancer_sarissaspears,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "159440",
         "completedLevels": "74",
         "twitchDisplayName": "HighHopesTV",
@@ -36,13 +27,22 @@
         "nextNodeType": "ancientspider"
     },
     {
+        "dungeonRunId": "160572",
+        "completedLevels": "74",
+        "twitchDisplayName": "X_Bowzer",
+        "startTime": "2024-04-29 21:51:45",
+        "endTime": "2024-05-01 21:42:01",
+        "captainBoons": "lancer_sarissaspears,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "161486",
-        "completedLevels": "71",
+        "completedLevels": "72",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-05-05 14:43:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giants_blessing,barb_giant_swings,saint_godspeed,warrior_lance_of_ruin,fairy_fireflyconjuration,berserker_eyeofthestorm,monk_pure_focus,melee_follow_up",
-        "nextNodeType": "iceboss"
+        "captainBoons": "common_classic_comeback,epic_giants_blessing,barb_giant_swings,saint_godspeed,warrior_lance_of_ruin,fairy_fireflyconjuration,berserker_eyeofthestorm,monk_pure_focus",
+        "nextNodeType": "elementalearthmudroad"
     },
     {
         "dungeonRunId": "161319",
