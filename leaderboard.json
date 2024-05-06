@@ -27,15 +27,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160572",
-        "completedLevels": "74",
-        "twitchDisplayName": "X_Bowzer",
-        "startTime": "2024-04-29 21:51:45",
-        "endTime": "2024-05-01 21:42:01",
-        "captainBoons": "lancer_sarissaspears,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "159440",
         "completedLevels": "74",
         "twitchDisplayName": "HighHopesTV",
@@ -45,12 +36,30 @@
         "nextNodeType": "ancientspider"
     },
     {
+        "dungeonRunId": "160572",
+        "completedLevels": "74",
+        "twitchDisplayName": "X_Bowzer",
+        "startTime": "2024-04-29 21:51:45",
+        "endTime": "2024-05-01 21:42:01",
+        "captainBoons": "lancer_sarissaspears,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
         "dungeonRunId": "161319",
         "completedLevels": "68",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-05-04 12:06:43",
         "endTime": "2024-05-04 20:04:30",
         "captainBoons": "barb_giant_swings,bomber_dangerzone,warrior_lance_of_ruin,musketeer_rapidreload,archer_soulpenetration,musketeer_grapeshot,epic_giantsbrewzero,epic_giants_blessing,rogue_momentum,fairy_fireflyconjuration",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
+        "dungeonRunId": "160422",
+        "completedLevels": "65",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-04-29 02:37:17",
+        "endTime": "2024-04-29 09:34:05",
+        "captainBoons": "common_classic_comeback,berserker_rancor,fairy_fireflyconjuration,lancer_sarissaspears,bomber_concentrated_burst,fairy_gift_of_the_wind,gladiator_browbeat,warrior_lance_of_ruin,archer_soulpenetration,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
         "nextNodeType": "raidhallamidgardboss"
     },
     {
@@ -63,15 +72,6 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "160422",
-        "completedLevels": "65",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-04-29 02:37:17",
-        "endTime": "2024-04-29 09:34:05",
-        "captainBoons": "common_classic_comeback,berserker_rancor,fairy_fireflyconjuration,lancer_sarissaspears,bomber_concentrated_burst,fairy_gift_of_the_wind,gladiator_browbeat,warrior_lance_of_ruin,archer_soulpenetration,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "161234",
         "completedLevels": "64",
         "twitchDisplayName": "chiquik",
@@ -81,12 +81,12 @@
         "nextNodeType": "crystalcavetreasure"
     },
     {
-        "dungeonRunId": "159820",
+        "dungeonRunId": "161529",
         "completedLevels": "62",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-04-26 02:07:04",
-        "endTime": "2024-04-26 10:12:26",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,fairy_fireflyconjuration,warrior_lance_of_ruin,warrior_soldieroffortune,epic_melee_glory_of_victory,melee_follow_up,gladiator_browbeat,gladiator_war_machine,archer_rapidshot,gladiator_sonofthunder,barb_giant_swings,general_dawnofvictory",
-        "nextNodeType": "ancientspider"
+        "twitchDisplayName": "NutshellinChains",
+        "startTime": "2024-05-05 18:11:17",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,centurion_2,epic_giantsbrewzero,archer_enchantedammo,warrior_lance_of_ruin,bomber_dangerzone,berserker_enrage,flagbearer_bannerofluck,fairy_fireflyconjuration,ranged_damage_2,support_healing_2,epic_melee_glory_of_victory,saint_exalt",
+        "nextNodeType": "raidhallamidgardboss"
     }
 ]
