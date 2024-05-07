@@ -9,21 +9,21 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "161486",
-        "completedLevels": "77",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-05-05 14:43:13",
-        "endTime": "2024-05-05 21:41:51",
-        "captainBoons": "common_classic_comeback,epic_giants_blessing,barb_giant_swings,warrior_lance_of_ruin,berserker_eyeofthestorm,monk_pure_focus",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "160235",
         "completedLevels": "77",
         "twitchDisplayName": "Angel",
         "startTime": "2024-04-28 07:43:52",
         "endTime": "2024-04-28 14:58:03",
         "captainBoons": "bomber_dangerzone,archer_soulpenetration,warrior_lance_of_ruin,ranged_attack_1,musketeer_grapeshot,fairy_gift_of_the_wind",
+        "nextNodeType": "raidhallamidgardboss"
+    },
+    {
+        "dungeonRunId": "161486",
+        "completedLevels": "77",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-05-05 14:43:13",
+        "endTime": "2024-05-05 21:41:51",
+        "captainBoons": "common_classic_comeback,epic_giants_blessing,barb_giant_swings,warrior_lance_of_ruin,berserker_eyeofthestorm,monk_pure_focus",
         "nextNodeType": "raidhallamidgardboss"
     },
     {
@@ -54,15 +54,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160997",
-        "completedLevels": "65",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2024-05-02 17:33:17",
-        "endTime": "2024-05-03 02:22:08",
-        "captainBoons": "common_classic_comeback,tank_tungstenswords,undead_undeadresilience,gladiator_war_machine,melee_follow_up,gladiator_sonofthunder,archer_soulpenetration,epic_giants_blessing,amazon_vineclone,bomber_dangerzone,epic_melee_glory_of_victory,warrior_lance_of_ruin",
-        "nextNodeType": "ancientspider"
-    },
-    {
         "dungeonRunId": "160422",
         "completedLevels": "65",
         "twitchDisplayName": "lont123",
@@ -70,6 +61,15 @@
         "endTime": "2024-04-29 09:34:05",
         "captainBoons": "common_classic_comeback,berserker_rancor,fairy_fireflyconjuration,lancer_sarissaspears,bomber_concentrated_burst,fairy_gift_of_the_wind,gladiator_browbeat,warrior_lance_of_ruin,archer_soulpenetration,epic_ranged_dragonarrows,bomber_dangerzone,elf_elvenimmortality",
         "nextNodeType": "raidhallamidgardboss"
+    },
+    {
+        "dungeonRunId": "160997",
+        "completedLevels": "65",
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2024-05-02 17:33:17",
+        "endTime": "2024-05-03 02:22:08",
+        "captainBoons": "common_classic_comeback,tank_tungstenswords,undead_undeadresilience,gladiator_war_machine,melee_follow_up,gladiator_sonofthunder,archer_soulpenetration,epic_giants_blessing,amazon_vineclone,bomber_dangerzone,epic_melee_glory_of_victory,warrior_lance_of_ruin",
+        "nextNodeType": "ancientspider"
     },
     {
         "dungeonRunId": "161234",
