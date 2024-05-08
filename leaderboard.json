@@ -27,15 +27,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160572",
-        "completedLevels": "74",
-        "twitchDisplayName": "X_Bowzer",
-        "startTime": "2024-04-29 21:51:45",
-        "endTime": "2024-05-01 21:42:01",
-        "captainBoons": "lancer_sarissaspears,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "159440",
         "completedLevels": "74",
         "twitchDisplayName": "HighHopesTV",
@@ -43,6 +34,15 @@
         "endTime": "2024-04-24 14:05:56",
         "captainBoons": "musketeer_grapeshot,barb_giant_swings,bomber_dangerzone,archer_enchantedammo,archer_soulpenetration,epic_giantsbrewzero,warrior_lance_of_ruin",
         "nextNodeType": "ancientspider"
+    },
+    {
+        "dungeonRunId": "160572",
+        "completedLevels": "74",
+        "twitchDisplayName": "X_Bowzer",
+        "startTime": "2024-04-29 21:51:45",
+        "endTime": "2024-05-01 21:42:01",
+        "captainBoons": "lancer_sarissaspears,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
+        "nextNodeType": "raidhallamidgardboss"
     },
     {
         "dungeonRunId": "161319",
@@ -85,7 +85,7 @@
         "completedLevels": "63",
         "twitchDisplayName": "MYKLMantis",
         "startTime": "2024-05-05 17:38:46",
-        "endTime": null,
+        "endTime": "2024-05-08 03:13:09",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,archer_soulpenetration,bomber_dangerzone,healer_combatmedic,epic_giants_blessing,warrior_lance_of_ruin,musketeer_rapidreload,archer_enchantedammo,blob_parasite,saint_surge_of_confidence,epic_giantsbrewzero,warrior_secondwind",
         "nextNodeType": "plagueroost"
     }
