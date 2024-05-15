@@ -9,15 +9,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160235",
-        "completedLevels": "77",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-04-28 07:43:52",
-        "endTime": "2024-04-28 14:58:03",
-        "captainBoons": "bomber_dangerzone,archer_soulpenetration,warrior_lance_of_ruin,ranged_attack_1,musketeer_grapeshot,fairy_gift_of_the_wind",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "161486",
         "completedLevels": "77",
         "twitchDisplayName": "Hairtrigger83",
@@ -27,12 +18,12 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "160572",
-        "completedLevels": "74",
-        "twitchDisplayName": "X_Bowzer",
-        "startTime": "2024-04-29 21:51:45",
-        "endTime": "2024-05-01 21:42:01",
-        "captainBoons": "lancer_sarissaspears,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
+        "dungeonRunId": "160235",
+        "completedLevels": "77",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-04-28 07:43:52",
+        "endTime": "2024-04-28 14:58:03",
+        "captainBoons": "bomber_dangerzone,archer_soulpenetration,warrior_lance_of_ruin,ranged_attack_1,musketeer_grapeshot,fairy_gift_of_the_wind",
         "nextNodeType": "raidhallamidgardboss"
     },
     {
@@ -43,6 +34,15 @@
         "endTime": "2024-04-24 14:05:56",
         "captainBoons": "musketeer_grapeshot,barb_giant_swings,bomber_dangerzone,archer_enchantedammo,archer_soulpenetration,epic_giantsbrewzero,warrior_lance_of_ruin",
         "nextNodeType": "ancientspider"
+    },
+    {
+        "dungeonRunId": "160572",
+        "completedLevels": "74",
+        "twitchDisplayName": "X_Bowzer",
+        "startTime": "2024-04-29 21:51:45",
+        "endTime": "2024-05-01 21:42:01",
+        "captainBoons": "lancer_sarissaspears,bomber_dangerzone,gladiator_war_machine,archer_soulpenetration,berserker_rancor,barb_giant_swings,warrior_lance_of_ruin",
+        "nextNodeType": "raidhallamidgardboss"
     },
     {
         "dungeonRunId": "161319",
