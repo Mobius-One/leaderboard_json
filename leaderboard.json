@@ -72,6 +72,15 @@
         "nextNodeType": "ancientspider"
     },
     {
+        "dungeonRunId": "161641",
+        "completedLevels": "64",
+        "twitchDisplayName": "ImortalFrog",
+        "startTime": "2024-05-06 08:19:41",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_holyforce,berserker_rancor,gladiator_sonofthunder,fairy_gift_of_the_wind,ranged_attack_1,warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,saint_exalt,centurion_2,fairy_fireflyconjuration",
+        "nextNodeType": "dungeonlair"
+    },
+    {
         "dungeonRunId": "161234",
         "completedLevels": "64",
         "twitchDisplayName": "chiquik",
@@ -79,14 +88,5 @@
         "endTime": "2024-05-04 05:13:57",
         "captainBoons": "common_classic_comeback,gladiator_sonofthunder,archer_soulpenetration,berserker_rancor,flagbearer_bannerofluck,epic_giants_blessing,bomber_dangerzone,saint_exalt,saint_godspeed,fairy_fireflyconjuration,warrior_lance_of_ruin,epic_giantsbrewzero",
         "nextNodeType": "crystalcavetreasure"
-    },
-    {
-        "dungeonRunId": "161641",
-        "completedLevels": "63",
-        "twitchDisplayName": "ImortalFrog",
-        "startTime": "2024-05-06 08:19:41",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_holyforce,berserker_rancor,gladiator_sonofthunder,fairy_gift_of_the_wind,ranged_attack_1,warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,saint_exalt,saint_surge_of_confidence,centurion_2,fairy_fireflyconjuration",
-        "nextNodeType": "tabletopboard"
     }
 ]
