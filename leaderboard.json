@@ -72,15 +72,6 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "161717",
-        "completedLevels": "65",
-        "twitchDisplayName": "AngelNDarkness",
-        "startTime": "2024-05-06 15:42:38",
-        "endTime": "2024-05-16 04:13:23",
-        "captainBoons": "common_classic_comeback,berserker_eyeofthestorm,monk_pure_focus,healer_combatmedic,melee_follow_up,barb_giant_swings,berserker_rancor,fairy_gift_of_the_wind,archer_soulpenetration,epic_giantsbrewzero,warrior_lance_of_ruin,epic_giants_blessing",
-        "nextNodeType": "ancientspider"
-    },
-    {
         "dungeonRunId": "161641",
         "completedLevels": "65",
         "twitchDisplayName": "ImortalFrog",
@@ -88,5 +79,14 @@
         "endTime": "2024-05-15 13:54:13",
         "captainBoons": "common_classic_comeback,paladin_holyforce,berserker_rancor,gladiator_sonofthunder,fairy_gift_of_the_wind,ranged_attack_1,warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,saint_exalt,centurion_2,fairy_fireflyconjuration",
         "nextNodeType": "raidhallamidgardboss"
+    },
+    {
+        "dungeonRunId": "161717",
+        "completedLevels": "65",
+        "twitchDisplayName": "AngelNDarkness",
+        "startTime": "2024-05-06 15:42:38",
+        "endTime": "2024-05-16 04:13:23",
+        "captainBoons": "common_classic_comeback,berserker_eyeofthestorm,monk_pure_focus,healer_combatmedic,melee_follow_up,barb_giant_swings,berserker_rancor,fairy_gift_of_the_wind,archer_soulpenetration,epic_giantsbrewzero,warrior_lance_of_ruin,epic_giants_blessing",
+        "nextNodeType": "ancientspider"
     }
 ]
