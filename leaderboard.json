@@ -63,15 +63,6 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "161641",
-        "completedLevels": "65",
-        "twitchDisplayName": "ImortalFrog",
-        "startTime": "2024-05-06 08:19:41",
-        "endTime": "2024-05-15 13:54:13",
-        "captainBoons": "common_classic_comeback,paladin_holyforce,berserker_rancor,gladiator_sonofthunder,fairy_gift_of_the_wind,ranged_attack_1,warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,saint_exalt,centurion_2,fairy_fireflyconjuration",
-        "nextNodeType": "raidhallamidgardboss"
-    },
-    {
         "dungeonRunId": "160997",
         "completedLevels": "65",
         "twitchDisplayName": "CloverBug69",
@@ -79,6 +70,15 @@
         "endTime": "2024-05-03 02:22:08",
         "captainBoons": "common_classic_comeback,tank_tungstenswords,undead_undeadresilience,gladiator_war_machine,melee_follow_up,gladiator_sonofthunder,archer_soulpenetration,epic_giants_blessing,amazon_vineclone,bomber_dangerzone,epic_melee_glory_of_victory,warrior_lance_of_ruin",
         "nextNodeType": "ancientspider"
+    },
+    {
+        "dungeonRunId": "161665",
+        "completedLevels": "65",
+        "twitchDisplayName": "PhoenixBard",
+        "startTime": "2024-05-06 12:16:40",
+        "endTime": "2024-06-03 01:37:08",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,warrior_lance_of_ruin,musketeer_grapeshot,saint_surge_of_confidence,archer_soulpenetration,gladiator_sonofthunder,barb_giant_swings,epic_giants_blessing,epic_melee_glory_of_victory,epic_giantsbrewzero,elf_elvenimmortality",
+        "nextNodeType": "raidhallamidgardboss"
     },
     {
         "dungeonRunId": "161717",
