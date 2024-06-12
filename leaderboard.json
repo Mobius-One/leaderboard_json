@@ -63,12 +63,12 @@
         "nextNodeType": "raidhallamidgardboss"
     },
     {
-        "dungeonRunId": "161641",
+        "dungeonRunId": "161665",
         "completedLevels": "65",
-        "twitchDisplayName": "ImortalFrog",
-        "startTime": "2024-05-06 08:19:41",
-        "endTime": "2024-05-15 13:54:13",
-        "captainBoons": "common_classic_comeback,paladin_holyforce,berserker_rancor,gladiator_sonofthunder,fairy_gift_of_the_wind,ranged_attack_1,warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,saint_exalt,centurion_2,fairy_fireflyconjuration",
+        "twitchDisplayName": "PhoenixBard",
+        "startTime": "2024-05-06 12:16:40",
+        "endTime": "2024-06-03 01:37:08",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,warrior_lance_of_ruin,musketeer_grapeshot,saint_surge_of_confidence,archer_soulpenetration,gladiator_sonofthunder,barb_giant_swings,epic_giants_blessing,epic_melee_glory_of_victory,epic_giantsbrewzero,elf_elvenimmortality",
         "nextNodeType": "raidhallamidgardboss"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "161665",
+        "dungeonRunId": "161641",
         "completedLevels": "65",
-        "twitchDisplayName": "PhoenixBard",
-        "startTime": "2024-05-06 12:16:40",
-        "endTime": "2024-06-03 01:37:08",
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,warrior_lance_of_ruin,musketeer_grapeshot,saint_surge_of_confidence,archer_soulpenetration,gladiator_sonofthunder,barb_giant_swings,epic_giants_blessing,epic_melee_glory_of_victory,epic_giantsbrewzero,elf_elvenimmortality",
+        "twitchDisplayName": "ImortalFrog",
+        "startTime": "2024-05-06 08:19:41",
+        "endTime": "2024-05-15 13:54:13",
+        "captainBoons": "common_classic_comeback,paladin_holyforce,berserker_rancor,gladiator_sonofthunder,fairy_gift_of_the_wind,ranged_attack_1,warrior_lance_of_ruin,berserker_eyeofthestorm,bomber_dangerzone,saint_exalt,centurion_2,fairy_fireflyconjuration",
         "nextNodeType": "raidhallamidgardboss"
     }
 ]
