@@ -81,12 +81,12 @@
         "nextNodeType": "crucibleboss"
     },
     {
-        "dungeonRunId": "161775",
+        "dungeonRunId": "161816",
         "completedLevels": "17",
-        "twitchDisplayName": "MisterMarvelous",
-        "startTime": "2024-06-13 18:09:04",
-        "endTime": "2024-06-13 20:26:59",
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,paladin_skeletalsquire,gladiator_war_machine,epic_giantsbrewzero,gladiator_sonofthunder,spell_empower_haste,berserker_rancor,ranged_damage_2,spell_empower_curse,flagbearer_bannerofluck,ensouled_enragedspirits,epic_ranged_dragonarrows,bomber_dangerzone,armored_shield_bash,musk_hunters_mark,musketeer_rapidreload,rogue_skeletonturret",
-        "nextNodeType": "plaguelandboss"
+        "twitchDisplayName": "TheMadameJ",
+        "startTime": "2024-06-13 21:02:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,rogue_skeletonturret,spell_empower_stronghold,flagbearer_bannerofluck,flying_evasive_maneuvers,rogue_shadow_cloak,rogue_sneakattack,general_dawnofvictory,barbarian_immortal,support_doomingsong,flagbearer_bannerofexaltation,blob_parasite,vampire_darkwings,frogue_preparation,spell_empower_curse,tank_tungstenswords,captain_fragile_commander",
+        "nextNodeType": "frontiershowdown"
     }
 ]
