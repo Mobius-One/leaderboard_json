@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "161763",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-06-13 18:00:14",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,spell_empower_curse,berserker_rancor,paladin_skeletalsquire,spell_empower_killingfield,musketeer_rapidreload,ensouled_enragedspirits,archer_soulpenetration,saint_exalt,melee_follow_up,healer_dreamy_wardens,barbarian_gloriousdeath,centurion_team_barbs,epic_melee_glory_of_victory,ranged_attack_1,gladiator_sonofthunder,buster_nanobusters,centurion_tactician,robot_robotauthority,bomber_bombardment,bomber_dangerzone,elf_elvenimmortality,mage_darkmagic,monk_stoptheflow,lancer_spearwall",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,spell_empower_curse,berserker_rancor,paladin_skeletalsquire,spell_empower_killingfield,musketeer_rapidreload,ensouled_enragedspirits,archer_soulpenetration,saint_exalt,melee_follow_up,healer_dreamy_wardens,barbarian_gloriousdeath,centurion_team_barbs,epic_melee_glory_of_victory,ranged_attack_1,gladiator_sonofthunder,buster_nanobusters,centurion_tactician,robot_robotauthority,bomber_bombardment,bomber_dangerzone,elf_elvenimmortality,mage_darkmagic,lancer_spearwall",
+        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "161774",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "161804",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-06-13 19:36:07",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration,ranged_damage_2",
-        "nextNodeType": "dungeons_jerry"
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "161769",
