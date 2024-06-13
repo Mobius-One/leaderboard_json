@@ -1,21 +1,21 @@
 [
     {
-        "dungeonRunId": "161763",
-        "completedLevels": "8",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-06-13 18:00:14",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,spell_empower_curse,berserker_rancor,paladin_skeletalsquire",
-        "nextNodeType": "olympiadbossCalliope1"
-    },
-    {
         "dungeonRunId": "161772",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-06-13 18:05:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,bomber_bombardment,flagbearer_bannerofluck,undead_undeadresilience,epic_armored_armored_giants,saint_exalt,bomber_ricochet",
-        "nextNodeType": "frontiershowdown"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,bomber_bombardment,flagbearer_bannerofluck,undead_undeadresilience,epic_armored_armored_giants,saint_exalt,bomber_ricochet,musk_hunters_mark",
+        "nextNodeType": "elementalwaterstream"
+    },
+    {
+        "dungeonRunId": "161763",
+        "completedLevels": "9",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-06-13 18:00:14",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,spell_empower_curse,berserker_rancor,paladin_skeletalsquire,spell_empower_killingfield",
+        "nextNodeType": "moboatx"
     },
     {
         "dungeonRunId": "161766",
@@ -23,7 +23,7 @@
         "twitchDisplayName": "Meistar",
         "startTime": "2024-06-13 18:02:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,musketeer_grapeshot,musk_hunters_mark,musketeer_rapidreload,berserker_enrage,blob_parasite",
+        "captainBoons": "common_classic_comeback,saint_exalt,musketeer_grapeshot,musk_hunters_mark,musketeer_rapidreload,berserker_enrage,blob_parasite,assassin_agility",
         "nextNodeType": "moboatx"
     },
     {
@@ -54,13 +54,13 @@
         "nextNodeType": "moboatx"
     },
     {
-        "dungeonRunId": "161775",
-        "completedLevels": "5",
-        "twitchDisplayName": "MisterMarvelous",
-        "startTime": "2024-06-13 18:09:04",
+        "dungeonRunId": "161773",
+        "completedLevels": "6",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-06-13 18:08:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,paladin_skeletalsquire,gladiator_war_machine,epic_giantsbrewzero",
-        "nextNodeType": "olympiadbossCalliope1"
+        "captainBoons": "common_classic_comeback,saint_exalt,monk_first_strike,warrior_lance_of_ruin,paladin_layonhands,elf_elvenimmortality",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "161774",
@@ -68,7 +68,7 @@
         "twitchDisplayName": "JojoGeeker",
         "startTime": "2024-06-13 18:08:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,bomber_ricochet,epic_epic_aspirations,epic_giantsbrewzero",
+        "captainBoons": "common_classic_comeback,armored_ignorepain,bomber_ricochet,epic_epic_aspirations,epic_giantsbrewzero,robot_robotauthority",
         "nextNodeType": "frontiershowdown"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "161773",
+        "dungeonRunId": "161775",
         "completedLevels": "5",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-06-13 18:08:06",
+        "twitchDisplayName": "MisterMarvelous",
+        "startTime": "2024-06-13 18:09:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,monk_first_strike,warrior_lance_of_ruin,paladin_layonhands,elf_elvenimmortality",
-        "nextNodeType": "crucibleboss"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,paladin_skeletalsquire,gladiator_war_machine,epic_giantsbrewzero,gladiator_sonofthunder",
+        "nextNodeType": "olympiadbossCalliope1"
     }
 ]
