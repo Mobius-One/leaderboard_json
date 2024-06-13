@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "161772",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-06-13 18:05:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,bomber_bombardment,flagbearer_bannerofluck,undead_undeadresilience,epic_armored_armored_giants,saint_exalt,bomber_ricochet,musk_hunters_mark,lancer_sarissaspears,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,archer_soulpenetration,barbarian_gloriousdeath,berserker_enrage,fairy_gift_of_the_wind,rogue_sneakattack,ensouled_enragedspirits,ensouled_bravespirits,assassin_agility,armored_shield_bash,warrior_lance_of_ruin,warrior_soldieroffortune,paladin_skeletalsquire,blob_parasite",
-        "nextNodeType": "snowfall11"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,bomber_bombardment,flagbearer_bannerofluck,undead_undeadresilience,epic_armored_armored_giants,saint_exalt,bomber_ricochet,musk_hunters_mark,lancer_sarissaspears,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,archer_soulpenetration,barbarian_gloriousdeath,berserker_enrage,fairy_gift_of_the_wind,rogue_sneakattack,ensouled_enragedspirits,ensouled_bravespirits,assassin_agility,armored_shield_bash,warrior_lance_of_ruin,warrior_soldieroffortune,paladin_skeletalsquire,blob_parasite,vampire_darkwings",
+        "nextNodeType": "alpharaiderssquare"
     },
     {
         "dungeonRunId": "161763",
@@ -45,6 +45,24 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
+        "dungeonRunId": "161788",
+        "completedLevels": "13",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-06-13 18:48:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_attack_1,centurion_team_barbs,musk_hunters_mark,paladin_layonhands,bomber_ricochet,epic_melee_glory_of_victory,epic_giantsbrewzero,musketeer_grapeshot,berserker_killing_spree,archer_rapidshot,archer_venomarrows,epic_ranged_dragonarrows,melee_charge",
+        "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "161790",
+        "completedLevels": "13",
+        "twitchDisplayName": "TheMadameJ",
+        "startTime": "2024-06-13 18:52:53",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,musketeer_grapeshot,centurion_2,saint_exalt,undead_undeadresilience,spell_empower_stronghold,ranged_attack_1,ranged_damage_2,fairy_gift_of_the_wind,gladiator_browbeat,bomber_ricochet,spell_empower_killingfield,armored_ignorepain",
+        "nextNodeType": "spaceairlock"
+    },
+    {
         "dungeonRunId": "161769",
         "completedLevels": "13",
         "twitchDisplayName": "ohitsneb",
@@ -52,24 +70,6 @@
         "endTime": "2024-06-13 20:10:15",
         "captainBoons": "common_classic_comeback,archer_rapidshot,centurion_team_barbs,spell_empower_stronghold,saint_exalt,ensouled_enragedspirits,epic_ranged_dragonarrows,fairy_fireflyconjuration,captain_fragile_commander,epic_melee_glory_of_victory,musketeer_rapidreload,tank_truetank,archer_soulpenetration,warrior_soldieroffortune",
         "nextNodeType": "sugarforest"
-    },
-    {
-        "dungeonRunId": "161788",
-        "completedLevels": "12",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-06-13 18:48:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_attack_1,centurion_team_barbs,musk_hunters_mark,paladin_layonhands,bomber_ricochet,epic_melee_glory_of_victory,epic_giantsbrewzero,musketeer_grapeshot,berserker_killing_spree,archer_rapidshot,archer_venomarrows,epic_ranged_dragonarrows",
-        "nextNodeType": "spaceairlock"
-    },
-    {
-        "dungeonRunId": "161790",
-        "completedLevels": "12",
-        "twitchDisplayName": "TheMadameJ",
-        "startTime": "2024-06-13 18:52:53",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,musketeer_grapeshot,centurion_2,saint_exalt,undead_undeadresilience,spell_empower_stronghold,ranged_attack_1,ranged_damage_2,fairy_gift_of_the_wind,gladiator_browbeat,bomber_ricochet,spell_empower_killingfield",
-        "nextNodeType": "elementalwaterstream"
     },
     {
         "dungeonRunId": "161766",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "161797",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "A_Tall_Canadian",
         "startTime": "2024-06-13 19:08:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_attack_1,ranged_damage_2,epic_ranged_dragonarrows,healer_combatmedic,epic_giants_blessing,tank_guardian,archer_rapidshot,robot_robotauthority,epic_armored_armored_giants,vampire_darkwings",
-        "nextNodeType": "plagueroost"
+        "captainBoons": "common_classic_comeback,ranged_attack_1,ranged_damage_2,epic_ranged_dragonarrows,healer_combatmedic,epic_giants_blessing,tank_guardian,archer_rapidshot,robot_robotauthority,epic_armored_armored_giants,vampire_darkwings,musketeer_grapeshot",
+        "nextNodeType": "plaguelandboss"
     }
 ]
