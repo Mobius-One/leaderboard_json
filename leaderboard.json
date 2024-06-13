@@ -72,21 +72,21 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "161790",
-        "completedLevels": "16",
-        "twitchDisplayName": "TheMadameJ",
-        "startTime": "2024-06-13 18:52:53",
-        "endTime": "2024-06-13 21:02:46",
-        "captainBoons": "common_classic_comeback,berserker_rancor,musketeer_grapeshot,centurion_2,saint_exalt,undead_undeadresilience,spell_empower_stronghold,ranged_attack_1,ranged_damage_2,fairy_gift_of_the_wind,gladiator_browbeat,bomber_ricochet,spell_empower_killingfield,armored_ignorepain,barb_warcry,vampire_aerial_fiend,shinobi_shadowstrike",
-        "nextNodeType": "snowfall11"
-    },
-    {
         "dungeonRunId": "161810",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2024-06-13 20:10:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,saint_missionary,saint_skeletondance,musketeer_rapidreload,ensouled_fatedspirits,common_specialists,berserker_rancor,healer_giftofregeneration,archer_soulpenetration,bomber_dangerzone,bomber_ricochet,epic_melee_glory_of_victory,ranged_attack_1,armored_shield_bash,tank_guardian,flagbearer_bannerofluck",
-        "nextNodeType": "plagueroost"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,saint_missionary,saint_skeletondance,musketeer_rapidreload,ensouled_fatedspirits,common_specialists,berserker_rancor,healer_giftofregeneration,archer_soulpenetration,bomber_dangerzone,bomber_ricochet,epic_melee_glory_of_victory,ranged_attack_1,armored_shield_bash,tank_guardian,flagbearer_bannerofluck,elf_elvenimmortality",
+        "nextNodeType": "olympiadbossCalliope1"
+    },
+    {
+        "dungeonRunId": "161811",
+        "completedLevels": "16",
+        "twitchDisplayName": "Glaceon2000",
+        "startTime": "2024-06-13 20:22:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,vampire_aerial_fiend,archer_rapidshot,flying_evasive_maneuvers,archer_soulpenetration,assassin_agility,bomber_ricochet,warbeast_terrifying_presence,epic_giantsbrewzero,epic_giants_blessing,epic_epic_aspirations,shinobi_shadowstrike,shinobi_firetechinique,berserker_killing_spree",
+        "nextNodeType": "moboatx"
     }
 ]
