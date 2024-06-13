@@ -63,6 +63,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "161804",
+        "completedLevels": "16",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-06-13 19:36:07",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration,ranged_damage_2,artillery_machine_gun,gladiator_browbeat",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "161790",
         "completedLevels": "16",
         "twitchDisplayName": "TheMadameJ",
@@ -70,15 +79,6 @@
         "endTime": "2024-06-13 21:02:46",
         "captainBoons": "common_classic_comeback,berserker_rancor,musketeer_grapeshot,centurion_2,saint_exalt,undead_undeadresilience,spell_empower_stronghold,ranged_attack_1,ranged_damage_2,fairy_gift_of_the_wind,gladiator_browbeat,bomber_ricochet,spell_empower_killingfield,armored_ignorepain,barb_warcry,vampire_aerial_fiend,shinobi_shadowstrike",
         "nextNodeType": "snowfall11"
-    },
-    {
-        "dungeonRunId": "161804",
-        "completedLevels": "16",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-06-13 19:36:07",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration,ranged_damage_2,artillery_machine_gun",
-        "nextNodeType": "oasisruins"
     },
     {
         "dungeonRunId": "161769",
