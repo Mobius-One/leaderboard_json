@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "161763",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-06-13 18:00:14",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,spell_empower_curse,berserker_rancor,paladin_skeletalsquire,spell_empower_killingfield,musketeer_rapidreload,ensouled_enragedspirits,archer_soulpenetration,saint_exalt,melee_follow_up,healer_dreamy_wardens,barbarian_gloriousdeath,centurion_team_barbs,epic_melee_glory_of_victory,ranged_attack_1,gladiator_sonofthunder,buster_nanobusters,centurion_tactician,robot_robotauthority,bomber_bombardment,bomber_dangerzone,elf_elvenimmortality,mage_darkmagic,monk_stoptheflow",
-        "nextNodeType": "canyonseige"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,spell_empower_curse,berserker_rancor,paladin_skeletalsquire,spell_empower_killingfield,musketeer_rapidreload,ensouled_enragedspirits,archer_soulpenetration,saint_exalt,melee_follow_up,healer_dreamy_wardens,barbarian_gloriousdeath,centurion_team_barbs,epic_melee_glory_of_victory,ranged_attack_1,gladiator_sonofthunder,buster_nanobusters,centurion_tactician,robot_robotauthority,bomber_bombardment,bomber_dangerzone,elf_elvenimmortality,mage_darkmagic,monk_stoptheflow,lancer_spearwall",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "161774",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "JojoGeeker",
         "startTime": "2024-06-13 18:08:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,bomber_ricochet,epic_epic_aspirations,epic_giantsbrewzero,robot_robotauthority,buster_nanobusters,assassin_agility,epic_giants_blessing,epic_ranged_dragonarrows,monk_stoptheflow,healer_giftofregeneration,gladiator_war_machine,saint_exalt,ranged_damage_2,bomber_bombardment,paladin_layonhands,musketeer_grapeshot,warrior_lance_of_ruin,warrior_soldieroffortune,ensouled_enragedspirits,barbarian_immortal,centurion_tactician,vampire_spectralpresence,ensouled_heroicspirits",
-        "nextNodeType": "elementalwaterstream"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,bomber_ricochet,epic_epic_aspirations,epic_giantsbrewzero,robot_robotauthority,buster_nanobusters,assassin_agility,epic_giants_blessing,epic_ranged_dragonarrows,monk_stoptheflow,healer_giftofregeneration,gladiator_war_machine,saint_exalt,ranged_damage_2,bomber_bombardment,paladin_layonhands,musketeer_grapeshot,warrior_lance_of_ruin,warrior_soldieroffortune,ensouled_enragedspirits,barbarian_immortal,centurion_tactician,vampire_spectralpresence,ensouled_heroicspirits,lancer_sarissaspears",
+        "nextNodeType": "alpharaiderssquare"
     },
     {
         "dungeonRunId": "161773",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "161804",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-06-13 19:36:07",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration,ranged_damage_2",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "161769",
