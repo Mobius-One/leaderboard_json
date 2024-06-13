@@ -1,39 +1,39 @@
 [
     {
         "dungeonRunId": "161763",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-06-13 18:00:14",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind",
-        "nextNodeType": "olympiadgodgroupFullEF"
-    },
-    {
-        "dungeonRunId": "161772",
-        "completedLevels": "2",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-06-13 18:05:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "161767",
-        "completedLevels": "2",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-06-13 18:02:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_follow_up",
-        "nextNodeType": "plaguelandboss"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears",
+        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "161766",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-06-13 18:02:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,musketeer_grapeshot",
-        "nextNodeType": "gravedeath"
+        "captainBoons": "common_classic_comeback,saint_exalt,musketeer_grapeshot,musk_hunters_mark",
+        "nextNodeType": "snowfall11"
+    },
+    {
+        "dungeonRunId": "161772",
+        "completedLevels": "3",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-06-13 18:05:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,bomber_bombardment",
+        "nextNodeType": "olympiadgodgroupFullEF"
+    },
+    {
+        "dungeonRunId": "161767",
+        "completedLevels": "3",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-06-13 18:02:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_follow_up,artillery_machine_gun",
+        "nextNodeType": "sugarforest"
     },
     {
         "dungeonRunId": "161765",
@@ -54,31 +54,22 @@
         "nextNodeType": "gravedeath"
     },
     {
-        "dungeonRunId": "161774",
-        "completedLevels": "1",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-06-13 18:08:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain",
-        "nextNodeType": "moboatx"
-    },
-    {
         "dungeonRunId": "161769",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2024-06-13 18:03:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_rapidshot",
-        "nextNodeType": "plagueroost"
+        "captainBoons": "common_classic_comeback,archer_rapidshot,centurion_team_barbs",
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "161773",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-06-13 18:08:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt",
-        "nextNodeType": "snowfall11"
+        "captainBoons": "common_classic_comeback,saint_exalt,monk_first_strike",
+        "nextNodeType": "olympiadbossCalliope1"
     },
     {
         "dungeonRunId": "161775",
@@ -88,5 +79,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_browbeat",
         "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "161774",
+        "completedLevels": "1",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-06-13 18:08:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain",
+        "nextNodeType": "moboatx"
     }
 ]
