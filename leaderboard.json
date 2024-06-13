@@ -10,19 +10,19 @@
     },
     {
         "dungeonRunId": "161763",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-06-13 18:00:14",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,spell_empower_curse,paladin_skeletalsquire,spell_empower_killingfield,musketeer_rapidreload,ensouled_enragedspirits,archer_soulpenetration,saint_exalt,melee_follow_up,healer_dreamy_wardens,barbarian_gloriousdeath,centurion_team_barbs,epic_melee_glory_of_victory,ranged_attack_1,gladiator_sonofthunder,buster_nanobusters,centurion_tactician,robot_robotauthority,bomber_bombardment,bomber_dangerzone,elf_elvenimmortality,mage_darkmagic,lancer_spearwall",
-        "nextNodeType": "elementalwaterstream"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,paladin_skeletalsquire,spell_empower_killingfield,musketeer_rapidreload,ensouled_enragedspirits,archer_soulpenetration,saint_exalt,melee_follow_up,healer_dreamy_wardens,barbarian_gloriousdeath,centurion_team_barbs,epic_melee_glory_of_victory,ranged_attack_1,gladiator_sonofthunder,buster_nanobusters,centurion_tactician,robot_robotauthority,bomber_bombardment,bomber_dangerzone,elf_elvenimmortality,mage_darkmagic,lancer_spearwall",
+        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "161774",
         "completedLevels": "29",
         "twitchDisplayName": "JojoGeeker",
         "startTime": "2024-06-13 18:08:55",
-        "endTime": null,
+        "endTime": "2024-06-13 22:25:21",
         "captainBoons": "common_classic_comeback,armored_ignorepain,bomber_ricochet,epic_epic_aspirations,epic_giantsbrewzero,robot_robotauthority,buster_nanobusters,assassin_agility,epic_giants_blessing,epic_ranged_dragonarrows,monk_stoptheflow,healer_giftofregeneration,gladiator_war_machine,saint_exalt,ranged_damage_2,bomber_bombardment,paladin_layonhands,musketeer_grapeshot,warrior_lance_of_ruin,warrior_soldieroffortune,ensouled_enragedspirits,barbarian_immortal,centurion_tactician,vampire_spectralpresence,ensouled_heroicspirits,lancer_sarissaspears,berserker_enrage,rogue_shadow_cloak,flagbearer_bannerofluck,warrior_flameslash",
         "nextNodeType": "dungeons_jerry"
     },
@@ -59,7 +59,7 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2024-06-13 19:36:07",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration,ranged_damage_2,artillery_machine_gun,gladiator_browbeat,paladin_skeletalsquire",
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration,ranged_damage_2,artillery_machine_gun,gladiator_browbeat,paladin_skeletalsquire,spell_empower_stronghold",
         "nextNodeType": "canyonseige"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "snowfall11"
     },
     {
-        "dungeonRunId": "161769",
-        "completedLevels": "13",
+        "dungeonRunId": "161810",
+        "completedLevels": "14",
         "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-06-13 18:03:42",
-        "endTime": "2024-06-13 20:10:15",
-        "captainBoons": "common_classic_comeback,archer_rapidshot,centurion_team_barbs,spell_empower_stronghold,saint_exalt,ensouled_enragedspirits,epic_ranged_dragonarrows,fairy_fireflyconjuration,captain_fragile_commander,epic_melee_glory_of_victory,musketeer_rapidreload,tank_truetank,archer_soulpenetration,warrior_soldieroffortune",
-        "nextNodeType": "sugarforest"
+        "startTime": "2024-06-13 20:10:22",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,saint_missionary,saint_skeletondance,musketeer_rapidreload,ensouled_fatedspirits,common_specialists,berserker_rancor,healer_giftofregeneration,archer_soulpenetration,bomber_dangerzone,bomber_ricochet,epic_melee_glory_of_victory,ranged_attack_1,armored_shield_bash",
+        "nextNodeType": "dungeons_jerry"
     }
 ]
