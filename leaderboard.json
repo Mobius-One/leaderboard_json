@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "161804",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-06-13 19:36:07",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration,ranged_damage_2,artillery_machine_gun,gladiator_browbeat,paladin_skeletalsquire,spell_empower_stronghold,monk_stoptheflow,flagbearer_bannerofexaltation,spell_empower_killingfield,warrior_soldieroffortune,rogue_skeletonturret,barbarian_immortal",
-        "nextNodeType": "sugarforest"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration,ranged_damage_2,artillery_machine_gun,gladiator_browbeat,paladin_skeletalsquire,spell_empower_stronghold,monk_stoptheflow,flagbearer_bannerofexaltation,spell_empower_killingfield,warrior_soldieroffortune,rogue_skeletonturret,barbarian_immortal,bomber_dangerzone",
+        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "161773",
@@ -45,6 +45,15 @@
         "nextNodeType": "spaceairlock"
     },
     {
+        "dungeonRunId": "161811",
+        "completedLevels": "20",
+        "twitchDisplayName": "Glaceon2000",
+        "startTime": "2024-06-13 20:22:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,vampire_aerial_fiend,archer_rapidshot,flying_evasive_maneuvers,archer_soulpenetration,assassin_agility,bomber_ricochet,warbeast_terrifying_presence,epic_giantsbrewzero,epic_giants_blessing,epic_epic_aspirations,shinobi_shadowstrike,shinobi_firetechinique,berserker_killing_spree,ranged_attack_1,archer_venomarrows,epic_melee_glory_of_victory,musketeer_rapidreload,dagger_disappearing_act",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
         "dungeonRunId": "161810",
         "completedLevels": "20",
         "twitchDisplayName": "ohitsneb",
@@ -52,15 +61,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,healer_combatmedic,saint_missionary,saint_skeletondance,musketeer_rapidreload,ensouled_fatedspirits,common_specialists,berserker_rancor,healer_giftofregeneration,archer_soulpenetration,bomber_dangerzone,bomber_ricochet,epic_melee_glory_of_victory,ranged_attack_1,armored_shield_bash,tank_guardian,flagbearer_bannerofluck,elf_elvenimmortality,spell_empower_killingfield,flyingrogue_aggravate,flying_evasive_maneuvers",
         "nextNodeType": "gravedeath"
-    },
-    {
-        "dungeonRunId": "161811",
-        "completedLevels": "19",
-        "twitchDisplayName": "Glaceon2000",
-        "startTime": "2024-06-13 20:22:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,vampire_aerial_fiend,archer_rapidshot,flying_evasive_maneuvers,archer_soulpenetration,assassin_agility,bomber_ricochet,warbeast_terrifying_presence,epic_giantsbrewzero,epic_giants_blessing,epic_epic_aspirations,shinobi_shadowstrike,shinobi_firetechinique,berserker_killing_spree,ranged_attack_1,archer_venomarrows,epic_melee_glory_of_victory,musketeer_rapidreload",
-        "nextNodeType": "retrotown"
     },
     {
         "dungeonRunId": "161797",
@@ -77,7 +77,7 @@
         "twitchDisplayName": "TheMadameJ",
         "startTime": "2024-06-13 21:02:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,rogue_skeletonturret,spell_empower_stronghold,flagbearer_bannerofluck,flying_evasive_maneuvers,rogue_shadow_cloak,rogue_sneakattack,general_dawnofvictory,barbarian_immortal,support_doomingsong,flagbearer_bannerofexaltation,blob_parasite,vampire_darkwings,frogue_preparation,spell_empower_curse,tank_tungstenswords,captain_fragile_commander,spell_empower_highground",
+        "captainBoons": "common_classic_comeback,healer_combatmedic,rogue_skeletonturret,spell_empower_stronghold,flagbearer_bannerofluck,flying_evasive_maneuvers,rogue_shadow_cloak,rogue_sneakattack,general_dawnofvictory,barbarian_immortal,support_doomingsong,flagbearer_bannerofexaltation,blob_parasite,vampire_darkwings,frogue_preparation,spell_empower_curse,tank_tungstenswords,captain_fragile_commander,spell_empower_highground,centurion_tactician",
         "nextNodeType": "retrotown"
     },
     {
