@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "161810",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2024-06-13 20:10:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,saint_missionary,saint_skeletondance,musketeer_rapidreload,ensouled_fatedspirits,common_specialists,berserker_rancor,healer_giftofregeneration,archer_soulpenetration,bomber_dangerzone,bomber_ricochet,epic_melee_glory_of_victory,ranged_attack_1,armored_shield_bash",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,saint_missionary,saint_skeletondance,musketeer_rapidreload,ensouled_fatedspirits,common_specialists,berserker_rancor,healer_giftofregeneration,archer_soulpenetration,bomber_dangerzone,bomber_ricochet,epic_melee_glory_of_victory,ranged_attack_1,armored_shield_bash,tank_guardian",
+        "nextNodeType": "retrotown"
     }
 ]
