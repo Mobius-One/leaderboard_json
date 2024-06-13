@@ -1,5 +1,23 @@
 [
     {
+        "dungeonRunId": "161763",
+        "completedLevels": "3",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-06-13 18:00:14",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind",
+        "nextNodeType": "olympiadgodgroupFullEF"
+    },
+    {
+        "dungeonRunId": "161772",
+        "completedLevels": "2",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-06-13 18:05:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
         "dungeonRunId": "161767",
         "completedLevels": "2",
         "twitchDisplayName": "Hooks",
@@ -9,22 +27,40 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "161763",
-        "completedLevels": "2",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-06-13 18:00:14",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
         "dungeonRunId": "161766",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-06-13 18:02:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt",
-        "nextNodeType": "olympiadgodgroupFullEF"
+        "captainBoons": "common_classic_comeback,saint_exalt,musketeer_grapeshot",
+        "nextNodeType": "gravedeath"
+    },
+    {
+        "dungeonRunId": "161765",
+        "completedLevels": "2",
+        "twitchDisplayName": "A_Tall_Canadian",
+        "startTime": "2024-06-13 18:01:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,flagbearer_bannerofexaltation",
+        "nextNodeType": "olympiadbossCalliope1"
+    },
+    {
+        "dungeonRunId": "161770",
+        "completedLevels": "2",
+        "twitchDisplayName": "TheMadameJ",
+        "startTime": "2024-06-13 18:03:57",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,vampire_spectralpresence",
+        "nextNodeType": "gravedeath"
+    },
+    {
+        "dungeonRunId": "161774",
+        "completedLevels": "1",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-06-13 18:08:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain",
+        "nextNodeType": "moboatx"
     },
     {
         "dungeonRunId": "161769",
@@ -36,30 +72,21 @@
         "nextNodeType": "plagueroost"
     },
     {
-        "dungeonRunId": "161765",
+        "dungeonRunId": "161773",
         "completedLevels": "1",
-        "twitchDisplayName": "A_Tall_Canadian",
-        "startTime": "2024-06-13 18:01:04",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-06-13 18:08:06",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt",
-        "nextNodeType": "elementalwaterstream"
+        "nextNodeType": "snowfall11"
     },
     {
-        "dungeonRunId": "161770",
+        "dungeonRunId": "161775",
         "completedLevels": "1",
-        "twitchDisplayName": "TheMadameJ",
-        "startTime": "2024-06-13 18:03:57",
+        "twitchDisplayName": "MisterMarvelous",
+        "startTime": "2024-06-13 18:09:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune",
-        "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "161772",
-        "completedLevels": "1",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-06-13 18:05:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration",
-        "nextNodeType": "retrotown"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat",
+        "nextNodeType": "cruciblemeltdown"
     }
 ]
