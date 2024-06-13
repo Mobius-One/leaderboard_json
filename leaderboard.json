@@ -36,6 +36,15 @@
         "nextNodeType": "sportiabasket"
     },
     {
+        "dungeonRunId": "161810",
+        "completedLevels": "22",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-06-13 20:10:22",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,saint_missionary,saint_skeletondance,musketeer_rapidreload,ensouled_fatedspirits,common_specialists,berserker_rancor,healer_giftofregeneration,archer_soulpenetration,bomber_dangerzone,bomber_ricochet,epic_melee_glory_of_victory,ranged_attack_1,armored_shield_bash,tank_guardian,flagbearer_bannerofluck,elf_elvenimmortality,spell_empower_killingfield,flyingrogue_aggravate,flying_evasive_maneuvers,spell_empower_haste,saint_exalt",
+        "nextNodeType": "moboatx"
+    },
+    {
         "dungeonRunId": "161773",
         "completedLevels": "21",
         "twitchDisplayName": "Rafipi",
@@ -45,22 +54,13 @@
         "nextNodeType": "spaceairlock"
     },
     {
-        "dungeonRunId": "161810",
-        "completedLevels": "21",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-06-13 20:10:22",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,saint_missionary,saint_skeletondance,musketeer_rapidreload,ensouled_fatedspirits,common_specialists,berserker_rancor,healer_giftofregeneration,archer_soulpenetration,bomber_dangerzone,bomber_ricochet,epic_melee_glory_of_victory,ranged_attack_1,armored_shield_bash,tank_guardian,flagbearer_bannerofluck,elf_elvenimmortality,spell_empower_killingfield,flyingrogue_aggravate,flying_evasive_maneuvers,spell_empower_haste",
-        "nextNodeType": "oasisruins"
-    },
-    {
         "dungeonRunId": "161816",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "TheMadameJ",
         "startTime": "2024-06-13 21:02:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,rogue_skeletonturret,spell_empower_stronghold,flagbearer_bannerofluck,flying_evasive_maneuvers,rogue_shadow_cloak,rogue_sneakattack,general_dawnofvictory,barbarian_immortal,support_doomingsong,flagbearer_bannerofexaltation,blob_parasite,vampire_darkwings,frogue_preparation,spell_empower_curse,tank_tungstenswords,captain_fragile_commander,spell_empower_highground,centurion_tactician,centurion_team_barbs",
-        "nextNodeType": "olympiadbossCalliope1"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,rogue_skeletonturret,spell_empower_stronghold,flagbearer_bannerofluck,flying_evasive_maneuvers,rogue_shadow_cloak,rogue_sneakattack,general_dawnofvictory,barbarian_immortal,support_doomingsong,flagbearer_bannerofexaltation,blob_parasite,vampire_darkwings,frogue_preparation,spell_empower_curse,tank_tungstenswords,captain_fragile_commander,spell_empower_highground,centurion_tactician,centurion_team_barbs,tank_guardian",
+        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "161811",
@@ -72,15 +72,6 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "161819",
-        "completedLevels": "19",
-        "twitchDisplayName": "MisterMarvelous",
-        "startTime": "2024-06-13 21:10:57",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,monk_first_strike,barbarian_immortal,gladiator_browbeat,flying_evasive_maneuvers,spell_empower_stronghold,musketeer_rapidreload,berserker_enrage,warrior_lance_of_ruin,armored_ignorepain,musketeer_grapeshot,berserker_killing_spree,ranged_attack_1,flagbearer_bannerofexaltation,bomber_bombardment,flagbearer_bannerofluck,bomber_ricochet,gladiator_war_machine,warrior_soldieroffortune",
-        "nextNodeType": "sugarforest"
-    },
-    {
         "dungeonRunId": "161797",
         "completedLevels": "19",
         "twitchDisplayName": "A_Tall_Canadian",
@@ -88,5 +79,14 @@
         "endTime": "2024-06-13 21:41:07",
         "captainBoons": "common_classic_comeback,ranged_attack_1,ranged_damage_2,epic_ranged_dragonarrows,healer_combatmedic,epic_giants_blessing,tank_guardian,archer_rapidshot,robot_robotauthority,epic_armored_armored_giants,vampire_darkwings,musketeer_grapeshot,epic_melee_glory_of_victory,support_doomingsong,undead_undeadresilience,bomber_bombardment,epic_giantsbrewzero,melee_follow_up,human_humandestiny,saint_exalt",
         "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "161819",
+        "completedLevels": "19",
+        "twitchDisplayName": "MisterMarvelous",
+        "startTime": "2024-06-13 21:10:57",
+        "endTime": "2024-06-13 23:48:46",
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,monk_first_strike,barbarian_immortal,gladiator_browbeat,flying_evasive_maneuvers,spell_empower_stronghold,musketeer_rapidreload,berserker_enrage,warrior_lance_of_ruin,armored_ignorepain,musketeer_grapeshot,berserker_killing_spree,ranged_attack_1,flagbearer_bannerofexaltation,bomber_bombardment,flagbearer_bannerofluck,bomber_ricochet,gladiator_war_machine,warrior_soldieroffortune",
+        "nextNodeType": "sugarforest"
     }
 ]
