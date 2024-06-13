@@ -1,30 +1,57 @@
 [
     {
         "dungeonRunId": "161772",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-06-13 18:05:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,bomber_bombardment,flagbearer_bannerofluck,undead_undeadresilience,epic_armored_armored_giants,saint_exalt,bomber_ricochet,musk_hunters_mark,lancer_sarissaspears,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,bomber_bombardment,flagbearer_bannerofluck,undead_undeadresilience,epic_armored_armored_giants,saint_exalt,bomber_ricochet,musk_hunters_mark,lancer_sarissaspears,melee_follow_up,epic_melee_glory_of_victory,berserker_rancor,ranged_damage_2,archer_soulpenetration",
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "161763",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-06-13 18:00:14",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,spell_empower_curse,berserker_rancor,paladin_skeletalsquire,spell_empower_killingfield,musketeer_rapidreload,ensouled_enragedspirits,archer_soulpenetration",
-        "nextNodeType": "elementalwaterstream"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash,spell_empower_curse,berserker_rancor,paladin_skeletalsquire,spell_empower_killingfield,musketeer_rapidreload,ensouled_enragedspirits,archer_soulpenetration,saint_exalt",
+        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "161766",
         "completedLevels": "11",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-06-13 18:02:01",
-        "endTime": null,
+        "endTime": "2024-06-13 19:21:57",
         "captainBoons": "common_classic_comeback,saint_exalt,musketeer_grapeshot,musk_hunters_mark,musketeer_rapidreload,berserker_enrage,blob_parasite,assassin_agility,melee_follow_up,templar_beaconofhope,armored_ignorepain,fairy_hocuspocus",
         "nextNodeType": "frontiershowdown"
+    },
+    {
+        "dungeonRunId": "161769",
+        "completedLevels": "9",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-06-13 18:03:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_rapidshot,centurion_team_barbs,spell_empower_stronghold,saint_exalt,ensouled_enragedspirits,epic_ranged_dragonarrows,fairy_fireflyconjuration,captain_fragile_commander,epic_melee_glory_of_victory",
+        "nextNodeType": "moboatx"
+    },
+    {
+        "dungeonRunId": "161775",
+        "completedLevels": "9",
+        "twitchDisplayName": "MisterMarvelous",
+        "startTime": "2024-06-13 18:09:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,paladin_skeletalsquire,gladiator_war_machine,epic_giantsbrewzero,gladiator_sonofthunder,spell_empower_haste,berserker_rancor,ranged_damage_2,spell_empower_curse",
+        "nextNodeType": "elementalwaterstream"
+    },
+    {
+        "dungeonRunId": "161773",
+        "completedLevels": "9",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-06-13 18:08:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,monk_first_strike,warrior_lance_of_ruin,paladin_layonhands,elf_elvenimmortality,epic_epic_aspirations,musketeer_rapidreload,epic_giants_blessing,healer_dreamy_wardens",
+        "nextNodeType": "retrotown"
     },
     {
         "dungeonRunId": "161767",
@@ -36,22 +63,13 @@
         "nextNodeType": "spaceairlock"
     },
     {
-        "dungeonRunId": "161775",
-        "completedLevels": "9",
-        "twitchDisplayName": "MisterMarvelous",
-        "startTime": "2024-06-13 18:09:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,paladin_skeletalsquire,gladiator_war_machine,epic_giantsbrewzero,gladiator_sonofthunder,spell_empower_haste,berserker_rancor,ranged_damage_2",
-        "nextNodeType": "elementalwaterstream"
-    },
-    {
-        "dungeonRunId": "161773",
+        "dungeonRunId": "161774",
         "completedLevels": "8",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-06-13 18:08:06",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-06-13 18:08:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,monk_first_strike,warrior_lance_of_ruin,paladin_layonhands,elf_elvenimmortality,epic_epic_aspirations,musketeer_rapidreload,epic_giants_blessing",
-        "nextNodeType": "frontiershowdown"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,bomber_ricochet,epic_epic_aspirations,epic_giantsbrewzero,robot_robotauthority,buster_nanobusters,assassin_agility,epic_giants_blessing",
+        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "161765",
@@ -61,24 +79,6 @@
         "endTime": "2024-06-13 19:08:12",
         "captainBoons": "common_classic_comeback,saint_exalt,flagbearer_bannerofexaltation,vampire_aerial_fiend,vampire_darkwings,buster_healing_bomb,epic_ranged_dragonarrows,bomber_dangerzone,saint_missionary",
         "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "161769",
-        "completedLevels": "8",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-06-13 18:03:42",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_rapidshot,centurion_team_barbs,spell_empower_stronghold,saint_exalt,ensouled_enragedspirits,epic_ranged_dragonarrows,fairy_fireflyconjuration,captain_fragile_commander",
-        "nextNodeType": "olympiadbossCalliope1"
-    },
-    {
-        "dungeonRunId": "161774",
-        "completedLevels": "8",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-06-13 18:08:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,bomber_ricochet,epic_epic_aspirations,epic_giantsbrewzero,robot_robotauthority,buster_nanobusters,assassin_agility,epic_giants_blessing",
-        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "161770",
