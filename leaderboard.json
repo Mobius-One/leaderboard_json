@@ -36,6 +36,15 @@
         "nextNodeType": "sportiabasket"
     },
     {
+        "dungeonRunId": "161816",
+        "completedLevels": "22",
+        "twitchDisplayName": "TheMadameJ",
+        "startTime": "2024-06-13 21:02:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,rogue_skeletonturret,spell_empower_stronghold,flagbearer_bannerofluck,flying_evasive_maneuvers,rogue_shadow_cloak,rogue_sneakattack,general_dawnofvictory,barbarian_immortal,support_doomingsong,flagbearer_bannerofexaltation,blob_parasite,vampire_darkwings,frogue_preparation,spell_empower_curse,tank_tungstenswords,captain_fragile_commander,spell_empower_highground,centurion_tactician,centurion_team_barbs,tank_guardian",
+        "nextNodeType": "canyonseige"
+    },
+    {
         "dungeonRunId": "161810",
         "completedLevels": "22",
         "twitchDisplayName": "ohitsneb",
@@ -45,6 +54,15 @@
         "nextNodeType": "moboatx"
     },
     {
+        "dungeonRunId": "161811",
+        "completedLevels": "21",
+        "twitchDisplayName": "Glaceon2000",
+        "startTime": "2024-06-13 20:22:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,vampire_aerial_fiend,archer_rapidshot,flying_evasive_maneuvers,archer_soulpenetration,assassin_agility,bomber_ricochet,warbeast_terrifying_presence,epic_giantsbrewzero,epic_giants_blessing,epic_epic_aspirations,shinobi_shadowstrike,shinobi_firetechinique,berserker_killing_spree,ranged_attack_1,archer_venomarrows,epic_melee_glory_of_victory,musketeer_rapidreload,dagger_disappearing_act",
+        "nextNodeType": "shogunateAmbush"
+    },
+    {
         "dungeonRunId": "161773",
         "completedLevels": "21",
         "twitchDisplayName": "Rafipi",
@@ -52,24 +70,6 @@
         "endTime": "2024-06-13 21:17:47",
         "captainBoons": "common_classic_comeback,saint_exalt,monk_first_strike,warrior_lance_of_ruin,paladin_layonhands,elf_elvenimmortality,epic_epic_aspirations,musketeer_rapidreload,epic_giants_blessing,healer_dreamy_wardens,flagbearer_bannerofluck,ensouled_fatedspirits,epic_melee_glory_of_victory,epic_giantsbrewzero,warrior_flameslash,buster_nanobusters,lancer_sarissaspears,robot_robotauthority,spell_empower_haste,ranged_attack_1,general_dawnofvictory,spell_empower_killingfield",
         "nextNodeType": "spaceairlock"
-    },
-    {
-        "dungeonRunId": "161816",
-        "completedLevels": "21",
-        "twitchDisplayName": "TheMadameJ",
-        "startTime": "2024-06-13 21:02:59",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,rogue_skeletonturret,spell_empower_stronghold,flagbearer_bannerofluck,flying_evasive_maneuvers,rogue_shadow_cloak,rogue_sneakattack,general_dawnofvictory,barbarian_immortal,support_doomingsong,flagbearer_bannerofexaltation,blob_parasite,vampire_darkwings,frogue_preparation,spell_empower_curse,tank_tungstenswords,captain_fragile_commander,spell_empower_highground,centurion_tactician,centurion_team_barbs,tank_guardian",
-        "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "161811",
-        "completedLevels": "20",
-        "twitchDisplayName": "Glaceon2000",
-        "startTime": "2024-06-13 20:22:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,vampire_aerial_fiend,archer_rapidshot,flying_evasive_maneuvers,archer_soulpenetration,assassin_agility,bomber_ricochet,warbeast_terrifying_presence,epic_giantsbrewzero,epic_giants_blessing,epic_epic_aspirations,shinobi_shadowstrike,shinobi_firetechinique,berserker_killing_spree,ranged_attack_1,archer_venomarrows,epic_melee_glory_of_victory,musketeer_rapidreload,dagger_disappearing_act",
-        "nextNodeType": "plaguelandboss"
     },
     {
         "dungeonRunId": "161797",
