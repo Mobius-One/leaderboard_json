@@ -1,57 +1,57 @@
 [
     {
         "dungeonRunId": "161763",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-06-13 18:00:14",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears",
-        "nextNodeType": "spaceairlock"
-    },
-    {
-        "dungeonRunId": "161766",
-        "completedLevels": "3",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-06-13 18:02:01",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,musketeer_grapeshot,musk_hunters_mark",
-        "nextNodeType": "snowfall11"
-    },
-    {
-        "dungeonRunId": "161772",
-        "completedLevels": "3",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-06-13 18:05:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,bomber_bombardment",
-        "nextNodeType": "olympiadgodgroupFullEF"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,fairy_gift_of_the_wind,lancer_sarissaspears,armored_shield_bash",
+        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "161767",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-06-13 18:02:19",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_follow_up,artillery_machine_gun",
-        "nextNodeType": "sugarforest"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_follow_up,artillery_machine_gun,ranged_attack_1",
+        "nextNodeType": "plagueroost"
+    },
+    {
+        "dungeonRunId": "161766",
+        "completedLevels": "4",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-06-13 18:02:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,musketeer_grapeshot,musk_hunters_mark,musketeer_rapidreload",
+        "nextNodeType": "retrotown"
+    },
+    {
+        "dungeonRunId": "161772",
+        "completedLevels": "4",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-06-13 18:05:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,bomber_bombardment,flagbearer_bannerofluck",
+        "nextNodeType": "alpharaiderssquare"
     },
     {
         "dungeonRunId": "161765",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "A_Tall_Canadian",
         "startTime": "2024-06-13 18:01:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,flagbearer_bannerofexaltation",
-        "nextNodeType": "olympiadbossCalliope1"
+        "captainBoons": "common_classic_comeback,saint_exalt,flagbearer_bannerofexaltation,vampire_aerial_fiend",
+        "nextNodeType": "sugarforest"
     },
     {
         "dungeonRunId": "161770",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "TheMadameJ",
         "startTime": "2024-06-13 18:03:57",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,vampire_spectralpresence",
-        "nextNodeType": "gravedeath"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,vampire_spectralpresence,buster_nanobusters",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "161769",
@@ -73,20 +73,20 @@
     },
     {
         "dungeonRunId": "161775",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "MisterMarvelous",
         "startTime": "2024-06-13 18:09:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat",
-        "nextNodeType": "cruciblemeltdown"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,paladin_skeletalsquire",
+        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "161774",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "JojoGeeker",
         "startTime": "2024-06-13 18:08:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain",
-        "nextNodeType": "moboatx"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,bomber_ricochet",
+        "nextNodeType": "olympiadbossCalliope1"
     }
 ]
