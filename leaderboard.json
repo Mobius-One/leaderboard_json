@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "161804",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-06-13 19:36:07",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giants_blessing,bomber_bombardment,barbarian_gloriousdeath,bomber_ricochet,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_fatedspirits,lancer_firststrike,fairy_fireflyconjuration,ranged_damage_2,artillery_machine_gun,gladiator_browbeat,paladin_skeletalsquire,spell_empower_stronghold,monk_stoptheflow,flagbearer_bannerofexaltation,spell_empower_killingfield,warrior_soldieroffortune",
-        "nextNodeType": "shogunateAmbush"
+        "nextNodeType": "olympiadbossCalliope1"
     },
     {
         "dungeonRunId": "161773",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "161811",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "Glaceon2000",
         "startTime": "2024-06-13 20:22:58",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,ranged_damage_2,vampire_aerial_fiend,archer_rapidshot,flying_evasive_maneuvers,archer_soulpenetration,assassin_agility,bomber_ricochet,warbeast_terrifying_presence,epic_giantsbrewzero,epic_giants_blessing,epic_epic_aspirations,shinobi_shadowstrike,shinobi_firetechinique,berserker_killing_spree,ranged_attack_1",
-        "nextNodeType": "moboatx"
+        "nextNodeType": "crucibleboss"
     }
 ]
