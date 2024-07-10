@@ -27,21 +27,21 @@
         "nextNodeType": "sportiabasket"
     },
     {
-        "dungeonRunId": "163904",
-        "completedLevels": "80",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-06-25 15:59:24",
-        "endTime": "2024-06-25 23:35:54",
-        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,bomber_ricochet,ensouled_heroicspirits",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
         "dungeonRunId": "163955",
         "completedLevels": "80",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2024-06-26 00:42:39",
         "endTime": "2024-06-27 07:10:03",
         "captainBoons": "bomber_dangerzone,bomber_ricochet,warrior_lance_of_ruin,gladiator_browbeat",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
+        "dungeonRunId": "163904",
+        "completedLevels": "80",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-06-25 15:59:24",
+        "endTime": "2024-06-25 23:35:54",
+        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,bomber_ricochet,ensouled_heroicspirits",
         "nextNodeType": "plaguelandboss"
     },
     {
@@ -72,6 +72,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "163446",
+        "completedLevels": "67",
+        "twitchDisplayName": "RoseGaminDiva",
+        "startTime": "2024-06-22 09:54:21",
+        "endTime": null,
+        "captainBoons": "archer_soulpenetration,musketeer_grapeshot,bomber_bombardment,centurion_2,bomber_dangerzone,berserker_enrage,warrior_lance_of_ruin,epic_melee_glory_of_victory,amazon_vineclone,melee_follow_up,healer_giftofregeneration",
+        "nextNodeType": "olympiadgodgroupFullEF"
+    },
+    {
         "dungeonRunId": "162463",
         "completedLevels": "67",
         "twitchDisplayName": "FinalSun",
@@ -79,14 +88,5 @@
         "endTime": "2024-06-17 00:48:53",
         "captainBoons": "bomber_dangerzone,elf_elvenimmortality,gladiator_war_machine,saint_exalt,melee_follow_up,archer_soulpenetration,bomber_ricochet,ensouled_heroicspirits,barbarian_gloriousdeath,gladiator_sonofthunder,fairy_fireflyconjuration",
         "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "162171",
-        "completedLevels": "66",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-06-15 01:26:44",
-        "endTime": "2024-06-15 08:54:29",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_shadowstrike,gladiator_sonofthunder,epic_melee_glory_of_victory,epic_giants_blessing,epic_giantsbrewzero,warrior_lance_of_ruin,lancer_spearwall,lancer_sarissaspears,berserker_enrage",
-        "nextNodeType": "spaceairlock"
     }
 ]
