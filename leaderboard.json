@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "163446",
-        "completedLevels": "70",
+        "completedLevels": "71",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-06-22 09:54:21",
         "endTime": null,
         "captainBoons": "archer_soulpenetration,musketeer_grapeshot,bomber_bombardment,bomber_dangerzone,berserker_enrage,warrior_lance_of_ruin,epic_melee_glory_of_victory,melee_follow_up,healer_giftofregeneration",
-        "nextNodeType": "alpharaiderssquare"
+        "nextNodeType": "plaguelandboss"
     },
     {
         "dungeonRunId": "162463",
