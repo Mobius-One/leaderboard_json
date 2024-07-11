@@ -1,21 +1,39 @@
 [
     {
         "dungeonRunId": "164314",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "thecapnk",
         "startTime": "2024-07-11 21:36:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,blob_flesheater",
-        "nextNodeType": "libraryboss"
+        "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin",
+        "nextNodeType": "beastlandsbug03"
     },
     {
-        "dungeonRunId": "164317",
+        "dungeonRunId": "164320",
         "completedLevels": "1",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-07-11 21:45:25",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-07-11 21:51:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone",
+        "nextNodeType": "plaguegrotto"
+    },
+    {
+        "dungeonRunId": "164319",
+        "completedLevels": "1",
+        "twitchDisplayName": "WillowLeef",
+        "startTime": "2024-07-11 21:50:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_damage_1",
+        "nextNodeType": "plaguegrotto"
+    },
+    {
+        "dungeonRunId": "164321",
+        "completedLevels": "1",
+        "twitchDisplayName": "sconniephd",
+        "startTime": "2024-07-11 21:51:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_charge",
+        "nextNodeType": "tomblandsquicksand"
     },
     {
         "dungeonRunId": "164315",
@@ -25,5 +43,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone",
         "nextNodeType": "skyportals"
+    },
+    {
+        "dungeonRunId": "164317",
+        "completedLevels": "1",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-07-11 21:45:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer",
+        "nextNodeType": "winterdinos"
     }
 ]
