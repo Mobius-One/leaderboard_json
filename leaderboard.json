@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "164320",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-07-11 21:51:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet",
+        "nextNodeType": "libraryboss"
     },
     {
-        "dungeonRunId": "164319",
-        "completedLevels": "1",
-        "twitchDisplayName": "WillowLeef",
-        "startTime": "2024-07-11 21:50:19",
+        "dungeonRunId": "164315",
+        "completedLevels": "2",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-07-11 21:41:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_damage_1",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164321",
@@ -36,13 +36,13 @@
         "nextNodeType": "tomblandsquicksand"
     },
     {
-        "dungeonRunId": "164315",
+        "dungeonRunId": "164319",
         "completedLevels": "1",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-07-11 21:41:17",
+        "twitchDisplayName": "WillowLeef",
+        "startTime": "2024-07-11 21:50:19",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,melee_damage_1",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "164317",
@@ -52,5 +52,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer",
         "nextNodeType": "winterdinos"
+    },
+    {
+        "dungeonRunId": "164325",
+        "completedLevels": "1",
+        "twitchDisplayName": "lord_bumkin",
+        "startTime": "2024-07-11 21:57:22",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_charge",
+        "nextNodeType": "oasisvalley"
     }
 ]
