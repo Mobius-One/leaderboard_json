@@ -1,21 +1,30 @@
 [
     {
         "dungeonRunId": "164314",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "thecapnk",
         "startTime": "2024-07-11 21:36:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin",
-        "nextNodeType": "beastlandsbug03"
+        "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin,epic_giantsbrewzero",
+        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "164320",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-07-11 21:51:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet",
-        "nextNodeType": "libraryboss"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow",
+        "nextNodeType": "moboohm"
+    },
+    {
+        "dungeonRunId": "164319",
+        "completedLevels": "2",
+        "twitchDisplayName": "WillowLeef",
+        "startTime": "2024-07-11 21:50:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_damage_1,armored_heavyblades",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "164315",
@@ -28,21 +37,12 @@
     },
     {
         "dungeonRunId": "164321",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "sconniephd",
         "startTime": "2024-07-11 21:51:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge",
-        "nextNodeType": "tomblandsquicksand"
-    },
-    {
-        "dungeonRunId": "164319",
-        "completedLevels": "1",
-        "twitchDisplayName": "WillowLeef",
-        "startTime": "2024-07-11 21:50:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_damage_1",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "164317",
@@ -52,6 +52,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer",
         "nextNodeType": "winterdinos"
+    },
+    {
+        "dungeonRunId": "164327",
+        "completedLevels": "1",
+        "twitchDisplayName": "iitsYoda",
+        "startTime": "2024-07-11 22:02:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "164325",
