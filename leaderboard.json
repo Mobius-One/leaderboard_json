@@ -1,92 +1,11 @@
 [
     {
-        "dungeonRunId": "163859",
-        "completedLevels": "84",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-06-25 11:36:05",
-        "endTime": "2024-06-25 22:04:39",
-        "captainBoons": "bomber_dangerzone,saint_exalt",
-        "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "163986",
-        "completedLevels": "83",
-        "twitchDisplayName": "La_Ferme_de_Karpe",
-        "startTime": "2024-06-26 06:37:48",
-        "endTime": "2024-06-30 00:26:46",
-        "captainBoons": "bomber_dangerzone,warrior_lance_of_ruin,bomber_ricochet",
-        "nextNodeType": "frontiershowdown"
-    },
-    {
-        "dungeonRunId": "163783",
-        "completedLevels": "82",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-06-24 23:24:18",
-        "endTime": "2024-06-25 07:16:32",
-        "captainBoons": "bomber_bombardment,bomber_dangerzone,saint_exalt",
-        "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "163904",
-        "completedLevels": "80",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-06-25 15:59:24",
-        "endTime": "2024-06-25 23:35:54",
-        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,bomber_ricochet,ensouled_heroicspirits",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "163955",
-        "completedLevels": "80",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-06-26 00:42:39",
-        "endTime": "2024-06-27 07:10:03",
-        "captainBoons": "bomber_dangerzone,bomber_ricochet,warrior_lance_of_ruin,gladiator_browbeat",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "163494",
-        "completedLevels": "79",
-        "twitchDisplayName": "NutshellinChains",
-        "startTime": "2024-06-22 19:43:10",
-        "endTime": "2024-06-23 05:35:24",
-        "captainBoons": "bomber_dangerzone,warrior_lance_of_ruin,berserker_enrage,archer_soulpenetration,epic_giantsbrewzero",
-        "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "163694",
-        "completedLevels": "77",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-06-24 10:07:01",
-        "endTime": "2024-06-24 19:56:59",
-        "captainBoons": "epic_melee_glory_of_victory,saint_exalt,musk_hunters_mark,warrior_lance_of_ruin,epic_giantsbrewzero,ensouled_fatedspirits",
-        "nextNodeType": "gravedeath"
-    },
-    {
-        "dungeonRunId": "162209",
-        "completedLevels": "74",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-06-15 05:10:33",
-        "endTime": "2024-06-15 13:50:19",
-        "captainBoons": "gladiator_war_machine,ensouled_fatedspirits,epic_melee_glory_of_victory,bomber_dangerzone,bomber_ricochet,bomber_bombardment,archer_soulpenetration",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "163446",
-        "completedLevels": "73",
-        "twitchDisplayName": "RoseGaminDiva",
-        "startTime": "2024-06-22 09:54:21",
-        "endTime": "2024-07-10 09:43:53",
-        "captainBoons": "archer_soulpenetration,musketeer_grapeshot,bomber_bombardment,bomber_dangerzone,berserker_enrage,warrior_lance_of_ruin,epic_melee_glory_of_victory,healer_giftofregeneration",
-        "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "164176",
-        "completedLevels": "72",
-        "twitchDisplayName": "SDCOTTLE",
-        "startTime": "2024-06-27 04:36:48",
-        "endTime": "2024-07-11 15:51:24",
-        "captainBoons": "centurion_2,bomber_dangerzone,gladiator_sonofthunder,saint_exalt,musk_hunters_mark,warrior_lance_of_ruin,fairy_fireflyconjuration,berserker_enrage",
-        "nextNodeType": "shogunateAmbush"
+        "dungeonRunId": "164314",
+        "completedLevels": "1",
+        "twitchDisplayName": "thecapnk",
+        "startTime": "2024-07-11 21:36:49",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_1",
+        "nextNodeType": "raidhallalake"
     }
 ]
