@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "164314",
+        "completedLevels": "6",
+        "twitchDisplayName": "thecapnk",
+        "startTime": "2024-07-11 21:36:49",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin,epic_giantsbrewzero,amazon_hermesblessing,bomber_living_bomb",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "164320",
         "completedLevels": "5",
         "twitchDisplayName": "ThaBan4",
@@ -9,13 +18,22 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "164314",
-        "completedLevels": "5",
-        "twitchDisplayName": "thecapnk",
-        "startTime": "2024-07-11 21:36:49",
+        "dungeonRunId": "164319",
+        "completedLevels": "4",
+        "twitchDisplayName": "WillowLeef",
+        "startTime": "2024-07-11 21:50:19",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin,epic_giantsbrewzero,amazon_hermesblessing",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,melee_damage_1,armored_heavyblades,epic_epic_aspirations",
+        "nextNodeType": "skyportals"
+    },
+    {
+        "dungeonRunId": "164321",
+        "completedLevels": "4",
+        "twitchDisplayName": "sconniephd",
+        "startTime": "2024-07-11 21:51:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion,archer_zephyrstride",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "164315",
@@ -23,26 +41,8 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2024-07-11 21:41:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits",
         "nextNodeType": "frontiercavalry"
-    },
-    {
-        "dungeonRunId": "164319",
-        "completedLevels": "3",
-        "twitchDisplayName": "WillowLeef",
-        "startTime": "2024-07-11 21:50:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_damage_1,armored_heavyblades,epic_epic_aspirations",
-        "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "164321",
-        "completedLevels": "3",
-        "twitchDisplayName": "sconniephd",
-        "startTime": "2024-07-11 21:51:59",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion",
-        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "164325",
@@ -54,39 +54,39 @@
         "nextNodeType": "wildorcs"
     },
     {
-        "dungeonRunId": "164329",
-        "completedLevels": "2",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-07-11 22:06:02",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,melee_armor_break",
-        "nextNodeType": "libraryboss"
-    },
-    {
-        "dungeonRunId": "164328",
-        "completedLevels": "2",
-        "twitchDisplayName": "Protomat",
-        "startTime": "2024-07-11 22:04:40",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,support_defensivetraining",
-        "nextNodeType": "crystalcavethrone"
-    },
-    {
         "dungeonRunId": "164317",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2024-07-11 21:45:25",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "164327",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "iitsYoda",
         "startTime": "2024-07-11 22:02:15",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin",
+        "nextNodeType": "skyportals"
+    },
+    {
+        "dungeonRunId": "164329",
+        "completedLevels": "2",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-07-11 22:06:02",
+        "endTime": "2024-07-11 22:22:20",
+        "captainBoons": "common_classic_comeback,general_1,melee_armor_break",
+        "nextNodeType": "libraryboss"
+    },
+    {
+        "dungeonRunId": "164332",
+        "completedLevels": "2",
+        "twitchDisplayName": "StormEH15",
+        "startTime": "2024-07-11 22:07:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_damage_1,warbeast_1",
         "nextNodeType": "libraryboss"
     }
 ]
