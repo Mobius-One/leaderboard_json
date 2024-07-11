@@ -1,20 +1,20 @@
 [
     {
+        "dungeonRunId": "164314",
+        "completedLevels": "8",
+        "twitchDisplayName": "thecapnk",
+        "startTime": "2024-07-11 21:36:49",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin,epic_giantsbrewzero,amazon_hermesblessing,bomber_living_bomb,barbarian_gloriousdeath,healer_giftofregeneration",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
         "dungeonRunId": "164320",
         "completedLevels": "7",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-07-11 21:51:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,rogue_shadow_cloak",
-        "nextNodeType": "raidhallapath"
-    },
-    {
-        "dungeonRunId": "164314",
-        "completedLevels": "7",
-        "twitchDisplayName": "thecapnk",
-        "startTime": "2024-07-11 21:36:49",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin,epic_giantsbrewzero,amazon_hermesblessing,bomber_living_bomb,barbarian_gloriousdeath",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,rogue_shadow_cloak,saint_exalt",
         "nextNodeType": "raidhallapath"
     },
     {
@@ -28,30 +28,30 @@
     },
     {
         "dungeonRunId": "164321",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "sconniephd",
         "startTime": "2024-07-11 21:51:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion,archer_zephyrstride,elf_elvenimmortality",
-        "nextNodeType": "orctotem"
+        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion,archer_zephyrstride,elf_elvenimmortality,musk_volley_tactics",
+        "nextNodeType": "shogunateAmbush"
+    },
+    {
+        "dungeonRunId": "164317",
+        "completedLevels": "5",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-07-11 21:45:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,musk_volley_tactics,armored_unyieldingdefense",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164327",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "iitsYoda",
         "startTime": "2024-07-11 22:02:15",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin,general_2",
-        "nextNodeType": "moboohm"
-    },
-    {
-        "dungeonRunId": "164319",
-        "completedLevels": "4",
-        "twitchDisplayName": "WillowLeef",
-        "startTime": "2024-07-11 21:50:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_damage_1,armored_heavyblades,epic_epic_aspirations",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin,general_2,artillery_maxpower",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164315",
@@ -81,12 +81,12 @@
         "nextNodeType": "skyportals"
     },
     {
-        "dungeonRunId": "164317",
+        "dungeonRunId": "164332",
         "completedLevels": "4",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-07-11 21:45:25",
+        "twitchDisplayName": "StormEH15",
+        "startTime": "2024-07-11 22:07:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,musk_volley_tactics,armored_unyieldingdefense",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,melee_damage_1,warbeast_1,templar_1,ranged_ironbreakballistics",
+        "nextNodeType": "tabletophold"
     }
 ]
