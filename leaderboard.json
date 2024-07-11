@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "164315",
+        "completedLevels": "1",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-07-11 21:41:17",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback",
+        "nextNodeType": "skyportals"
+    },
+    {
         "dungeonRunId": "164314",
         "completedLevels": "1",
         "twitchDisplayName": "thecapnk",
