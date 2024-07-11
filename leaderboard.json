@@ -1,20 +1,29 @@
 [
     {
+        "dungeonRunId": "164314",
+        "completedLevels": "2",
+        "twitchDisplayName": "thecapnk",
+        "startTime": "2024-07-11 21:36:49",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_1,blob_flesheater",
+        "nextNodeType": "libraryboss"
+    },
+    {
+        "dungeonRunId": "164317",
+        "completedLevels": "1",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-07-11 21:45:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "164315",
         "completedLevels": "1",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-07-11 21:41:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone",
         "nextNodeType": "skyportals"
-    },
-    {
-        "dungeonRunId": "164314",
-        "completedLevels": "1",
-        "twitchDisplayName": "thecapnk",
-        "startTime": "2024-07-11 21:36:49",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1",
-        "nextNodeType": "raidhallalake"
     }
 ]
