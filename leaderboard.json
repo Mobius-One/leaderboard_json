@@ -1,21 +1,30 @@
 [
     {
+        "dungeonRunId": "164320",
+        "completedLevels": "5",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-07-11 21:51:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "164314",
         "completedLevels": "5",
         "twitchDisplayName": "thecapnk",
         "startTime": "2024-07-11 21:36:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin,epic_giantsbrewzero",
+        "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin,epic_giantsbrewzero,amazon_hermesblessing",
         "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
-        "dungeonRunId": "164320",
-        "completedLevels": "4",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-07-11 21:51:52",
+        "dungeonRunId": "164315",
+        "completedLevels": "3",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-07-11 21:41:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride",
-        "nextNodeType": "oasisvalley"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "164319",
@@ -36,57 +45,48 @@
         "nextNodeType": "oasisvalley"
     },
     {
-        "dungeonRunId": "164315",
-        "completedLevels": "2",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-07-11 21:41:17",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "164325",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "lord_bumkin",
         "startTime": "2024-07-11 21:57:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,templar_commanding_presence",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "captainBoons": "common_classic_comeback,melee_charge,templar_commanding_presence,musk_volley_tactics",
+        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "164329",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-07-11 22:06:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1",
-        "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "164332",
-        "completedLevels": "1",
-        "twitchDisplayName": "StormEH15",
-        "startTime": "2024-07-11 22:07:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_damage_1",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,general_1,melee_armor_break",
+        "nextNodeType": "libraryboss"
     },
     {
         "dungeonRunId": "164328",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Protomat",
         "startTime": "2024-07-11 22:04:40",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "common_classic_comeback,saint_exalt,support_defensivetraining",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "164317",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2024-07-11 21:45:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "164327",
+        "completedLevels": "2",
+        "twitchDisplayName": "iitsYoda",
+        "startTime": "2024-07-11 22:02:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater",
+        "nextNodeType": "libraryboss"
     }
 ]
