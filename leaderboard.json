@@ -81,12 +81,12 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "163673",
-        "completedLevels": "71",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-06-24 05:36:31",
-        "endTime": "2024-07-11 02:31:12",
-        "captainBoons": "common_classic_comeback,epic_giants_blessing,epic_epic_aspirations,fairy_fireflyconjuration,archer_soulpenetration,warrior_soldieroffortune,warrior_lance_of_ruin,bomber_bombardment,bomber_dangerzone",
-        "nextNodeType": "crucibleboss"
+        "dungeonRunId": "164176",
+        "completedLevels": "72",
+        "twitchDisplayName": "SDCOTTLE",
+        "startTime": "2024-06-27 04:36:48",
+        "endTime": null,
+        "captainBoons": "centurion_2,bomber_dangerzone,gladiator_sonofthunder,saint_exalt,musk_hunters_mark,warrior_lance_of_ruin,fairy_fireflyconjuration,berserker_enrage",
+        "nextNodeType": "shogunateAmbush"
     }
 ]
