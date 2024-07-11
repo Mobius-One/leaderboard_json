@@ -27,21 +27,21 @@
         "nextNodeType": "sportiabasket"
     },
     {
-        "dungeonRunId": "163904",
-        "completedLevels": "80",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-06-25 15:59:24",
-        "endTime": "2024-06-25 23:35:54",
-        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,bomber_ricochet,ensouled_heroicspirits",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
         "dungeonRunId": "163955",
         "completedLevels": "80",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2024-06-26 00:42:39",
         "endTime": "2024-06-27 07:10:03",
         "captainBoons": "bomber_dangerzone,bomber_ricochet,warrior_lance_of_ruin,gladiator_browbeat",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
+        "dungeonRunId": "163904",
+        "completedLevels": "80",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-06-25 15:59:24",
+        "endTime": "2024-06-25 23:35:54",
+        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,bomber_ricochet,ensouled_heroicspirits",
         "nextNodeType": "plaguelandboss"
     },
     {
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "163673",
-        "completedLevels": "67",
+        "completedLevels": "68",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-06-24 05:36:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giants_blessing,epic_epic_aspirations,fairy_fireflyconjuration,archer_soulpenetration,warrior_soldieroffortune,epic_giantsbrewzero,warrior_lance_of_ruin,bomber_bombardment,bomber_dangerzone,saint_exalt",
-        "nextNodeType": "retrotown"
+        "captainBoons": "common_classic_comeback,epic_giants_blessing,epic_epic_aspirations,fairy_fireflyconjuration,archer_soulpenetration,warrior_soldieroffortune,epic_giantsbrewzero,warrior_lance_of_ruin,bomber_bombardment,bomber_dangerzone",
+        "nextNodeType": "plaguelandboss"
     }
 ]
