@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "163673",
-        "completedLevels": "69",
+        "completedLevels": "70",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-06-24 05:36:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giants_blessing,epic_epic_aspirations,fairy_fireflyconjuration,archer_soulpenetration,warrior_soldieroffortune,epic_giantsbrewzero,warrior_lance_of_ruin,bomber_bombardment,bomber_dangerzone",
-        "nextNodeType": "cruciblemeltdown"
+        "captainBoons": "common_classic_comeback,epic_giants_blessing,epic_epic_aspirations,fairy_fireflyconjuration,archer_soulpenetration,warrior_soldieroffortune,warrior_lance_of_ruin,bomber_bombardment,bomber_dangerzone",
+        "nextNodeType": "sugarforest"
     }
 ]
