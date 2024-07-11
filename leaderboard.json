@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "164320",
+        "completedLevels": "7",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-07-11 21:51:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,rogue_shadow_cloak",
+        "nextNodeType": "raidhallapath"
+    },
+    {
         "dungeonRunId": "164314",
         "completedLevels": "7",
         "twitchDisplayName": "thecapnk",
@@ -9,22 +18,13 @@
         "nextNodeType": "raidhallapath"
     },
     {
-        "dungeonRunId": "164320",
-        "completedLevels": "6",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-07-11 21:51:52",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,rogue_shadow_cloak",
-        "nextNodeType": "winterdinos"
-    },
-    {
         "dungeonRunId": "164322",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "AllegingTuna",
         "startTime": "2024-07-11 21:52:50",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,amazon_hermesblessing,musk_volley_tactics,melee_damage_1,support_defensivetraining",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,amazon_hermesblessing,musk_volley_tactics,melee_damage_1,support_defensivetraining,bomber_living_bomb",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164321",
@@ -36,13 +36,13 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "164325",
+        "dungeonRunId": "164327",
         "completedLevels": "4",
-        "twitchDisplayName": "lord_bumkin",
-        "startTime": "2024-07-11 21:57:22",
+        "twitchDisplayName": "iitsYoda",
+        "startTime": "2024-07-11 22:02:15",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,templar_commanding_presence,musk_volley_tactics,general_2",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin,general_2",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "164319",
@@ -55,38 +55,38 @@
     },
     {
         "dungeonRunId": "164315",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-07-11 21:41:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits",
-        "nextNodeType": "frontiercavalry"
-    },
-    {
-        "dungeonRunId": "164328",
-        "completedLevels": "3",
-        "twitchDisplayName": "Protomat",
-        "startTime": "2024-07-11 22:04:40",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,support_defensivetraining,epic_ranged_dragonarrows",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits,archer_zephyrstride",
         "nextNodeType": "beastlandsbug03"
     },
     {
+        "dungeonRunId": "164328",
+        "completedLevels": "4",
+        "twitchDisplayName": "Protomat",
+        "startTime": "2024-07-11 22:04:40",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,support_defensivetraining,epic_ranged_dragonarrows,rogue_flamewalker",
+        "nextNodeType": "wildorcs"
+    },
+    {
+        "dungeonRunId": "164325",
+        "completedLevels": "4",
+        "twitchDisplayName": "lord_bumkin",
+        "startTime": "2024-07-11 21:57:22",
+        "endTime": "2024-07-11 22:34:28",
+        "captainBoons": "common_classic_comeback,melee_charge,templar_commanding_presence,musk_volley_tactics,general_2",
+        "nextNodeType": "skyportals"
+    },
+    {
         "dungeonRunId": "164317",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2024-07-11 21:45:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,musk_volley_tactics",
-        "nextNodeType": "raidhallapath"
-    },
-    {
-        "dungeonRunId": "164331",
-        "completedLevels": "3",
-        "twitchDisplayName": "kingjerry_4ever",
-        "startTime": "2024-07-11 22:07:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_damage_1,support_defensivetraining,spell_empower_highground",
-        "nextNodeType": "oasisvalley"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,musk_volley_tactics,armored_unyieldingdefense",
+        "nextNodeType": "skyportals"
     }
 ]
