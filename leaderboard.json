@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "164434",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-07-12 10:06:38",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,common_specialists,musk_golden_rounds,epic_ranged_dragonarrows,ranged_preciseshot,monk_heavenskarma,armored_unyieldingdefense,bomber_ricochet,epic_melee_glory_of_victory,general_2,healer_giftofregeneration,musk_volley_tactics,general_1,saint_missionary,ensouled_heroicspirits,tank_frostbarbs,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,assassin_spynetwork,ensouled_enragedspirits,epic_epic_aspirations",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "164380",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "164433",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-07-12 10:05:54",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,orcs_inpenetrable,berserker_frenzy,epic_giantsbrewzero,vampire_spectralpresence,warrior_lance_of_ruin,amazon_hermesblessing,paladin_holyforce,archer_zephyrstride,monk_selfless_prayer,epic_epic_aspirations,warrior_bladedancer,bomber_ricochet,spell_empower_haste,mage_elementalsummoning,vampire_swarmcoffin,armored_unyieldingdefense,elf_elvenimmortality,blob_parasite,ranged_ironbreakballistics,ensouled_fatedspirits,bomber_living_bomb,support_healingsong,healer_giftofregeneration,flag_1,melee_damage_1,ranged_preciseshot",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "nextNodeType": "tabletophold"
     }
 ]
