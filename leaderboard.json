@@ -31,18 +31,9 @@
         "completedLevels": "20",
         "twitchDisplayName": "lord_bumkin",
         "startTime": "2024-07-11 22:34:41",
-        "endTime": null,
+        "endTime": "2024-07-12 01:15:21",
         "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,gladiator_sonofthunder,rogue_shadow_cloak,barbarian_gloriousdeath,elf_elvenimmortality,necromancer_ectoplosion,assassin_spynetwork,support_defensivetraining,warrior_lance_of_ruin,rogue_flamewalker,musk_golden_rounds,art_siege_weapons,ranged_ironbreakballistics,mage_elementalsummoning,mage_clone,general_4,orcs_inpenetrable,templar_1,warrior_bladedancer,vampire_spectralpresence",
         "nextNodeType": "crystalcavethrone"
-    },
-    {
-        "dungeonRunId": "164321",
-        "completedLevels": "19",
-        "twitchDisplayName": "sconniephd",
-        "startTime": "2024-07-11 21:51:59",
-        "endTime": "2024-07-12 00:21:48",
-        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion,archer_zephyrstride,elf_elvenimmortality,musk_volley_tactics,general_1,robot_robotauthority,berserker_frenzy,vampire_darkwings,spy_hauntingsabotage,ensouled_heroicspirits,ranged_attack_1,necromancer_necronomicon,barbarian_conqueror,armored_unyieldingdefense,berserker_enrage,warrior_lance_of_ruin,warrior_bladedancer",
-        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164333",
@@ -52,6 +43,15 @@
         "endTime": "2024-07-12 01:02:39",
         "captainBoons": "common_classic_comeback,support_healingsong,blob_flesheater,bomber_living_bomb,ranged_attack_1,bomber_ricochet,spell_empower_stronghold,epic_giantsbrewzero,melee_armor_break,epic_armored_armored_giants,general_1,gladiator_sonofthunder,tank_hoarfrost_armor,bomber_dangerzone,barb_warcry,lancer_ignitingstrike,saint_exalt,elf_elvenimmortality,epic_melee_glory_of_victory,flagbearer_bannerofvitality",
         "nextNodeType": "frontiercavalry"
+    },
+    {
+        "dungeonRunId": "164321",
+        "completedLevels": "19",
+        "twitchDisplayName": "sconniephd",
+        "startTime": "2024-07-11 21:51:59",
+        "endTime": "2024-07-12 00:21:48",
+        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion,archer_zephyrstride,elf_elvenimmortality,musk_volley_tactics,general_1,robot_robotauthority,berserker_frenzy,vampire_darkwings,spy_hauntingsabotage,ensouled_heroicspirits,ranged_attack_1,necromancer_necronomicon,barbarian_conqueror,armored_unyieldingdefense,berserker_enrage,warrior_lance_of_ruin,warrior_bladedancer",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164314",
