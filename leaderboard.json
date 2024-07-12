@@ -81,12 +81,12 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
-        "dungeonRunId": "164380",
-        "completedLevels": "41",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-07-12 02:22:12",
-        "endTime": "2024-07-12 07:14:54",
-        "captainBoons": "common_classic_comeback,spell_empower_stronghold,bomber_ricochet,lancer_ignitingstrike,archer_zephyrstride,blob_flesheater,warrior_lance_of_ruin,barb_warcry,blob_parasite,epic_giantsbrewzero,melee_armor_break,archer_steadybow,assassin_spynetwork,amazon_hermesblessing,bomber_dangerzone,assassin_deathmark,epic_melee_glory_of_victory,armored_damage_1,ensouled_fatedspirits,frogue_air_snipers,saint_exalt,orcs_inpenetrable,barbarian_conqueror,elf_elvenimmortality",
-        "nextNodeType": "orctotem"
+        "dungeonRunId": "164486",
+        "completedLevels": "42",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-07-12 15:57:41",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,epic_melee_glory_of_victory,melee_damage_1,gladiator_sonofthunder,common_specialists,warrior_bladedancer,ensouled_fatedspirits,warrior_lance_of_ruin,general_1,amazon_hermesblessing,musk_golden_rounds,bomber_ricochet,flag_1,archer_zephyrstride,melee_armor_break,mage_clone,support_healingsong,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,flagbearer_bannerofvitality",
+        "nextNodeType": "steampunkgear"
     }
 ]
