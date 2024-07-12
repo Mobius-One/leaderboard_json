@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "164352",
-        "completedLevels": "34",
+        "completedLevels": "35",
         "twitchDisplayName": "kingjerry_4ever",
         "startTime": "2024-07-11 23:40:20",
         "endTime": null,
         "captainBoons": "common_classic_comeback,mage_clone,archer_zephyrstride,artillery_maxpower,berserker_frenzy,lancer_sarissaspears,mage_elementalsummoning,spell_empower_haste,barbarian_gloriousdeath,gladiator_sonofthunder,warbeast_underworldbeast,rogue_flamewalker,support_defensivetraining,warrior_lance_of_ruin,ranged_ironbreakballistics,barb_warcry,rogue_shadow_cloak,bomber_dangerzone,ranged_preciseshot,centurion_shieldofbones,melee_damage_1,fairy_hocuspocus,general_2,amazon_hermesblessing,frogue_air_snipers,general_4,blob_flesheater",
-        "nextNodeType": "skyportals"
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "164369",
@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "164368",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "LilithSM",
         "startTime": "2024-07-12 00:44:07",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_3,artillery_maxpower,lancer_ignitingstrike,barbarian_gloriousdeath,healer_giftofregeneration,epic_ranged_dragonarrows,lancer_sarissaspears,vampire_spectralpresence,amazon_vineclone,warrior_bladedancer,bomber_ricochet,common_specialists,rogue_flamewalker,ranged_preciseshot,epic_epic_aspirations,archer_zephyrstride,saint_missionary,warrior_lance_of_ruin,vampire_darkwings,frogue_preparation,berserker_frenzy,general_1,warbeast_1,healer_healing_bloom,ranged_ironbreakballistics",
-        "nextNodeType": "tabletophold"
+        "captainBoons": "common_classic_comeback,general_3,artillery_maxpower,lancer_ignitingstrike,barbarian_gloriousdeath,healer_giftofregeneration,epic_ranged_dragonarrows,lancer_sarissaspears,vampire_spectralpresence,amazon_vineclone,warrior_bladedancer,bomber_ricochet,common_specialists,rogue_flamewalker,ranged_preciseshot,epic_epic_aspirations,archer_zephyrstride,saint_missionary,warrior_lance_of_ruin,vampire_darkwings,frogue_preparation,berserker_frenzy,general_1,warbeast_1,healer_healing_bloom,ranged_ironbreakballistics,undead_undeadresilience",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164357",
