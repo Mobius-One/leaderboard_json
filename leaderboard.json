@@ -10,12 +10,21 @@
     },
     {
         "dungeonRunId": "164369",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-07-12 01:04:20",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,ensouled_enragedspirits,epic_armored_armored_giants,general_2,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,healer_giftofregeneration,orcs_inpenetrable,templar_1,melee_damage_1,lancer_spearwall,lancer_sarissaspears,barb_warcry",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,ensouled_enragedspirits,epic_armored_armored_giants,general_2,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,paladin_layonhands,healer_giftofregeneration,orcs_inpenetrable,templar_1,melee_damage_1,lancer_spearwall,lancer_sarissaspears,barb_warcry",
+        "nextNodeType": "shogunateAmbush"
+    },
+    {
+        "dungeonRunId": "164390",
+        "completedLevels": "38",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 03:40:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,artillery_maxpower,mage_elementalsummoning,ensouled_bravespirits,support_doomingsong,ensouled_fatedspirits,berserker_frenzy,tank_frostbarbs,armored_heavyblades,barbarian_conqueror,archer_steadybow,melee_damage_1,centurion_juggernaut,healer_healing_bloom,epic_giantsbrewzero,support_defensivetraining,art_siege_weapons,bomber_dangerzone,amazon_hermesblessing,warrior_lance_of_ruin,armored_damage_1,elf_elvenimmortality,bomber_living_bomb,musk_golden_rounds",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164352",
@@ -28,21 +37,12 @@
     },
     {
         "dungeonRunId": "164380",
-        "completedLevels": "37",
+        "completedLevels": "38",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2024-07-12 02:22:12",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,spell_empower_stronghold,barbarian_gloriousdeath,bomber_ricochet,lancer_ignitingstrike,archer_zephyrstride,blob_flesheater,warrior_lance_of_ruin,barb_warcry,blob_parasite,epic_giantsbrewzero,melee_armor_break,archer_steadybow,assassin_spynetwork,amazon_hermesblessing,saint_godspeed,bomber_dangerzone,assassin_deathmark,epic_melee_glory_of_victory,armored_damage_1,ensouled_fatedspirits,frogue_air_snipers,saint_exalt,orcs_inpenetrable,barbarian_conqueror,elf_elvenimmortality",
-        "nextNodeType": "oasisvalley"
-    },
-    {
-        "dungeonRunId": "164390",
-        "completedLevels": "37",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-07-12 03:40:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,artillery_maxpower,mage_elementalsummoning,ensouled_bravespirits,support_doomingsong,ensouled_fatedspirits,berserker_frenzy,tank_frostbarbs,armored_heavyblades,barbarian_conqueror,blob_flesheater,archer_steadybow,melee_damage_1,centurion_juggernaut,healer_healing_bloom,epic_giantsbrewzero,support_defensivetraining,art_siege_weapons,bomber_dangerzone,amazon_hermesblessing,warrior_lance_of_ruin,armored_damage_1,elf_elvenimmortality,bomber_living_bomb,musk_golden_rounds",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,spell_empower_stronghold,barbarian_gloriousdeath,bomber_ricochet,lancer_ignitingstrike,archer_zephyrstride,blob_flesheater,warrior_lance_of_ruin,barb_warcry,blob_parasite,epic_giantsbrewzero,melee_armor_break,archer_steadybow,assassin_spynetwork,amazon_hermesblessing,bomber_dangerzone,assassin_deathmark,epic_melee_glory_of_victory,armored_damage_1,ensouled_fatedspirits,frogue_air_snipers,saint_exalt,orcs_inpenetrable,barbarian_conqueror,elf_elvenimmortality",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164391",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "164375",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-07-12 02:08:58",
         "endTime": null,
         "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,robot_robotauthority,spy_fromcaptainwithlove,bomber_dangerzone,shinobi_firetechinique,archer_steadybow,melee_damage_1,musk_golden_rounds,epic_ranged_dragonarrows,ranged_attack_1,elf_elvenimmortality,frogue_air_snipers,ranged_ironbreakballistics,paladin_skeletalsquire,musk_volley_tactics,healer_combatmedic,vampire_spectralpresence,epic_melee_glory_of_victory,rogue_flamewalker,amazon_hermesblessing,orcslayer_worldrazer,general_2,orcs_inpenetrable,lancer_ignitingstrike,armored_damage_1,armored_heavyblades,warbeast_underworldbeast,epic_giantsbrewzero,necromancer_necronomicon",
-        "nextNodeType": "dungeons_jerry"
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "164368",
