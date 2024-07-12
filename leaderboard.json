@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "164426",
-        "completedLevels": "58",
+        "completedLevels": "59",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-07-12 09:00:33",
         "endTime": null,
         "captainBoons": "epic_giantsbrewzero,melee_damage_1,lancer_spearwall,saint_exalt,warrior_lance_of_ruin,flagbearer_bannerofvitality,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_war_machine",
-        "nextNodeType": "tomblandsquicksand"
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "164420",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "164433",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-07-12 10:05:54",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,orcs_inpenetrable,berserker_frenzy,epic_giantsbrewzero,vampire_spectralpresence,warrior_lance_of_ruin,amazon_hermesblessing,paladin_holyforce,archer_zephyrstride,monk_selfless_prayer,epic_epic_aspirations,warrior_bladedancer,bomber_ricochet,spell_empower_haste,mage_elementalsummoning,vampire_swarmcoffin,armored_unyieldingdefense,elf_elvenimmortality,blob_parasite,ranged_ironbreakballistics,ensouled_fatedspirits,bomber_living_bomb,support_healingsong,healer_giftofregeneration,flag_1,melee_damage_1,ranged_preciseshot",
-        "nextNodeType": "tabletophold"
+        "nextNodeType": "plaguegrotto"
     }
 ]
