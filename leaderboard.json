@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "164420",
-        "completedLevels": "47",
+        "completedLevels": "48",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-07-12 08:07:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,support_healingsong,ranged_preciseshot,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,archer_zephyrstride,epic_epic_aspirations,elf_elvenimmortality",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,support_healingsong,ranged_preciseshot,rogue_shadow_cloak,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,archer_zephyrstride,epic_epic_aspirations,elf_elvenimmortality",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "164369",
