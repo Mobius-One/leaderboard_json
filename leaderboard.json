@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "164320",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-07-11 21:51:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,saint_exalt,melee_armor_break,warrior_bladedancer,lancer_spearwall,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,armored_unyieldingdefense,ensouled_bravespirits,armored_damage_1,berserker_enrage,warrior_lance_of_ruin,support_healingsong,ranged_preciseshot,lancer_sarissaspears,ensouled_enragedspirits",
-        "nextNodeType": "tomblandsquicksand"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,saint_exalt,melee_armor_break,warrior_bladedancer,lancer_spearwall,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,ensouled_bravespirits,armored_damage_1,berserker_enrage,warrior_lance_of_ruin,support_healingsong,ranged_preciseshot,lancer_sarissaspears,ensouled_enragedspirits",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "164352",
@@ -37,21 +37,21 @@
     },
     {
         "dungeonRunId": "164369",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-07-12 01:04:20",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,vampire_darkwings,ensouled_enragedspirits,epic_armored_armored_giants,general_2,paladin_skeletalsquire,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,berserker_frenzy,epic_giantsbrewzero,monk_selfless_prayer,orcslayer_worldrazer,paladin_layonhands,healer_giftofregeneration,common_specialists,assassin_spynetwork,orcs_inpenetrable,templar_1",
-        "nextNodeType": "steampunkgear"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,vampire_darkwings,ensouled_enragedspirits,epic_armored_armored_giants,general_2,paladin_skeletalsquire,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,berserker_frenzy,epic_giantsbrewzero,monk_selfless_prayer,orcslayer_worldrazer,paladin_layonhands,healer_giftofregeneration,common_specialists,assassin_spynetwork,orcs_inpenetrable,templar_1,melee_damage_1",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "164368",
-        "completedLevels": "23",
+        "completedLevels": "24",
         "twitchDisplayName": "LilithSM",
         "startTime": "2024-07-12 00:44:07",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_3,artillery_maxpower,lancer_ignitingstrike,barbarian_gloriousdeath,healer_giftofregeneration,epic_ranged_dragonarrows,lancer_sarissaspears,vampire_spectralpresence,amazon_vineclone,warrior_bladedancer,bomber_ricochet,common_specialists,rogue_flamewalker,ranged_preciseshot,epic_epic_aspirations,archer_zephyrstride,saint_missionary,warrior_lance_of_ruin,vampire_darkwings,frogue_preparation,berserker_frenzy,general_1,warbeast_1",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,general_3,artillery_maxpower,lancer_ignitingstrike,barbarian_gloriousdeath,healer_giftofregeneration,epic_ranged_dragonarrows,lancer_sarissaspears,vampire_spectralpresence,amazon_vineclone,warrior_bladedancer,bomber_ricochet,common_specialists,rogue_flamewalker,ranged_preciseshot,epic_epic_aspirations,archer_zephyrstride,saint_missionary,warrior_lance_of_ruin,vampire_darkwings,frogue_preparation,berserker_frenzy,general_1,warbeast_1,healer_healing_bloom",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "164327",
