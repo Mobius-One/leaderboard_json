@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "164419",
-        "completedLevels": "51",
+        "completedLevels": "52",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-07-12 07:22:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,fairy_hocuspocus,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,amazon_hermesblessing",
-        "nextNodeType": "tomblandsquicksand"
+        "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,amazon_hermesblessing",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "164369",
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "164420",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-07-12 08:07:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,assassin_deathmark,ensouled_bravespirits,melee_damage_1,saint_missionary,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,mage_clone,support_healingsong,ranged_preciseshot,fairy_nixiepops,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,lancer_ignitingstrike,archer_zephyrstride,musk_golden_rounds,epic_epic_aspirations,support_doomingsong,elf_elvenimmortality",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,saint_missionary,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,mage_clone,support_healingsong,ranged_preciseshot,fairy_nixiepops,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,lancer_ignitingstrike,archer_zephyrstride,musk_golden_rounds,epic_epic_aspirations,support_doomingsong,elf_elvenimmortality",
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "164426",
