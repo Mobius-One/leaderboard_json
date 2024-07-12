@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "164419",
-        "completedLevels": "50",
+        "completedLevels": "51",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-07-12 07:22:42",
         "endTime": null,
         "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,fairy_hocuspocus,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,amazon_hermesblessing",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "tomblandsquicksand"
     },
     {
         "dungeonRunId": "164369",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164426",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-07-12 09:00:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,blob_parasite,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,ensouled_enragedspirits,barbarian_conqueror,support_healingsong,amazon_hermesblessing,frogue_air_snipers,paladin_layonhands,melee_armor_break,bomber_living_bomb,armored_damage_1,frogue_preparation,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine",
-        "nextNodeType": "tabletophold"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,blob_parasite,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,ensouled_enragedspirits,barbarian_conqueror,support_healingsong,amazon_hermesblessing,frogue_air_snipers,paladin_layonhands,melee_armor_break,bomber_living_bomb,armored_damage_1,frogue_preparation,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,armored_unyieldingdefense",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "164368",
