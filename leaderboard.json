@@ -36,6 +36,15 @@
         "nextNodeType": "libraryboss"
     },
     {
+        "dungeonRunId": "164365",
+        "completedLevels": "53",
+        "twitchDisplayName": "MYKLMantis",
+        "startTime": "2024-07-12 00:30:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,healer_combatmedic,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,archer_zephyrstride,gladiator_sonofthunder,ranged_ironbreakballistics,bomber_living_bomb,saint_exalt,saint_missionary",
+        "nextNodeType": "crystalcavethrone"
+    },
+    {
         "dungeonRunId": "164434",
         "completedLevels": "52",
         "twitchDisplayName": "OvidiuZ94",
@@ -43,15 +52,6 @@
         "endTime": "2024-07-12 16:44:41",
         "captainBoons": "common_classic_comeback,blob_flesheater,common_specialists,musk_golden_rounds,ranged_preciseshot,monk_heavenskarma,armored_unyieldingdefense,epic_melee_glory_of_victory,general_2,musk_volley_tactics,general_1,saint_missionary,ensouled_heroicspirits,tank_frostbarbs,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,ensouled_enragedspirits",
         "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "164365",
-        "completedLevels": "52",
-        "twitchDisplayName": "MYKLMantis",
-        "startTime": "2024-07-12 00:30:01",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,healer_combatmedic,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,archer_zephyrstride,gladiator_sonofthunder,ranged_ironbreakballistics,bomber_living_bomb,saint_exalt,saint_missionary",
-        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "164420",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164476",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-07-12 15:16:46",
         "endTime": null,
         "captainBoons": "common_classic_comeback,support_healingsong,barbarian_conqueror,armored_unyieldingdefense,ensouled_bravespirits,bomber_dangerzone,necromancer_necronomicon,epic_giantsbrewzero,ensouled_fatedspirits,warrior_lance_of_ruin,ranged_attack_1,elf_elvenimmortality,epic_ranged_dragonarrows,saint_exalt,musk_volley_tactics,rogue_flamewalker,melee_armor_break,spell_empower_stronghold,paladin_layonhands,blob_flesheater,melee_damage_1,berserker_enrage",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "tomblandsquicksand"
     },
     {
         "dungeonRunId": "164380",
