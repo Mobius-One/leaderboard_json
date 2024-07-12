@@ -18,6 +18,15 @@
         "nextNodeType": "libraryboss"
     },
     {
+        "dungeonRunId": "164419",
+        "completedLevels": "46",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 07:22:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,fairy_hocuspocus,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,elf_elvenimmortality,blob_parasite,amazon_hermesblessing",
+        "nextNodeType": "raidhallalake"
+    },
+    {
         "dungeonRunId": "164369",
         "completedLevels": "46",
         "twitchDisplayName": "bakodemeester",
@@ -25,15 +34,6 @@
         "endTime": "2024-07-12 07:00:24",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,ensouled_enragedspirits,epic_armored_armored_giants,general_2,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,paladin_layonhands,healer_giftofregeneration,orcs_inpenetrable,templar_1,melee_damage_1,lancer_spearwall,lancer_sarissaspears,barb_warcry",
         "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "164419",
-        "completedLevels": "45",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-07-12 07:22:42",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,fairy_hocuspocus,epic_melee_glory_of_victory,ensouled_fatedspirits,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,elf_elvenimmortality,blob_parasite,amazon_hermesblessing",
-        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "164380",
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "164357",
+        "dungeonRunId": "164426",
         "completedLevels": "25",
-        "twitchDisplayName": "Thraintar",
-        "startTime": "2024-07-11 23:58:19",
-        "endTime": "2024-07-12 03:15:22",
-        "captainBoons": "common_classic_comeback,armored_damage_1,orcs_inpenetrable,rogue_shadow_cloak,general_2,centurion_juggernaut,archer_steadybow,general_4,monk_selfless_prayer,spell_empower_highground,general_1,robot_robotauthority,musk_volley_tactics,support_healingsong,healer_giftofregeneration,buster_carbonplating,rogue_flamewalker,support_defensivetraining,epic_melee_glory_of_victory,general_3,musk_golden_rounds,epic_epic_aspirations,tank_frostbarbs,melee_armor_break,frogue_air_snipers,support_doomingsong",
-        "nextNodeType": "moboohm"
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-07-12 09:00:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,blob_parasite,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,ensouled_enragedspirits,barbarian_conqueror,support_healingsong,amazon_hermesblessing,frogue_air_snipers,paladin_layonhands,melee_armor_break,bomber_living_bomb,armored_damage_1,frogue_preparation,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics",
+        "nextNodeType": "beastlandsbug03"
     }
 ]
