@@ -10,30 +10,39 @@
     },
     {
         "dungeonRunId": "164321",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "sconniephd",
         "startTime": "2024-07-11 21:51:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion,archer_zephyrstride,elf_elvenimmortality,musk_volley_tactics,general_1,robot_robotauthority,berserker_frenzy,vampire_darkwings,spy_hauntingsabotage,ensouled_heroicspirits,ranged_attack_1,necromancer_necronomicon,barbarian_conqueror,armored_unyieldingdefense,berserker_enrage,warrior_lance_of_ruin",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion,archer_zephyrstride,elf_elvenimmortality,musk_volley_tactics,general_1,robot_robotauthority,berserker_frenzy,vampire_darkwings,spy_hauntingsabotage,ensouled_heroicspirits,ranged_attack_1,necromancer_necronomicon,barbarian_conqueror,armored_unyieldingdefense,berserker_enrage,warrior_lance_of_ruin,warrior_bladedancer",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164314",
         "completedLevels": "17",
         "twitchDisplayName": "thecapnk",
         "startTime": "2024-07-11 21:36:49",
-        "endTime": null,
+        "endTime": "2024-07-12 00:10:48",
         "captainBoons": "common_classic_comeback,general_1,blob_flesheater,warrior_lance_of_ruin,epic_giantsbrewzero,amazon_hermesblessing,bomber_living_bomb,barbarian_gloriousdeath,healer_giftofregeneration,saint_godspeed,lancer_sarissaspears,barb_warcry,epic_armored_armored_giants,melee_charge,elf_elvenimmortality,spell_empower_curse,rogue_flamewalker,robot_robotauthority",
         "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164327",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "iitsYoda",
         "startTime": "2024-07-11 22:02:15",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin,general_2,artillery_maxpower,saint_godspeed,warrior_bladedancer,frogue_preparation,gladiator_war_machine,paladin_layonhands,templar_commanding_presence,spell_empower_stronghold,assassin_spynetwork,orcs_inpenetrable,bomber_living_bomb,general_3",
-        "nextNodeType": "oasisvalley"
+        "nextNodeType": "dungeons_boss_toadraiders"
+    },
+    {
+        "dungeonRunId": "164315",
+        "completedLevels": "15",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-07-11 21:41:17",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits,archer_zephyrstride,fairy_hocuspocus,epic_ranged_dragonarrows,armored_damage_1,ranged_preciseshot,spy_fromcaptainwithlove,ranged_ironbreakballistics,ensouled_fatedspirits,monk_heavenskarma,ranged_attack_1,musk_golden_rounds,fairy_nixiepops",
+        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "164333",
@@ -54,13 +63,13 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
-        "dungeonRunId": "164315",
-        "completedLevels": "14",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-07-11 21:41:17",
+        "dungeonRunId": "164334",
+        "completedLevels": "12",
+        "twitchDisplayName": "lord_bumkin",
+        "startTime": "2024-07-11 22:34:41",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits,archer_zephyrstride,fairy_hocuspocus,epic_ranged_dragonarrows,armored_damage_1,ranged_preciseshot,spy_fromcaptainwithlove,ranged_ironbreakballistics,ensouled_fatedspirits,monk_heavenskarma,ranged_attack_1,musk_golden_rounds",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,gladiator_sonofthunder,rogue_shadow_cloak,barbarian_gloriousdeath,elf_elvenimmortality,necromancer_ectoplosion,assassin_spynetwork,support_defensivetraining,warrior_lance_of_ruin,rogue_flamewalker,musk_golden_rounds,art_siege_weapons",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "164331",
@@ -70,15 +79,6 @@
         "endTime": "2024-07-11 23:39:58",
         "captainBoons": "common_classic_comeback,melee_damage_1,support_defensivetraining,spell_empower_highground,melee_charge,armored_heavyblades,warbeast_underworldbeast,barbarian_gloriousdeath,melee_armor_break,bomber_living_bomb,archer_zephyrstride,ranged_preciseshot,berserker_frenzy",
         "nextNodeType": "skyportals"
-    },
-    {
-        "dungeonRunId": "164334",
-        "completedLevels": "12",
-        "twitchDisplayName": "lord_bumkin",
-        "startTime": "2024-07-11 22:34:41",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,gladiator_sonofthunder,rogue_shadow_cloak,barbarian_gloriousdeath,elf_elvenimmortality,necromancer_ectoplosion,assassin_spynetwork,support_defensivetraining,warrior_lance_of_ruin,rogue_flamewalker,musk_golden_rounds",
-        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "164332",
