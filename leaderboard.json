@@ -9,6 +9,15 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
+        "dungeonRunId": "164321",
+        "completedLevels": "17",
+        "twitchDisplayName": "sconniephd",
+        "startTime": "2024-07-11 21:51:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion,archer_zephyrstride,elf_elvenimmortality,musk_volley_tactics,general_1,robot_robotauthority,berserker_frenzy,vampire_darkwings,spy_hauntingsabotage,ensouled_heroicspirits,ranged_attack_1,necromancer_necronomicon,barbarian_conqueror,armored_unyieldingdefense,berserker_enrage",
+        "nextNodeType": "dungeons_boss_toadraiders"
+    },
+    {
         "dungeonRunId": "164314",
         "completedLevels": "16",
         "twitchDisplayName": "thecapnk",
@@ -18,13 +27,22 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
-        "dungeonRunId": "164321",
-        "completedLevels": "16",
-        "twitchDisplayName": "sconniephd",
-        "startTime": "2024-07-11 21:51:59",
+        "dungeonRunId": "164327",
+        "completedLevels": "15",
+        "twitchDisplayName": "iitsYoda",
+        "startTime": "2024-07-11 22:02:15",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,vampire_spectralpresence,necromancer_ectoplosion,archer_zephyrstride,elf_elvenimmortality,musk_volley_tactics,general_1,robot_robotauthority,berserker_frenzy,vampire_darkwings,spy_hauntingsabotage,ensouled_heroicspirits,ranged_attack_1,necromancer_necronomicon,barbarian_conqueror,armored_unyieldingdefense",
-        "nextNodeType": "wildorcs"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin,general_2,artillery_maxpower,saint_godspeed,warrior_bladedancer,frogue_preparation,gladiator_war_machine,paladin_layonhands,templar_commanding_presence,spell_empower_stronghold,assassin_spynetwork,orcs_inpenetrable,bomber_living_bomb",
+        "nextNodeType": "shogunateAmbush"
+    },
+    {
+        "dungeonRunId": "164333",
+        "completedLevels": "15",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-07-11 22:23:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_healingsong,blob_flesheater,bomber_living_bomb,ranged_attack_1,bomber_ricochet,spell_empower_stronghold,epic_giantsbrewzero,melee_armor_break,epic_armored_armored_giants,general_1,gladiator_sonofthunder,tank_hoarfrost_armor,bomber_dangerzone,barb_warcry",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164328",
@@ -33,24 +51,6 @@
         "startTime": "2024-07-11 22:04:40",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,support_defensivetraining,epic_ranged_dragonarrows,rogue_flamewalker,mage_elementalsummoning,warrior_lance_of_ruin,general_1,ranged_preciseshot,common_specialists,archer_zephyrstride,amazon_hermesblessing,tank_hoarfrost_armor,melee_charge,assassin_deathmark",
-        "nextNodeType": "dungeons_jerry"
-    },
-    {
-        "dungeonRunId": "164327",
-        "completedLevels": "14",
-        "twitchDisplayName": "iitsYoda",
-        "startTime": "2024-07-11 22:02:15",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin,general_2,artillery_maxpower,saint_godspeed,warrior_bladedancer,frogue_preparation,gladiator_war_machine,paladin_layonhands,templar_commanding_presence,spell_empower_stronghold,assassin_spynetwork,orcs_inpenetrable",
-        "nextNodeType": "dungeons_jerry"
-    },
-    {
-        "dungeonRunId": "164333",
-        "completedLevels": "14",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-07-11 22:23:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong,blob_flesheater,bomber_living_bomb,ranged_attack_1,bomber_ricochet,spell_empower_stronghold,epic_giantsbrewzero,melee_armor_break,epic_armored_armored_giants,general_1,gladiator_sonofthunder,tank_hoarfrost_armor,bomber_dangerzone,barb_warcry",
         "nextNodeType": "dungeons_jerry"
     },
     {
