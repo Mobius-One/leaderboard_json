@@ -81,12 +81,12 @@
         "nextNodeType": "moboohm"
     },
     {
-        "dungeonRunId": "164405",
-        "completedLevels": "22",
-        "twitchDisplayName": "Hachiski",
-        "startTime": "2024-07-12 05:51:26",
-        "endTime": "2024-07-12 08:58:52",
-        "captainBoons": "common_classic_comeback,support_doomingsong,assassin_deathmark,frogue_air_snipers,epic_giantsbrewzero,amazon_hermesblessing,common_specialists,ranged_attack_1,ranged_preciseshot,blob_parasite,armored_damage_1,barb_warcry,mage_clone,flagbearer_bannerofvitality,bomber_ricochet,buster_carbonplating,melee_charge,melee_armor_break,epic_melee_glory_of_victory,melee_damage_1,elf_elvenimmortality,gladiator_war_machine,assassin_spynetwork",
-        "nextNodeType": "shogunateAmbush"
+        "dungeonRunId": "164420",
+        "completedLevels": "23",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-07-12 08:07:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,assassin_deathmark,ensouled_bravespirits,melee_damage_1,saint_missionary,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,mage_clone,support_healingsong,ranged_preciseshot,fairy_nixiepops,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt",
+        "nextNodeType": "orctotem"
     }
 ]
