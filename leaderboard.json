@@ -9,15 +9,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164419",
-        "completedLevels": "64",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-07-12 07:22:42",
-        "endTime": "2024-07-12 13:18:27",
-        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
-        "nextNodeType": "steampunkgear"
-    },
-    {
         "dungeonRunId": "164320",
         "completedLevels": "64",
         "twitchDisplayName": "ThaBan4",
@@ -25,6 +16,15 @@
         "endTime": "2024-07-12 06:37:08",
         "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
         "nextNodeType": "newjunglespore"
+    },
+    {
+        "dungeonRunId": "164419",
+        "completedLevels": "64",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 07:22:42",
+        "endTime": "2024-07-12 13:18:27",
+        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "164391",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164365",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "MYKLMantis",
         "startTime": "2024-07-12 00:30:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,berserker_frenzy,ranged_attack_1,musk_golden_rounds,saint_godspeed,healer_combatmedic,warrior_lance_of_ruin,general_1,lancer_sarissaspears,gladiator_war_machine,archer_zephyrstride,gladiator_sonofthunder,healer_healing_bloom,ranged_ironbreakballistics,berserker_enrage,bomber_living_bomb,warrior_bladedancer,frogue_preparation,saint_exalt,saint_missionary",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,berserker_frenzy,ranged_attack_1,musk_golden_rounds,saint_godspeed,healer_combatmedic,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,archer_zephyrstride,gladiator_sonofthunder,healer_healing_bloom,ranged_ironbreakballistics,berserker_enrage,bomber_living_bomb,warrior_bladedancer,frogue_preparation,saint_exalt,saint_missionary",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "164352",
