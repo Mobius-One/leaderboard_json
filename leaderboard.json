@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "164419",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-07-12 07:22:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,paladin_layonhands,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,fairy_hocuspocus,epic_melee_glory_of_victory,melee_damage_1,ensouled_fatedspirits,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,elf_elvenimmortality,blob_parasite,amazon_hermesblessing",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,fairy_hocuspocus,epic_melee_glory_of_victory,melee_damage_1,ensouled_fatedspirits,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,elf_elvenimmortality,blob_parasite,amazon_hermesblessing",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "164380",
