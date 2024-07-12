@@ -5,7 +5,7 @@
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-07-11 21:51:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,barb_warcry,melee_armor_break,warrior_bladedancer,lancer_spearwall,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,ensouled_bravespirits,armored_damage_1,berserker_enrage,warrior_lance_of_ruin,support_healingsong,lancer_sarissaspears,ensouled_enragedspirits",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,barb_warcry,melee_armor_break,warrior_bladedancer,lancer_spearwall,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,ensouled_bravespirits,berserker_enrage,warrior_lance_of_ruin,support_healingsong,lancer_sarissaspears,ensouled_enragedspirits",
         "nextNodeType": "oasisvalley"
     },
     {
@@ -36,15 +36,6 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "164357",
-        "completedLevels": "25",
-        "twitchDisplayName": "Thraintar",
-        "startTime": "2024-07-11 23:58:19",
-        "endTime": "2024-07-12 03:15:22",
-        "captainBoons": "common_classic_comeback,armored_damage_1,orcs_inpenetrable,rogue_shadow_cloak,general_2,centurion_juggernaut,archer_steadybow,general_4,monk_selfless_prayer,spell_empower_highground,general_1,robot_robotauthority,musk_volley_tactics,support_healingsong,healer_giftofregeneration,buster_carbonplating,rogue_flamewalker,support_defensivetraining,epic_melee_glory_of_victory,general_3,musk_golden_rounds,epic_epic_aspirations,tank_frostbarbs,melee_armor_break,frogue_air_snipers,support_doomingsong",
-        "nextNodeType": "moboohm"
-    },
-    {
         "dungeonRunId": "164315",
         "completedLevels": "25",
         "twitchDisplayName": "Hooks",
@@ -54,13 +45,22 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "164357",
+        "completedLevels": "25",
+        "twitchDisplayName": "Thraintar",
+        "startTime": "2024-07-11 23:58:19",
+        "endTime": "2024-07-12 03:15:22",
+        "captainBoons": "common_classic_comeback,armored_damage_1,orcs_inpenetrable,rogue_shadow_cloak,general_2,centurion_juggernaut,archer_steadybow,general_4,monk_selfless_prayer,spell_empower_highground,general_1,robot_robotauthority,musk_volley_tactics,support_healingsong,healer_giftofregeneration,buster_carbonplating,rogue_flamewalker,support_defensivetraining,epic_melee_glory_of_victory,general_3,musk_golden_rounds,epic_epic_aspirations,tank_frostbarbs,melee_armor_break,frogue_air_snipers,support_doomingsong",
+        "nextNodeType": "moboohm"
+    },
+    {
         "dungeonRunId": "164380",
-        "completedLevels": "23",
+        "completedLevels": "24",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2024-07-12 02:22:12",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_attack_1,paladin_skeletalsquire,spell_empower_stronghold,barbarian_gloriousdeath,bomber_ricochet,lancer_ignitingstrike,archer_zephyrstride,blob_flesheater,warrior_lance_of_ruin,lancer_sarissaspears,barb_warcry,blob_parasite,epic_giantsbrewzero,melee_armor_break,archer_steadybow,assassin_spynetwork,amazon_hermesblessing,saint_godspeed,bomber_dangerzone,assassin_deathmark,epic_melee_glory_of_victory,armored_damage_1,ensouled_fatedspirits",
-        "nextNodeType": "libraryboss"
+        "captainBoons": "common_classic_comeback,ranged_attack_1,paladin_skeletalsquire,spell_empower_stronghold,barbarian_gloriousdeath,bomber_ricochet,lancer_ignitingstrike,archer_zephyrstride,blob_flesheater,warrior_lance_of_ruin,lancer_sarissaspears,barb_warcry,blob_parasite,epic_giantsbrewzero,melee_armor_break,archer_steadybow,assassin_spynetwork,amazon_hermesblessing,saint_godspeed,bomber_dangerzone,assassin_deathmark,epic_melee_glory_of_victory,armored_damage_1,ensouled_fatedspirits,frogue_air_snipers",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "164327",
