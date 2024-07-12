@@ -81,12 +81,12 @@
         "nextNodeType": "moboohm"
     },
     {
-        "dungeonRunId": "164405",
+        "dungeonRunId": "164327",
         "completedLevels": "22",
-        "twitchDisplayName": "Hachiski",
-        "startTime": "2024-07-12 05:51:26",
-        "endTime": "2024-07-12 08:58:52",
-        "captainBoons": "common_classic_comeback,support_doomingsong,assassin_deathmark,frogue_air_snipers,epic_giantsbrewzero,amazon_hermesblessing,common_specialists,ranged_attack_1,ranged_preciseshot,blob_parasite,armored_damage_1,barb_warcry,mage_clone,flagbearer_bannerofvitality,bomber_ricochet,buster_carbonplating,melee_charge,melee_armor_break,epic_melee_glory_of_victory,melee_damage_1,elf_elvenimmortality,gladiator_war_machine,assassin_spynetwork",
-        "nextNodeType": "shogunateAmbush"
+        "twitchDisplayName": "iitsYoda",
+        "startTime": "2024-07-11 22:02:15",
+        "endTime": "2024-07-12 01:05:38",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin,general_2,artillery_maxpower,saint_godspeed,warrior_bladedancer,frogue_preparation,gladiator_war_machine,paladin_layonhands,templar_commanding_presence,spell_empower_stronghold,assassin_spynetwork,orcs_inpenetrable,bomber_living_bomb,general_3,assassin_deathmark,berserker_frenzy,melee_charge,ranged_preciseshot,frogue_air_snipers,armored_damage_1",
+        "nextNodeType": "tomblandsquicksand"
     }
 ]
