@@ -27,6 +27,15 @@
         "nextNodeType": "libraryboss"
     },
     {
+        "dungeonRunId": "164426",
+        "completedLevels": "46",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-07-12 09:00:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,spy_hauntingsabotage",
+        "nextNodeType": "skyportals"
+    },
+    {
         "dungeonRunId": "164369",
         "completedLevels": "46",
         "twitchDisplayName": "bakodemeester",
@@ -36,13 +45,13 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
-        "dungeonRunId": "164426",
-        "completedLevels": "45",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-07-12 09:00:33",
+        "dungeonRunId": "164420",
+        "completedLevels": "41",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-07-12 08:07:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,barbarian_conqueror,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,spy_hauntingsabotage",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,support_healingsong,ranged_preciseshot,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,lancer_ignitingstrike,archer_zephyrstride,epic_epic_aspirations,elf_elvenimmortality",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164380",
@@ -52,15 +61,6 @@
         "endTime": "2024-07-12 07:14:54",
         "captainBoons": "common_classic_comeback,spell_empower_stronghold,bomber_ricochet,lancer_ignitingstrike,archer_zephyrstride,blob_flesheater,warrior_lance_of_ruin,barb_warcry,blob_parasite,epic_giantsbrewzero,melee_armor_break,archer_steadybow,assassin_spynetwork,amazon_hermesblessing,bomber_dangerzone,assassin_deathmark,epic_melee_glory_of_victory,armored_damage_1,ensouled_fatedspirits,frogue_air_snipers,saint_exalt,orcs_inpenetrable,barbarian_conqueror,elf_elvenimmortality",
         "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "164420",
-        "completedLevels": "40",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-07-12 08:07:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,support_healingsong,ranged_preciseshot,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,lancer_ignitingstrike,archer_zephyrstride,epic_epic_aspirations,elf_elvenimmortality",
-        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164352",
