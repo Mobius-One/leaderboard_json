@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "164426",
-        "completedLevels": "51",
+        "completedLevels": "52",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-07-12 09:00:33",
         "endTime": null,
-        "captainBoons": "epic_giantsbrewzero,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,spy_hauntingsabotage",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "epic_giantsbrewzero,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_war_machine,spy_hauntingsabotage",
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "164369",
