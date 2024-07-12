@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "164419",
-        "completedLevels": "52",
+        "completedLevels": "53",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-07-12 07:22:42",
         "endTime": null,
         "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,amazon_hermesblessing",
-        "nextNodeType": "skyportals"
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "164369",
@@ -54,6 +54,15 @@
         "nextNodeType": "libraryboss"
     },
     {
+        "dungeonRunId": "164420",
+        "completedLevels": "31",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-07-12 08:07:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,saint_missionary,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,mage_clone,support_healingsong,ranged_preciseshot,fairy_nixiepops,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,lancer_ignitingstrike,archer_zephyrstride,musk_golden_rounds,epic_epic_aspirations,support_doomingsong,elf_elvenimmortality",
+        "nextNodeType": "beastlandsbug03"
+    },
+    {
         "dungeonRunId": "164375",
         "completedLevels": "30",
         "twitchDisplayName": "Hooks",
@@ -63,22 +72,13 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "164420",
-        "completedLevels": "30",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-07-12 08:07:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,saint_missionary,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,mage_clone,support_healingsong,ranged_preciseshot,fairy_nixiepops,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,lancer_ignitingstrike,archer_zephyrstride,musk_golden_rounds,epic_epic_aspirations,support_doomingsong,elf_elvenimmortality",
-        "nextNodeType": "shogunateAmbush"
-    },
-    {
         "dungeonRunId": "164426",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-07-12 09:00:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,blob_parasite,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,ensouled_enragedspirits,barbarian_conqueror,support_healingsong,amazon_hermesblessing,frogue_air_snipers,paladin_layonhands,melee_armor_break,bomber_living_bomb,armored_damage_1,frogue_preparation,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,armored_unyieldingdefense,spy_hauntingsabotage",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,blob_parasite,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,barbarian_conqueror,support_healingsong,amazon_hermesblessing,frogue_air_snipers,paladin_layonhands,melee_armor_break,bomber_living_bomb,armored_damage_1,frogue_preparation,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,armored_unyieldingdefense,spy_hauntingsabotage",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "164368",
