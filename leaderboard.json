@@ -9,15 +9,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164320",
-        "completedLevels": "64",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-07-11 21:51:52",
-        "endTime": "2024-07-12 06:37:08",
-        "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
-        "nextNodeType": "newjunglespore"
-    },
-    {
         "dungeonRunId": "164419",
         "completedLevels": "64",
         "twitchDisplayName": "HighHopesTV",
@@ -27,13 +18,22 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "164320",
+        "completedLevels": "64",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-07-11 21:51:52",
+        "endTime": "2024-07-12 06:37:08",
+        "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
+        "nextNodeType": "newjunglespore"
+    },
+    {
         "dungeonRunId": "164365",
-        "completedLevels": "59",
+        "completedLevels": "60",
         "twitchDisplayName": "MYKLMantis",
         "startTime": "2024-07-12 00:30:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,gladiator_sonofthunder,bomber_living_bomb,saint_exalt,saint_missionary",
-        "nextNodeType": "orctotem"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,bomber_living_bomb,saint_exalt,saint_missionary",
+        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "164391",
@@ -49,7 +49,7 @@
         "completedLevels": "55",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-07-12 15:16:46",
-        "endTime": null,
+        "endTime": "2024-07-12 20:02:50",
         "captainBoons": "common_classic_comeback,barbarian_conqueror,bomber_dangerzone,necromancer_necronomicon,epic_giantsbrewzero,ensouled_fatedspirits,warrior_lance_of_ruin,elf_elvenimmortality,epic_ranged_dragonarrows,saint_exalt,musk_volley_tactics,rogue_flamewalker,melee_armor_break,spell_empower_stronghold,paladin_layonhands,melee_damage_1,berserker_enrage",
         "nextNodeType": "newjunglespore"
     },
