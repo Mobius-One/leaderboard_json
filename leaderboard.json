@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "164426",
-        "completedLevels": "47",
+        "completedLevels": "48",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-07-12 09:00:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,spy_hauntingsabotage",
-        "nextNodeType": "orctotem"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,spy_hauntingsabotage",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "164369",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164434",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-07-12 10:06:38",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,common_specialists,epic_giantsbrewzero,musk_golden_rounds,epic_ranged_dragonarrows,flagbearer_bannerofvitality,ranged_preciseshot,monk_heavenskarma,armored_unyieldingdefense,bomber_ricochet,epic_melee_glory_of_victory,general_2,healer_giftofregeneration,musk_volley_tactics,general_1,saint_missionary,ensouled_heroicspirits,tank_frostbarbs,healer_healing_bloom,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,assassin_spynetwork,ensouled_enragedspirits,epic_epic_aspirations,warrior_bladedancer",
-        "nextNodeType": "libraryboss"
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164375",
