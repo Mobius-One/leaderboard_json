@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "164420",
-        "completedLevels": "48",
+        "completedLevels": "49",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-07-12 08:07:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,support_healingsong,ranged_preciseshot,rogue_shadow_cloak,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,archer_zephyrstride,epic_epic_aspirations,elf_elvenimmortality",
-        "nextNodeType": "raidhallalake"
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "164369",
@@ -86,7 +86,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-07-12 10:05:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,orcs_inpenetrable,berserker_frenzy,epic_giantsbrewzero,vampire_spectralpresence,warrior_lance_of_ruin,armored_damage_1,amazon_hermesblessing,paladin_holyforce,archer_zephyrstride,monk_selfless_prayer,epic_epic_aspirations,warrior_bladedancer,bomber_ricochet,spell_empower_haste,mage_elementalsummoning,vampire_swarmcoffin,armored_unyieldingdefense,elf_elvenimmortality,blob_parasite,ranged_ironbreakballistics,ensouled_fatedspirits,bomber_living_bomb,support_healingsong,healer_giftofregeneration,flag_1,melee_damage_1,ranged_preciseshot",
+        "captainBoons": "common_classic_comeback,saint_exalt,orcs_inpenetrable,berserker_frenzy,epic_giantsbrewzero,vampire_spectralpresence,warrior_lance_of_ruin,amazon_hermesblessing,paladin_holyforce,archer_zephyrstride,monk_selfless_prayer,epic_epic_aspirations,warrior_bladedancer,bomber_ricochet,spell_empower_haste,mage_elementalsummoning,vampire_swarmcoffin,armored_unyieldingdefense,elf_elvenimmortality,blob_parasite,ranged_ironbreakballistics,ensouled_fatedspirits,bomber_living_bomb,support_healingsong,healer_giftofregeneration,flag_1,melee_damage_1,ranged_preciseshot",
         "nextNodeType": "dungeons_boss_toadraiders"
     }
 ]
