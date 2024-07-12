@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "164426",
-        "completedLevels": "67",
+        "completedLevels": "68",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-07-12 09:00:33",
         "endTime": null,
-        "captainBoons": "melee_damage_1,lancer_spearwall,saint_exalt,warrior_lance_of_ruin,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer",
-        "nextNodeType": "skyportals"
+        "captainBoons": "melee_damage_1,lancer_spearwall,saint_exalt,warrior_lance_of_ruin,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "164320",
