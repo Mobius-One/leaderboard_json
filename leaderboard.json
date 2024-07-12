@@ -36,6 +36,15 @@
         "nextNodeType": "tabletophold"
     },
     {
+        "dungeonRunId": "164391",
+        "completedLevels": "39",
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-07-12 03:42:28",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,lancer_spearwall,lancer_ignitingstrike,warrior_bladedancer,elf_elvenimmortality,fairy_nixiepops,epic_giantsbrewzero,fairy_hocuspocus,warrior_lance_of_ruin,lancer_sarissaspears,spell_empower_killingfield,flagbearer_bannerofvitality,melee_armor_break,general_4,barb_warcry,barbarian_conqueror,support_healingsong,epic_melee_glory_of_victory,bomber_dangerzone,necromancer_necronomicon,healer_healing_bloom,saint_exalt,rogue_shadow_cloak,ranged_ironbreakballistics",
+        "nextNodeType": "wildorcs"
+    },
+    {
         "dungeonRunId": "164352",
         "completedLevels": "38",
         "twitchDisplayName": "kingjerry_4ever",
@@ -43,15 +52,6 @@
         "endTime": "2024-07-12 04:44:02",
         "captainBoons": "common_classic_comeback,mage_clone,archer_zephyrstride,artillery_maxpower,berserker_frenzy,lancer_sarissaspears,mage_elementalsummoning,spell_empower_haste,barbarian_gloriousdeath,gladiator_sonofthunder,warbeast_underworldbeast,support_defensivetraining,warrior_lance_of_ruin,ranged_ironbreakballistics,rogue_shadow_cloak,bomber_dangerzone,ranged_preciseshot,centurion_shieldofbones,melee_damage_1,fairy_hocuspocus,general_2,amazon_hermesblessing,frogue_air_snipers,general_4,blob_flesheater",
         "nextNodeType": "libraryboss"
-    },
-    {
-        "dungeonRunId": "164391",
-        "completedLevels": "38",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-07-12 03:42:28",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,lancer_spearwall,lancer_ignitingstrike,warrior_bladedancer,elf_elvenimmortality,fairy_nixiepops,epic_giantsbrewzero,fairy_hocuspocus,warrior_lance_of_ruin,lancer_sarissaspears,spell_empower_killingfield,flagbearer_bannerofvitality,melee_armor_break,general_4,barb_warcry,barbarian_conqueror,support_healingsong,epic_melee_glory_of_victory,bomber_dangerzone,necromancer_necronomicon,healer_healing_bloom,saint_exalt,rogue_shadow_cloak,ranged_ironbreakballistics",
-        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "164375",
