@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "164419",
-        "completedLevels": "43",
+        "completedLevels": "44",
         "twitchDisplayName": "HighHopesTV",
         "startTime": "2024-07-12 07:22:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,fairy_hocuspocus,epic_melee_glory_of_victory,melee_damage_1,ensouled_fatedspirits,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,elf_elvenimmortality,blob_parasite,amazon_hermesblessing",
-        "nextNodeType": "newjunglespore"
+        "captainBoons": "common_classic_comeback,blob_flesheater,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,common_specialists,lancer_spearwall,gladiator_war_machine,armored_unyieldingdefense,fairy_hocuspocus,epic_melee_glory_of_victory,ensouled_fatedspirits,ensouled_heroicspirits,saint_exalt,barb_warcry,mage_elementalsummoning,musk_volley_tactics,flag_1,bomber_dangerzone,elf_elvenimmortality,blob_parasite,amazon_hermesblessing",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "164380",
@@ -72,15 +72,6 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "164357",
-        "completedLevels": "25",
-        "twitchDisplayName": "Thraintar",
-        "startTime": "2024-07-11 23:58:19",
-        "endTime": "2024-07-12 03:15:22",
-        "captainBoons": "common_classic_comeback,armored_damage_1,orcs_inpenetrable,rogue_shadow_cloak,general_2,centurion_juggernaut,archer_steadybow,general_4,monk_selfless_prayer,spell_empower_highground,general_1,robot_robotauthority,musk_volley_tactics,support_healingsong,healer_giftofregeneration,buster_carbonplating,rogue_flamewalker,support_defensivetraining,epic_melee_glory_of_victory,general_3,musk_golden_rounds,epic_epic_aspirations,tank_frostbarbs,melee_armor_break,frogue_air_snipers,support_doomingsong",
-        "nextNodeType": "moboohm"
-    },
-    {
         "dungeonRunId": "164420",
         "completedLevels": "25",
         "twitchDisplayName": "chiquik",
@@ -88,5 +79,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,assassin_deathmark,ensouled_bravespirits,melee_damage_1,saint_missionary,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,mage_clone,support_healingsong,ranged_preciseshot,fairy_nixiepops,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,lancer_ignitingstrike,archer_zephyrstride",
         "nextNodeType": "newjunglespore"
+    },
+    {
+        "dungeonRunId": "164357",
+        "completedLevels": "25",
+        "twitchDisplayName": "Thraintar",
+        "startTime": "2024-07-11 23:58:19",
+        "endTime": "2024-07-12 03:15:22",
+        "captainBoons": "common_classic_comeback,armored_damage_1,orcs_inpenetrable,rogue_shadow_cloak,general_2,centurion_juggernaut,archer_steadybow,general_4,monk_selfless_prayer,spell_empower_highground,general_1,robot_robotauthority,musk_volley_tactics,support_healingsong,healer_giftofregeneration,buster_carbonplating,rogue_flamewalker,support_defensivetraining,epic_melee_glory_of_victory,general_3,musk_golden_rounds,epic_epic_aspirations,tank_frostbarbs,melee_armor_break,frogue_air_snipers,support_doomingsong",
+        "nextNodeType": "moboohm"
     }
 ]
