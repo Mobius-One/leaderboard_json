@@ -18,6 +18,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "164391",
+        "completedLevels": "41",
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-07-12 03:42:28",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,lancer_spearwall,lancer_ignitingstrike,warrior_bladedancer,elf_elvenimmortality,fairy_nixiepops,epic_giantsbrewzero,fairy_hocuspocus,warrior_lance_of_ruin,lancer_sarissaspears,spell_empower_killingfield,flagbearer_bannerofvitality,general_4,barb_warcry,barbarian_conqueror,support_healingsong,epic_melee_glory_of_victory,bomber_dangerzone,necromancer_necronomicon,healer_healing_bloom,saint_exalt,rogue_shadow_cloak,ranged_ironbreakballistics",
+        "nextNodeType": "libraryboss"
+    },
+    {
         "dungeonRunId": "164380",
         "completedLevels": "41",
         "twitchDisplayName": "elcanadiano",
@@ -34,15 +43,6 @@
         "endTime": "2024-07-12 07:11:01",
         "captainBoons": "common_classic_comeback,archer_zephyrstride,artillery_maxpower,mage_elementalsummoning,ensouled_bravespirits,support_doomingsong,ensouled_fatedspirits,berserker_frenzy,armored_heavyblades,barbarian_conqueror,archer_steadybow,melee_damage_1,centurion_juggernaut,healer_healing_bloom,epic_giantsbrewzero,support_defensivetraining,art_siege_weapons,bomber_dangerzone,amazon_hermesblessing,warrior_lance_of_ruin,armored_damage_1,elf_elvenimmortality,bomber_living_bomb,musk_golden_rounds",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "164391",
-        "completedLevels": "40",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-07-12 03:42:28",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,lancer_spearwall,lancer_ignitingstrike,warrior_bladedancer,elf_elvenimmortality,fairy_nixiepops,epic_giantsbrewzero,fairy_hocuspocus,warrior_lance_of_ruin,lancer_sarissaspears,spell_empower_killingfield,flagbearer_bannerofvitality,general_4,barb_warcry,barbarian_conqueror,support_healingsong,epic_melee_glory_of_victory,bomber_dangerzone,necromancer_necronomicon,healer_healing_bloom,saint_exalt,rogue_shadow_cloak,ranged_ironbreakballistics",
-        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "164352",
