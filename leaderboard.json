@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "164365",
-        "completedLevels": "65",
+        "completedLevels": "66",
         "twitchDisplayName": "MYKLMantis",
         "startTime": "2024-07-12 00:30:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,bomber_living_bomb,saint_exalt",
-        "nextNodeType": "libraryboss"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,bomber_living_bomb,saint_exalt",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "164320",
