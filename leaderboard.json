@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164365",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "MYKLMantis",
         "startTime": "2024-07-12 00:30:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,berserker_frenzy,ranged_attack_1,musk_golden_rounds,saint_godspeed,healer_combatmedic,warrior_lance_of_ruin,general_1,lancer_sarissaspears,gladiator_war_machine,archer_zephyrstride,gladiator_sonofthunder,healer_healing_bloom,ranged_ironbreakballistics,berserker_enrage,bomber_living_bomb,warrior_bladedancer,frogue_preparation,saint_exalt,saint_missionary",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "164352",
