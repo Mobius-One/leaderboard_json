@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "164365",
-        "completedLevels": "48",
+        "completedLevels": "49",
         "twitchDisplayName": "MYKLMantis",
         "startTime": "2024-07-12 00:30:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,healer_combatmedic,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,archer_zephyrstride,gladiator_sonofthunder,ranged_ironbreakballistics,berserker_enrage,bomber_living_bomb,frogue_preparation,saint_exalt,saint_missionary",
-        "nextNodeType": "newjunglespore"
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "164369",
@@ -81,12 +81,12 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "164352",
-        "completedLevels": "38",
-        "twitchDisplayName": "kingjerry_4ever",
-        "startTime": "2024-07-11 23:40:20",
-        "endTime": "2024-07-12 04:44:02",
-        "captainBoons": "common_classic_comeback,mage_clone,archer_zephyrstride,artillery_maxpower,berserker_frenzy,lancer_sarissaspears,mage_elementalsummoning,spell_empower_haste,barbarian_gloriousdeath,gladiator_sonofthunder,warbeast_underworldbeast,support_defensivetraining,warrior_lance_of_ruin,ranged_ironbreakballistics,rogue_shadow_cloak,bomber_dangerzone,ranged_preciseshot,centurion_shieldofbones,melee_damage_1,fairy_hocuspocus,general_2,amazon_hermesblessing,frogue_air_snipers,general_4,blob_flesheater",
-        "nextNodeType": "libraryboss"
+        "dungeonRunId": "164476",
+        "completedLevels": "39",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-07-12 15:16:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_healingsong,barbarian_conqueror,armored_unyieldingdefense,gladiator_sonofthunder,ensouled_bravespirits,bomber_dangerzone,necromancer_necronomicon,epic_giantsbrewzero,ensouled_fatedspirits,warrior_lance_of_ruin,ranged_attack_1,elf_elvenimmortality,epic_ranged_dragonarrows,saint_exalt,musk_volley_tactics,rogue_flamewalker,melee_armor_break,spell_empower_stronghold,paladin_layonhands,blob_flesheater,melee_damage_1,berserker_enrage,vampire_swarmcoffin,general_1",
+        "nextNodeType": "newjunglespore"
     }
 ]
