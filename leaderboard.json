@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "164320",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-07-11 21:51:52",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,rogue_shadow_cloak,saint_exalt,melee_armor_break,monk_heavenskarma,warrior_bladedancer,lancer_spearwall,gladiator_war_machine,epic_giantsbrewzero,amazon_hermesblessing,paladin_holyforce,paladin_layonhands,mage_elementalsummoning,armored_unyieldingdefense,ensouled_fatedspirits,ensouled_bravespirits,armored_damage_1,berserker_enrage,warrior_lance_of_ruin,support_healingsong,ranged_preciseshot,saint_godspeed,lancer_sarissaspears,ensouled_enragedspirits",
-        "nextNodeType": "steampunkgear"
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "164315",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-07-11 21:41:17",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits,archer_zephyrstride,fairy_hocuspocus,epic_ranged_dragonarrows,armored_damage_1,ranged_preciseshot,spy_fromcaptainwithlove,ranged_ironbreakballistics,ensouled_fatedspirits,monk_heavenskarma,ranged_attack_1,musk_golden_rounds,fairy_nixiepops,general_2,shinobi_firetechinique,lancer_ignitingstrike,lancer_sarissaspears,bomber_ricochet,human_humandestiny,flagbearer_bannerofvitality,armored_heavyblades,common_specialists",
-        "nextNodeType": "frontiercavalry"
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "164327",
