@@ -9,15 +9,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164419",
-        "completedLevels": "64",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-07-12 07:22:42",
-        "endTime": "2024-07-12 13:18:27",
-        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
-        "nextNodeType": "steampunkgear"
-    },
-    {
         "dungeonRunId": "164320",
         "completedLevels": "64",
         "twitchDisplayName": "ThaBan4",
@@ -28,12 +19,21 @@
     },
     {
         "dungeonRunId": "164365",
-        "completedLevels": "63",
+        "completedLevels": "64",
         "twitchDisplayName": "MYKLMantis",
         "startTime": "2024-07-12 00:30:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,bomber_living_bomb,saint_exalt",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,bomber_living_bomb,saint_exalt",
+        "nextNodeType": "moboohm"
+    },
+    {
+        "dungeonRunId": "164419",
+        "completedLevels": "64",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 07:22:42",
+        "endTime": "2024-07-12 13:18:27",
+        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "164391",
