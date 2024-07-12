@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "164315",
-        "completedLevels": "23",
+        "completedLevels": "24",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-07-11 21:41:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits,archer_zephyrstride,fairy_hocuspocus,epic_ranged_dragonarrows,armored_damage_1,ranged_preciseshot,spy_fromcaptainwithlove,ranged_ironbreakballistics,ensouled_fatedspirits,monk_heavenskarma,ranged_attack_1,musk_golden_rounds,fairy_nixiepops,general_2,shinobi_firetechinique,lancer_ignitingstrike,lancer_sarissaspears,bomber_ricochet,human_humandestiny,flagbearer_bannerofvitality,armored_heavyblades",
-        "nextNodeType": "libraryboss"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits,archer_zephyrstride,fairy_hocuspocus,epic_ranged_dragonarrows,armored_damage_1,ranged_preciseshot,spy_fromcaptainwithlove,ranged_ironbreakballistics,ensouled_fatedspirits,monk_heavenskarma,ranged_attack_1,musk_golden_rounds,fairy_nixiepops,general_2,shinobi_firetechinique,lancer_ignitingstrike,lancer_sarissaspears,bomber_ricochet,human_humandestiny,flagbearer_bannerofvitality,armored_heavyblades,common_specialists",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "164327",
