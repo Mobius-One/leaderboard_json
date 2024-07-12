@@ -81,12 +81,12 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "164368",
-        "completedLevels": "26",
-        "twitchDisplayName": "LilithSM",
-        "startTime": "2024-07-12 00:44:07",
-        "endTime": "2024-07-12 04:20:06",
-        "captainBoons": "common_classic_comeback,general_3,artillery_maxpower,lancer_ignitingstrike,barbarian_gloriousdeath,healer_giftofregeneration,epic_ranged_dragonarrows,lancer_sarissaspears,vampire_spectralpresence,amazon_vineclone,warrior_bladedancer,bomber_ricochet,common_specialists,rogue_flamewalker,ranged_preciseshot,epic_epic_aspirations,archer_zephyrstride,saint_missionary,warrior_lance_of_ruin,vampire_darkwings,frogue_preparation,berserker_frenzy,general_1,warbeast_1,healer_healing_bloom,ranged_ironbreakballistics,undead_undeadresilience",
-        "nextNodeType": "orctotem"
+        "dungeonRunId": "164434",
+        "completedLevels": "27",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-07-12 10:06:38",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,common_specialists,epic_giantsbrewzero,musk_golden_rounds,epic_ranged_dragonarrows,flagbearer_bannerofvitality,ranged_preciseshot,monk_heavenskarma,armored_unyieldingdefense,bomber_ricochet,epic_melee_glory_of_victory,general_2,healer_giftofregeneration,musk_volley_tactics,general_1,saint_missionary,ensouled_heroicspirits,tank_frostbarbs,artillery_maxpower,healer_healing_bloom,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,assassin_spynetwork,ensouled_enragedspirits,epic_epic_aspirations",
+        "nextNodeType": "wildorcs"
     }
 ]
