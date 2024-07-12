@@ -54,6 +54,15 @@
         "nextNodeType": "plaguegrotto"
     },
     {
+        "dungeonRunId": "164365",
+        "completedLevels": "47",
+        "twitchDisplayName": "MYKLMantis",
+        "startTime": "2024-07-12 00:30:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,ranged_attack_1,musk_golden_rounds,saint_godspeed,healer_combatmedic,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,archer_zephyrstride,gladiator_sonofthunder,ranged_ironbreakballistics,berserker_enrage,bomber_living_bomb,frogue_preparation,saint_exalt,saint_missionary",
+        "nextNodeType": "crystalcavethrone"
+    },
+    {
         "dungeonRunId": "164369",
         "completedLevels": "46",
         "twitchDisplayName": "bakodemeester",
@@ -61,15 +70,6 @@
         "endTime": "2024-07-12 07:00:24",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,ensouled_enragedspirits,epic_armored_armored_giants,general_2,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,paladin_layonhands,healer_giftofregeneration,orcs_inpenetrable,templar_1,melee_damage_1,lancer_spearwall,lancer_sarissaspears,barb_warcry",
         "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "164365",
-        "completedLevels": "46",
-        "twitchDisplayName": "MYKLMantis",
-        "startTime": "2024-07-12 00:30:01",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,ranged_attack_1,musk_golden_rounds,saint_godspeed,healer_combatmedic,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,archer_zephyrstride,gladiator_sonofthunder,ranged_ironbreakballistics,berserker_enrage,bomber_living_bomb,frogue_preparation,saint_exalt,saint_missionary",
-        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164380",
