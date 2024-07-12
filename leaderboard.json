@@ -27,6 +27,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "164365",
+        "completedLevels": "59",
+        "twitchDisplayName": "MYKLMantis",
+        "startTime": "2024-07-12 00:30:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,gladiator_sonofthunder,bomber_living_bomb,saint_exalt,saint_missionary",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "164391",
         "completedLevels": "59",
         "twitchDisplayName": "3aglesdwm",
@@ -36,22 +45,13 @@
         "nextNodeType": "libraryboss"
     },
     {
-        "dungeonRunId": "164365",
-        "completedLevels": "58",
-        "twitchDisplayName": "MYKLMantis",
-        "startTime": "2024-07-12 00:30:01",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,saint_godspeed,warrior_lance_of_ruin,lancer_sarissaspears,gladiator_war_machine,gladiator_sonofthunder,bomber_living_bomb,saint_exalt,saint_missionary",
-        "nextNodeType": "beastlandsbug03"
-    },
-    {
         "dungeonRunId": "164476",
-        "completedLevels": "53",
+        "completedLevels": "54",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-07-12 15:16:46",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_conqueror,ensouled_bravespirits,bomber_dangerzone,necromancer_necronomicon,epic_giantsbrewzero,ensouled_fatedspirits,warrior_lance_of_ruin,elf_elvenimmortality,epic_ranged_dragonarrows,saint_exalt,musk_volley_tactics,rogue_flamewalker,melee_armor_break,spell_empower_stronghold,paladin_layonhands,melee_damage_1,berserker_enrage",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,barbarian_conqueror,bomber_dangerzone,necromancer_necronomicon,epic_giantsbrewzero,ensouled_fatedspirits,warrior_lance_of_ruin,elf_elvenimmortality,epic_ranged_dragonarrows,saint_exalt,musk_volley_tactics,rogue_flamewalker,melee_armor_break,spell_empower_stronghold,paladin_layonhands,melee_damage_1,berserker_enrage",
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "164434",
