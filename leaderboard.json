@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "164327",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "iitsYoda",
         "startTime": "2024-07-11 22:02:15",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin,general_2,artillery_maxpower,saint_godspeed,warrior_bladedancer,frogue_preparation,gladiator_war_machine,paladin_layonhands,templar_commanding_presence,spell_empower_stronghold,assassin_spynetwork,orcs_inpenetrable,bomber_living_bomb,general_3,assassin_deathmark,berserker_frenzy,melee_charge",
-        "nextNodeType": "newjunglespore"
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "164321",
@@ -27,13 +27,13 @@
         "nextNodeType": "winterdinos"
     },
     {
-        "dungeonRunId": "164333",
-        "completedLevels": "17",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-07-11 22:23:05",
+        "dungeonRunId": "164315",
+        "completedLevels": "18",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-07-11 21:41:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong,blob_flesheater,bomber_living_bomb,ranged_attack_1,bomber_ricochet,spell_empower_stronghold,epic_giantsbrewzero,melee_armor_break,epic_armored_armored_giants,general_1,gladiator_sonofthunder,tank_hoarfrost_armor,bomber_dangerzone,barb_warcry,lancer_ignitingstrike,saint_exalt,elf_elvenimmortality",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits,archer_zephyrstride,fairy_hocuspocus,epic_ranged_dragonarrows,armored_damage_1,ranged_preciseshot,spy_fromcaptainwithlove,ranged_ironbreakballistics,ensouled_fatedspirits,monk_heavenskarma,ranged_attack_1,musk_golden_rounds,fairy_nixiepops,general_2,shinobi_firetechinique,lancer_ignitingstrike",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164314",
@@ -45,13 +45,13 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "164315",
+        "dungeonRunId": "164333",
         "completedLevels": "17",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-07-11 21:41:17",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-07-11 22:23:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,robot_robotauthority,ensouled_heroicspirits,archer_zephyrstride,fairy_hocuspocus,epic_ranged_dragonarrows,armored_damage_1,ranged_preciseshot,spy_fromcaptainwithlove,ranged_ironbreakballistics,ensouled_fatedspirits,monk_heavenskarma,ranged_attack_1,musk_golden_rounds,fairy_nixiepops,general_2,shinobi_firetechinique",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,support_healingsong,blob_flesheater,bomber_living_bomb,ranged_attack_1,bomber_ricochet,spell_empower_stronghold,epic_giantsbrewzero,melee_armor_break,epic_armored_armored_giants,general_1,gladiator_sonofthunder,tank_hoarfrost_armor,bomber_dangerzone,barb_warcry,lancer_ignitingstrike,saint_exalt,elf_elvenimmortality",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164334",
@@ -81,12 +81,12 @@
         "nextNodeType": "skyportals"
     },
     {
-        "dungeonRunId": "164332",
+        "dungeonRunId": "164344",
         "completedLevels": "11",
-        "twitchDisplayName": "StormEH15",
-        "startTime": "2024-07-11 22:07:58",
-        "endTime": "2024-07-11 23:37:09",
-        "captainBoons": "common_classic_comeback,melee_damage_1,warbeast_1,templar_1,ranged_ironbreakballistics,musk_golden_rounds,fairy_nixiepops,barbarian_gloriousdeath,barb_warcry,human_humandestiny,paladin_layonhands,undead_undeadresilience",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "twitchDisplayName": "AllegingTuna",
+        "startTime": "2024-07-11 23:14:17",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,fairy_hocuspocus,archer_steadybow,bomber_dangerzone,blob_flesheater,epic_armored_armored_giants,assassin_spynetwork,ensouled_enragedspirits,rogue_shadow_cloak,saint_exalt",
+        "nextNodeType": "crystalcavethrone"
     }
 ]
