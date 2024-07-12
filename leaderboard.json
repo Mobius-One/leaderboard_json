@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "164426",
-        "completedLevels": "43",
+        "completedLevels": "44",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-07-12 09:00:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,barbarian_conqueror,frogue_air_snipers,melee_armor_break,bomber_living_bomb,armored_damage_1,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,spy_hauntingsabotage",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,ranged_preciseshot,melee_damage_1,lancer_spearwall,lancer_ignitingstrike,saint_exalt,bomber_ricochet,warrior_lance_of_ruin,flagbearer_bannerofvitality,barbarian_conqueror,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds,orcslayer_worldrazer,ranged_ironbreakballistics,gladiator_sonofthunder,gladiator_war_machine,spy_hauntingsabotage",
+        "nextNodeType": "libraryboss"
     },
     {
         "dungeonRunId": "164380",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "164420",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-07-12 08:07:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,support_healingsong,ranged_preciseshot,fairy_nixiepops,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,lancer_ignitingstrike,archer_zephyrstride,epic_epic_aspirations,elf_elvenimmortality",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,ensouled_bravespirits,melee_damage_1,spell_empower_killingfield,general_3,ensouled_fatedspirits,gladiator_war_machine,warrior_bladedancer,bomber_ricochet,support_healingsong,ranged_preciseshot,ranged_attack_1,blob_flesheater,rogue_shadow_cloak,armored_damage_1,necromancer_necronomicon,ensouled_heroicspirits,saint_exalt,support_defensivetraining,lancer_ignitingstrike,archer_zephyrstride,epic_epic_aspirations,elf_elvenimmortality",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164352",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "164434",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-07-12 10:06:38",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,common_specialists,epic_giantsbrewzero,musk_golden_rounds,epic_ranged_dragonarrows,flagbearer_bannerofvitality,ranged_preciseshot,monk_heavenskarma,armored_unyieldingdefense,bomber_ricochet,epic_melee_glory_of_victory,general_2,healer_giftofregeneration,musk_volley_tactics,general_1,saint_missionary,ensouled_heroicspirits,tank_frostbarbs,artillery_maxpower,healer_healing_bloom,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,assassin_spynetwork,ensouled_enragedspirits,epic_epic_aspirations,warrior_bladedancer,warbeast_1",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,common_specialists,epic_giantsbrewzero,musk_golden_rounds,epic_ranged_dragonarrows,flagbearer_bannerofvitality,ranged_preciseshot,monk_heavenskarma,armored_unyieldingdefense,bomber_ricochet,epic_melee_glory_of_victory,general_2,healer_giftofregeneration,musk_volley_tactics,general_1,saint_missionary,ensouled_heroicspirits,tank_frostbarbs,healer_healing_bloom,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,assassin_spynetwork,ensouled_enragedspirits,epic_epic_aspirations,warrior_bladedancer,warbeast_1",
+        "nextNodeType": "raidhallapath"
     }
 ]
