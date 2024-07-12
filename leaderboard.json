@@ -9,15 +9,6 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "164369",
-        "completedLevels": "46",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-07-12 01:04:20",
-        "endTime": "2024-07-12 07:00:24",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,ensouled_enragedspirits,epic_armored_armored_giants,general_2,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,paladin_layonhands,healer_giftofregeneration,orcs_inpenetrable,templar_1,melee_damage_1,lancer_spearwall,lancer_sarissaspears,barb_warcry",
-        "nextNodeType": "shogunateAmbush"
-    },
-    {
         "dungeonRunId": "164391",
         "completedLevels": "46",
         "twitchDisplayName": "3aglesdwm",
@@ -25,6 +16,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_zephyrstride,lancer_spearwall,lancer_ignitingstrike,warrior_bladedancer,fairy_nixiepops,epic_giantsbrewzero,fairy_hocuspocus,warrior_lance_of_ruin,lancer_sarissaspears,flagbearer_bannerofvitality,general_4,barb_warcry,barbarian_conqueror,support_healingsong,epic_melee_glory_of_victory,bomber_dangerzone,necromancer_necronomicon,healer_healing_bloom,rogue_shadow_cloak,ranged_ironbreakballistics",
         "nextNodeType": "tomblandsquicksand"
+    },
+    {
+        "dungeonRunId": "164369",
+        "completedLevels": "46",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-07-12 01:04:20",
+        "endTime": "2024-07-12 07:00:24",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,ensouled_enragedspirits,epic_armored_armored_giants,general_2,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,paladin_layonhands,healer_giftofregeneration,orcs_inpenetrable,templar_1,melee_damage_1,lancer_spearwall,lancer_sarissaspears,barb_warcry",
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "164380",
