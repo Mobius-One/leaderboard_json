@@ -81,12 +81,12 @@
         "nextNodeType": "libraryboss"
     },
     {
-        "dungeonRunId": "164433",
+        "dungeonRunId": "164365",
         "completedLevels": "37",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-07-12 10:05:54",
-        "endTime": "2024-07-12 15:56:06",
-        "captainBoons": "common_classic_comeback,saint_exalt,orcs_inpenetrable,berserker_frenzy,epic_giantsbrewzero,vampire_spectralpresence,warrior_lance_of_ruin,amazon_hermesblessing,paladin_holyforce,archer_zephyrstride,monk_selfless_prayer,epic_epic_aspirations,warrior_bladedancer,bomber_ricochet,mage_elementalsummoning,vampire_swarmcoffin,armored_unyieldingdefense,elf_elvenimmortality,blob_parasite,ranged_ironbreakballistics,ensouled_fatedspirits,bomber_living_bomb,support_healingsong,healer_giftofregeneration,melee_damage_1,ranged_preciseshot",
-        "nextNodeType": "steampunkgear"
+        "twitchDisplayName": "MYKLMantis",
+        "startTime": "2024-07-12 00:30:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,healer_giftofregeneration,art_siege_weapons,melee_damage_1,ranged_preciseshot,berserker_frenzy,ranged_attack_1,musk_golden_rounds,saint_godspeed,healer_combatmedic,warrior_lance_of_ruin,general_1,ensouled_enragedspirits,lancer_sarissaspears,gladiator_war_machine,archer_zephyrstride,gladiator_sonofthunder,healer_healing_bloom,ranged_ironbreakballistics,berserker_enrage,bomber_living_bomb,warrior_bladedancer,frogue_preparation,saint_exalt,saint_missionary",
+        "nextNodeType": "newjunglespore"
     }
 ]
