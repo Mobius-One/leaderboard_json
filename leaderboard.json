@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "164320",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-07-11 21:51:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,rogue_shadow_cloak,saint_exalt,melee_armor_break,monk_heavenskarma,warrior_bladedancer,lancer_spearwall,gladiator_war_machine,epic_giantsbrewzero,amazon_hermesblessing,paladin_holyforce,paladin_layonhands,mage_elementalsummoning,warbeast_underworldbeast,armored_unyieldingdefense,ensouled_fatedspirits,ensouled_bravespirits,armored_damage_1,berserker_enrage,warrior_lance_of_ruin,support_healingsong,ranged_preciseshot,saint_godspeed,lancer_sarissaspears,ensouled_enragedspirits",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,rogue_shadow_cloak,saint_exalt,melee_armor_break,monk_heavenskarma,warrior_bladedancer,lancer_spearwall,gladiator_war_machine,epic_giantsbrewzero,amazon_hermesblessing,paladin_holyforce,paladin_layonhands,mage_elementalsummoning,armored_unyieldingdefense,ensouled_fatedspirits,ensouled_bravespirits,armored_damage_1,berserker_enrage,warrior_lance_of_ruin,support_healingsong,ranged_preciseshot,saint_godspeed,lancer_sarissaspears,ensouled_enragedspirits",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "164315",
@@ -54,6 +54,15 @@
         "nextNodeType": "frontiercavalry"
     },
     {
+        "dungeonRunId": "164344",
+        "completedLevels": "17",
+        "twitchDisplayName": "AllegingTuna",
+        "startTime": "2024-07-11 23:14:17",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,fairy_hocuspocus,archer_steadybow,bomber_dangerzone,blob_flesheater,epic_armored_armored_giants,assassin_spynetwork,ensouled_enragedspirits,rogue_shadow_cloak,saint_exalt,lancer_spearwall,barbarian_conqueror,melee_damage_1,elf_elvenimmortality,musk_volley_tactics,armored_unyieldingdefense,musk_golden_rounds",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "164314",
         "completedLevels": "17",
         "twitchDisplayName": "thecapnk",
@@ -63,22 +72,13 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "164344",
-        "completedLevels": "16",
-        "twitchDisplayName": "AllegingTuna",
-        "startTime": "2024-07-11 23:14:17",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,fairy_hocuspocus,archer_steadybow,bomber_dangerzone,blob_flesheater,epic_armored_armored_giants,assassin_spynetwork,ensouled_enragedspirits,rogue_shadow_cloak,saint_exalt,lancer_spearwall,barbarian_conqueror,melee_damage_1,elf_elvenimmortality,musk_volley_tactics,armored_unyieldingdefense",
-        "nextNodeType": "frontiercavalry"
-    },
-    {
         "dungeonRunId": "164352",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "kingjerry_4ever",
         "startTime": "2024-07-11 23:40:20",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,warbeast_1,mage_clone,archer_zephyrstride,artillery_maxpower,berserker_frenzy,lancer_sarissaspears,mage_elementalsummoning,spell_empower_haste,barbarian_gloriousdeath,gladiator_sonofthunder,warbeast_underworldbeast,rogue_flamewalker,support_defensivetraining,warrior_lance_of_ruin",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,warbeast_1,mage_clone,archer_zephyrstride,artillery_maxpower,berserker_frenzy,lancer_sarissaspears,mage_elementalsummoning,spell_empower_haste,barbarian_gloriousdeath,gladiator_sonofthunder,warbeast_underworldbeast,rogue_flamewalker,support_defensivetraining,warrior_lance_of_ruin,ranged_ironbreakballistics",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "164328",
