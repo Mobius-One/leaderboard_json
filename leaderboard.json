@@ -1,19 +1,19 @@
 [
     {
         "dungeonRunId": "164320",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-07-11 21:51:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,rogue_shadow_cloak,saint_exalt,melee_armor_break,monk_heavenskarma,warrior_bladedancer,lancer_spearwall,gladiator_war_machine,epic_giantsbrewzero,amazon_hermesblessing,paladin_holyforce,paladin_layonhands,mage_elementalsummoning,warbeast_underworldbeast,armored_unyieldingdefense,ensouled_fatedspirits,ensouled_bravespirits,armored_damage_1,berserker_enrage,warrior_lance_of_ruin,support_healingsong",
-        "nextNodeType": "moboohm"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_steadybow,archer_zephyrstride,barb_warcry,rogue_shadow_cloak,saint_exalt,melee_armor_break,monk_heavenskarma,warrior_bladedancer,lancer_spearwall,gladiator_war_machine,epic_giantsbrewzero,amazon_hermesblessing,paladin_holyforce,paladin_layonhands,mage_elementalsummoning,warbeast_underworldbeast,armored_unyieldingdefense,ensouled_fatedspirits,ensouled_bravespirits,armored_damage_1,berserker_enrage,warrior_lance_of_ruin,support_healingsong,ranged_preciseshot",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "164327",
         "completedLevels": "22",
         "twitchDisplayName": "iitsYoda",
         "startTime": "2024-07-11 22:02:15",
-        "endTime": null,
+        "endTime": "2024-07-12 01:05:38",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,blob_flesheater,warrior_lance_of_ruin,general_2,artillery_maxpower,saint_godspeed,warrior_bladedancer,frogue_preparation,gladiator_war_machine,paladin_layonhands,templar_commanding_presence,spell_empower_stronghold,assassin_spynetwork,orcs_inpenetrable,bomber_living_bomb,general_3,assassin_deathmark,berserker_frenzy,melee_charge,ranged_preciseshot,frogue_air_snipers,armored_damage_1",
         "nextNodeType": "tomblandsquicksand"
     },
@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "164334",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "lord_bumkin",
         "startTime": "2024-07-11 22:34:41",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,gladiator_sonofthunder,rogue_shadow_cloak,barbarian_gloriousdeath,elf_elvenimmortality,necromancer_ectoplosion,assassin_spynetwork,support_defensivetraining,warrior_lance_of_ruin,rogue_flamewalker,musk_golden_rounds,art_siege_weapons,ranged_ironbreakballistics,mage_elementalsummoning,mage_clone,general_4,orcs_inpenetrable,templar_1,warrior_bladedancer",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,gladiator_sonofthunder,rogue_shadow_cloak,barbarian_gloriousdeath,elf_elvenimmortality,necromancer_ectoplosion,assassin_spynetwork,support_defensivetraining,warrior_lance_of_ruin,rogue_flamewalker,musk_golden_rounds,art_siege_weapons,ranged_ironbreakballistics,mage_elementalsummoning,mage_clone,general_4,orcs_inpenetrable,templar_1,warrior_bladedancer,vampire_spectralpresence",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "164321",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164344",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "AllegingTuna",
         "startTime": "2024-07-11 23:14:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,fairy_hocuspocus,archer_steadybow,bomber_dangerzone,blob_flesheater,epic_armored_armored_giants,assassin_spynetwork,ensouled_enragedspirits,rogue_shadow_cloak,saint_exalt,lancer_spearwall,barbarian_conqueror,melee_damage_1",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,fairy_hocuspocus,archer_steadybow,bomber_dangerzone,blob_flesheater,epic_armored_armored_giants,assassin_spynetwork,ensouled_enragedspirits,rogue_shadow_cloak,saint_exalt,lancer_spearwall,barbarian_conqueror,melee_damage_1,elf_elvenimmortality",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "164331",
