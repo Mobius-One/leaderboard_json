@@ -63,6 +63,15 @@
         "nextNodeType": "plaguegrotto"
     },
     {
+        "dungeonRunId": "164476",
+        "completedLevels": "46",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-07-12 15:16:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_healingsong,barbarian_conqueror,armored_unyieldingdefense,ensouled_bravespirits,bomber_dangerzone,necromancer_necronomicon,epic_giantsbrewzero,ensouled_fatedspirits,warrior_lance_of_ruin,ranged_attack_1,elf_elvenimmortality,epic_ranged_dragonarrows,saint_exalt,musk_volley_tactics,rogue_flamewalker,melee_armor_break,spell_empower_stronghold,paladin_layonhands,blob_flesheater,melee_damage_1,berserker_enrage",
+        "nextNodeType": "wildorcs"
+    },
+    {
         "dungeonRunId": "164369",
         "completedLevels": "46",
         "twitchDisplayName": "bakodemeester",
@@ -70,15 +79,6 @@
         "endTime": "2024-07-12 07:00:24",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,ensouled_enragedspirits,epic_armored_armored_giants,general_2,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,paladin_layonhands,healer_giftofregeneration,orcs_inpenetrable,templar_1,melee_damage_1,lancer_spearwall,lancer_sarissaspears,barb_warcry",
         "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "164476",
-        "completedLevels": "45",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-07-12 15:16:46",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong,barbarian_conqueror,armored_unyieldingdefense,ensouled_bravespirits,bomber_dangerzone,necromancer_necronomicon,epic_giantsbrewzero,ensouled_fatedspirits,warrior_lance_of_ruin,ranged_attack_1,elf_elvenimmortality,epic_ranged_dragonarrows,saint_exalt,musk_volley_tactics,rogue_flamewalker,melee_armor_break,spell_empower_stronghold,paladin_layonhands,blob_flesheater,melee_damage_1,berserker_enrage",
-        "nextNodeType": "tomblandsquicksand"
     },
     {
         "dungeonRunId": "164380",
