@@ -54,6 +54,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "164429",
+        "completedLevels": "52",
+        "twitchDisplayName": "waltmillsy",
+        "startTime": "2024-07-12 09:37:29",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,bomber_dangerzone,blob_flesheater,musk_volley_tactics,robot_robotauthority,epic_armored_armored_giants,warrior_bladedancer,amazon_hermesblessing,warrior_lance_of_ruin,bomber_ricochet,melee_damage_1,saint_godspeed,support_healingsong,necromancer_necronomicon,epic_melee_glory_of_victory,ranged_attack_1,blob_parasite",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "164434",
         "completedLevels": "52",
         "twitchDisplayName": "OvidiuZ94",
@@ -61,15 +70,6 @@
         "endTime": "2024-07-12 16:44:41",
         "captainBoons": "common_classic_comeback,blob_flesheater,common_specialists,musk_golden_rounds,ranged_preciseshot,monk_heavenskarma,armored_unyieldingdefense,epic_melee_glory_of_victory,general_2,musk_volley_tactics,general_1,saint_missionary,ensouled_heroicspirits,tank_frostbarbs,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,ensouled_enragedspirits",
         "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "164429",
-        "completedLevels": "51",
-        "twitchDisplayName": "waltmillsy",
-        "startTime": "2024-07-12 09:37:29",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,bomber_dangerzone,blob_flesheater,musk_volley_tactics,robot_robotauthority,epic_armored_armored_giants,warrior_bladedancer,amazon_hermesblessing,warrior_lance_of_ruin,bomber_ricochet,melee_damage_1,saint_godspeed,support_healingsong,necromancer_necronomicon,epic_melee_glory_of_victory,ranged_attack_1,blob_parasite",
-        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "164420",
