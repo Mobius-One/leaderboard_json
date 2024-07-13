@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "164685",
-        "completedLevels": "47",
+        "completedLevels": "48",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2024-07-13 16:26:16",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,amazon_hermesblessing,bomber_living_bomb,assassin_spynetwork,bomber_ricochet,tank_hoarfrost_armor,tank_frostbarbs,gladiator_sonofthunder,epic_armored_armored_giants,saint_exalt,lancer_sarissaspears,support_defensivetraining,warrior_lance_of_ruin,bomber_dangerzone,gladiator_war_machine,flagbearer_bannerofvitality,blob_flesheater,berserker_frenzy,armored_unyieldingdefense,elf_elvenimmortality",
-        "nextNodeType": "orctotem"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,amazon_hermesblessing,bomber_living_bomb,assassin_spynetwork,bomber_ricochet,tank_hoarfrost_armor,tank_frostbarbs,gladiator_sonofthunder,epic_armored_armored_giants,saint_exalt,lancer_sarissaspears,warrior_lance_of_ruin,bomber_dangerzone,gladiator_war_machine,flagbearer_bannerofvitality,blob_flesheater,berserker_frenzy,armored_unyieldingdefense,elf_elvenimmortality",
+        "nextNodeType": "steampunkgear"
     }
 ]
