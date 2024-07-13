@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164429",
-        "completedLevels": "46",
+        "completedLevels": "47",
         "twitchDisplayName": "waltmillsy",
         "startTime": "2024-07-12 09:37:29",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_missionary,bomber_dangerzone,blob_flesheater,musk_volley_tactics,robot_robotauthority,epic_armored_armored_giants,warrior_bladedancer,amazon_hermesblessing,general_1,warrior_lance_of_ruin,healer_combatmedic,bomber_ricochet,melee_damage_1,saint_godspeed,support_healingsong,necromancer_necronomicon,epic_melee_glory_of_victory,ranged_attack_1,blob_parasite",
-        "nextNodeType": "wildorcs"
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164369",
