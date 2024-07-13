@@ -18,15 +18,6 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "164320",
-        "completedLevels": "64",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-07-11 21:51:52",
-        "endTime": "2024-07-12 06:37:08",
-        "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
-        "nextNodeType": "newjunglespore"
-    },
-    {
         "dungeonRunId": "164419",
         "completedLevels": "64",
         "twitchDisplayName": "HighHopesTV",
@@ -34,6 +25,15 @@
         "endTime": "2024-07-12 13:18:27",
         "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
         "nextNodeType": "steampunkgear"
+    },
+    {
+        "dungeonRunId": "164320",
+        "completedLevels": "64",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-07-11 21:51:52",
+        "endTime": "2024-07-12 06:37:08",
+        "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "164391",
@@ -81,12 +81,12 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "164369",
+        "dungeonRunId": "164685",
         "completedLevels": "46",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-07-12 01:04:20",
-        "endTime": "2024-07-12 07:00:24",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,lancer_ignitingstrike,ensouled_enragedspirits,epic_armored_armored_giants,general_2,ensouled_bravespirits,saint_exalt,melee_armor_break,gladiator_war_machine,flagbearer_bannerofvitality,mage_elementalsummoning,paladin_layonhands,healer_giftofregeneration,orcs_inpenetrable,templar_1,melee_damage_1,lancer_spearwall,lancer_sarissaspears,barb_warcry",
-        "nextNodeType": "shogunateAmbush"
+        "twitchDisplayName": "Juzy_Fruit",
+        "startTime": "2024-07-13 16:26:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,amazon_hermesblessing,bomber_living_bomb,assassin_spynetwork,bomber_ricochet,tank_hoarfrost_armor,tank_frostbarbs,gladiator_sonofthunder,epic_armored_armored_giants,saint_exalt,lancer_sarissaspears,support_defensivetraining,warrior_lance_of_ruin,bomber_dangerzone,gladiator_war_machine,flagbearer_bannerofvitality,blob_flesheater,berserker_frenzy,armored_unyieldingdefense,elf_elvenimmortality",
+        "nextNodeType": "plaguegrotto"
     }
 ]
