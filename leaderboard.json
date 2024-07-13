@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "164429",
-        "completedLevels": "53",
+        "completedLevels": "54",
         "twitchDisplayName": "waltmillsy",
         "startTime": "2024-07-12 09:37:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,bomber_dangerzone,blob_flesheater,musk_volley_tactics,robot_robotauthority,epic_armored_armored_giants,warrior_bladedancer,amazon_hermesblessing,warrior_lance_of_ruin,bomber_ricochet,melee_damage_1,saint_godspeed,support_healingsong,necromancer_necronomicon,epic_melee_glory_of_victory,ranged_attack_1,blob_parasite",
-        "nextNodeType": "orctotem"
+        "captainBoons": "epic_giantsbrewzero,bomber_dangerzone,blob_flesheater,musk_volley_tactics,robot_robotauthority,epic_armored_armored_giants,warrior_bladedancer,amazon_hermesblessing,warrior_lance_of_ruin,bomber_ricochet,melee_damage_1,saint_godspeed,support_healingsong,necromancer_necronomicon,epic_melee_glory_of_victory,ranged_attack_1,blob_parasite",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "164434",
