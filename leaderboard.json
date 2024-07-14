@@ -81,12 +81,12 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "164685",
+        "dungeonRunId": "164738",
         "completedLevels": "48",
-        "twitchDisplayName": "Juzy_Fruit",
-        "startTime": "2024-07-13 16:26:16",
-        "endTime": "2024-07-13 23:54:13",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,amazon_hermesblessing,bomber_living_bomb,assassin_spynetwork,bomber_ricochet,tank_hoarfrost_armor,tank_frostbarbs,gladiator_sonofthunder,epic_armored_armored_giants,saint_exalt,lancer_sarissaspears,warrior_lance_of_ruin,bomber_dangerzone,gladiator_war_machine,flagbearer_bannerofvitality,blob_flesheater,berserker_frenzy,armored_unyieldingdefense,elf_elvenimmortality",
-        "nextNodeType": "steampunkgear"
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-07-13 22:35:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,barb_warcry,gladiator_war_machine,lancer_sarissaspears,paladin_holyforce,bomber_dangerzone,warrior_lance_of_ruin,necromancer_necronomicon,saint_exalt,elf_elvenimmortality,ensouled_heroicspirits,tank_frostbarbs,warbeast_1,ranged_attack_1,berserker_frenzy,musk_volley_tactics,gladiator_sonofthunder,spell_empower_highground,bomber_ricochet",
+        "nextNodeType": "shogunateAmbush"
     }
 ]
