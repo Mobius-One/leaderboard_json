@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164738",
-        "completedLevels": "51",
+        "completedLevels": "52",
         "twitchDisplayName": "Angel",
         "startTime": "2024-07-13 22:35:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,barb_warcry,gladiator_war_machine,lancer_sarissaspears,paladin_holyforce,bomber_dangerzone,warrior_lance_of_ruin,necromancer_necronomicon,saint_exalt,elf_elvenimmortality,ensouled_heroicspirits,tank_frostbarbs,warbeast_1,berserker_frenzy,musk_volley_tactics,gladiator_sonofthunder,spell_empower_highground,bomber_ricochet",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,barb_warcry,gladiator_war_machine,lancer_sarissaspears,paladin_holyforce,bomber_dangerzone,warrior_lance_of_ruin,necromancer_necronomicon,saint_exalt,ensouled_heroicspirits,tank_frostbarbs,warbeast_1,berserker_frenzy,musk_volley_tactics,gladiator_sonofthunder,spell_empower_highground,bomber_ricochet",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164420",
