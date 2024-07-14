@@ -19,21 +19,12 @@
     },
     {
         "dungeonRunId": "164738",
-        "completedLevels": "66",
+        "completedLevels": "67",
         "twitchDisplayName": "Angel",
         "startTime": "2024-07-13 22:35:23",
         "endTime": null,
         "captainBoons": "epic_giantsbrewzero,gladiator_war_machine,lancer_sarissaspears,bomber_dangerzone,warrior_lance_of_ruin,necromancer_necronomicon,ensouled_heroicspirits,berserker_frenzy,musk_volley_tactics,gladiator_sonofthunder,bomber_ricochet",
-        "nextNodeType": "raidhallapath"
-    },
-    {
-        "dungeonRunId": "164419",
-        "completedLevels": "64",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-07-12 07:22:42",
-        "endTime": "2024-07-12 13:18:27",
-        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
-        "nextNodeType": "steampunkgear"
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "164320",
@@ -43,6 +34,15 @@
         "endTime": "2024-07-12 06:37:08",
         "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
         "nextNodeType": "newjunglespore"
+    },
+    {
+        "dungeonRunId": "164419",
+        "completedLevels": "64",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 07:22:42",
+        "endTime": "2024-07-12 13:18:27",
+        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "164391",
