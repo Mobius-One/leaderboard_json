@@ -27,15 +27,6 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "164419",
-        "completedLevels": "64",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-07-12 07:22:42",
-        "endTime": "2024-07-12 13:18:27",
-        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
-        "nextNodeType": "steampunkgear"
-    },
-    {
         "dungeonRunId": "164320",
         "completedLevels": "64",
         "twitchDisplayName": "ThaBan4",
@@ -43,6 +34,15 @@
         "endTime": "2024-07-12 06:37:08",
         "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
         "nextNodeType": "newjunglespore"
+    },
+    {
+        "dungeonRunId": "164419",
+        "completedLevels": "64",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 07:22:42",
+        "endTime": "2024-07-12 13:18:27",
+        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "164391",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "164828",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-07-14 11:48:20",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,orcs_inpenetrable,bomber_living_bomb,vampire_darkwings,gladiator_sonofthunder,warrior_lance_of_ruin,flagbearer_bannerofvitality,elf_elvenimmortality,musk_volley_tactics,saint_exalt,epic_armored_armored_giants,melee_damage_1,spell_empower_haste,bomber_dangerzone,musk_golden_rounds",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,orcs_inpenetrable,bomber_living_bomb,gladiator_sonofthunder,warrior_lance_of_ruin,flagbearer_bannerofvitality,elf_elvenimmortality,musk_volley_tactics,saint_exalt,epic_armored_armored_giants,melee_damage_1,spell_empower_haste,bomber_dangerzone,musk_golden_rounds",
+        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "164429",
