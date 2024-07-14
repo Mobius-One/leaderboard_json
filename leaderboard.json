@@ -18,15 +18,6 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "164419",
-        "completedLevels": "64",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-07-12 07:22:42",
-        "endTime": "2024-07-12 13:18:27",
-        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
-        "nextNodeType": "steampunkgear"
-    },
-    {
         "dungeonRunId": "164320",
         "completedLevels": "64",
         "twitchDisplayName": "ThaBan4",
@@ -36,13 +27,22 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "164419",
+        "completedLevels": "64",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 07:22:42",
+        "endTime": "2024-07-12 13:18:27",
+        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
+        "nextNodeType": "steampunkgear"
+    },
+    {
         "dungeonRunId": "164738",
-        "completedLevels": "62",
+        "completedLevels": "63",
         "twitchDisplayName": "Angel",
         "startTime": "2024-07-13 22:35:23",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,gladiator_war_machine,lancer_sarissaspears,bomber_dangerzone,warrior_lance_of_ruin,necromancer_necronomicon,saint_exalt,ensouled_heroicspirits,berserker_frenzy,musk_volley_tactics,gladiator_sonofthunder,bomber_ricochet",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "164391",
