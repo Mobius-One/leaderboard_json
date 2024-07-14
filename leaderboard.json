@@ -45,6 +45,15 @@
         "nextNodeType": "libraryboss"
     },
     {
+        "dungeonRunId": "164738",
+        "completedLevels": "57",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-07-13 22:35:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,gladiator_war_machine,lancer_sarissaspears,bomber_dangerzone,warrior_lance_of_ruin,necromancer_necronomicon,saint_exalt,ensouled_heroicspirits,tank_frostbarbs,warbeast_1,berserker_frenzy,musk_volley_tactics,gladiator_sonofthunder,spell_empower_highground,bomber_ricochet",
+        "nextNodeType": "wildorcs"
+    },
+    {
         "dungeonRunId": "164429",
         "completedLevels": "57",
         "twitchDisplayName": "waltmillsy",
@@ -52,15 +61,6 @@
         "endTime": "2024-07-13 17:34:13",
         "captainBoons": "epic_giantsbrewzero,bomber_dangerzone,blob_flesheater,musk_volley_tactics,robot_robotauthority,epic_armored_armored_giants,warrior_bladedancer,amazon_hermesblessing,warrior_lance_of_ruin,bomber_ricochet,melee_damage_1,saint_godspeed,support_healingsong,epic_melee_glory_of_victory,ranged_attack_1,blob_parasite",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "164738",
-        "completedLevels": "56",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-07-13 22:35:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,gladiator_war_machine,lancer_sarissaspears,bomber_dangerzone,warrior_lance_of_ruin,necromancer_necronomicon,saint_exalt,ensouled_heroicspirits,tank_frostbarbs,warbeast_1,berserker_frenzy,musk_volley_tactics,gladiator_sonofthunder,spell_empower_highground,bomber_ricochet",
-        "nextNodeType": "libraryboss"
     },
     {
         "dungeonRunId": "164476",
