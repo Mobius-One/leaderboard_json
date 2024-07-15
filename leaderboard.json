@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "164891",
-        "completedLevels": "81",
+        "completedLevels": "82",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-07-14 19:31:21",
         "endTime": null,
-        "captainBoons": "bomber_dangerzone,ensouled_enragedspirits,warrior_lance_of_ruin,bomber_ricochet",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "bomber_dangerzone,warrior_lance_of_ruin,bomber_ricochet",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "164426",
