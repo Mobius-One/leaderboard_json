@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "164891",
-        "completedLevels": "73",
+        "completedLevels": "74",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-07-14 19:31:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,musk_volley_tactics,saint_exalt,ensouled_enragedspirits,barbarian_gloriousdeath,warrior_lance_of_ruin,bomber_ricochet",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,musk_volley_tactics,ensouled_enragedspirits,barbarian_gloriousdeath,warrior_lance_of_ruin,bomber_ricochet",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "164426",
