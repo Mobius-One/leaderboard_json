@@ -45,15 +45,6 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "164419",
-        "completedLevels": "64",
-        "twitchDisplayName": "HighHopesTV",
-        "startTime": "2024-07-12 07:22:42",
-        "endTime": "2024-07-12 13:18:27",
-        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
-        "nextNodeType": "steampunkgear"
-    },
-    {
         "dungeonRunId": "164320",
         "completedLevels": "64",
         "twitchDisplayName": "ThaBan4",
@@ -61,6 +52,15 @@
         "endTime": "2024-07-12 06:37:08",
         "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
         "nextNodeType": "newjunglespore"
+    },
+    {
+        "dungeonRunId": "164419",
+        "completedLevels": "64",
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 07:22:42",
+        "endTime": "2024-07-12 13:18:27",
+        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "164391",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164918",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-07-15 01:29:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,lancer_sarissaspears,gladiator_war_machine,berserker_enrage,blob_parasite,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,bomber_ricochet,saint_exalt,barb_warcry",
-        "nextNodeType": "steampunkgear"
+        "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,lancer_sarissaspears,gladiator_war_machine,berserker_enrage,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,bomber_ricochet,saint_exalt,barb_warcry",
+        "nextNodeType": "tomblandsquicksand"
     },
     {
         "dungeonRunId": "164429",
