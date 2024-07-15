@@ -63,6 +63,15 @@
         "nextNodeType": "libraryboss"
     },
     {
+        "dungeonRunId": "164891",
+        "completedLevels": "57",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-07-14 19:31:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_enrage,human_humandestiny,amazon_hermesblessing,epic_melee_glory_of_victory,musk_volley_tactics,saint_exalt,support_healingsong,ensouled_enragedspirits,barbarian_gloriousdeath,musk_golden_rounds,centurion_shieldofbones,warrior_lance_of_ruin,bomber_ricochet,epic_giantsbrewzero",
+        "nextNodeType": "oasisvalley"
+    },
+    {
         "dungeonRunId": "164429",
         "completedLevels": "57",
         "twitchDisplayName": "waltmillsy",
@@ -70,15 +79,6 @@
         "endTime": "2024-07-13 17:34:13",
         "captainBoons": "epic_giantsbrewzero,bomber_dangerzone,blob_flesheater,musk_volley_tactics,robot_robotauthority,epic_armored_armored_giants,warrior_bladedancer,amazon_hermesblessing,warrior_lance_of_ruin,bomber_ricochet,melee_damage_1,saint_godspeed,support_healingsong,epic_melee_glory_of_victory,ranged_attack_1,blob_parasite",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "164891",
-        "completedLevels": "56",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_enrage,human_humandestiny,amazon_hermesblessing,epic_melee_glory_of_victory,musk_volley_tactics,saint_exalt,support_healingsong,ensouled_enragedspirits,barbarian_gloriousdeath,musk_golden_rounds,centurion_shieldofbones,warrior_lance_of_ruin,bomber_ricochet,epic_giantsbrewzero",
-        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164476",
