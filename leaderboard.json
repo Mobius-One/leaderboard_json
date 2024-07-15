@@ -45,15 +45,6 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "164320",
-        "completedLevels": "64",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-07-11 21:51:52",
-        "endTime": "2024-07-12 06:37:08",
-        "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
-        "nextNodeType": "newjunglespore"
-    },
-    {
         "dungeonRunId": "164419",
         "completedLevels": "64",
         "twitchDisplayName": "HighHopesTV",
@@ -63,13 +54,22 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "164320",
+        "completedLevels": "64",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-07-11 21:51:52",
+        "endTime": "2024-07-12 06:37:08",
+        "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
+        "nextNodeType": "newjunglespore"
+    },
+    {
         "dungeonRunId": "164918",
-        "completedLevels": "63",
+        "completedLevels": "64",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-07-15 01:29:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,gladiator_war_machine,berserker_enrage,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,saint_exalt,barb_warcry",
-        "nextNodeType": "moboohm"
+        "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,gladiator_war_machine,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,saint_exalt,barb_warcry",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "164391",
