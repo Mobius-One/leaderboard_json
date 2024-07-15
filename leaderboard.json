@@ -27,15 +27,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164365",
-        "completedLevels": "70",
-        "twitchDisplayName": "MYKLMantis",
-        "startTime": "2024-07-12 00:30:01",
-        "endTime": "2024-07-12 21:35:07",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,warrior_lance_of_ruin,bomber_living_bomb,saint_exalt",
-        "nextNodeType": "tabletophold"
-    },
-    {
         "dungeonRunId": "164974",
         "completedLevels": "70",
         "twitchDisplayName": "FinalSun",
@@ -43,6 +34,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,bomber_ricochet,musk_volley_tactics,bomber_dangerzone,bomber_living_bomb,saint_exalt,berserker_enrage,elf_elvenimmortality",
         "nextNodeType": "beastlandsbug03"
+    },
+    {
+        "dungeonRunId": "164365",
+        "completedLevels": "70",
+        "twitchDisplayName": "MYKLMantis",
+        "startTime": "2024-07-12 00:30:01",
+        "endTime": "2024-07-12 21:35:07",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,warrior_lance_of_ruin,bomber_living_bomb,saint_exalt",
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "164828",
