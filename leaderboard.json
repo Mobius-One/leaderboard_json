@@ -63,6 +63,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "164918",
+        "completedLevels": "60",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-07-15 01:29:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,gladiator_war_machine,berserker_enrage,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,bomber_ricochet,saint_exalt,barb_warcry",
+        "nextNodeType": "shogunateAmbush"
+    },
+    {
         "dungeonRunId": "164391",
         "completedLevels": "59",
         "twitchDisplayName": "3aglesdwm",
@@ -70,15 +79,6 @@
         "endTime": "2024-07-12 10:09:09",
         "captainBoons": "common_classic_comeback,lancer_spearwall,warrior_bladedancer,epic_giantsbrewzero,warrior_lance_of_ruin,lancer_sarissaspears,flagbearer_bannerofvitality,general_4,barb_warcry,barbarian_conqueror,epic_melee_glory_of_victory,bomber_dangerzone,healer_healing_bloom,rogue_shadow_cloak,ranged_ironbreakballistics",
         "nextNodeType": "libraryboss"
-    },
-    {
-        "dungeonRunId": "164918",
-        "completedLevels": "59",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-07-15 01:29:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,lancer_sarissaspears,gladiator_war_machine,berserker_enrage,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,bomber_ricochet,saint_exalt,barb_warcry",
-        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164429",
