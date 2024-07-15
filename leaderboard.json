@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "164891",
-        "completedLevels": "61",
+        "completedLevels": "62",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-07-14 19:31:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_enrage,epic_melee_glory_of_victory,musk_volley_tactics,saint_exalt,support_healingsong,ensouled_enragedspirits,barbarian_gloriousdeath,musk_golden_rounds,centurion_shieldofbones,warrior_lance_of_ruin,bomber_ricochet,epic_giantsbrewzero",
-        "nextNodeType": "moboohm"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,epic_melee_glory_of_victory,musk_volley_tactics,saint_exalt,support_healingsong,ensouled_enragedspirits,barbarian_gloriousdeath,musk_golden_rounds,centurion_shieldofbones,warrior_lance_of_ruin,bomber_ricochet,epic_giantsbrewzero",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164391",
