@@ -45,6 +45,15 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
+        "dungeonRunId": "164974",
+        "completedLevels": "66",
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-07-15 14:48:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_frenzy,flagbearer_bannerofvitality,bomber_ricochet,musk_volley_tactics,rogue_shadow_cloak,bomber_dangerzone,bomber_living_bomb,saint_exalt,berserker_enrage,elf_elvenimmortality",
+        "nextNodeType": "beastlandsbug03"
+    },
+    {
         "dungeonRunId": "164918",
         "completedLevels": "66",
         "twitchDisplayName": "Hairtrigger83",
@@ -52,15 +61,6 @@
         "endTime": "2024-07-15 07:10:56",
         "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,gladiator_war_machine,general_1,mage_elementalsummoning,spell_empower_stronghold,saint_exalt,barb_warcry",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "164974",
-        "completedLevels": "65",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-07-15 14:48:45",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_frenzy,flagbearer_bannerofvitality,bomber_ricochet,musk_volley_tactics,rogue_shadow_cloak,bomber_dangerzone,bomber_living_bomb,saint_exalt,berserker_enrage,warrior_bladedancer,elf_elvenimmortality",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164320",
