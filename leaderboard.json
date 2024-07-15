@@ -1,14 +1,5 @@
 [
     {
-        "dungeonRunId": "164891",
-        "completedLevels": "86",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": "2024-07-15 06:30:46",
-        "captainBoons": "bomber_dangerzone",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
         "dungeonRunId": "164738",
         "completedLevels": "86",
         "twitchDisplayName": "Angel",
@@ -16,6 +7,15 @@
         "endTime": "2024-07-14 06:03:09",
         "captainBoons": "warrior_lance_of_ruin",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "164891",
+        "completedLevels": "86",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-07-14 19:31:21",
+        "endTime": "2024-07-15 06:30:46",
+        "captainBoons": "bomber_dangerzone",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164426",
@@ -55,21 +55,12 @@
     },
     {
         "dungeonRunId": "164974",
-        "completedLevels": "64",
+        "completedLevels": "65",
         "twitchDisplayName": "FinalSun",
         "startTime": "2024-07-15 14:48:45",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_frenzy,flagbearer_bannerofvitality,bomber_ricochet,musk_volley_tactics,rogue_shadow_cloak,bomber_dangerzone,bomber_living_bomb,saint_exalt,berserker_enrage,warrior_bladedancer,elf_elvenimmortality",
-        "nextNodeType": "moboohm"
-    },
-    {
-        "dungeonRunId": "164320",
-        "completedLevels": "64",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-07-11 21:51:52",
-        "endTime": "2024-07-12 06:37:08",
-        "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
-        "nextNodeType": "newjunglespore"
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164419",
@@ -79,6 +70,15 @@
         "endTime": "2024-07-12 13:18:27",
         "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
         "nextNodeType": "steampunkgear"
+    },
+    {
+        "dungeonRunId": "164320",
+        "completedLevels": "64",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-07-11 21:51:52",
+        "endTime": "2024-07-12 06:37:08",
+        "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "164391",
