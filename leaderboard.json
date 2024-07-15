@@ -9,6 +9,15 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "164891",
+        "completedLevels": "72",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-07-14 19:31:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,musk_volley_tactics,saint_exalt,ensouled_enragedspirits,barbarian_gloriousdeath,warrior_lance_of_ruin,bomber_ricochet",
+        "nextNodeType": "oasisvalley"
+    },
+    {
         "dungeonRunId": "164426",
         "completedLevels": "71",
         "twitchDisplayName": "ImmerBock",
@@ -16,15 +25,6 @@
         "endTime": "2024-07-12 16:36:46",
         "captainBoons": "melee_damage_1,lancer_spearwall,saint_exalt,frogue_air_snipers,melee_armor_break,bomber_living_bomb,musk_volley_tactics,bomber_dangerzone,musk_golden_rounds",
         "nextNodeType": "crystalcavethrone"
-    },
-    {
-        "dungeonRunId": "164891",
-        "completedLevels": "71",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,epic_melee_glory_of_victory,musk_volley_tactics,saint_exalt,ensouled_enragedspirits,barbarian_gloriousdeath,warrior_lance_of_ruin,bomber_ricochet",
-        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164365",
