@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "164974",
-        "completedLevels": "67",
+        "completedLevels": "68",
         "twitchDisplayName": "FinalSun",
         "startTime": "2024-07-15 14:48:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_frenzy,flagbearer_bannerofvitality,bomber_ricochet,musk_volley_tactics,rogue_shadow_cloak,bomber_dangerzone,bomber_living_bomb,saint_exalt,berserker_enrage,elf_elvenimmortality",
-        "nextNodeType": "tabletophold"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,bomber_ricochet,musk_volley_tactics,rogue_shadow_cloak,bomber_dangerzone,bomber_living_bomb,saint_exalt,berserker_enrage,elf_elvenimmortality",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "164918",
