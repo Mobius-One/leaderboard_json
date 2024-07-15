@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "164891",
-        "completedLevels": "84",
+        "completedLevels": "85",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-07-14 19:31:21",
         "endTime": null,
         "captainBoons": "bomber_dangerzone,warrior_lance_of_ruin",
-        "nextNodeType": "beastlandsbug03"
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "164426",
@@ -72,15 +72,6 @@
         "nextNodeType": "libraryboss"
     },
     {
-        "dungeonRunId": "164429",
-        "completedLevels": "57",
-        "twitchDisplayName": "waltmillsy",
-        "startTime": "2024-07-12 09:37:29",
-        "endTime": "2024-07-13 17:34:13",
-        "captainBoons": "epic_giantsbrewzero,bomber_dangerzone,blob_flesheater,musk_volley_tactics,robot_robotauthority,epic_armored_armored_giants,warrior_bladedancer,amazon_hermesblessing,warrior_lance_of_ruin,bomber_ricochet,melee_damage_1,saint_godspeed,support_healingsong,epic_melee_glory_of_victory,ranged_attack_1,blob_parasite",
-        "nextNodeType": "tabletophold"
-    },
-    {
         "dungeonRunId": "164918",
         "completedLevels": "57",
         "twitchDisplayName": "Hairtrigger83",
@@ -88,5 +79,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,lancer_sarissaspears,gladiator_war_machine,berserker_enrage,blob_parasite,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,bomber_ricochet,saint_exalt,barb_warcry",
         "nextNodeType": "steampunkgear"
+    },
+    {
+        "dungeonRunId": "164429",
+        "completedLevels": "57",
+        "twitchDisplayName": "waltmillsy",
+        "startTime": "2024-07-12 09:37:29",
+        "endTime": "2024-07-13 17:34:13",
+        "captainBoons": "epic_giantsbrewzero,bomber_dangerzone,blob_flesheater,musk_volley_tactics,robot_robotauthority,epic_armored_armored_giants,warrior_bladedancer,amazon_hermesblessing,warrior_lance_of_ruin,bomber_ricochet,melee_damage_1,saint_godspeed,support_healingsong,epic_melee_glory_of_victory,ranged_attack_1,blob_parasite",
+        "nextNodeType": "tabletophold"
     }
 ]
