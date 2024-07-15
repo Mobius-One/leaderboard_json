@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "164918",
-        "completedLevels": "62",
+        "completedLevels": "63",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-07-15 01:29:54",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,gladiator_war_machine,berserker_enrage,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,saint_exalt,barb_warcry",
-        "nextNodeType": "libraryboss"
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "164391",
