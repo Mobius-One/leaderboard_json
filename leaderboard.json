@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "164891",
-        "completedLevels": "83",
+        "completedLevels": "84",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-07-14 19:31:21",
         "endTime": null,
-        "captainBoons": "bomber_dangerzone,warrior_lance_of_ruin,bomber_ricochet",
-        "nextNodeType": "crystalcavethrone"
+        "captainBoons": "bomber_dangerzone,warrior_lance_of_ruin",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "164426",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "164918",
-        "completedLevels": "56",
+        "completedLevels": "57",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-07-15 01:29:54",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,lancer_sarissaspears,gladiator_war_machine,berserker_enrage,blob_parasite,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,bomber_ricochet,saint_exalt,barb_warcry",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "steampunkgear"
     }
 ]
