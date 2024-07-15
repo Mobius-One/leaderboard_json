@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "164891",
+        "completedLevels": "86",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-07-14 19:31:21",
+        "endTime": null,
+        "captainBoons": "bomber_dangerzone",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
         "dungeonRunId": "164738",
         "completedLevels": "86",
         "twitchDisplayName": "Angel",
@@ -7,15 +16,6 @@
         "endTime": "2024-07-14 06:03:09",
         "captainBoons": "warrior_lance_of_ruin",
         "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "164891",
-        "completedLevels": "85",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": null,
-        "captainBoons": "bomber_dangerzone,warrior_lance_of_ruin",
-        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "164426",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "164918",
-        "completedLevels": "58",
+        "completedLevels": "59",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-07-15 01:29:54",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,lancer_sarissaspears,gladiator_war_machine,berserker_enrage,general_1,mage_elementalsummoning,spell_empower_stronghold,epic_giantsbrewzero,bomber_ricochet,saint_exalt,barb_warcry",
-        "nextNodeType": "tomblandsquicksand"
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164429",
