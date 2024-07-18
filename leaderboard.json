@@ -1,14 +1,5 @@
 [
     {
-        "dungeonRunId": "164738",
-        "completedLevels": "86",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-07-13 22:35:23",
-        "endTime": "2024-07-14 06:03:09",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "164891",
         "completedLevels": "86",
         "twitchDisplayName": "Hyf1re",
@@ -16,6 +7,15 @@
         "endTime": "2024-07-15 06:30:46",
         "captainBoons": "bomber_dangerzone",
         "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
+        "dungeonRunId": "164738",
+        "completedLevels": "86",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-07-13 22:35:23",
+        "endTime": "2024-07-14 06:03:09",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164974",
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "165279",
-        "completedLevels": "65",
+        "completedLevels": "66",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-07-17 17:18:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_2,tank_hoarfrost_armor,bomber_dangerzone,lancer_sarissaspears,bomber_ricochet,saint_exalt,warrior_lance_of_ruin,melee_damage_1,blob_flesheater,musk_volley_tactics,warrior_bladedancer",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,general_2,tank_hoarfrost_armor,bomber_dangerzone,lancer_sarissaspears,bomber_ricochet,saint_exalt,warrior_lance_of_ruin,melee_damage_1,musk_volley_tactics,warrior_bladedancer",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "164419",
