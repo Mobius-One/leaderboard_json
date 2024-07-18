@@ -1,14 +1,5 @@
 [
     {
-        "dungeonRunId": "164738",
-        "completedLevels": "86",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-07-13 22:35:23",
-        "endTime": "2024-07-14 06:03:09",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "164891",
         "completedLevels": "86",
         "twitchDisplayName": "Hyf1re",
@@ -18,13 +9,22 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
+        "dungeonRunId": "164738",
+        "completedLevels": "86",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-07-13 22:35:23",
+        "endTime": "2024-07-14 06:03:09",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "165380",
-        "completedLevels": "79",
+        "completedLevels": "80",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-07-18 12:48:30",
         "endTime": null,
-        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,musk_volley_tactics,bomber_living_bomb,saint_godspeed",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,musk_volley_tactics,saint_godspeed",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164974",
