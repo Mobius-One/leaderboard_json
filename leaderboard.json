@@ -54,15 +54,6 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "164918",
-        "completedLevels": "66",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-07-15 01:29:54",
-        "endTime": "2024-07-15 07:10:56",
-        "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,gladiator_war_machine,general_1,mage_elementalsummoning,spell_empower_stronghold,saint_exalt,barb_warcry",
-        "nextNodeType": "tabletophold"
-    },
-    {
         "dungeonRunId": "165279",
         "completedLevels": "66",
         "twitchDisplayName": "bakodemeester",
@@ -70,6 +61,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_2,tank_hoarfrost_armor,bomber_dangerzone,lancer_sarissaspears,bomber_ricochet,saint_exalt,warrior_lance_of_ruin,melee_damage_1,musk_volley_tactics,warrior_bladedancer",
         "nextNodeType": "plaguegrotto"
+    },
+    {
+        "dungeonRunId": "164918",
+        "completedLevels": "66",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-07-15 01:29:54",
+        "endTime": "2024-07-15 07:10:56",
+        "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,gladiator_war_machine,general_1,mage_elementalsummoning,spell_empower_stronghold,saint_exalt,barb_warcry",
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "164419",
