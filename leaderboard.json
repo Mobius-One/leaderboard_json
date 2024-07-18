@@ -81,12 +81,12 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "164391",
+        "dungeonRunId": "165279",
         "completedLevels": "59",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-07-12 03:42:28",
-        "endTime": "2024-07-12 10:09:09",
-        "captainBoons": "common_classic_comeback,lancer_spearwall,warrior_bladedancer,epic_giantsbrewzero,warrior_lance_of_ruin,lancer_sarissaspears,flagbearer_bannerofvitality,general_4,barb_warcry,barbarian_conqueror,epic_melee_glory_of_victory,bomber_dangerzone,healer_healing_bloom,rogue_shadow_cloak,ranged_ironbreakballistics",
-        "nextNodeType": "libraryboss"
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-07-17 17:18:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_2,tank_hoarfrost_armor,bomber_dangerzone,lancer_sarissaspears,bomber_ricochet,lancer_ignitingstrike,saint_exalt,warrior_lance_of_ruin,melee_damage_1,blob_flesheater,musk_volley_tactics,warrior_bladedancer,art_siege_weapons,berserker_enrage",
+        "nextNodeType": "dungeons_boss_firerocks"
     }
 ]
