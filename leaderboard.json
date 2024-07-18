@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "165380",
-        "completedLevels": "84",
+        "completedLevels": "85",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-07-18 12:48:30",
         "endTime": null,
         "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone",
-        "nextNodeType": "beastlandsbug03"
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "164974",
