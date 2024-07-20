@@ -9,15 +9,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164891",
-        "completedLevels": "86",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": "2024-07-15 06:30:46",
-        "captainBoons": "bomber_dangerzone",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
         "dungeonRunId": "164738",
         "completedLevels": "86",
         "twitchDisplayName": "Angel",
@@ -27,13 +18,22 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "164891",
+        "completedLevels": "86",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-07-14 19:31:21",
+        "endTime": "2024-07-15 06:30:46",
+        "captainBoons": "bomber_dangerzone",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
         "dungeonRunId": "165658",
-        "completedLevels": "73",
+        "completedLevels": "74",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-07-20 12:06:26",
         "endTime": null,
-        "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,epic_ranged_dragonarrows,bomber_living_bomb,bomber_dangerzone,epic_giantsbrewzero,berserker_enrage",
-        "nextNodeType": "skyportals"
+        "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,bomber_living_bomb,bomber_dangerzone,epic_giantsbrewzero,berserker_enrage",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "164974",
