@@ -36,6 +36,15 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
+        "dungeonRunId": "165658",
+        "completedLevels": "70",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-07-20 12:06:26",
+        "endTime": null,
+        "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,epic_ranged_dragonarrows,bomber_living_bomb,bomber_dangerzone,gladiator_sonofthunder,epic_giantsbrewzero,berserker_enrage",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "164365",
         "completedLevels": "70",
         "twitchDisplayName": "MYKLMantis",
@@ -43,15 +52,6 @@
         "endTime": "2024-07-12 21:35:07",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,warrior_lance_of_ruin,bomber_living_bomb,saint_exalt",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "165658",
-        "completedLevels": "69",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-07-20 12:06:26",
-        "endTime": null,
-        "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,epic_ranged_dragonarrows,bomber_living_bomb,bomber_dangerzone,gladiator_sonofthunder,saint_exalt,epic_giantsbrewzero,berserker_enrage",
-        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "164828",
@@ -81,12 +81,12 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "164320",
+        "dungeonRunId": "164419",
         "completedLevels": "64",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-07-11 21:51:52",
-        "endTime": "2024-07-12 06:37:08",
-        "captainBoons": "bomber_dangerzone,bomber_ricochet,barb_warcry,melee_armor_break,warrior_bladedancer,gladiator_war_machine,epic_giantsbrewzero,paladin_holyforce,berserker_enrage,warrior_lance_of_ruin,lancer_sarissaspears,ensouled_enragedspirits",
-        "nextNodeType": "newjunglespore"
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 07:22:42",
+        "endTime": "2024-07-12 13:18:27",
+        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
+        "nextNodeType": "steampunkgear"
     }
 ]
