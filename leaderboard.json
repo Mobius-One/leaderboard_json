@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "165658",
-        "completedLevels": "72",
+        "completedLevels": "73",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-07-20 12:06:26",
         "endTime": null,
         "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,epic_ranged_dragonarrows,bomber_living_bomb,bomber_dangerzone,epic_giantsbrewzero,berserker_enrage",
-        "nextNodeType": "raidhallapath"
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "164974",
