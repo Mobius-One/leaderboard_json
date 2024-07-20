@@ -54,21 +54,21 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
+        "dungeonRunId": "165658",
+        "completedLevels": "68",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-07-20 12:06:26",
+        "endTime": null,
+        "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,epic_ranged_dragonarrows,bomber_living_bomb,bomber_dangerzone,gladiator_sonofthunder,saint_exalt,epic_giantsbrewzero,berserker_enrage",
+        "nextNodeType": "libraryboss"
+    },
+    {
         "dungeonRunId": "165279",
         "completedLevels": "67",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-07-17 17:18:09",
         "endTime": "2024-07-18 03:10:37",
         "captainBoons": "common_classic_comeback,general_2,tank_hoarfrost_armor,bomber_dangerzone,lancer_sarissaspears,bomber_ricochet,saint_exalt,warrior_lance_of_ruin,melee_damage_1,musk_volley_tactics,warrior_bladedancer",
-        "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "165372",
-        "completedLevels": "67",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-07-18 10:05:28",
-        "endTime": "2024-07-18 18:06:41",
-        "captainBoons": "epic_melee_glory_of_victory,warrior_bladedancer,gladiator_war_machine,musk_volley_tactics,saint_exalt,ensouled_fatedspirits,ranged_ironbreakballistics,art_siege_weapons,bomber_living_bomb,warrior_lance_of_ruin,bomber_dangerzone",
         "nextNodeType": "tabletophold"
     },
     {
