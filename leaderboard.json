@@ -81,12 +81,12 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "165967",
+        "dungeonRunId": "164419",
         "completedLevels": "64",
-        "twitchDisplayName": "kingjerry_4ever",
-        "startTime": "2024-07-22 21:00:14",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_hermesblessing,ranged_ironbreakballistics,ranged_preciseshot,warrior_lance_of_ruin,bomber_dangerzone,bomber_ricochet,amazon_vineclone,melee_damage_1,bomber_living_bomb,lancer_sarissaspears,general_3",
-        "nextNodeType": "skyportals"
+        "twitchDisplayName": "HighHopesTV",
+        "startTime": "2024-07-12 07:22:42",
+        "endTime": "2024-07-12 13:18:27",
+        "captainBoons": "common_classic_comeback,art_siege_weapons,epic_giantsbrewzero,necromancer_necronomicon,lancer_spearwall,gladiator_war_machine,epic_melee_glory_of_victory,ensouled_heroicspirits,saint_exalt,musk_volley_tactics,bomber_dangerzone,amazon_hermesblessing",
+        "nextNodeType": "steampunkgear"
     }
 ]
