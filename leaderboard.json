@@ -9,15 +9,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164891",
-        "completedLevels": "86",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": "2024-07-15 06:30:46",
-        "captainBoons": "bomber_dangerzone",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
         "dungeonRunId": "164738",
         "completedLevels": "86",
         "twitchDisplayName": "Angel",
@@ -25,6 +16,15 @@
         "endTime": "2024-07-14 06:03:09",
         "captainBoons": "warrior_lance_of_ruin",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "164891",
+        "completedLevels": "86",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-07-14 19:31:21",
+        "endTime": "2024-07-15 06:30:46",
+        "captainBoons": "bomber_dangerzone",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "165658",
@@ -54,6 +54,15 @@
         "nextNodeType": "tabletophold"
     },
     {
+        "dungeonRunId": "165967",
+        "completedLevels": "69",
+        "twitchDisplayName": "kingjerry_4ever",
+        "startTime": "2024-07-22 21:00:14",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_hermesblessing,warrior_lance_of_ruin,bomber_dangerzone,bomber_ricochet,amazon_vineclone,melee_damage_1,bomber_living_bomb,lancer_sarissaspears,general_3",
+        "nextNodeType": "shogunateAmbush"
+    },
+    {
         "dungeonRunId": "164828",
         "completedLevels": "68",
         "twitchDisplayName": "Rafipi",
@@ -61,15 +70,6 @@
         "endTime": "2024-07-15 00:03:22",
         "captainBoons": "common_classic_comeback,warrior_bladedancer,orcs_inpenetrable,bomber_living_bomb,warrior_lance_of_ruin,musk_volley_tactics,saint_exalt,epic_armored_armored_giants,melee_damage_1,bomber_dangerzone",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "165967",
-        "completedLevels": "68",
-        "twitchDisplayName": "kingjerry_4ever",
-        "startTime": "2024-07-22 21:00:14",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_hermesblessing,warrior_lance_of_ruin,bomber_dangerzone,bomber_ricochet,amazon_vineclone,melee_damage_1,bomber_living_bomb,lancer_sarissaspears,general_3",
-        "nextNodeType": "libraryboss"
     },
     {
         "dungeonRunId": "165279",
