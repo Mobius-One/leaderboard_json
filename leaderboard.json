@@ -81,12 +81,12 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "164918",
+        "dungeonRunId": "166154",
         "completedLevels": "66",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-07-15 01:29:54",
-        "endTime": "2024-07-15 07:10:56",
-        "captainBoons": "common_classic_comeback,musk_golden_rounds,bomber_living_bomb,bomber_dangerzone,musk_volley_tactics,gladiator_war_machine,general_1,mage_elementalsummoning,spell_empower_stronghold,saint_exalt,barb_warcry",
-        "nextNodeType": "tabletophold"
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-07-24 02:21:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,ranged_attack_1,bomber_ricochet,warrior_lance_of_ruin,elf_elvenimmortality,warrior_bladedancer,saint_exalt,musk_volley_tactics,bomber_dangerzone,melee_damage_1",
+        "nextNodeType": "raidhallapath"
     }
 ]
