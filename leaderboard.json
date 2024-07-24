@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "166154",
-        "completedLevels": "71",
+        "completedLevels": "72",
         "twitchDisplayName": "lont123",
         "startTime": "2024-07-24 02:21:18",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,ranged_attack_1,bomber_ricochet,warrior_lance_of_ruin,elf_elvenimmortality,saint_exalt,musk_volley_tactics,bomber_dangerzone",
-        "nextNodeType": "libraryboss"
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,ranged_attack_1,bomber_ricochet,warrior_lance_of_ruin,saint_exalt,musk_volley_tactics,bomber_dangerzone",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "164974",
