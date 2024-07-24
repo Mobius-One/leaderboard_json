@@ -9,15 +9,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164738",
-        "completedLevels": "86",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-07-13 22:35:23",
-        "endTime": "2024-07-14 06:03:09",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "164891",
         "completedLevels": "86",
         "twitchDisplayName": "Hyf1re",
@@ -25,6 +16,15 @@
         "endTime": "2024-07-15 06:30:46",
         "captainBoons": "bomber_dangerzone",
         "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
+        "dungeonRunId": "164738",
+        "completedLevels": "86",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-07-13 22:35:23",
+        "endTime": "2024-07-14 06:03:09",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "165658",
@@ -36,6 +36,15 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
+        "dungeonRunId": "166154",
+        "completedLevels": "71",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-07-24 02:21:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,ranged_attack_1,bomber_ricochet,warrior_lance_of_ruin,elf_elvenimmortality,saint_exalt,musk_volley_tactics,bomber_dangerzone",
+        "nextNodeType": "libraryboss"
+    },
+    {
         "dungeonRunId": "164974",
         "completedLevels": "71",
         "twitchDisplayName": "FinalSun",
@@ -43,15 +52,6 @@
         "endTime": "2024-07-16 00:02:06",
         "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,bomber_ricochet,musk_volley_tactics,bomber_dangerzone,bomber_living_bomb,saint_exalt,berserker_enrage,elf_elvenimmortality",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "166154",
-        "completedLevels": "70",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-07-24 02:21:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,ranged_attack_1,bomber_ricochet,warrior_lance_of_ruin,elf_elvenimmortality,saint_exalt,musk_volley_tactics,bomber_dangerzone",
-        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "164365",
