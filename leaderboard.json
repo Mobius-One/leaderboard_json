@@ -45,6 +45,15 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
+        "dungeonRunId": "166154",
+        "completedLevels": "70",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-07-24 02:21:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,ranged_attack_1,bomber_ricochet,warrior_lance_of_ruin,elf_elvenimmortality,saint_exalt,musk_volley_tactics,bomber_dangerzone",
+        "nextNodeType": "beastlandsbug03"
+    },
+    {
         "dungeonRunId": "164365",
         "completedLevels": "70",
         "twitchDisplayName": "MYKLMantis",
@@ -61,15 +70,6 @@
         "endTime": "2024-07-23 06:37:39",
         "captainBoons": "common_classic_comeback,amazon_hermesblessing,warrior_lance_of_ruin,bomber_dangerzone,bomber_ricochet,amazon_vineclone,melee_damage_1,bomber_living_bomb,lancer_sarissaspears,general_3",
         "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "166154",
-        "completedLevels": "69",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-07-24 02:21:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,ranged_attack_1,bomber_ricochet,warrior_lance_of_ruin,elf_elvenimmortality,saint_exalt,musk_volley_tactics,bomber_dangerzone,melee_damage_1",
-        "nextNodeType": "tomblandsquicksand"
     },
     {
         "dungeonRunId": "164828",
