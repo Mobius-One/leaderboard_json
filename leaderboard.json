@@ -9,15 +9,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164738",
-        "completedLevels": "86",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-07-13 22:35:23",
-        "endTime": "2024-07-14 06:03:09",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "166154",
         "completedLevels": "86",
         "twitchDisplayName": "lont123",
@@ -34,6 +25,15 @@
         "endTime": "2024-07-15 06:30:46",
         "captainBoons": "bomber_dangerzone",
         "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
+        "dungeonRunId": "164738",
+        "completedLevels": "86",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-07-13 22:35:23",
+        "endTime": "2024-07-14 06:03:09",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "165658",
@@ -72,6 +72,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "166246",
+        "completedLevels": "68",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-07-24 17:40:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,musk_volley_tactics,bomber_living_bomb,bomber_ricochet,berserker_frenzy,saint_exalt,flagbearer_bannerofvitality,common_specialists,bomber_dangerzone",
+        "nextNodeType": "dungeons_boss_toadraiders"
+    },
+    {
         "dungeonRunId": "164828",
         "completedLevels": "68",
         "twitchDisplayName": "Rafipi",
@@ -79,14 +88,5 @@
         "endTime": "2024-07-15 00:03:22",
         "captainBoons": "common_classic_comeback,warrior_bladedancer,orcs_inpenetrable,bomber_living_bomb,warrior_lance_of_ruin,musk_volley_tactics,saint_exalt,epic_armored_armored_giants,melee_damage_1,bomber_dangerzone",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "165279",
-        "completedLevels": "67",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-07-17 17:18:09",
-        "endTime": "2024-07-18 03:10:37",
-        "captainBoons": "common_classic_comeback,general_2,tank_hoarfrost_armor,bomber_dangerzone,lancer_sarissaspears,bomber_ricochet,saint_exalt,warrior_lance_of_ruin,melee_damage_1,musk_volley_tactics,warrior_bladedancer",
-        "nextNodeType": "tabletophold"
     }
 ]
