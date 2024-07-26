@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "166367",
-        "completedLevels": "71",
+        "completedLevels": "72",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-07-25 10:10:28",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,saint_exalt,berserker_enrage,ensouled_heroicspirits,gladiator_war_machine,saint_missionary,bomber_dangerzone,musk_golden_rounds",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,saint_exalt,berserker_enrage,gladiator_war_machine,saint_missionary,bomber_dangerzone,musk_golden_rounds",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "164974",
