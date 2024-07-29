@@ -9,6 +9,15 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
+        "dungeonRunId": "166154",
+        "completedLevels": "86",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-07-24 02:21:18",
+        "endTime": "2024-07-24 12:34:28",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "164891",
         "completedLevels": "86",
         "twitchDisplayName": "Hyf1re",
@@ -23,15 +32,6 @@
         "twitchDisplayName": "Angel",
         "startTime": "2024-07-13 22:35:23",
         "endTime": "2024-07-14 06:03:09",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "166154",
-        "completedLevels": "86",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-07-24 02:21:18",
-        "endTime": "2024-07-24 12:34:28",
         "captainBoons": "warrior_lance_of_ruin",
         "nextNodeType": "orctotem"
     },
@@ -63,6 +63,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "166342",
+        "completedLevels": "71",
+        "twitchDisplayName": "Allthecathair",
+        "startTime": "2024-07-25 05:27:32",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musk_volley_tactics,bomber_dangerzone,warrior_lance_of_ruin,musk_golden_rounds,bomber_ricochet,barb_warcry,elf_elvenimmortality,saint_exalt",
+        "nextNodeType": "libraryboss"
+    },
+    {
         "dungeonRunId": "164974",
         "completedLevels": "71",
         "twitchDisplayName": "FinalSun",
@@ -70,15 +79,6 @@
         "endTime": "2024-07-16 00:02:06",
         "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,bomber_ricochet,musk_volley_tactics,bomber_dangerzone,bomber_living_bomb,saint_exalt,berserker_enrage,elf_elvenimmortality",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "166342",
-        "completedLevels": "70",
-        "twitchDisplayName": "Allthecathair",
-        "startTime": "2024-07-25 05:27:32",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musk_volley_tactics,bomber_dangerzone,warrior_lance_of_ruin,musk_golden_rounds,bomber_ricochet,barb_warcry,elf_elvenimmortality,saint_exalt",
-        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "164365",
