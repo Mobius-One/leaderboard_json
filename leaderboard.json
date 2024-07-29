@@ -54,6 +54,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "166404",
+        "completedLevels": "72",
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-07-25 13:54:00",
+        "endTime": null,
+        "captainBoons": "warrior_lance_of_ruin,musk_volley_tactics,ranged_attack_1,bomber_ricochet,epic_melee_glory_of_victory,bomber_living_bomb,bomber_dangerzone,musk_golden_rounds",
+        "nextNodeType": "steampunkgear"
+    },
+    {
         "dungeonRunId": "164974",
         "completedLevels": "71",
         "twitchDisplayName": "FinalSun",
@@ -61,15 +70,6 @@
         "endTime": "2024-07-16 00:02:06",
         "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,bomber_ricochet,musk_volley_tactics,bomber_dangerzone,bomber_living_bomb,saint_exalt,berserker_enrage,elf_elvenimmortality",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "166404",
-        "completedLevels": "71",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-07-25 13:54:00",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,musk_volley_tactics,ranged_attack_1,bomber_ricochet,epic_melee_glory_of_victory,bomber_living_bomb,bomber_dangerzone,musk_golden_rounds",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "164365",
