@@ -9,20 +9,20 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "166154",
-        "completedLevels": "86",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-07-24 02:21:18",
-        "endTime": "2024-07-24 12:34:28",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "164738",
         "completedLevels": "86",
         "twitchDisplayName": "Angel",
         "startTime": "2024-07-13 22:35:23",
         "endTime": "2024-07-14 06:03:09",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "166154",
+        "completedLevels": "86",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-07-24 02:21:18",
+        "endTime": "2024-07-24 12:34:28",
         "captainBoons": "warrior_lance_of_ruin",
         "nextNodeType": "orctotem"
     },
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "164365",
+        "dungeonRunId": "166246",
         "completedLevels": "70",
-        "twitchDisplayName": "MYKLMantis",
-        "startTime": "2024-07-12 00:30:01",
-        "endTime": "2024-07-12 21:35:07",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,warrior_lance_of_ruin,bomber_living_bomb,saint_exalt",
-        "nextNodeType": "tabletophold"
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-07-24 17:40:44",
+        "endTime": "2024-07-25 03:01:37",
+        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,musk_volley_tactics,bomber_living_bomb,bomber_ricochet,berserker_frenzy,saint_exalt,common_specialists,bomber_dangerzone",
+        "nextNodeType": "steampunkgear"
     }
 ]
