@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "166246",
+        "dungeonRunId": "164365",
         "completedLevels": "70",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-07-24 17:40:44",
-        "endTime": "2024-07-25 03:01:37",
-        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,musk_volley_tactics,bomber_living_bomb,bomber_ricochet,berserker_frenzy,saint_exalt,common_specialists,bomber_dangerzone",
-        "nextNodeType": "steampunkgear"
+        "twitchDisplayName": "MYKLMantis",
+        "startTime": "2024-07-12 00:30:01",
+        "endTime": "2024-07-12 21:35:07",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,art_siege_weapons,melee_damage_1,ranged_preciseshot,musk_golden_rounds,warrior_lance_of_ruin,bomber_living_bomb,saint_exalt",
+        "nextNodeType": "tabletophold"
     }
 ]
