@@ -9,6 +9,15 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
+        "dungeonRunId": "164891",
+        "completedLevels": "86",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-07-14 19:31:21",
+        "endTime": "2024-07-15 06:30:46",
+        "captainBoons": "bomber_dangerzone",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
         "dungeonRunId": "166154",
         "completedLevels": "86",
         "twitchDisplayName": "lont123",
@@ -27,12 +36,12 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "164891",
-        "completedLevels": "86",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": "2024-07-15 06:30:46",
-        "captainBoons": "bomber_dangerzone",
+        "dungeonRunId": "165658",
+        "completedLevels": "77",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-07-20 12:06:26",
+        "endTime": "2024-07-20 21:35:31",
+        "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,bomber_living_bomb,bomber_dangerzone,epic_giantsbrewzero",
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
@@ -42,15 +51,6 @@
         "startTime": "2024-07-25 05:27:32",
         "endTime": "2024-07-29 23:36:59",
         "captainBoons": "musk_volley_tactics,bomber_dangerzone,warrior_lance_of_ruin,musk_golden_rounds,bomber_ricochet,barb_warcry",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "165658",
-        "completedLevels": "77",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-07-20 12:06:26",
-        "endTime": "2024-07-20 21:35:31",
-        "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,bomber_living_bomb,bomber_dangerzone,epic_giantsbrewzero",
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "166206",
+        "dungeonRunId": "166246",
         "completedLevels": "70",
-        "twitchDisplayName": "La_Ferme_de_Karpe",
-        "startTime": "2024-07-24 12:01:53",
-        "endTime": "2024-07-31 00:11:52",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_lance_of_ruin,saint_exalt,flagbearer_bannerofvitality,warrior_bladedancer,centurion_juggernaut,epic_giantsbrewzero",
-        "nextNodeType": "shogunateAmbush"
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-07-24 17:40:44",
+        "endTime": "2024-07-25 03:01:37",
+        "captainBoons": "common_classic_comeback,warrior_lance_of_ruin,musk_volley_tactics,bomber_living_bomb,bomber_ricochet,berserker_frenzy,saint_exalt,common_specialists,bomber_dangerzone",
+        "nextNodeType": "steampunkgear"
     }
 ]
