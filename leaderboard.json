@@ -9,6 +9,15 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
+        "dungeonRunId": "164891",
+        "completedLevels": "86",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-07-14 19:31:21",
+        "endTime": "2024-07-15 06:30:46",
+        "captainBoons": "bomber_dangerzone",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
         "dungeonRunId": "166154",
         "completedLevels": "86",
         "twitchDisplayName": "lont123",
@@ -25,15 +34,6 @@
         "endTime": "2024-07-14 06:03:09",
         "captainBoons": "warrior_lance_of_ruin",
         "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "164891",
-        "completedLevels": "86",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": "2024-07-15 06:30:46",
-        "captainBoons": "bomber_dangerzone",
-        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "165658",
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "166156",
-        "completedLevels": "73",
+        "completedLevels": "74",
         "twitchDisplayName": "CloverBug69",
         "startTime": "2024-07-24 02:35:27",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_melee_glory_of_victory,bomber_dangerzone,ensouled_fatedspirits,berserker_enrage,saint_exalt,elf_elvenimmortality,bomber_ricochet",
-        "nextNodeType": "beastlandsbug03"
+        "captainBoons": "common_classic_comeback,epic_melee_glory_of_victory,bomber_dangerzone,berserker_enrage,saint_exalt,elf_elvenimmortality,bomber_ricochet",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "166404",
