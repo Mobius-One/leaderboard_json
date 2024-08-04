@@ -9,15 +9,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164891",
-        "completedLevels": "86",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": "2024-07-15 06:30:46",
-        "captainBoons": "bomber_dangerzone",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
         "dungeonRunId": "166154",
         "completedLevels": "86",
         "twitchDisplayName": "lont123",
@@ -25,6 +16,15 @@
         "endTime": "2024-07-24 12:34:28",
         "captainBoons": "warrior_lance_of_ruin",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "164891",
+        "completedLevels": "86",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-07-14 19:31:21",
+        "endTime": "2024-07-15 06:30:46",
+        "captainBoons": "bomber_dangerzone",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "164738",
@@ -63,6 +63,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "166156",
+        "completedLevels": "73",
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2024-07-24 02:35:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_melee_glory_of_victory,bomber_dangerzone,ensouled_fatedspirits,berserker_enrage,saint_exalt,elf_elvenimmortality,bomber_ricochet",
+        "nextNodeType": "beastlandsbug03"
+    },
+    {
         "dungeonRunId": "166404",
         "completedLevels": "72",
         "twitchDisplayName": "3aglesdwm",
@@ -70,15 +79,6 @@
         "endTime": "2024-07-29 11:44:52",
         "captainBoons": "warrior_lance_of_ruin,musk_volley_tactics,ranged_attack_1,bomber_ricochet,epic_melee_glory_of_victory,bomber_living_bomb,bomber_dangerzone,musk_golden_rounds",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "166156",
-        "completedLevels": "72",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2024-07-24 02:35:27",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_melee_glory_of_victory,bomber_dangerzone,ensouled_fatedspirits,berserker_enrage,saint_exalt,elf_elvenimmortality,bomber_ricochet",
-        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "164974",
