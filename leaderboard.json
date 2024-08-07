@@ -9,6 +9,15 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
+        "dungeonRunId": "166154",
+        "completedLevels": "86",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-07-24 02:21:18",
+        "endTime": "2024-07-24 12:34:28",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "164891",
         "completedLevels": "86",
         "twitchDisplayName": "Hyf1re",
@@ -23,15 +32,6 @@
         "twitchDisplayName": "Angel",
         "startTime": "2024-07-13 22:35:23",
         "endTime": "2024-07-14 06:03:09",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "166154",
-        "completedLevels": "86",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-07-24 02:21:18",
-        "endTime": "2024-07-24 12:34:28",
         "captainBoons": "warrior_lance_of_ruin",
         "nextNodeType": "orctotem"
     },
