@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "166364",
-        "completedLevels": "75",
+        "completedLevels": "76",
         "twitchDisplayName": "kettusane",
         "startTime": "2024-07-25 09:50:42",
         "endTime": null,
-        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,saint_exalt,ensouled_fatedspirits,lancer_sarissaspears,berserker_enrage,bomber_ricochet",
-        "nextNodeType": "tomblandsquicksand"
+        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,saint_exalt,lancer_sarissaspears,berserker_enrage,bomber_ricochet",
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "166156",
