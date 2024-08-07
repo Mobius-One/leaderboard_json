@@ -9,20 +9,20 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "166154",
-        "completedLevels": "86",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-07-24 02:21:18",
-        "endTime": "2024-07-24 12:34:28",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "164738",
         "completedLevels": "86",
         "twitchDisplayName": "Angel",
         "startTime": "2024-07-13 22:35:23",
         "endTime": "2024-07-14 06:03:09",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "166154",
+        "completedLevels": "86",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-07-24 02:21:18",
+        "endTime": "2024-07-24 12:34:28",
         "captainBoons": "warrior_lance_of_ruin",
         "nextNodeType": "orctotem"
     },
@@ -45,21 +45,21 @@
         "nextNodeType": "raidhallalake"
     },
     {
-        "dungeonRunId": "166342",
-        "completedLevels": "77",
-        "twitchDisplayName": "Allthecathair",
-        "startTime": "2024-07-25 05:27:32",
-        "endTime": "2024-07-29 23:36:59",
-        "captainBoons": "musk_volley_tactics,bomber_dangerzone,warrior_lance_of_ruin,musk_golden_rounds,bomber_ricochet,barb_warcry",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
         "dungeonRunId": "165658",
         "completedLevels": "77",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-07-20 12:06:26",
         "endTime": "2024-07-20 21:35:31",
         "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,bomber_living_bomb,bomber_dangerzone,epic_giantsbrewzero",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
+        "dungeonRunId": "166342",
+        "completedLevels": "77",
+        "twitchDisplayName": "Allthecathair",
+        "startTime": "2024-07-25 05:27:32",
+        "endTime": "2024-07-29 23:36:59",
+        "captainBoons": "musk_volley_tactics,bomber_dangerzone,warrior_lance_of_ruin,musk_golden_rounds,bomber_ricochet,barb_warcry",
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
