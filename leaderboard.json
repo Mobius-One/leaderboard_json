@@ -9,15 +9,6 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "166154",
-        "completedLevels": "86",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-07-24 02:21:18",
-        "endTime": "2024-07-24 12:34:28",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "164891",
         "completedLevels": "86",
         "twitchDisplayName": "Hyf1re",
@@ -36,6 +27,24 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "166154",
+        "completedLevels": "86",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-07-24 02:21:18",
+        "endTime": "2024-07-24 12:34:28",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "166364",
+        "completedLevels": "78",
+        "twitchDisplayName": "kettusane",
+        "startTime": "2024-07-25 09:50:42",
+        "endTime": null,
+        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,saint_exalt,lancer_sarissaspears,berserker_enrage,bomber_ricochet",
+        "nextNodeType": "raidhallalake"
+    },
+    {
         "dungeonRunId": "165658",
         "completedLevels": "77",
         "twitchDisplayName": "OvidiuZ94",
@@ -43,15 +52,6 @@
         "endTime": "2024-07-20 21:35:31",
         "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,bomber_living_bomb,bomber_dangerzone,epic_giantsbrewzero",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "166364",
-        "completedLevels": "77",
-        "twitchDisplayName": "kettusane",
-        "startTime": "2024-07-25 09:50:42",
-        "endTime": null,
-        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,saint_exalt,lancer_sarissaspears,berserker_enrage,bomber_ricochet",
-        "nextNodeType": "libraryboss"
     },
     {
         "dungeonRunId": "166342",
