@@ -9,22 +9,13 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "164738",
-        "completedLevels": "86",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-07-13 22:35:23",
-        "endTime": "2024-07-14 06:03:09",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "166154",
-        "completedLevels": "86",
+        "dungeonRunId": "166476",
+        "completedLevels": "87",
         "twitchDisplayName": "lont123",
-        "startTime": "2024-07-24 02:21:18",
-        "endTime": "2024-07-24 12:34:28",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
+        "startTime": "2024-07-25 17:49:43",
+        "endTime": null,
+        "captainBoons": "bomber_dangerzone",
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "164891",
@@ -34,6 +25,15 @@
         "endTime": "2024-07-15 06:30:46",
         "captainBoons": "bomber_dangerzone",
         "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
+        "dungeonRunId": "164738",
+        "completedLevels": "86",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-07-13 22:35:23",
+        "endTime": "2024-07-14 06:03:09",
+        "captainBoons": "warrior_lance_of_ruin",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "166364",
