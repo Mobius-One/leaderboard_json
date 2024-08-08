@@ -1,47 +1,65 @@
 [
     {
+        "dungeonRunId": "166494",
+        "completedLevels": "3",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-08-08 18:02:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,fairy_omen_rainbow,blob_flesheater",
+        "nextNodeType": "glitchedmoboatx"
+    },
+    {
+        "dungeonRunId": "166495",
+        "completedLevels": "3",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-08-08 18:03:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_omen_helm,gladiator_omen_sands,mage_elementalsummoning,artillery_pressure_fire",
+        "nextNodeType": "plagueroost"
+    },
+    {
         "dungeonRunId": "166492",
         "completedLevels": "2",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-08-08 18:01:39",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon",
+        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,amazon_hermesblessing",
         "nextNodeType": "gravedeath"
     },
     {
-        "dungeonRunId": "166495",
-        "completedLevels": "2",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-08-08 18:03:09",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_omen_helm,gladiator_omen_sands,mage_elementalsummoning",
-        "nextNodeType": "moboboss"
-    },
-    {
-        "dungeonRunId": "166494",
-        "completedLevels": "2",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-08-08 18:02:12",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,fairy_omen_rainbow",
-        "nextNodeType": "ancientspider"
-    },
-    {
         "dungeonRunId": "166493",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-08-08 18:02:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,rogue_omen_dagger",
-        "nextNodeType": "shogunateBasic"
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,rogue_omen_dagger,warrior_flameslash",
+        "nextNodeType": "moboboss"
     },
     {
         "dungeonRunId": "166496",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "HODLHil",
         "startTime": "2024-08-08 18:03:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,vampire_omen_fallen",
-        "nextNodeType": "shogunateBasic"
+        "captainBoons": "common_classic_comeback,melee_omen_blade,vampire_omen_fallen,amazon_hermesblessing",
+        "nextNodeType": "olympiadbossAtlas2"
+    },
+    {
+        "dungeonRunId": "166499",
+        "completedLevels": "1",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-08-08 18:09:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light",
+        "nextNodeType": "steampunkgear"
+    },
+    {
+        "dungeonRunId": "166498",
+        "completedLevels": "1",
+        "twitchDisplayName": "AtticPlays",
+        "startTime": "2024-08-08 18:08:51",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,gladiator_omen_sands",
+        "nextNodeType": "graveriver"
     }
 ]
