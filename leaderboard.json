@@ -1,12 +1,30 @@
 [
     {
         "dungeonRunId": "166492",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-08-08 18:01:39",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon",
+        "nextNodeType": "gravedeath"
+    },
+    {
+        "dungeonRunId": "166495",
+        "completedLevels": "2",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-08-08 18:03:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_omen_helm,gladiator_omen_sands,mage_elementalsummoning",
+        "nextNodeType": "moboboss"
+    },
+    {
+        "dungeonRunId": "166494",
+        "completedLevels": "2",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-08-08 18:02:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,fairy_omen_rainbow",
+        "nextNodeType": "ancientspider"
     },
     {
         "dungeonRunId": "166493",
@@ -18,21 +36,12 @@
         "nextNodeType": "shogunateBasic"
     },
     {
-        "dungeonRunId": "166495",
+        "dungeonRunId": "166496",
         "completedLevels": "1",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-08-08 18:03:09",
+        "twitchDisplayName": "HODLHil",
+        "startTime": "2024-08-08 18:03:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_omen_helm,gladiator_omen_sands",
-        "nextNodeType": "hauntedknight"
-    },
-    {
-        "dungeonRunId": "166494",
-        "completedLevels": "1",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-08-08 18:02:12",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,fairy_omen_rainbow",
-        "nextNodeType": "thehivecarmeet"
+        "captainBoons": "common_classic_comeback,melee_omen_blade,vampire_omen_fallen",
+        "nextNodeType": "shogunateBasic"
     }
 ]
