@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "166495",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-08-08 18:03:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_omen_helm,gladiator_omen_sands,mage_elementalsummoning,artillery_pressure_fire,barbarian_omen_axe,berserker_enrage,rogue_shadow_cloak,healer_omen_hand,archer_enchantedammo,warbeast_bestfriends,rogue_omen_dagger,orcs_inpenetrable,musk_hunters_mark,support_doom_plague",
-        "nextNodeType": "icecaveportals"
+        "captainBoons": "common_classic_comeback,armored_omen_helm,gladiator_omen_sands,mage_elementalsummoning,artillery_pressure_fire,barbarian_omen_axe,berserker_enrage,rogue_shadow_cloak,healer_omen_hand,archer_enchantedammo,warbeast_bestfriends,rogue_omen_dagger,orcs_inpenetrable,musk_hunters_mark,support_doom_plague,necromancer_necronomicon",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "166492",
@@ -18,6 +18,15 @@
         "nextNodeType": "shogunateBasic"
     },
     {
+        "dungeonRunId": "166496",
+        "completedLevels": "9",
+        "twitchDisplayName": "HODLHil",
+        "startTime": "2024-08-08 18:03:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,vampire_omen_fallen,amazon_hermesblessing,archer_soulpenetration,assassin_omen_shadow,berserker_enrage,paladin_shadowside,support_doom_plague,shinobi_firetechinique",
+        "nextNodeType": "glitchedmoboatx"
+    },
+    {
         "dungeonRunId": "166494",
         "completedLevels": "9",
         "twitchDisplayName": "Meistar",
@@ -27,6 +36,24 @@
         "nextNodeType": "hauntedknight"
     },
     {
+        "dungeonRunId": "166503",
+        "completedLevels": "8",
+        "twitchDisplayName": "FenggarTV",
+        "startTime": "2024-08-08 18:13:30",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,fairy_omen_rainbow,templar_commanding_presence,amazon_vineclone,barbarian_omen_axe,amazon_hermesblessing,necro_furious_summoner,rogue_omen_dagger,orcs_inpenetrable",
+        "nextNodeType": "gravedeath"
+    },
+    {
+        "dungeonRunId": "166499",
+        "completedLevels": "8",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-08-08 18:09:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light,tank_ironclad,archer_soulpenetration,gladiator_omen_sands,bomber_ricochet,musk_hunters_mark,archer_omen_falcon,centurion_team_barbs",
+        "nextNodeType": "olympiadbossAtlas2"
+    },
+    {
         "dungeonRunId": "166493",
         "completedLevels": "8",
         "twitchDisplayName": "Hooks",
@@ -34,33 +61,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_omen_dart,rogue_omen_dagger,warrior_flameslash,bomber_avatar_power,buster_omen_thunder,orcs_inpenetrable,amazon_vineclone,flyingrogue_omen_feather,bomber_ricochet",
         "nextNodeType": "frontiershowdown"
-    },
-    {
-        "dungeonRunId": "166496",
-        "completedLevels": "8",
-        "twitchDisplayName": "HODLHil",
-        "startTime": "2024-08-08 18:03:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,vampire_omen_fallen,amazon_hermesblessing,archer_soulpenetration,assassin_omen_shadow,berserker_enrage,paladin_shadowside,support_doom_plague,shinobi_firetechinique",
-        "nextNodeType": "gravedeath"
-    },
-    {
-        "dungeonRunId": "166503",
-        "completedLevels": "7",
-        "twitchDisplayName": "FenggarTV",
-        "startTime": "2024-08-08 18:13:30",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,fairy_omen_rainbow,templar_commanding_presence,amazon_vineclone,barbarian_omen_axe,amazon_hermesblessing,necro_furious_summoner,rogue_omen_dagger",
-        "nextNodeType": "oasisruins"
-    },
-    {
-        "dungeonRunId": "166499",
-        "completedLevels": "7",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-08-08 18:09:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light,tank_ironclad,archer_soulpenetration,gladiator_omen_sands,bomber_ricochet,musk_hunters_mark,archer_omen_falcon",
-        "nextNodeType": "dungeonexperiment"
     },
     {
         "dungeonRunId": "166501",
@@ -73,20 +73,20 @@
     },
     {
         "dungeonRunId": "166498",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "AtticPlays",
         "startTime": "2024-08-08 18:08:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,gladiator_omen_sands,musk_golden_rounds,rogue_shadow_cloak,healer_omen_hand,blob_flesheater,centurion_2",
-        "nextNodeType": "thehivecarmeet"
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,gladiator_omen_sands,musk_golden_rounds,rogue_shadow_cloak,healer_omen_hand,blob_flesheater,centurion_2,centurion_omen_brothers",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "166505",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "3aglesdwm",
         "startTime": "2024-08-08 18:19:27",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_omen_blade,warrior_omen_wolf,lancer_spearwall,archer_soulpenetration,barbarian_omen_axe,fairy_hocuspocus",
-        "nextNodeType": "frontiershowdown"
+        "nextNodeType": "plagueroost"
     }
 ]
