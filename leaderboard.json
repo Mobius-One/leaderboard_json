@@ -1,92 +1,38 @@
 [
     {
-        "dungeonRunId": "165380",
-        "completedLevels": "89",
+        "dungeonRunId": "166492",
+        "completedLevels": "1",
         "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-07-18 12:48:30",
-        "endTime": "2024-07-18 23:01:45",
-        "captainBoons": null,
-        "nextNodeType": "crystalcavethrone"
+        "startTime": "2024-08-08 18:01:39",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade",
+        "nextNodeType": "oasisruins"
     },
     {
-        "dungeonRunId": "166476",
-        "completedLevels": "87",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-07-25 17:49:43",
-        "endTime": "2024-08-08 07:33:39",
-        "captainBoons": "bomber_dangerzone",
-        "nextNodeType": "tabletophold"
+        "dungeonRunId": "166493",
+        "completedLevels": "1",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-08-08 18:02:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,rogue_omen_dagger",
+        "nextNodeType": "shogunateBasic"
     },
     {
-        "dungeonRunId": "164738",
-        "completedLevels": "86",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-07-13 22:35:23",
-        "endTime": "2024-07-14 06:03:09",
-        "captainBoons": "warrior_lance_of_ruin",
-        "nextNodeType": "orctotem"
+        "dungeonRunId": "166495",
+        "completedLevels": "1",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-08-08 18:03:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_omen_helm,gladiator_omen_sands",
+        "nextNodeType": "hauntedknight"
     },
     {
-        "dungeonRunId": "164891",
-        "completedLevels": "86",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-07-14 19:31:21",
-        "endTime": "2024-07-15 06:30:46",
-        "captainBoons": "bomber_dangerzone",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "166364",
-        "completedLevels": "79",
-        "twitchDisplayName": "kettusane",
-        "startTime": "2024-07-25 09:50:42",
-        "endTime": "2024-08-08 08:00:23",
-        "captainBoons": "warrior_lance_of_ruin,bomber_dangerzone,saint_exalt,berserker_enrage,bomber_ricochet",
-        "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "166342",
-        "completedLevels": "77",
-        "twitchDisplayName": "Allthecathair",
-        "startTime": "2024-07-25 05:27:32",
-        "endTime": "2024-07-29 23:36:59",
-        "captainBoons": "musk_volley_tactics,bomber_dangerzone,warrior_lance_of_ruin,musk_golden_rounds,bomber_ricochet,barb_warcry",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "165658",
-        "completedLevels": "77",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-07-20 12:06:26",
-        "endTime": "2024-07-20 21:35:31",
-        "captainBoons": "ranged_preciseshot,saint_godspeed,amazon_hermesblessing,bomber_living_bomb,bomber_dangerzone,epic_giantsbrewzero",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "166367",
-        "completedLevels": "76",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-07-25 10:10:28",
-        "endTime": "2024-07-26 03:13:42",
-        "captainBoons": "warrior_lance_of_ruin,saint_exalt,berserker_enrage,saint_missionary,bomber_dangerzone,musk_golden_rounds",
-        "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "166156",
-        "completedLevels": "74",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2024-07-24 02:35:27",
-        "endTime": "2024-08-04 03:36:53",
-        "captainBoons": "common_classic_comeback,epic_melee_glory_of_victory,bomber_dangerzone,berserker_enrage,saint_exalt,elf_elvenimmortality,bomber_ricochet",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "166404",
-        "completedLevels": "72",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-07-25 13:54:00",
-        "endTime": "2024-07-29 11:44:52",
-        "captainBoons": "warrior_lance_of_ruin,musk_volley_tactics,ranged_attack_1,bomber_ricochet,epic_melee_glory_of_victory,bomber_living_bomb,bomber_dangerzone,musk_golden_rounds",
-        "nextNodeType": "steampunkgear"
+        "dungeonRunId": "166494",
+        "completedLevels": "1",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-08-08 18:02:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,fairy_omen_rainbow",
+        "nextNodeType": "thehivecarmeet"
     }
 ]
