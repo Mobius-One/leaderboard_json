@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "166525",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-08-08 19:31:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,rogue_omen_dagger,monk_first_strike,amazon_vineclone,healer_omen_hand,berserker_enrage,archer_soulpenetration,lancer_omen_javelin,centurion_team_barbs,rogue_shadow_cloak,support_doom_plague,mage_elementalsummoning,berserker_frenzy,armored_doom_rust,saint_surge_of_confidence,vampire_aerial_fiend,gladiator_omen_sands,bomber_ricochet,gladiator_war_machine,barbarian_omen_axe,lancer_spearwall",
-        "nextNodeType": "moboboss"
+        "captainBoons": "common_classic_comeback,melee_omen_blade,rogue_omen_dagger,monk_first_strike,amazon_vineclone,healer_omen_hand,berserker_enrage,archer_soulpenetration,lancer_omen_javelin,centurion_team_barbs,rogue_shadow_cloak,support_doom_plague,mage_elementalsummoning,berserker_frenzy,armored_doom_rust,saint_surge_of_confidence,vampire_aerial_fiend,gladiator_omen_sands,bomber_ricochet,gladiator_war_machine,barbarian_omen_axe,lancer_spearwall,fairy_gift_of_the_wind",
+        "nextNodeType": "raidhallaambush"
     },
     {
         "dungeonRunId": "166493",
@@ -63,13 +63,13 @@
         "nextNodeType": "spaceairlock"
     },
     {
-        "dungeonRunId": "166505",
-        "completedLevels": "11",
+        "dungeonRunId": "166542",
+        "completedLevels": "12",
         "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-08-08 18:19:27",
-        "endTime": "2024-08-08 19:44:23",
-        "captainBoons": "common_classic_comeback,melee_omen_blade,warrior_omen_wolf,lancer_spearwall,archer_soulpenetration,barbarian_omen_axe,fairy_hocuspocus,berserker_frenzy,assassin_doom_fools,vampire_dark_pact,rogue_shadow_cloak,buster_omen_thunder,rogue_momentum",
-        "nextNodeType": "gravedeath"
+        "startTime": "2024-08-08 20:24:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,lancer_omen_javelin,berserker_enrage,berserker_frenzy,barbarian_omen_axe,epic_monstersblessing,saint_omen_sacrificetotheomens,human_doom_scythe,amazon_hermesblessing,amazon_vineclone,assassin_doom_fools,centurion_team_barbs,necro_furious_summoner",
+        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "166529",
