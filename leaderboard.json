@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "166591",
-        "completedLevels": "50",
+        "completedLevels": "51",
         "twitchDisplayName": "Angel",
         "startTime": "2024-08-08 23:37:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,assassin_omen_shadow,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,rogue_shadow_cloak,flyingrogue_omen_feather,necromancer_necronomicon,necro_furious_summoner,mage_darkmagic,bomber_omen_spark,tank_ironclad,berserker_enrage,warrior_falltodarkness,bomber_ricochet,fairy_gift_of_the_wind,fairy_omen_rainbow,artillery_pressure_fire,barbarian_omen_axe,blob_flesheater",
-        "nextNodeType": "moboboss"
+        "nextNodeType": "raidhallaambush"
     },
     {
         "dungeonRunId": "166531",
@@ -18,21 +18,21 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "166492",
-        "completedLevels": "34",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-08-08 18:01:39",
-        "endTime": "2024-08-08 22:27:24",
-        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,centurion_2,bomber_omen_spark,vampire_dark_pact,gladiator_war_machine,assassin_doom_fools,lancer_spearwall,flagbearer_focused_morale,lancer_omen_javelin,mage_elementalsummoning,musk_hunters_mark,musk_golden_rounds,artillery_pressure_fire,warrior_omen_wolf,saint_surge_of_confidence,saint_omen_sacrificetotheomens,healer_omen_hand,gladiator_sonofthunder,mage_darkmagic,artillery_maxpower,barb_giant_swings,berserker_omen_pack,archer_enchantedammo,epic_giants_curse,flagbearer_omen_kings,paladin_divine_wrath",
-        "nextNodeType": "steampunkgear"
-    },
-    {
         "dungeonRunId": "166499",
         "completedLevels": "34",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-08-08 18:09:04",
         "endTime": "2024-08-08 22:58:06",
         "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light,tank_ironclad,archer_soulpenetration,gladiator_omen_sands,bomber_ricochet,musk_hunters_mark,archer_omen_falcon,centurion_team_barbs,barb_giant_swings,flag_holdfast,orcs_everythingslayer,bomber_omen_spark,musk_golden_rounds,gladiator_war_machine,assassin_omen_shadow,frogue_cloaking_field,lancer_firststrike,assassin_doom_fools,gladiator_sonofthunder,barbarian_omen_axe,saint_surge_of_confidence,artillery_pressure_fire,rogue_momentum,monk_pure_focus,lancer_omen_javelin,blob_flesheater",
+        "nextNodeType": "steampunkgear"
+    },
+    {
+        "dungeonRunId": "166492",
+        "completedLevels": "34",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-08-08 18:01:39",
+        "endTime": "2024-08-08 22:27:24",
+        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,centurion_2,bomber_omen_spark,vampire_dark_pact,gladiator_war_machine,assassin_doom_fools,lancer_spearwall,flagbearer_focused_morale,lancer_omen_javelin,mage_elementalsummoning,musk_hunters_mark,musk_golden_rounds,artillery_pressure_fire,warrior_omen_wolf,saint_surge_of_confidence,saint_omen_sacrificetotheomens,healer_omen_hand,gladiator_sonofthunder,mage_darkmagic,artillery_maxpower,barb_giant_swings,berserker_omen_pack,archer_enchantedammo,epic_giants_curse,flagbearer_omen_kings,paladin_divine_wrath",
         "nextNodeType": "steampunkgear"
     },
     {
@@ -63,6 +63,15 @@
         "nextNodeType": "frontiershowdown"
     },
     {
+        "dungeonRunId": "166616",
+        "completedLevels": "21",
+        "twitchDisplayName": "itsRegius",
+        "startTime": "2024-08-09 01:46:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,gladiator_omen_sands,archer_enchantedammo,warrior_falltodarkness,flyingrogue_omen_feather,amazon_hermesblessing,blob_parasite,paladin_omen_crest,frogue_cloaking_field,artillery_pressure_fire,fairy_omen_rainbow,fairy_hocuspocus,amazon_vineclone,support_omen_light,musk_golden_rounds,gladiator_war_machine,vampire_omen_fallen,mage_elementalsummoning,tank_hoarfrost_armor,berserker_omen_pack,blob_flesheater,frogue_air_snipers",
+        "nextNodeType": "newjunglespore"
+    },
+    {
         "dungeonRunId": "166535",
         "completedLevels": "21",
         "twitchDisplayName": "kingjerry_4ever",
@@ -72,21 +81,12 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "166565",
+        "dungeonRunId": "166559",
         "completedLevels": "20",
-        "twitchDisplayName": "LilithSM",
-        "startTime": "2024-08-08 22:03:03",
-        "endTime": "2024-08-09 00:52:43",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_omen_falcon,tank_ironclad,lancer_firststrike,bomber_omen_spark,bomber_ricochet,monk_pure_focus,vampire_omen_fallen,amazon_hermesblessing,barb_giant_swings,rogue_omen_dagger,gladiator_sonofthunder,warbeast_bestfriends,lancer_omen_javelin,berserker_enrage,epic_giants_curse,ranged_doom_mist,blob_flesheater,flagbearer_focused_morale,warrior_omen_wolf,barbarian_possessed",
-        "nextNodeType": "ancientspider"
-    },
-    {
-        "dungeonRunId": "166616",
-        "completedLevels": "20",
-        "twitchDisplayName": "itsRegius",
-        "startTime": "2024-08-09 01:46:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,gladiator_omen_sands,archer_enchantedammo,warrior_falltodarkness,flyingrogue_omen_feather,amazon_hermesblessing,blob_parasite,paladin_omen_crest,frogue_cloaking_field,artillery_pressure_fire,fairy_omen_rainbow,fairy_hocuspocus,amazon_vineclone,support_omen_light,musk_golden_rounds,gladiator_war_machine,vampire_omen_fallen,mage_elementalsummoning,tank_hoarfrost_armor,berserker_omen_pack,blob_flesheater",
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-08-08 21:30:18",
+        "endTime": "2024-08-08 23:37:49",
+        "captainBoons": "common_classic_comeback,melee_omen_blade,rogue_omen_dagger,amazon_hermesblessing,berserker_frenzy,gladiator_omen_sands,monk_first_strike,shinobi_lastninja,armored_doom_rust,frogue_cloaking_field,gladiator_war_machine,berserker_omen_pack,lancer_spearwall,amazon_vineclone,vampire_omen_fallen,musk_golden_rounds,centurion_2,flyingrogue_omen_feather,artillery_maxpower,artillery_pressure_fire,bomber_omen_spark,berserker_enrage",
         "nextNodeType": "olympiadbossAtlas2"
     }
 ]
