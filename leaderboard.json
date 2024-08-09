@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "166676",
-        "completedLevels": "46",
+        "completedLevels": "47",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-08-09 13:09:30",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_omen_blade,flagbearer_omen_kings,mage_elementalsummoning,musk_golden_rounds,blob_parasite,fairy_omen_rainbow,barb_giant_swings,warrior_omen_wolf,flagbearer_focused_morale,rogue_omen_dagger,artillery_pressure_fire,barbarian_omen_axe,fairy_gift_of_the_wind,lancer_omen_javelin,orcs_inpenetrable,frogue_air_snipers,gladiator_sonofthunder,vampire_aerial_fiend,archer_omen_falcon,monk_pure_focus,fairy_hocuspocus",
-        "nextNodeType": "oasisruins"
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "166531",
