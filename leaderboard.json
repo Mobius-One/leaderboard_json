@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "166531",
-        "completedLevels": "42",
+        "completedLevels": "43",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-08-08 20:00:24",
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_omen_dart,healer_omen_hand,warrior_flameslash,musk_hunters_mark,assassin_omen_shadow,bomber_ricochet,saint_skeletondance,epic_monstersblessing,centurion_2,archer_omen_falcon,lancer_spearwall,gladiator_war_machine,assassin_doom_fools,blob_flesheater,blob_parasite,fairy_omen_rainbow,artillery_pressure_fire,musk_golden_rounds,mage_elementalsummoning,lancer_firststrike,artillery_maxpower,barb_giant_swings,fairy_hocuspocus",
-        "nextNodeType": "oasisruins"
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "166499",
