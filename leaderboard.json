@@ -81,12 +81,12 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "166634",
+        "dungeonRunId": "166653",
         "completedLevels": "22",
-        "twitchDisplayName": "RaikaKasakun",
-        "startTime": "2024-08-09 04:19:27",
-        "endTime": "2024-08-09 08:41:17",
-        "captainBoons": "common_classic_comeback,armored_omen_helm,healer_omen_hand,archer_enchantedammo,saint_skeletondance,gladiator_omen_sands,gladiator_sonofthunder,healer_1,archer_omen_falcon,amazon_hermesblessing,lancer_firststrike,buster_omen_thunder,warrior_flameslash,flagbearer_focused_morale,barbarian_omen_axe,spy_hauntingsabotage,archer_soulpenetration,lancer_omen_javelin,bomber_ricochet,paladin_shadowside,rogue_omen_dagger,shinobi_firetechinique,monk_pure_focus,flyingrogue_omen_feather",
-        "nextNodeType": "glitchedmoboatx"
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-08-09 08:00:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,paladin_divine_wrath,rogue_shadow_cloak,healer_omen_hand,fairy_hocuspocus,archer_soulpenetration,berserker_omen_pack,amazon_hermesblessing,gladiator_war_machine,warrior_omen_wolf,warrior_flameslash,flagbearer_focused_morale,gladiator_omen_sands,bomber_ricochet,artillery_pressure_fire,rogue_omen_dagger,saint_surge_of_confidence,frogue_air_snipers,fairy_omen_rainbow,gladiator_sonofthunder,barb_giant_swings",
+        "nextNodeType": "plagueroost"
     }
 ]
