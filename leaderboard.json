@@ -9,15 +9,6 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "166492",
-        "completedLevels": "34",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-08-08 18:01:39",
-        "endTime": "2024-08-08 22:27:24",
-        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,centurion_2,bomber_omen_spark,vampire_dark_pact,gladiator_war_machine,assassin_doom_fools,lancer_spearwall,flagbearer_focused_morale,lancer_omen_javelin,mage_elementalsummoning,musk_hunters_mark,musk_golden_rounds,artillery_pressure_fire,warrior_omen_wolf,saint_surge_of_confidence,saint_omen_sacrificetotheomens,healer_omen_hand,gladiator_sonofthunder,mage_darkmagic,artillery_maxpower,barb_giant_swings,berserker_omen_pack,archer_enchantedammo,epic_giants_curse,flagbearer_omen_kings,paladin_divine_wrath",
-        "nextNodeType": "steampunkgear"
-    },
-    {
         "dungeonRunId": "166499",
         "completedLevels": "34",
         "twitchDisplayName": "Hyf1re",
@@ -27,13 +18,22 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "166492",
+        "completedLevels": "34",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-08-08 18:01:39",
+        "endTime": "2024-08-08 22:27:24",
+        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,centurion_2,bomber_omen_spark,vampire_dark_pact,gladiator_war_machine,assassin_doom_fools,lancer_spearwall,flagbearer_focused_morale,lancer_omen_javelin,mage_elementalsummoning,musk_hunters_mark,musk_golden_rounds,artillery_pressure_fire,warrior_omen_wolf,saint_surge_of_confidence,saint_omen_sacrificetotheomens,healer_omen_hand,gladiator_sonofthunder,mage_darkmagic,artillery_maxpower,barb_giant_swings,berserker_omen_pack,archer_enchantedammo,epic_giants_curse,flagbearer_omen_kings,paladin_divine_wrath",
+        "nextNodeType": "steampunkgear"
+    },
+    {
         "dungeonRunId": "166591",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "Angel",
         "startTime": "2024-08-08 23:37:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_omen_blade,assassin_omen_shadow,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,amazon_hermesblessing,rogue_shadow_cloak,flyingrogue_omen_feather,necromancer_necronomicon,necro_furious_summoner,healer_omen_hand,mage_elementalsummoning,barb_giant_swings,warbeast_1,mage_darkmagic,bomber_omen_spark,tank_ironclad,berserker_frenzy,berserker_enrage,warrior_falltodarkness,warrior_omen_wolf,bomber_ricochet,fairy_gift_of_the_wind,fairy_omen_rainbow,fairy_hocuspocus,artillery_pressure_fire,barbarian_omen_axe,blob_flesheater",
-        "nextNodeType": "frontiershowdown"
+        "nextNodeType": "dungeonexperiment"
     },
     {
         "dungeonRunId": "166525",
@@ -81,12 +81,12 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "166529",
+        "dungeonRunId": "166493",
         "completedLevels": "17",
-        "twitchDisplayName": "MisterMarvelous",
-        "startTime": "2024-08-08 19:44:39",
-        "endTime": "2024-08-08 22:20:05",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,berserker_omen_pack,mage_elementalsummoning,artillery_pressure_fire,buster_omen_thunder,necromancer_necronomicon,centurion_2,fairy_omen_rainbow,saint_surge_of_confidence,berserker_frenzy,warrior_omen_wolf,blob_flesheater,paladin_shadowside,barbarian_omen_axe,bomber_ricochet,amazon_vineclone,bomber_omen_spark,archer_enchantedammo",
-        "nextNodeType": "olympiadbossAtlas2"
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-08-08 18:02:08",
+        "endTime": "2024-08-08 20:58:45",
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,rogue_omen_dagger,warrior_flameslash,bomber_avatar_power,buster_omen_thunder,orcs_inpenetrable,amazon_vineclone,flyingrogue_omen_feather,bomber_ricochet,saint_skeletondance,assassin_omen_shadow,epic_monstersblessing,rogue_shadow_cloak,warrior_omen_wolf,centurion_team_barbs,healer_1,nonhuman_doom_fable,gladiator_sonofthunder",
+        "nextNodeType": "ancientspider"
     }
 ]
