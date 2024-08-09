@@ -63,6 +63,15 @@
         "nextNodeType": "graveriver"
     },
     {
+        "dungeonRunId": "166616",
+        "completedLevels": "23",
+        "twitchDisplayName": "itsRegius",
+        "startTime": "2024-08-09 01:46:04",
+        "endTime": "2024-08-09 04:13:09",
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,gladiator_omen_sands,archer_enchantedammo,warrior_falltodarkness,flyingrogue_omen_feather,amazon_hermesblessing,blob_parasite,paladin_omen_crest,frogue_cloaking_field,artillery_pressure_fire,fairy_omen_rainbow,fairy_hocuspocus,amazon_vineclone,support_omen_light,musk_golden_rounds,gladiator_war_machine,vampire_omen_fallen,mage_elementalsummoning,tank_hoarfrost_armor,berserker_omen_pack,blob_flesheater,frogue_air_snipers,archer_omen_falcon,monk_first_strike",
+        "nextNodeType": "ancientspider"
+    },
+    {
         "dungeonRunId": "166589",
         "completedLevels": "23",
         "twitchDisplayName": "bakodemeester",
@@ -79,14 +88,5 @@
         "endTime": "2024-08-09 02:35:38",
         "captainBoons": "common_classic_comeback,ranged_omen_dart,barbarian_omen_axe,saint_surge_of_confidence,rogue_shadow_cloak,vampire_omen_fallen,archer_enchantedammo,shinobi_lastninja,healer_omen_hand,epic_monstersblessing,tank_hoarfrost_armor,fairy_omen_rainbow,amazon_hermesblessing,flagbearer_focused_morale,flyingrogue_omen_feather,fairy_hocuspocus,artillery_pressure_fire,berserker_omen_pack,flag_holdfast,healer_1,assassin_doom_fools,artillery_maxpower,amazon_vineclone,archer_omen_falcon,barbarian_possessed",
         "nextNodeType": "frontiershowdown"
-    },
-    {
-        "dungeonRunId": "166616",
-        "completedLevels": "23",
-        "twitchDisplayName": "itsRegius",
-        "startTime": "2024-08-09 01:46:04",
-        "endTime": "2024-08-09 04:13:09",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,gladiator_omen_sands,archer_enchantedammo,warrior_falltodarkness,flyingrogue_omen_feather,amazon_hermesblessing,blob_parasite,paladin_omen_crest,frogue_cloaking_field,artillery_pressure_fire,fairy_omen_rainbow,fairy_hocuspocus,amazon_vineclone,support_omen_light,musk_golden_rounds,gladiator_war_machine,vampire_omen_fallen,mage_elementalsummoning,tank_hoarfrost_armor,berserker_omen_pack,blob_flesheater,frogue_air_snipers,archer_omen_falcon,monk_first_strike",
-        "nextNodeType": "ancientspider"
     }
 ]
