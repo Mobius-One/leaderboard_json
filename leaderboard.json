@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "166618",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "FenggarTV",
         "startTime": "2024-08-09 02:02:43",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,healer_omen_hand,tank_ironclad,warrior_falltodarkness,lancer_omen_javelin,lancer_spearwall,rogue_shadow_cloak,barbarian_omen_axe,warbeast_1,epic_giants_curse,vampire_omen_fallen,archer_enchantedammo,archer_soulpenetration,rogue_omen_dagger,templar_commanding_presence,monk_pure_focus,archer_omen_falcon,fairy_hocuspocus,amazon_vineclone,flyingrogue_omen_feather,amazon_hermesblessing,artillery_pressure_fire",
-        "nextNodeType": "graveriver"
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,healer_omen_hand,tank_ironclad,warrior_falltodarkness,lancer_omen_javelin,lancer_spearwall,rogue_shadow_cloak,barbarian_omen_axe,warbeast_1,epic_giants_curse,vampire_omen_fallen,archer_enchantedammo,archer_soulpenetration,rogue_omen_dagger,templar_commanding_presence,monk_pure_focus,archer_omen_falcon,fairy_hocuspocus,amazon_vineclone,flyingrogue_omen_feather,amazon_hermesblessing,artillery_pressure_fire,bomber_omen_spark",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "166535",
