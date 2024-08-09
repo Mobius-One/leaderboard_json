@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "166591",
-        "completedLevels": "37",
+        "completedLevels": "38",
         "twitchDisplayName": "Angel",
         "startTime": "2024-08-08 23:37:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,assassin_omen_shadow,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,rogue_shadow_cloak,flyingrogue_omen_feather,necromancer_necronomicon,necro_furious_summoner,healer_omen_hand,mage_elementalsummoning,warbeast_1,mage_darkmagic,bomber_omen_spark,tank_ironclad,berserker_frenzy,berserker_enrage,warrior_falltodarkness,warrior_omen_wolf,bomber_ricochet,fairy_gift_of_the_wind,fairy_omen_rainbow,fairy_hocuspocus,artillery_pressure_fire,barbarian_omen_axe,blob_flesheater",
-        "nextNodeType": "icecaveportals"
+        "captainBoons": "common_classic_comeback,melee_omen_blade,assassin_omen_shadow,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,rogue_shadow_cloak,flyingrogue_omen_feather,necromancer_necronomicon,necro_furious_summoner,healer_omen_hand,warbeast_1,mage_darkmagic,bomber_omen_spark,tank_ironclad,berserker_frenzy,berserker_enrage,warrior_falltodarkness,warrior_omen_wolf,bomber_ricochet,fairy_gift_of_the_wind,fairy_omen_rainbow,fairy_hocuspocus,artillery_pressure_fire,barbarian_omen_axe,blob_flesheater",
+        "nextNodeType": "ancientspider"
     },
     {
         "dungeonRunId": "166492",
@@ -81,12 +81,12 @@
         "nextNodeType": "ancientspider"
     },
     {
-        "dungeonRunId": "166493",
+        "dungeonRunId": "166529",
         "completedLevels": "17",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-08-08 18:02:08",
-        "endTime": "2024-08-08 20:58:45",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,rogue_omen_dagger,warrior_flameslash,bomber_avatar_power,buster_omen_thunder,orcs_inpenetrable,amazon_vineclone,flyingrogue_omen_feather,bomber_ricochet,saint_skeletondance,assassin_omen_shadow,epic_monstersblessing,rogue_shadow_cloak,warrior_omen_wolf,centurion_team_barbs,healer_1,nonhuman_doom_fable,gladiator_sonofthunder",
-        "nextNodeType": "ancientspider"
+        "twitchDisplayName": "MisterMarvelous",
+        "startTime": "2024-08-08 19:44:39",
+        "endTime": "2024-08-08 22:20:05",
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,berserker_omen_pack,mage_elementalsummoning,artillery_pressure_fire,buster_omen_thunder,necromancer_necronomicon,centurion_2,fairy_omen_rainbow,saint_surge_of_confidence,berserker_frenzy,warrior_omen_wolf,blob_flesheater,paladin_shadowside,barbarian_omen_axe,bomber_ricochet,amazon_vineclone,bomber_omen_spark,archer_enchantedammo",
+        "nextNodeType": "olympiadbossAtlas2"
     }
 ]
