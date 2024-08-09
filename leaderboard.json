@@ -46,21 +46,12 @@
     },
     {
         "dungeonRunId": "166565",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "LilithSM",
         "startTime": "2024-08-08 22:03:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_omen_falcon,tank_ironclad,lancer_firststrike,bomber_omen_spark,bomber_ricochet,monk_pure_focus,vampire_omen_fallen,amazon_hermesblessing,barb_giant_swings,rogue_omen_dagger,gladiator_sonofthunder,warbeast_bestfriends,lancer_omen_javelin,berserker_enrage,epic_giants_curse,ranged_doom_mist,blob_flesheater,flagbearer_focused_morale",
-        "nextNodeType": "thehivecarmeet"
-    },
-    {
-        "dungeonRunId": "166493",
-        "completedLevels": "17",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-08-08 18:02:08",
-        "endTime": "2024-08-08 20:58:45",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,rogue_omen_dagger,warrior_flameslash,bomber_avatar_power,buster_omen_thunder,orcs_inpenetrable,amazon_vineclone,flyingrogue_omen_feather,bomber_ricochet,saint_skeletondance,assassin_omen_shadow,epic_monstersblessing,rogue_shadow_cloak,warrior_omen_wolf,centurion_team_barbs,healer_1,nonhuman_doom_fable,gladiator_sonofthunder",
-        "nextNodeType": "ancientspider"
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_omen_falcon,tank_ironclad,lancer_firststrike,bomber_omen_spark,bomber_ricochet,monk_pure_focus,vampire_omen_fallen,amazon_hermesblessing,barb_giant_swings,rogue_omen_dagger,gladiator_sonofthunder,warbeast_bestfriends,lancer_omen_javelin,berserker_enrage,epic_giants_curse,ranged_doom_mist,blob_flesheater,flagbearer_focused_morale,warrior_omen_wolf",
+        "nextNodeType": "hauntedknight"
     },
     {
         "dungeonRunId": "166529",
@@ -70,6 +61,15 @@
         "endTime": "2024-08-08 22:20:05",
         "captainBoons": "common_classic_comeback,ranged_omen_dart,berserker_omen_pack,mage_elementalsummoning,artillery_pressure_fire,buster_omen_thunder,necromancer_necronomicon,centurion_2,fairy_omen_rainbow,saint_surge_of_confidence,berserker_frenzy,warrior_omen_wolf,blob_flesheater,paladin_shadowside,barbarian_omen_axe,bomber_ricochet,amazon_vineclone,bomber_omen_spark,archer_enchantedammo",
         "nextNodeType": "olympiadbossAtlas2"
+    },
+    {
+        "dungeonRunId": "166493",
+        "completedLevels": "17",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-08-08 18:02:08",
+        "endTime": "2024-08-08 20:58:45",
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,rogue_omen_dagger,warrior_flameslash,bomber_avatar_power,buster_omen_thunder,orcs_inpenetrable,amazon_vineclone,flyingrogue_omen_feather,bomber_ricochet,saint_skeletondance,assassin_omen_shadow,epic_monstersblessing,rogue_shadow_cloak,warrior_omen_wolf,centurion_team_barbs,healer_1,nonhuman_doom_fable,gladiator_sonofthunder",
+        "nextNodeType": "ancientspider"
     },
     {
         "dungeonRunId": "166501",
