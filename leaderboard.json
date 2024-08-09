@@ -45,6 +45,15 @@
         "nextNodeType": "ancientspider"
     },
     {
+        "dungeonRunId": "166591",
+        "completedLevels": "20",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-08-08 23:37:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,assassin_omen_shadow,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,amazon_hermesblessing,rogue_shadow_cloak,flyingrogue_omen_feather,necromancer_necronomicon,necro_furious_summoner,healer_omen_hand,mage_elementalsummoning,barb_giant_swings,rogue_omen_dagger,warbeast_1,mage_darkmagic,bomber_omen_spark,tank_ironclad,berserker_frenzy,lancer_omen_javelin,berserker_enrage",
+        "nextNodeType": "olympiadbossAtlas2"
+    },
+    {
         "dungeonRunId": "166559",
         "completedLevels": "20",
         "twitchDisplayName": "3aglesdwm",
@@ -52,15 +61,6 @@
         "endTime": "2024-08-08 23:37:49",
         "captainBoons": "common_classic_comeback,melee_omen_blade,rogue_omen_dagger,amazon_hermesblessing,berserker_frenzy,gladiator_omen_sands,monk_first_strike,shinobi_lastninja,armored_doom_rust,frogue_cloaking_field,gladiator_war_machine,berserker_omen_pack,lancer_spearwall,amazon_vineclone,vampire_omen_fallen,musk_golden_rounds,centurion_2,flyingrogue_omen_feather,artillery_maxpower,artillery_pressure_fire,bomber_omen_spark,berserker_enrage",
         "nextNodeType": "olympiadbossAtlas2"
-    },
-    {
-        "dungeonRunId": "166591",
-        "completedLevels": "19",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-08-08 23:37:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,assassin_omen_shadow,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,amazon_hermesblessing,rogue_shadow_cloak,flyingrogue_omen_feather,necromancer_necronomicon,necro_furious_summoner,healer_omen_hand,mage_elementalsummoning,barb_giant_swings,rogue_omen_dagger,warbeast_1,mage_darkmagic,bomber_omen_spark,tank_ironclad,berserker_frenzy,lancer_omen_javelin",
-        "nextNodeType": "graveriver"
     },
     {
         "dungeonRunId": "166493",
@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadbossAtlas2"
     },
     {
-        "dungeonRunId": "166501",
+        "dungeonRunId": "166589",
         "completedLevels": "16",
-        "twitchDisplayName": "Andy2258",
-        "startTime": "2024-08-08 18:11:57",
-        "endTime": "2024-08-08 20:24:30",
-        "captainBoons": "common_classic_comeback,melee_omen_blade,warrior_omen_wolf,artillery_maxpower,necro_furious_summoner,vampire_omen_fallen,archer_enchantedammo,rogue_shadow_cloak,berserker_omen_pack,necromancer_necronomicon,healer_1,assassin_omen_shadow,amazon_hermesblessing,paladin_shadowside,bomber_omen_spark,shinobi_firetechinique,centurion_2,fairy_omen_rainbow",
-        "nextNodeType": "shogunateBasic"
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-08-08 23:25:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,archer_enchantedammo,amazon_vineclone,armored_doom_rust,flag_holdfast,centurion_2,fairy_omen_rainbow,saint_surge_of_confidence,fairy_gift_of_the_wind,rogue_omen_dagger,rogue_momentum,rogue_shadow_cloak,barbarian_omen_axe,centurion_team_barbs,warbeast_bestfriends,lancer_omen_javelin",
+        "nextNodeType": "dungeonexperiment"
     }
 ]
