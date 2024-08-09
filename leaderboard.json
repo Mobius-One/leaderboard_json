@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "166591",
-        "completedLevels": "46",
+        "completedLevels": "47",
         "twitchDisplayName": "Angel",
         "startTime": "2024-08-08 23:37:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,assassin_omen_shadow,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,rogue_shadow_cloak,flyingrogue_omen_feather,necromancer_necronomicon,necro_furious_summoner,healer_omen_hand,warbeast_1,mage_darkmagic,bomber_omen_spark,tank_ironclad,berserker_enrage,warrior_falltodarkness,bomber_ricochet,fairy_gift_of_the_wind,fairy_omen_rainbow,artillery_pressure_fire,barbarian_omen_axe,blob_flesheater",
-        "nextNodeType": "olympiadgodgroupFullAB"
+        "nextNodeType": "olympiadbossAtlas2"
     },
     {
         "dungeonRunId": "166531",
