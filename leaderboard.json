@@ -81,12 +81,12 @@
         "nextNodeType": "frontiershowdown"
     },
     {
-        "dungeonRunId": "166535",
+        "dungeonRunId": "166605",
         "completedLevels": "21",
-        "twitchDisplayName": "kingjerry_4ever",
-        "startTime": "2024-08-08 20:10:07",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2024-08-09 00:58:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,bomber_omen_spark,bomber_ricochet,rogue_shadow_cloak,berserker_omen_pack,epic_monstersblessing,gladiator_war_machine,flyingrogue_omen_feather,gladiator_sonofthunder,musk_hunters_mark,human_doom_scythe,orcs_inpenetrable,mage_darkmagic,fairy_omen_rainbow,rogue_momentum,blob_parasite,healer_omen_hand,artillery_maxpower,flagbearer_focused_morale,melee_doom_hunger,healer_arrogantmedium,archer_soulpenetration",
-        "nextNodeType": "newjunglespore"
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,lancer_omen_javelin,monk_first_strike,monk_pure_focus,buster_omen_thunder,bomber_ricochet,artillery_pressure_fire,tank_omen_bull,frogue_cloaking_field,berserker_frenzy,berserker_omen_pack,artillery_maxpower,barb_giant_swings,support_omen_light,tank_ironclad,necro_furious_summoner,assassin_doom_fools,epic_monstersblessing,rogue_shadow_cloak,healer_omen_hand,buster_ghostbuster,blob_parasite",
+        "nextNodeType": "spaceairlock"
     }
 ]
