@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "166591",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "Angel",
         "startTime": "2024-08-08 23:37:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,assassin_omen_shadow,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,amazon_hermesblessing,rogue_shadow_cloak,flyingrogue_omen_feather,necromancer_necronomicon,necro_furious_summoner,healer_omen_hand,mage_elementalsummoning,barb_giant_swings,rogue_omen_dagger,warbeast_1,mage_darkmagic,bomber_omen_spark,tank_ironclad,berserker_frenzy,lancer_omen_javelin,berserker_enrage,warrior_falltodarkness",
-        "nextNodeType": "icecaveportals"
+        "captainBoons": "common_classic_comeback,melee_omen_blade,assassin_omen_shadow,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,amazon_hermesblessing,rogue_shadow_cloak,flyingrogue_omen_feather,necromancer_necronomicon,necro_furious_summoner,healer_omen_hand,mage_elementalsummoning,barb_giant_swings,rogue_omen_dagger,warbeast_1,mage_darkmagic,bomber_omen_spark,tank_ironclad,berserker_frenzy,lancer_omen_javelin,berserker_enrage,warrior_falltodarkness,warrior_omen_wolf",
+        "nextNodeType": "glitchedmoboatx"
     },
     {
         "dungeonRunId": "166559",
@@ -68,7 +68,7 @@
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-08-08 23:25:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,archer_enchantedammo,amazon_vineclone,armored_doom_rust,flag_holdfast,centurion_2,fairy_omen_rainbow,saint_surge_of_confidence,fairy_gift_of_the_wind,rogue_omen_dagger,rogue_momentum,rogue_shadow_cloak,barbarian_omen_axe,centurion_team_barbs,warbeast_bestfriends,lancer_omen_javelin",
+        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,archer_enchantedammo,amazon_vineclone,armored_doom_rust,flag_holdfast,centurion_2,fairy_omen_rainbow,saint_surge_of_confidence,fairy_gift_of_the_wind,rogue_omen_dagger,rogue_momentum,rogue_shadow_cloak,barbarian_omen_axe,centurion_team_barbs,warbeast_bestfriends,lancer_omen_javelin,fairy_hocuspocus",
         "nextNodeType": "olympiadbossAtlas2"
     },
     {
