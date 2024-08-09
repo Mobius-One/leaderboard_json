@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "166703",
-        "completedLevels": "52",
+        "completedLevels": "53",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-08-09 15:42:54",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_omen_falcon,archer_soulpenetration,mage_elementalsummoning,saint_skeletondance,berserker_omen_pack,bomber_ricochet,orcs_everythingslayer,fairy_omen_rainbow,frogue_air_snipers,berserker_frenzy,tank_hoarfrost_armor,flagbearer_omen_kings,saint_surge_of_confidence,artillery_pressure_fire,flyingrogue_omen_feather,lancer_spearwall,musk_hunters_mark,gladiator_omen_sands",
-        "nextNodeType": "oasisruins"
+        "nextNodeType": "moboboss"
     },
     {
         "dungeonRunId": "166676",
@@ -63,6 +63,24 @@
         "nextNodeType": "ancientspider"
     },
     {
+        "dungeonRunId": "166712",
+        "completedLevels": "32",
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-08-09 16:35:20",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,rogue_momentum,fairy_gift_of_the_wind,armored_doom_rust,bomber_ricochet,blob_parasite,assassin_omen_shadow,blob_flesheater,spy_inciterevolution,epic_monstersblessing,monk_pure_focus,healer_omen_hand,musk_golden_rounds,berserker_frenzy,lancer_omen_javelin,shinobi_firetechinique,archer_soulpenetration,artillery_maxpower,healer_1,barbarian_omen_axe,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,centurion_team_barbs,artillery_pressure_fire,flyingrogue_omen_feather,lancer_spearwall",
+        "nextNodeType": "frontiershowdown"
+    },
+    {
+        "dungeonRunId": "166708",
+        "completedLevels": "31",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-08-09 16:23:41",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,flyingrogue_omen_feather,amazon_hermesblessing,vampire_aerial_fiend,armored_doom_rust,centurion_team_barbs,archer_soulpenetration,healer_omen_hand,bomber_ricochet,centurion_2,lancer_omen_javelin,berserker_enrage,orcs_everythingslayer,barbarian_omen_axe,artillery_maxpower,berserker_frenzy,epic_monstersblessing,lancer_firststrike,berserker_omen_pack,templar_commanding_presence,saint_skeletondance,warrior_omen_wolf,saint_surge_of_confidence,frogue_air_snipers,archer_omen_falcon,warrior_flameslash,artillery_pressure_fire,fairy_omen_rainbow,blob_flesheater",
+        "nextNodeType": "hauntedknight"
+    },
+    {
         "dungeonRunId": "166669",
         "completedLevels": "31",
         "twitchDisplayName": "Rafipi",
@@ -70,23 +88,5 @@
         "endTime": "2024-08-09 18:05:19",
         "captainBoons": "common_classic_comeback,melee_omen_blade,fairy_omen_rainbow,archer_enchantedammo,fairy_gift_of_the_wind,archer_omen_falcon,bomber_ricochet,flagbearer_focused_morale,rogue_omen_dagger,orcs_inpenetrable,vampire_aerial_fiend,healer_omen_hand,artillery_maxpower,monk_pure_focus,berserker_enrage,archer_soulpenetration,assassin_doom_fools,mage_elementalsummoning,healer_1,gladiator_omen_sands,monk_first_strike,centurion_2,buster_omen_thunder,musk_golden_rounds,orcs_everythingslayer,berserker_omen_pack,necromancer_necronomicon,epic_giants_curse,lancer_omen_javelin,gladiator_sonofthunder",
         "nextNodeType": "raidhallaambush"
-    },
-    {
-        "dungeonRunId": "166712",
-        "completedLevels": "31",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-08-09 16:35:20",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,rogue_momentum,fairy_gift_of_the_wind,armored_doom_rust,bomber_ricochet,blob_parasite,assassin_omen_shadow,blob_flesheater,spy_inciterevolution,vampire_omen_fallen,epic_monstersblessing,monk_pure_focus,healer_omen_hand,musk_golden_rounds,berserker_frenzy,lancer_omen_javelin,shinobi_firetechinique,archer_soulpenetration,artillery_maxpower,healer_1,barbarian_omen_axe,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,centurion_team_barbs,artillery_pressure_fire,flyingrogue_omen_feather,lancer_spearwall",
-        "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "166708",
-        "completedLevels": "30",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-08-09 16:23:41",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,flyingrogue_omen_feather,amazon_hermesblessing,vampire_aerial_fiend,armored_doom_rust,centurion_team_barbs,archer_soulpenetration,healer_omen_hand,bomber_ricochet,centurion_2,lancer_omen_javelin,berserker_enrage,orcs_everythingslayer,barbarian_omen_axe,artillery_maxpower,berserker_frenzy,epic_monstersblessing,lancer_firststrike,berserker_omen_pack,templar_commanding_presence,saint_skeletondance,warrior_omen_wolf,saint_surge_of_confidence,frogue_air_snipers,archer_omen_falcon,warrior_flameslash,artillery_pressure_fire,fairy_omen_rainbow,blob_flesheater",
-        "nextNodeType": "shogunateBasic"
     }
 ]
