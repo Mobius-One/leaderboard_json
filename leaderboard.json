@@ -54,6 +54,15 @@
         "nextNodeType": "oasisruins"
     },
     {
+        "dungeonRunId": "166764",
+        "completedLevels": "34",
+        "twitchDisplayName": "itsRegius",
+        "startTime": "2024-08-09 21:42:51",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_omen_falcon,musk_golden_rounds,blob_parasite,vampire_omen_fallen,bomber_ricochet,artillery_pressure_fire,melee_doom_hunger,artillery_maxpower,archer_soulpenetration,bomber_omen_spark,warrior_falltodarkness,assassin_omen_shadow,mage_elementalsummoning,bomber_avatar_power,buster_omen_thunder,vampire_dark_pact,mage_darkmagic,barbarian_omen_axe,templar_commanding_presence,fairy_gift_of_the_wind,paladin_omen_crest,support_omen_light,flag_holdfast,necro_furious_summoner,support_doom_plague,tank_ironclad",
+        "nextNodeType": "hauntedknight"
+    },
+    {
         "dungeonRunId": "166499",
         "completedLevels": "34",
         "twitchDisplayName": "Hyf1re",
@@ -61,15 +70,6 @@
         "endTime": "2024-08-08 22:58:06",
         "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light,tank_ironclad,archer_soulpenetration,gladiator_omen_sands,bomber_ricochet,musk_hunters_mark,archer_omen_falcon,centurion_team_barbs,barb_giant_swings,flag_holdfast,orcs_everythingslayer,bomber_omen_spark,musk_golden_rounds,gladiator_war_machine,assassin_omen_shadow,frogue_cloaking_field,lancer_firststrike,assassin_doom_fools,gladiator_sonofthunder,barbarian_omen_axe,saint_surge_of_confidence,artillery_pressure_fire,rogue_momentum,monk_pure_focus,lancer_omen_javelin,blob_flesheater",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "166764",
-        "completedLevels": "33",
-        "twitchDisplayName": "itsRegius",
-        "startTime": "2024-08-09 21:42:51",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_omen_falcon,musk_golden_rounds,blob_parasite,vampire_omen_fallen,bomber_ricochet,artillery_pressure_fire,melee_doom_hunger,artillery_maxpower,archer_soulpenetration,bomber_omen_spark,warrior_falltodarkness,assassin_omen_shadow,mage_elementalsummoning,bomber_avatar_power,buster_omen_thunder,vampire_dark_pact,mage_darkmagic,barbarian_omen_axe,templar_commanding_presence,fairy_gift_of_the_wind,paladin_omen_crest,fairy_hocuspocus,support_omen_light,flag_holdfast,necro_furious_summoner,support_doom_plague,tank_ironclad",
-        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "166704",
