@@ -18,13 +18,13 @@
         "nextNodeType": "glitchedmoboatx"
     },
     {
-        "dungeonRunId": "166676",
-        "completedLevels": "49",
+        "dungeonRunId": "166840",
+        "completedLevels": "50",
         "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-08-09 13:09:30",
-        "endTime": "2024-08-09 19:23:22",
-        "captainBoons": "common_classic_comeback,melee_omen_blade,flagbearer_omen_kings,mage_elementalsummoning,musk_golden_rounds,blob_parasite,fairy_omen_rainbow,barb_giant_swings,warrior_omen_wolf,flagbearer_focused_morale,rogue_omen_dagger,artillery_pressure_fire,barbarian_omen_axe,fairy_gift_of_the_wind,orcs_inpenetrable,frogue_air_snipers,gladiator_sonofthunder,vampire_aerial_fiend,archer_omen_falcon,monk_pure_focus,fairy_hocuspocus",
-        "nextNodeType": "glitchedmoboatx"
+        "startTime": "2024-08-10 06:27:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_flameslash,monk_pure_focus,archer_soulpenetration,barbarian_omen_axe,centurion_2,artillery_pressure_fire,lancer_omen_javelin,gladiator_sonofthunder,archer_omen_falcon,warbeast_1,frogue_air_snipers,flyingrogue_omen_feather,lancer_spearwall,amazon_vineclone,warrior_omen_wolf,templar_commanding_presence,berserker_frenzy,fairy_omen_rainbow,centurion_team_barbs",
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "166683",
