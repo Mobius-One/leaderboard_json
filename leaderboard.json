@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "166903",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-08-10 17:08:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_omen_falcon,berserker_enrage,lancer_firststrike,saint_surge_of_confidence,artillery_pressure_fire,lancer_omen_javelin,archer_enchantedammo,flagbearer_focused_morale,flagbearer_omen_kings,artillery_maxpower,necro_furious_summoner,rogue_omen_dagger,amazon_hermesblessing,vampire_aerial_fiend,gladiator_omen_sands,orcs_inpenetrable,frogue_air_snipers,support_omen_light,bomber_ricochet,musk_hunters_mark,tank_omen_bull,mage_elementalsummoning,mage_darkmagic,barbarian_omen_axe,warrior_flameslash,warrior_omen_wolf,rogue_momentum",
-        "nextNodeType": "moboboss"
+        "captainBoons": "common_classic_comeback,archer_omen_falcon,berserker_enrage,lancer_firststrike,saint_surge_of_confidence,artillery_pressure_fire,lancer_omen_javelin,archer_enchantedammo,flagbearer_focused_morale,flagbearer_omen_kings,artillery_maxpower,necro_furious_summoner,rogue_omen_dagger,amazon_hermesblessing,vampire_aerial_fiend,gladiator_omen_sands,orcs_inpenetrable,frogue_air_snipers,support_omen_light,bomber_ricochet,musk_hunters_mark,tank_omen_bull,mage_elementalsummoning,mage_darkmagic,warrior_flameslash,warrior_omen_wolf,rogue_momentum",
+        "nextNodeType": "raidhallaambush"
     },
     {
         "dungeonRunId": "166764",
