@@ -63,6 +63,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "166903",
+        "completedLevels": "35",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-08-10 17:08:31",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_omen_falcon,berserker_enrage,lancer_firststrike,saint_surge_of_confidence,artillery_pressure_fire,lancer_omen_javelin,archer_enchantedammo,flagbearer_focused_morale,flagbearer_omen_kings,artillery_maxpower,necro_furious_summoner,rogue_omen_dagger,amazon_hermesblessing,vampire_aerial_fiend,gladiator_omen_sands,orcs_inpenetrable,frogue_air_snipers,support_omen_light,bomber_ricochet,musk_hunters_mark,tank_omen_bull,mage_elementalsummoning,mage_darkmagic,barbarian_omen_axe,warrior_flameslash,warrior_omen_wolf,rogue_momentum",
+        "nextNodeType": "moboboss"
+    },
+    {
         "dungeonRunId": "166764",
         "completedLevels": "35",
         "twitchDisplayName": "itsRegius",
@@ -70,15 +79,6 @@
         "endTime": "2024-08-10 01:59:52",
         "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_omen_falcon,musk_golden_rounds,blob_parasite,vampire_omen_fallen,bomber_ricochet,artillery_pressure_fire,melee_doom_hunger,artillery_maxpower,archer_soulpenetration,bomber_omen_spark,warrior_falltodarkness,assassin_omen_shadow,mage_elementalsummoning,bomber_avatar_power,buster_omen_thunder,vampire_dark_pact,mage_darkmagic,barbarian_omen_axe,templar_commanding_presence,fairy_gift_of_the_wind,paladin_omen_crest,support_omen_light,flag_holdfast,necro_furious_summoner,support_doom_plague,tank_ironclad",
         "nextNodeType": "moboboss"
-    },
-    {
-        "dungeonRunId": "166604",
-        "completedLevels": "34",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-08-09 00:47:03",
-        "endTime": "2024-08-09 19:12:06",
-        "captainBoons": "common_classic_comeback,melee_omen_blade,rogue_omen_dagger,gladiator_sonofthunder,fairy_gift_of_the_wind,support_doom_plague,bomber_ricochet,lancer_firststrike,assassin_omen_shadow,shinobi_firetechinique,vampire_aerial_fiend,tank_omen_bull,berserker_frenzy,berserker_omen_pack,blob_flesheater,healer_1,ranged_doom_mist,orcs_inpenetrable,frogue_air_snipers,frogue_cloaking_field,archer_soulpenetration,saint_surge_of_confidence,artillery_pressure_fire,barbarian_omen_axe,monk_first_strike,rogue_shadow_cloak,healer_omen_hand,rogue_momentum",
-        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "166499",
