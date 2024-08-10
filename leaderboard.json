@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "166820",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-08-10 04:16:44",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,warrior_flameslash,gladiator_war_machine,rogue_omen_dagger,templar_commanding_presence,artillery_pressure_fire,support_omen_light,archer_enchantedammo,tank_hoarfrost_armor,barbarian_omen_axe,blob_flesheater,frogue_air_snipers,fairy_omen_rainbow,bomber_ricochet,lancer_firststrike,musk_golden_rounds,orcs_everythingslayer,flyingrogue_omen_feather,necromancer_necronomicon,archer_soulpenetration,vampire_omen_fallen,berserker_enrage,monk_pure_focus,tank_omen_bull,fairy_hocuspocus,bbuster_windup,orcs_inpenetrable",
-        "nextNodeType": "olympiadbossAtlas2"
+        "nextNodeType": "dungeonexperiment"
     },
     {
         "dungeonRunId": "166704",
