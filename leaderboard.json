@@ -81,12 +81,12 @@
         "nextNodeType": "steampunkgear"
     },
     {
-        "dungeonRunId": "166525",
-        "completedLevels": "32",
-        "twitchDisplayName": "RoseGaminDiva",
-        "startTime": "2024-08-08 19:31:35",
-        "endTime": "2024-08-08 22:54:36",
-        "captainBoons": "common_classic_comeback,melee_omen_blade,rogue_omen_dagger,monk_first_strike,amazon_vineclone,healer_omen_hand,berserker_enrage,archer_soulpenetration,lancer_omen_javelin,rogue_shadow_cloak,support_doom_plague,mage_elementalsummoning,berserker_frenzy,armored_doom_rust,saint_surge_of_confidence,vampire_aerial_fiend,bomber_ricochet,gladiator_war_machine,barbarian_omen_axe,lancer_spearwall,fairy_gift_of_the_wind,assassin_omen_shadow,amazon_hermesblessing,healer_1,fairy_omen_rainbow,necromancer_necronomicon,saint_skeletondance,support_omen_light,blob_flesheater",
-        "nextNodeType": "frontiershowdown"
+        "dungeonRunId": "166903",
+        "completedLevels": "33",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-08-10 17:08:31",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_omen_falcon,berserker_enrage,lancer_firststrike,saint_surge_of_confidence,artillery_pressure_fire,lancer_omen_javelin,archer_enchantedammo,flagbearer_focused_morale,flagbearer_omen_kings,artillery_maxpower,necro_furious_summoner,rogue_omen_dagger,amazon_hermesblessing,vampire_aerial_fiend,gladiator_omen_sands,orcs_inpenetrable,frogue_air_snipers,support_omen_light,bomber_ricochet,musk_hunters_mark,tank_omen_bull,mage_elementalsummoning,mage_darkmagic,barbarian_omen_axe,warrior_flameslash,warrior_omen_wolf,rogue_momentum",
+        "nextNodeType": "olympiadgodgroupFullAB"
     }
 ]
