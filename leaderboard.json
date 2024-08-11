@@ -72,6 +72,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "167055",
+        "completedLevels": "38",
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2024-08-11 16:47:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_war_machine,rogue_omen_dagger,necromancer_necronomicon,fairy_gift_of_the_wind,warrior_omen_wolf,saint_surge_of_confidence,musk_hunters_mark,fairy_omen_rainbow,blob_flesheater,lancer_firststrike,centurion_team_barbs,artillery_pressure_fire,templar_commanding_presence,monk_pure_focus,gladiator_omen_sands,bomber_ricochet,centurion_2,archer_omen_falcon,gladiator_sonofthunder,barb_giant_swings,bomber_omen_spark,artillery_maxpower,archer_soulpenetration,lancer_omen_javelin,amazon_hermesblessing",
+        "nextNodeType": "frontiershowdown"
+    },
+    {
         "dungeonRunId": "166820",
         "completedLevels": "37",
         "twitchDisplayName": "chiquik",
@@ -79,14 +88,5 @@
         "endTime": "2024-08-10 08:59:46",
         "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,warrior_flameslash,gladiator_war_machine,templar_commanding_presence,artillery_pressure_fire,support_omen_light,archer_enchantedammo,tank_hoarfrost_armor,blob_flesheater,frogue_air_snipers,fairy_omen_rainbow,bomber_ricochet,lancer_firststrike,musk_golden_rounds,orcs_everythingslayer,flyingrogue_omen_feather,necromancer_necronomicon,archer_soulpenetration,vampire_omen_fallen,berserker_enrage,monk_pure_focus,tank_omen_bull,fairy_hocuspocus,bbuster_windup,orcs_inpenetrable",
         "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "167055",
-        "completedLevels": "37",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2024-08-11 16:47:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_war_machine,rogue_omen_dagger,necromancer_necronomicon,fairy_gift_of_the_wind,warrior_omen_wolf,saint_surge_of_confidence,musk_hunters_mark,fairy_omen_rainbow,blob_flesheater,lancer_firststrike,centurion_team_barbs,artillery_pressure_fire,barbarian_omen_axe,templar_commanding_presence,monk_pure_focus,gladiator_omen_sands,bomber_ricochet,centurion_2,archer_omen_falcon,gladiator_sonofthunder,barb_giant_swings,bomber_omen_spark,artillery_maxpower,archer_soulpenetration,lancer_omen_javelin,amazon_hermesblessing",
-        "nextNodeType": "newjunglespore"
     }
 ]
