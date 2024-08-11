@@ -45,15 +45,6 @@
         "nextNodeType": "plagueroost"
     },
     {
-        "dungeonRunId": "166683",
-        "completedLevels": "43",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-08-09 14:01:24",
-        "endTime": "2024-08-09 19:33:51",
-        "captainBoons": "common_classic_comeback,archer_omen_falcon,healer_1,lancer_spearwall,archer_soulpenetration,bomber_omen_spark,bomber_ricochet,lancer_firststrike,gladiator_omen_sands,gladiator_sonofthunder,fairy_gift_of_the_wind,barbarian_omen_axe,paladin_divine_wrath,artillery_pressure_fire,blob_flesheater,berserker_frenzy,berserker_enrage,warbeast_bestfriends,support_omen_light,templar_commanding_presence,frogue_air_snipers,flyingrogue_omen_feather,gladiator_war_machine,flag_holdfast",
-        "nextNodeType": "sugarhill"
-    },
-    {
         "dungeonRunId": "166712",
         "completedLevels": "43",
         "twitchDisplayName": "3aglesdwm",
@@ -63,13 +54,13 @@
         "nextNodeType": "olympiadgodgroupFullAB"
     },
     {
-        "dungeonRunId": "167004",
-        "completedLevels": "40",
-        "twitchDisplayName": "itsRegius",
-        "startTime": "2024-08-11 10:44:50",
-        "endTime": "2024-08-11 16:03:42",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light,artillery_maxpower,artillery_pressure_fire,archer_enchantedammo,blob_parasite,blob_flesheater,necro_furious_summoner,paladin_omen_crest,saint_surge_of_confidence,musk_hunters_mark,archer_omen_falcon,musk_golden_rounds,tank_hoarfrost_armor,lancer_omen_javelin,frogue_cloaking_field,saint_skeletondance,flyingrogue_omen_feather,flag_holdfast,shinobi_lastninja,melee_doom_hunger,amazon_hermesblessing,flagbearer_omen_kings,warrior_flameslash",
-        "nextNodeType": "newjunglespore"
+        "dungeonRunId": "166683",
+        "completedLevels": "43",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-08-09 14:01:24",
+        "endTime": "2024-08-09 19:33:51",
+        "captainBoons": "common_classic_comeback,archer_omen_falcon,healer_1,lancer_spearwall,archer_soulpenetration,bomber_omen_spark,bomber_ricochet,lancer_firststrike,gladiator_omen_sands,gladiator_sonofthunder,fairy_gift_of_the_wind,barbarian_omen_axe,paladin_divine_wrath,artillery_pressure_fire,blob_flesheater,berserker_frenzy,berserker_enrage,warbeast_bestfriends,support_omen_light,templar_commanding_presence,frogue_air_snipers,flyingrogue_omen_feather,gladiator_war_machine,flag_holdfast",
+        "nextNodeType": "sugarhill"
     },
     {
         "dungeonRunId": "167055",
@@ -79,6 +70,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_war_machine,rogue_omen_dagger,necromancer_necronomicon,fairy_gift_of_the_wind,warrior_omen_wolf,saint_surge_of_confidence,musk_hunters_mark,fairy_omen_rainbow,blob_flesheater,lancer_firststrike,centurion_team_barbs,artillery_pressure_fire,templar_commanding_presence,monk_pure_focus,gladiator_omen_sands,bomber_ricochet,centurion_2,archer_omen_falcon,gladiator_sonofthunder,barb_giant_swings,bomber_omen_spark,artillery_maxpower,archer_soulpenetration,amazon_hermesblessing",
         "nextNodeType": "spaceairlock"
+    },
+    {
+        "dungeonRunId": "167004",
+        "completedLevels": "40",
+        "twitchDisplayName": "itsRegius",
+        "startTime": "2024-08-11 10:44:50",
+        "endTime": "2024-08-11 16:03:42",
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light,artillery_maxpower,artillery_pressure_fire,archer_enchantedammo,blob_parasite,blob_flesheater,necro_furious_summoner,paladin_omen_crest,saint_surge_of_confidence,musk_hunters_mark,archer_omen_falcon,musk_golden_rounds,tank_hoarfrost_armor,lancer_omen_javelin,frogue_cloaking_field,saint_skeletondance,flyingrogue_omen_feather,flag_holdfast,shinobi_lastninja,melee_doom_hunger,amazon_hermesblessing,flagbearer_omen_kings,warrior_flameslash",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "166820",
