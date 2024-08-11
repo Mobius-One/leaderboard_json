@@ -1,12 +1,21 @@
 [
     {
         "dungeonRunId": "166947",
-        "completedLevels": "67",
+        "completedLevels": "68",
         "twitchDisplayName": "Angel",
         "startTime": "2024-08-10 23:25:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,necromancer_necronomicon,mage_elementalsummoning,lancer_omen_javelin,bomber_avatar_power,fairy_omen_rainbow,bomber_ricochet,berserker_enrage,berserker_omen_pack,archer_soulpenetration,healer_omen_hand,artillery_pressure_fire",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "necromancer_necronomicon,mage_elementalsummoning,lancer_omen_javelin,bomber_avatar_power,fairy_omen_rainbow,bomber_ricochet,berserker_enrage,berserker_omen_pack,archer_soulpenetration,healer_omen_hand,artillery_pressure_fire",
+        "nextNodeType": "moboboss"
+    },
+    {
+        "dungeonRunId": "166939",
+        "completedLevels": "55",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-08-10 22:15:29",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,archer_omen_falcon,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,artillery_pressure_fire,warbeast_bestfriends,vampire_dark_pact,centurion_2,gladiator_omen_sands,flagbearer_focused_morale",
+        "nextNodeType": "glitchedmoboatx"
     },
     {
         "dungeonRunId": "166703",
@@ -16,15 +25,6 @@
         "endTime": "2024-08-09 20:31:51",
         "captainBoons": "common_classic_comeback,archer_omen_falcon,archer_soulpenetration,mage_elementalsummoning,saint_skeletondance,berserker_omen_pack,bomber_ricochet,orcs_everythingslayer,fairy_omen_rainbow,frogue_air_snipers,berserker_frenzy,tank_hoarfrost_armor,flagbearer_omen_kings,saint_surge_of_confidence,artillery_pressure_fire,flyingrogue_omen_feather,lancer_spearwall,gladiator_omen_sands",
         "nextNodeType": "glitchedmoboatx"
-    },
-    {
-        "dungeonRunId": "166939",
-        "completedLevels": "54",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-08-10 22:15:29",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,archer_omen_falcon,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,artillery_pressure_fire,warbeast_bestfriends,vampire_dark_pact,centurion_2,gladiator_omen_sands,flagbearer_focused_morale",
-        "nextNodeType": "graveriver"
     },
     {
         "dungeonRunId": "166840",
