@@ -81,12 +81,12 @@
         "nextNodeType": "plagueroost"
     },
     {
-        "dungeonRunId": "166499",
+        "dungeonRunId": "167046",
         "completedLevels": "34",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-08-08 18:09:04",
-        "endTime": "2024-08-08 22:58:06",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light,tank_ironclad,archer_soulpenetration,gladiator_omen_sands,bomber_ricochet,musk_hunters_mark,archer_omen_falcon,centurion_team_barbs,barb_giant_swings,flag_holdfast,orcs_everythingslayer,bomber_omen_spark,musk_golden_rounds,gladiator_war_machine,assassin_omen_shadow,frogue_cloaking_field,lancer_firststrike,assassin_doom_fools,gladiator_sonofthunder,barbarian_omen_axe,saint_surge_of_confidence,artillery_pressure_fire,rogue_momentum,monk_pure_focus,lancer_omen_javelin,blob_flesheater",
-        "nextNodeType": "steampunkgear"
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-08-11 16:22:50",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,warrior_omen_wolf,berserker_enrage,archer_soulpenetration,fairy_omen_rainbow,gladiator_sonofthunder,gladiator_war_machine,artillery_maxpower,artillery_pressure_fire,healer_omen_hand,necromancer_necronomicon,frogue_air_snipers,rogue_omen_dagger,musk_golden_rounds,orcs_everythingslayer,flyingrogue_omen_feather,amazon_hermesblessing,necro_furious_summoner,lancer_omen_javelin,rogue_shadow_cloak,centurion_omen_brothers,tank_hoarfrost_armor,barbarian_omen_axe,tank_ironclad,amazon_vineclone,berserker_omen_pack,lancer_spearwall",
+        "nextNodeType": "plagueroost"
     }
 ]
