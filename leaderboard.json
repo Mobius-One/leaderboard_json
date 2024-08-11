@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "167074",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-08-11 18:48:30",
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_omen_dart,melee_doom_hunger,archer_enchantedammo,frogue_air_snipers,support_omen_light,archer_omen_falcon,monk_first_strike,rogue_shadow_cloak,vampire_omen_fallen,necromancer_necronomicon,musk_hunters_mark,flyingrogue_omen_feather,flag_holdfast,tank_hoarfrost_armor,bomber_ricochet,monk_pure_focus,healer_omen_hand,rogue_momentum,nonhuman_doom_fable,mage_elementalsummoning,lancer_firststrike,fairy_omen_rainbow,berserker_enrage,berserker_omen_pack,frogue_cloaking_field",
-        "nextNodeType": "ancientspider"
+        "nextNodeType": "newjunglespore"
     }
 ]
