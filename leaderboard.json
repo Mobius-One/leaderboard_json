@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "166939",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-08-10 22:15:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_omen_javelin,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,archer_omen_falcon,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,berserker_omen_pack,artillery_pressure_fire,tank_omen_bull,warbeast_bestfriends,healer_omen_hand,vampire_dark_pact,centurion_2,gladiator_omen_sands,flagbearer_focused_morale,blob_flesheater",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,archer_omen_falcon,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,berserker_omen_pack,artillery_pressure_fire,tank_omen_bull,warbeast_bestfriends,healer_omen_hand,vampire_dark_pact,centurion_2,gladiator_omen_sands,flagbearer_focused_morale,blob_flesheater",
+        "nextNodeType": "olympiadgodgroupFullAB"
     },
     {
         "dungeonRunId": "166712",
