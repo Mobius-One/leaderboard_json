@@ -36,6 +36,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "166939",
+        "completedLevels": "43",
+        "twitchDisplayName": "ThaBan4",
+        "startTime": "2024-08-10 22:15:29",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_omen_javelin,gladiator_sonofthunder,necro_furious_summoner,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,archer_omen_falcon,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,berserker_omen_pack,artillery_pressure_fire,tank_omen_bull,warbeast_bestfriends,healer_omen_hand,vampire_dark_pact,centurion_2,gladiator_omen_sands,flagbearer_focused_morale,blob_flesheater",
+        "nextNodeType": "dungeonexperiment"
+    },
+    {
         "dungeonRunId": "166712",
         "completedLevels": "43",
         "twitchDisplayName": "3aglesdwm",
@@ -52,15 +61,6 @@
         "endTime": "2024-08-09 19:33:51",
         "captainBoons": "common_classic_comeback,archer_omen_falcon,healer_1,lancer_spearwall,archer_soulpenetration,bomber_omen_spark,bomber_ricochet,lancer_firststrike,gladiator_omen_sands,gladiator_sonofthunder,fairy_gift_of_the_wind,barbarian_omen_axe,paladin_divine_wrath,artillery_pressure_fire,blob_flesheater,berserker_frenzy,berserker_enrage,warbeast_bestfriends,support_omen_light,templar_commanding_presence,frogue_air_snipers,flyingrogue_omen_feather,gladiator_war_machine,flag_holdfast",
         "nextNodeType": "sugarhill"
-    },
-    {
-        "dungeonRunId": "166939",
-        "completedLevels": "42",
-        "twitchDisplayName": "ThaBan4",
-        "startTime": "2024-08-10 22:15:29",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_omen_javelin,gladiator_sonofthunder,necro_furious_summoner,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,archer_omen_falcon,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,berserker_omen_pack,artillery_pressure_fire,tank_omen_bull,warbeast_bestfriends,healer_omen_hand,vampire_dark_pact,centurion_2,gladiator_omen_sands,flagbearer_focused_morale,blob_flesheater",
-        "nextNodeType": "oasisruins"
     },
     {
         "dungeonRunId": "166820",
