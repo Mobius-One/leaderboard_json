@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "166947",
-        "completedLevels": "69",
+        "completedLevels": "70",
         "twitchDisplayName": "Angel",
         "startTime": "2024-08-10 23:25:42",
         "endTime": null,
-        "captainBoons": "necromancer_necronomicon,mage_elementalsummoning,lancer_omen_javelin,bomber_avatar_power,fairy_omen_rainbow,bomber_ricochet,berserker_enrage,berserker_omen_pack,archer_soulpenetration,healer_omen_hand,artillery_pressure_fire",
-        "nextNodeType": "raidhallaambush"
+        "captainBoons": "necromancer_necronomicon,mage_elementalsummoning,lancer_omen_javelin,bomber_avatar_power,bomber_ricochet,berserker_enrage,berserker_omen_pack,archer_soulpenetration,healer_omen_hand,artillery_pressure_fire",
+        "nextNodeType": "glitchedmoboatx"
     },
     {
         "dungeonRunId": "166939",
-        "completedLevels": "56",
+        "completedLevels": "57",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-08-10 22:15:29",
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,archer_omen_falcon,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,artillery_pressure_fire,warbeast_bestfriends,vampire_dark_pact,centurion_2,gladiator_omen_sands",
-        "nextNodeType": "moboboss"
+        "nextNodeType": "dungeonexperiment"
     },
     {
         "dungeonRunId": "166703",
@@ -81,12 +81,12 @@
         "nextNodeType": "moboboss"
     },
     {
-        "dungeonRunId": "166499",
+        "dungeonRunId": "166896",
         "completedLevels": "34",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-08-08 18:09:04",
-        "endTime": "2024-08-08 22:58:06",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light,tank_ironclad,archer_soulpenetration,gladiator_omen_sands,bomber_ricochet,musk_hunters_mark,archer_omen_falcon,centurion_team_barbs,barb_giant_swings,flag_holdfast,orcs_everythingslayer,bomber_omen_spark,musk_golden_rounds,gladiator_war_machine,assassin_omen_shadow,frogue_cloaking_field,lancer_firststrike,assassin_doom_fools,gladiator_sonofthunder,barbarian_omen_axe,saint_surge_of_confidence,artillery_pressure_fire,rogue_momentum,monk_pure_focus,lancer_omen_javelin,blob_flesheater",
-        "nextNodeType": "steampunkgear"
+        "twitchDisplayName": "waltmillsy",
+        "startTime": "2024-08-10 16:26:45",
+        "endTime": "2024-08-10 22:17:54",
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,gladiator_omen_sands,blob_flesheater,frogue_air_snipers,flyingrogue_omen_feather,flag_holdfast,orcs_everythingslayer,archer_omen_falcon,lancer_spearwall,healer_1,bomber_omen_spark,rogue_momentum,archer_soulpenetration,tank_omen_bull,mage_darkmagic,healer_omen_hand,blob_parasite,centurion_omen_brothers,bomber_ricochet,paladin_shadowside,berserker_omen_pack,templar_commanding_presence,fairy_omen_rainbow,amazon_hermesblessing,berserker_frenzy,support_omen_light,healer_arrogantmedium",
+        "nextNodeType": "plagueroost"
     }
 ]
