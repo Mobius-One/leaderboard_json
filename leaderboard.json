@@ -4,18 +4,18 @@
         "completedLevels": "70",
         "twitchDisplayName": "Angel",
         "startTime": "2024-08-10 23:25:42",
-        "endTime": null,
+        "endTime": "2024-08-11 06:06:02",
         "captainBoons": "necromancer_necronomicon,mage_elementalsummoning,lancer_omen_javelin,bomber_avatar_power,bomber_ricochet,berserker_enrage,berserker_omen_pack,archer_soulpenetration,healer_omen_hand,artillery_pressure_fire",
         "nextNodeType": "glitchedmoboatx"
     },
     {
         "dungeonRunId": "166939",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "ThaBan4",
         "startTime": "2024-08-10 22:15:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,archer_omen_falcon,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,artillery_pressure_fire,warbeast_bestfriends,vampire_dark_pact,centurion_2,gladiator_omen_sands",
-        "nextNodeType": "dungeonexperiment"
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,artillery_pressure_fire,warbeast_bestfriends,vampire_dark_pact,centurion_2,gladiator_omen_sands",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "166703",
