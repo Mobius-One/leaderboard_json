@@ -72,21 +72,21 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "167074",
+        "dungeonRunId": "166712",
         "completedLevels": "43",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-08-11 18:48:30",
-        "endTime": "2024-08-11 23:49:31",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,melee_doom_hunger,archer_enchantedammo,frogue_air_snipers,support_omen_light,archer_omen_falcon,monk_first_strike,rogue_shadow_cloak,vampire_omen_fallen,necromancer_necronomicon,musk_hunters_mark,flyingrogue_omen_feather,tank_hoarfrost_armor,bomber_ricochet,monk_pure_focus,healer_omen_hand,nonhuman_doom_fable,mage_elementalsummoning,lancer_firststrike,fairy_omen_rainbow,berserker_enrage,berserker_omen_pack,frogue_cloaking_field",
-        "nextNodeType": "plagueroost"
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-08-09 16:35:20",
+        "endTime": "2024-08-09 21:45:50",
+        "captainBoons": "common_classic_comeback,melee_omen_blade,archer_omen_falcon,rogue_momentum,armored_doom_rust,bomber_ricochet,blob_parasite,assassin_omen_shadow,blob_flesheater,spy_inciterevolution,epic_monstersblessing,monk_pure_focus,musk_golden_rounds,berserker_frenzy,lancer_omen_javelin,shinobi_firetechinique,archer_soulpenetration,artillery_maxpower,barbarian_omen_axe,saint_surge_of_confidence,frogue_air_snipers,berserker_omen_pack,flyingrogue_omen_feather,lancer_spearwall",
+        "nextNodeType": "olympiadgodgroupFullAB"
     },
     {
-        "dungeonRunId": "166683",
+        "dungeonRunId": "167399",
         "completedLevels": "43",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-08-09 14:01:24",
-        "endTime": "2024-08-09 19:33:51",
-        "captainBoons": "common_classic_comeback,archer_omen_falcon,healer_1,lancer_spearwall,archer_soulpenetration,bomber_omen_spark,bomber_ricochet,lancer_firststrike,gladiator_omen_sands,gladiator_sonofthunder,fairy_gift_of_the_wind,barbarian_omen_axe,paladin_divine_wrath,artillery_pressure_fire,blob_flesheater,berserker_frenzy,berserker_enrage,warbeast_bestfriends,support_omen_light,templar_commanding_presence,frogue_air_snipers,flyingrogue_omen_feather,gladiator_war_machine,flag_holdfast",
-        "nextNodeType": "sugarhill"
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-08-13 17:44:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,healer_omen_hand,musk_golden_rounds,monk_pure_focus,monk_first_strike,flagbearer_focused_morale,barbarian_omen_axe,berserker_enrage,gladiator_war_machine,lancer_omen_javelin,archer_soulpenetration,buster_omen_thunder,orcs_inpenetrable,rogue_shadow_cloak,warrior_omen_wolf,gladiator_sonofthunder,warrior_flameslash,berserker_frenzy,rogue_omen_dagger,saint_surge_of_confidence,lancer_firststrike,archer_omen_falcon,bomber_ricochet",
+        "nextNodeType": "shogunateBasic"
     }
 ]
