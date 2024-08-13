@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "167287",
-        "completedLevels": "53",
+        "completedLevels": "54",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-08-13 00:24:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,lancer_spearwall,archer_soulpenetration,archer_omen_falcon,rogue_shadow_cloak,amazon_hermesblessing,archer_enchantedammo,berserker_frenzy,support_omen_light,centurion_2,blob_flesheater,artillery_maxpower,amazon_vineclone,necromancer_necronomicon,flagbearer_focused_morale,bomber_ricochet,blob_parasite,berserker_enrage",
-        "nextNodeType": "moboboss"
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,lancer_spearwall,archer_soulpenetration,archer_omen_falcon,rogue_shadow_cloak,amazon_hermesblessing,archer_enchantedammo,berserker_frenzy,centurion_2,blob_flesheater,artillery_maxpower,amazon_vineclone,necromancer_necronomicon,flagbearer_focused_morale,bomber_ricochet,blob_parasite,berserker_enrage",
+        "nextNodeType": "graveriver"
     },
     {
         "dungeonRunId": "166840",
