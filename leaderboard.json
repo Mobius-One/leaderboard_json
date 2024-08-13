@@ -36,13 +36,13 @@
         "nextNodeType": "glitchedmoboatx"
     },
     {
-        "dungeonRunId": "166840",
-        "completedLevels": "51",
+        "dungeonRunId": "167386",
+        "completedLevels": "52",
         "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-08-10 06:27:03",
-        "endTime": "2024-08-10 13:58:41",
-        "captainBoons": "common_classic_comeback,warrior_flameslash,monk_pure_focus,archer_soulpenetration,barbarian_omen_axe,centurion_2,artillery_pressure_fire,lancer_omen_javelin,gladiator_sonofthunder,archer_omen_falcon,warbeast_1,frogue_air_snipers,flyingrogue_omen_feather,lancer_spearwall,amazon_vineclone,warrior_omen_wolf,templar_commanding_presence,berserker_frenzy,fairy_omen_rainbow,centurion_team_barbs",
-        "nextNodeType": "glitchedmoboatx"
+        "startTime": "2024-08-13 15:55:51",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,blob_flesheater,amazon_vineclone,warrior_flameslash,warbeast_bestfriends,centurion_2,bomber_omen_spark,mage_elementalsummoning,frogue_air_snipers,melee_doom_hunger,centurion_team_barbs,artillery_pressure_fire,musk_hunters_mark,flyingrogue_omen_feather,warrior_falltodarkness,archer_soulpenetration,assassin_omen_shadow,orcs_everythingslayer,flagbearer_omen_kings",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "167260",
