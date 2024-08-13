@@ -45,6 +45,15 @@
         "nextNodeType": "sugarhill"
     },
     {
+        "dungeonRunId": "166932",
+        "completedLevels": "47",
+        "twitchDisplayName": "RoseGaminDiva",
+        "startTime": "2024-08-10 21:08:57",
+        "endTime": "2024-08-11 02:08:21",
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_omen_falcon,berserker_enrage,lancer_firststrike,bbuster_windup,blob_flesheater,archer_soulpenetration,assassin_omen_shadow,bomber_ricochet,artillery_pressure_fire,assassin_doom_fools,fairy_hocuspocus,berserker_frenzy,bomber_omen_spark,frogue_cloaking_field,blob_parasite,centurion_team_barbs,paladin_shadowside,artillery_maxpower,gladiator_war_machine,healer_omen_hand",
+        "nextNodeType": "olympiadbossAtlas2"
+    },
+    {
         "dungeonRunId": "166708",
         "completedLevels": "46",
         "twitchDisplayName": "Panthergal2018",
@@ -52,15 +61,6 @@
         "endTime": "2024-08-10 16:20:57",
         "captainBoons": "common_classic_comeback,ranged_omen_dart,amazon_hermesblessing,vampire_aerial_fiend,armored_doom_rust,centurion_team_barbs,archer_soulpenetration,healer_omen_hand,bomber_ricochet,lancer_omen_javelin,orcs_everythingslayer,artillery_maxpower,berserker_frenzy,lancer_firststrike,templar_commanding_presence,saint_skeletondance,saint_surge_of_confidence,frogue_air_snipers,archer_omen_falcon,warrior_flameslash,fairy_omen_rainbow,blob_flesheater",
         "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "167287",
-        "completedLevels": "46",
-        "twitchDisplayName": "RoseGaminDiva",
-        "startTime": "2024-08-13 00:24:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,lancer_spearwall,archer_soulpenetration,archer_omen_falcon,shinobi_firetechinique,rogue_shadow_cloak,amazon_hermesblessing,berserker_omen_pack,archer_enchantedammo,berserker_frenzy,support_omen_light,centurion_2,blob_flesheater,artillery_maxpower,amazon_vineclone,lancer_omen_javelin,necromancer_necronomicon,flagbearer_focused_morale,bomber_ricochet,blob_parasite,berserker_enrage",
-        "nextNodeType": "oasisruins"
     },
     {
         "dungeonRunId": "167055",
@@ -72,15 +72,6 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "166683",
-        "completedLevels": "43",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-08-09 14:01:24",
-        "endTime": "2024-08-09 19:33:51",
-        "captainBoons": "common_classic_comeback,archer_omen_falcon,healer_1,lancer_spearwall,archer_soulpenetration,bomber_omen_spark,bomber_ricochet,lancer_firststrike,gladiator_omen_sands,gladiator_sonofthunder,fairy_gift_of_the_wind,barbarian_omen_axe,paladin_divine_wrath,artillery_pressure_fire,blob_flesheater,berserker_frenzy,berserker_enrage,warbeast_bestfriends,support_omen_light,templar_commanding_presence,frogue_air_snipers,flyingrogue_omen_feather,gladiator_war_machine,flag_holdfast",
-        "nextNodeType": "sugarhill"
-    },
-    {
         "dungeonRunId": "167074",
         "completedLevels": "43",
         "twitchDisplayName": "Hyf1re",
@@ -88,5 +79,14 @@
         "endTime": "2024-08-11 23:49:31",
         "captainBoons": "common_classic_comeback,ranged_omen_dart,melee_doom_hunger,archer_enchantedammo,frogue_air_snipers,support_omen_light,archer_omen_falcon,monk_first_strike,rogue_shadow_cloak,vampire_omen_fallen,necromancer_necronomicon,musk_hunters_mark,flyingrogue_omen_feather,tank_hoarfrost_armor,bomber_ricochet,monk_pure_focus,healer_omen_hand,nonhuman_doom_fable,mage_elementalsummoning,lancer_firststrike,fairy_omen_rainbow,berserker_enrage,berserker_omen_pack,frogue_cloaking_field",
         "nextNodeType": "plagueroost"
+    },
+    {
+        "dungeonRunId": "166683",
+        "completedLevels": "43",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-08-09 14:01:24",
+        "endTime": "2024-08-09 19:33:51",
+        "captainBoons": "common_classic_comeback,archer_omen_falcon,healer_1,lancer_spearwall,archer_soulpenetration,bomber_omen_spark,bomber_ricochet,lancer_firststrike,gladiator_omen_sands,gladiator_sonofthunder,fairy_gift_of_the_wind,barbarian_omen_axe,paladin_divine_wrath,artillery_pressure_fire,blob_flesheater,berserker_frenzy,berserker_enrage,warbeast_bestfriends,support_omen_light,templar_commanding_presence,frogue_air_snipers,flyingrogue_omen_feather,gladiator_war_machine,flag_holdfast",
+        "nextNodeType": "sugarhill"
     }
 ]
