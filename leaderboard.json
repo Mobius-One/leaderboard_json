@@ -54,15 +54,6 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "167074",
-        "completedLevels": "43",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-08-11 18:48:30",
-        "endTime": "2024-08-11 23:49:31",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,melee_doom_hunger,archer_enchantedammo,frogue_air_snipers,support_omen_light,archer_omen_falcon,monk_first_strike,rogue_shadow_cloak,vampire_omen_fallen,necromancer_necronomicon,musk_hunters_mark,flyingrogue_omen_feather,tank_hoarfrost_armor,bomber_ricochet,monk_pure_focus,healer_omen_hand,nonhuman_doom_fable,mage_elementalsummoning,lancer_firststrike,fairy_omen_rainbow,berserker_enrage,berserker_omen_pack,frogue_cloaking_field",
-        "nextNodeType": "plagueroost"
-    },
-    {
         "dungeonRunId": "166683",
         "completedLevels": "43",
         "twitchDisplayName": "Meistar",
@@ -81,12 +72,21 @@
         "nextNodeType": "olympiadgodgroupFullAB"
     },
     {
-        "dungeonRunId": "167004",
+        "dungeonRunId": "167074",
+        "completedLevels": "43",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-08-11 18:48:30",
+        "endTime": "2024-08-11 23:49:31",
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,melee_doom_hunger,archer_enchantedammo,frogue_air_snipers,support_omen_light,archer_omen_falcon,monk_first_strike,rogue_shadow_cloak,vampire_omen_fallen,necromancer_necronomicon,musk_hunters_mark,flyingrogue_omen_feather,tank_hoarfrost_armor,bomber_ricochet,monk_pure_focus,healer_omen_hand,nonhuman_doom_fable,mage_elementalsummoning,lancer_firststrike,fairy_omen_rainbow,berserker_enrage,berserker_omen_pack,frogue_cloaking_field",
+        "nextNodeType": "plagueroost"
+    },
+    {
+        "dungeonRunId": "167260",
         "completedLevels": "40",
-        "twitchDisplayName": "itsRegius",
-        "startTime": "2024-08-11 10:44:50",
-        "endTime": "2024-08-11 16:03:42",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,support_omen_light,artillery_maxpower,artillery_pressure_fire,archer_enchantedammo,blob_parasite,blob_flesheater,necro_furious_summoner,paladin_omen_crest,saint_surge_of_confidence,musk_hunters_mark,archer_omen_falcon,musk_golden_rounds,tank_hoarfrost_armor,lancer_omen_javelin,frogue_cloaking_field,saint_skeletondance,flyingrogue_omen_feather,flag_holdfast,shinobi_lastninja,melee_doom_hunger,amazon_hermesblessing,flagbearer_omen_kings,warrior_flameslash",
-        "nextNodeType": "newjunglespore"
+        "twitchDisplayName": "MYKLMantis",
+        "startTime": "2024-08-12 21:02:22",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,rogue_omen_dagger,necromancer_necronomicon,frogue_air_snipers,musk_golden_rounds,fairy_gift_of_the_wind,centurion_omen_brothers,monk_first_strike,assassin_doom_fools,mage_elementalsummoning,gladiator_war_machine,healer_omen_hand,templar_commanding_presence,artillery_pressure_fire,warrior_omen_wolf,artillery_maxpower,warbeast_bestfriends,archer_enchantedammo,orcs_everythingslayer,archer_omen_falcon,bomber_ricochet,fairy_omen_rainbow,warrior_flameslash,blob_flesheater",
+        "nextNodeType": "thehivecarmeet"
     }
 ]
