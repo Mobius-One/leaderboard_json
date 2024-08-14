@@ -72,6 +72,15 @@
         "nextNodeType": "glitchedmoboatx"
     },
     {
+        "dungeonRunId": "167491",
+        "completedLevels": "47",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-08-14 08:31:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,blob_flesheater,archer_omen_falcon,centurion_2,vampire_omen_fallen,berserker_enrage,archer_soulpenetration,berserker_omen_pack,frogue_cloaking_field,frogue_air_snipers,artillery_pressure_fire,melee_doom_hunger,fairy_hocuspocus,gladiator_omen_sands,blob_parasite,bomber_omen_spark,amazon_hermesblessing,healer_omen_hand,artillery_maxpower,tank_hoarfrost_armor,lancer_omen_javelin,necromancer_necronomicon",
+        "nextNodeType": "moboboss"
+    },
+    {
         "dungeonRunId": "166708",
         "completedLevels": "46",
         "twitchDisplayName": "Panthergal2018",
@@ -79,14 +88,5 @@
         "endTime": "2024-08-10 16:20:57",
         "captainBoons": "common_classic_comeback,ranged_omen_dart,amazon_hermesblessing,vampire_aerial_fiend,armored_doom_rust,centurion_team_barbs,archer_soulpenetration,healer_omen_hand,bomber_ricochet,lancer_omen_javelin,orcs_everythingslayer,artillery_maxpower,berserker_frenzy,lancer_firststrike,templar_commanding_presence,saint_skeletondance,saint_surge_of_confidence,frogue_air_snipers,archer_omen_falcon,warrior_flameslash,fairy_omen_rainbow,blob_flesheater",
         "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "167491",
-        "completedLevels": "46",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-08-14 08:31:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,blob_flesheater,archer_omen_falcon,centurion_2,vampire_omen_fallen,berserker_enrage,archer_soulpenetration,berserker_omen_pack,frogue_cloaking_field,frogue_air_snipers,artillery_pressure_fire,melee_doom_hunger,fairy_hocuspocus,gladiator_omen_sands,blob_parasite,bomber_omen_spark,amazon_hermesblessing,healer_omen_hand,artillery_maxpower,tank_hoarfrost_armor,lancer_omen_javelin,necromancer_necronomicon",
-        "nextNodeType": "newjunglespore"
     }
 ]
