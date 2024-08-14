@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "167302",
-        "completedLevels": "46",
+        "completedLevels": "47",
         "twitchDisplayName": "kingjerry_4ever",
         "startTime": "2024-08-13 01:56:10",
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_enchantedammo,archer_omen_falcon,epic_monstersblessing,gladiator_war_machine,barbarian_omen_axe,artillery_maxpower,musk_golden_rounds,barb_giant_swings,berserker_enrage,amazon_vineclone,healer_omen_hand,gladiator_sonofthunder,artillery_pressure_fire,flagbearer_omen_kings,amazon_hermesblessing,warrior_falltodarkness,blob_parasite,saint_surge_of_confidence,archer_soulpenetration,orcs_inpenetrable",
-        "nextNodeType": "raidhallaambush"
+        "nextNodeType": "olympiadbossAtlas2"
     },
     {
         "dungeonRunId": "166708",
