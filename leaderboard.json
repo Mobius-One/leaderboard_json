@@ -36,6 +36,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "167498",
+        "completedLevels": "54",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-08-14 10:27:34",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_omen_spark,musk_golden_rounds,barbarian_omen_axe,saint_surge_of_confidence,frogue_air_snipers,bomber_ricochet,warrior_falltodarkness,archer_omen_falcon,archer_soulpenetration,mage_elementalsummoning,blob_flesheater,musk_hunters_mark,orcs_inpenetrable,centurion_team_barbs,artillery_pressure_fire,flagbearer_omen_kings,warrior_flameslash",
+        "nextNodeType": "newjunglespore"
+    },
+    {
         "dungeonRunId": "166703",
         "completedLevels": "54",
         "twitchDisplayName": "Hairtrigger83",
@@ -43,15 +52,6 @@
         "endTime": "2024-08-09 20:31:51",
         "captainBoons": "common_classic_comeback,archer_omen_falcon,archer_soulpenetration,mage_elementalsummoning,saint_skeletondance,berserker_omen_pack,bomber_ricochet,orcs_everythingslayer,fairy_omen_rainbow,frogue_air_snipers,berserker_frenzy,tank_hoarfrost_armor,flagbearer_omen_kings,saint_surge_of_confidence,artillery_pressure_fire,flyingrogue_omen_feather,lancer_spearwall,gladiator_omen_sands",
         "nextNodeType": "glitchedmoboatx"
-    },
-    {
-        "dungeonRunId": "167498",
-        "completedLevels": "53",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-08-14 10:27:34",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_omen_spark,musk_golden_rounds,barbarian_omen_axe,saint_surge_of_confidence,frogue_air_snipers,bomber_ricochet,warrior_falltodarkness,archer_omen_falcon,archer_soulpenetration,fairy_omen_rainbow,mage_elementalsummoning,blob_flesheater,musk_hunters_mark,orcs_inpenetrable,centurion_team_barbs,artillery_pressure_fire,flagbearer_omen_kings,warrior_flameslash",
-        "nextNodeType": "moboboss"
     },
     {
         "dungeonRunId": "167491",
