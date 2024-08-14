@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "167399",
-        "completedLevels": "63",
+        "completedLevels": "64",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-08-13 17:44:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_omen_hand,musk_golden_rounds,monk_pure_focus,berserker_enrage,gladiator_war_machine,archer_soulpenetration,warrior_omen_wolf,gladiator_sonofthunder,warrior_flameslash,berserker_frenzy,saint_surge_of_confidence,archer_omen_falcon,bomber_ricochet",
-        "nextNodeType": "dungeonexperiment"
+        "captainBoons": "common_classic_comeback,healer_omen_hand,musk_golden_rounds,monk_pure_focus,berserker_enrage,gladiator_war_machine,archer_soulpenetration,warrior_omen_wolf,gladiator_sonofthunder,berserker_frenzy,saint_surge_of_confidence,archer_omen_falcon,bomber_ricochet",
+        "nextNodeType": "shogunateBasic"
     },
     {
         "dungeonRunId": "166939",
