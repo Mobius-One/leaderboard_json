@@ -9,6 +9,15 @@
         "nextNodeType": "glitchedmoboatx"
     },
     {
+        "dungeonRunId": "167399",
+        "completedLevels": "59",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-08-13 17:44:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_omen_hand,musk_golden_rounds,monk_pure_focus,berserker_enrage,gladiator_war_machine,lancer_omen_javelin,archer_soulpenetration,warrior_omen_wolf,gladiator_sonofthunder,warrior_flameslash,berserker_frenzy,saint_surge_of_confidence,lancer_firststrike,archer_omen_falcon,bomber_ricochet",
+        "nextNodeType": "ancientspider"
+    },
+    {
         "dungeonRunId": "166939",
         "completedLevels": "58",
         "twitchDisplayName": "ThaBan4",
@@ -16,15 +25,6 @@
         "endTime": "2024-08-11 06:21:36",
         "captainBoons": "common_classic_comeback,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,artillery_pressure_fire,warbeast_bestfriends,vampire_dark_pact,centurion_2,gladiator_omen_sands",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "167399",
-        "completedLevels": "58",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-08-13 17:44:52",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_omen_hand,musk_golden_rounds,monk_pure_focus,berserker_enrage,gladiator_war_machine,lancer_omen_javelin,archer_soulpenetration,warrior_omen_wolf,gladiator_sonofthunder,warrior_flameslash,berserker_frenzy,saint_surge_of_confidence,lancer_firststrike,archer_omen_falcon,bomber_ricochet",
-        "nextNodeType": "raidhallaambush"
     },
     {
         "dungeonRunId": "167287",
