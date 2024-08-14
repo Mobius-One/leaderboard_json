@@ -54,6 +54,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "167491",
+        "completedLevels": "49",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-08-14 08:31:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,blob_flesheater,archer_omen_falcon,centurion_2,vampire_omen_fallen,berserker_enrage,archer_soulpenetration,berserker_omen_pack,frogue_cloaking_field,frogue_air_snipers,artillery_pressure_fire,melee_doom_hunger,gladiator_omen_sands,blob_parasite,bomber_omen_spark,amazon_hermesblessing,healer_omen_hand,artillery_maxpower,tank_hoarfrost_armor,lancer_omen_javelin,necromancer_necronomicon",
+        "nextNodeType": "olympiadgodgroupFullAB"
+    },
+    {
         "dungeonRunId": "167260",
         "completedLevels": "49",
         "twitchDisplayName": "MYKLMantis",
@@ -61,15 +70,6 @@
         "endTime": "2024-08-13 02:37:37",
         "captainBoons": "melee_omen_blade,rogue_omen_dagger,necromancer_necronomicon,frogue_air_snipers,musk_golden_rounds,fairy_gift_of_the_wind,centurion_omen_brothers,monk_first_strike,mage_elementalsummoning,gladiator_war_machine,healer_omen_hand,templar_commanding_presence,artillery_pressure_fire,warrior_omen_wolf,artillery_maxpower,warbeast_bestfriends,archer_enchantedammo,archer_omen_falcon,fairy_omen_rainbow,warrior_flameslash,blob_flesheater",
         "nextNodeType": "sugarhill"
-    },
-    {
-        "dungeonRunId": "167491",
-        "completedLevels": "48",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-08-14 08:31:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,blob_flesheater,archer_omen_falcon,centurion_2,vampire_omen_fallen,berserker_enrage,archer_soulpenetration,berserker_omen_pack,frogue_cloaking_field,frogue_air_snipers,artillery_pressure_fire,melee_doom_hunger,gladiator_omen_sands,blob_parasite,bomber_omen_spark,amazon_hermesblessing,healer_omen_hand,artillery_maxpower,tank_hoarfrost_armor,lancer_omen_javelin,necromancer_necronomicon",
-        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "167302",
