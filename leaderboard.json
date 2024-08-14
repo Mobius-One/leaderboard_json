@@ -27,13 +27,13 @@
         "nextNodeType": "steampunkgear"
     },
     {
-        "dungeonRunId": "167287",
-        "completedLevels": "55",
+        "dungeonRunId": "167439",
+        "completedLevels": "56",
         "twitchDisplayName": "RoseGaminDiva",
-        "startTime": "2024-08-13 00:24:33",
-        "endTime": "2024-08-13 06:41:03",
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,lancer_spearwall,archer_soulpenetration,archer_omen_falcon,rogue_shadow_cloak,amazon_hermesblessing,archer_enchantedammo,berserker_frenzy,centurion_2,blob_flesheater,artillery_maxpower,amazon_vineclone,necromancer_necronomicon,flagbearer_focused_morale,bomber_ricochet,blob_parasite,berserker_enrage",
-        "nextNodeType": "sugarhill"
+        "startTime": "2024-08-14 00:25:51",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,blob_flesheater,berserker_frenzy,warrior_flameslash,amazon_vineclone,rogue_omen_dagger,berserker_enrage,archer_soulpenetration,armored_doom_rust,templar_commanding_presence,blob_parasite,artillery_maxpower,flagbearer_focused_morale,archer_omen_falcon,artillery_pressure_fire,gladiator_war_machine,healer_omen_hand",
+        "nextNodeType": "frontiershowdown"
     },
     {
         "dungeonRunId": "166703",
