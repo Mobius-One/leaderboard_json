@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "167498",
-        "completedLevels": "54",
+        "completedLevels": "55",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-08-14 10:27:34",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_omen_spark,musk_golden_rounds,barbarian_omen_axe,saint_surge_of_confidence,frogue_air_snipers,bomber_ricochet,warrior_falltodarkness,archer_omen_falcon,archer_soulpenetration,mage_elementalsummoning,blob_flesheater,musk_hunters_mark,orcs_inpenetrable,centurion_team_barbs,artillery_pressure_fire,flagbearer_omen_kings,warrior_flameslash",
-        "nextNodeType": "newjunglespore"
+        "nextNodeType": "raidhallaambush"
     },
     {
         "dungeonRunId": "166703",
