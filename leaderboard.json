@@ -81,12 +81,12 @@
         "nextNodeType": "plagueroost"
     },
     {
-        "dungeonRunId": "167491",
+        "dungeonRunId": "167055",
         "completedLevels": "45",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-08-14 08:31:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,blob_flesheater,archer_omen_falcon,epic_monstersblessing,centurion_2,vampire_omen_fallen,berserker_enrage,archer_soulpenetration,berserker_omen_pack,frogue_cloaking_field,frogue_air_snipers,artillery_pressure_fire,melee_doom_hunger,fairy_hocuspocus,gladiator_omen_sands,blob_parasite,bomber_omen_spark,amazon_hermesblessing,healer_omen_hand,artillery_maxpower,tank_hoarfrost_armor,lancer_omen_javelin,necromancer_necronomicon",
-        "nextNodeType": "plagueroost"
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2024-08-11 16:47:55",
+        "endTime": "2024-08-11 22:56:19",
+        "captainBoons": "common_classic_comeback,gladiator_war_machine,rogue_omen_dagger,necromancer_necronomicon,fairy_gift_of_the_wind,warrior_omen_wolf,saint_surge_of_confidence,musk_hunters_mark,fairy_omen_rainbow,centurion_team_barbs,artillery_pressure_fire,templar_commanding_presence,monk_pure_focus,gladiator_omen_sands,bomber_ricochet,centurion_2,archer_omen_falcon,gladiator_sonofthunder,barb_giant_swings,bomber_omen_spark,artillery_maxpower,archer_soulpenetration,amazon_hermesblessing",
+        "nextNodeType": "newjunglespore"
     }
 ]
