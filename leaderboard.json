@@ -63,6 +63,15 @@
         "nextNodeType": "sugarhill"
     },
     {
+        "dungeonRunId": "167302",
+        "completedLevels": "46",
+        "twitchDisplayName": "kingjerry_4ever",
+        "startTime": "2024-08-13 01:56:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_enchantedammo,archer_omen_falcon,epic_monstersblessing,gladiator_war_machine,barbarian_omen_axe,artillery_maxpower,musk_golden_rounds,barb_giant_swings,berserker_enrage,amazon_vineclone,healer_omen_hand,gladiator_sonofthunder,artillery_pressure_fire,flagbearer_omen_kings,amazon_hermesblessing,warrior_falltodarkness,blob_parasite,saint_surge_of_confidence,archer_soulpenetration,orcs_inpenetrable",
+        "nextNodeType": "raidhallaambush"
+    },
+    {
         "dungeonRunId": "166708",
         "completedLevels": "46",
         "twitchDisplayName": "Panthergal2018",
@@ -70,15 +79,6 @@
         "endTime": "2024-08-10 16:20:57",
         "captainBoons": "common_classic_comeback,ranged_omen_dart,amazon_hermesblessing,vampire_aerial_fiend,armored_doom_rust,centurion_team_barbs,archer_soulpenetration,healer_omen_hand,bomber_ricochet,lancer_omen_javelin,orcs_everythingslayer,artillery_maxpower,berserker_frenzy,lancer_firststrike,templar_commanding_presence,saint_skeletondance,saint_surge_of_confidence,frogue_air_snipers,archer_omen_falcon,warrior_flameslash,fairy_omen_rainbow,blob_flesheater",
         "nextNodeType": "plagueroost"
-    },
-    {
-        "dungeonRunId": "167302",
-        "completedLevels": "45",
-        "twitchDisplayName": "kingjerry_4ever",
-        "startTime": "2024-08-13 01:56:10",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_omen_dart,archer_enchantedammo,archer_omen_falcon,epic_monstersblessing,gladiator_war_machine,barbarian_omen_axe,artillery_maxpower,epic_giants_curse,musk_golden_rounds,barb_giant_swings,berserker_enrage,amazon_vineclone,healer_omen_hand,gladiator_sonofthunder,artillery_pressure_fire,flagbearer_omen_kings,amazon_hermesblessing,warrior_falltodarkness,blob_parasite,saint_surge_of_confidence,archer_soulpenetration,orcs_inpenetrable",
-        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "167055",
