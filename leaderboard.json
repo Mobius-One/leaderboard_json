@@ -36,6 +36,15 @@
         "nextNodeType": "plagueroost"
     },
     {
+        "dungeonRunId": "167932",
+        "completedLevels": "56",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-08-17 11:02:37",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_omen_blade,armored_doom_rust,musk_golden_rounds,archer_enchantedammo,templar_commanding_presence,archer_soulpenetration,assassin_doom_fools,rogue_shadow_cloak,fairy_omen_rainbow,monk_pure_focus,healer_omen_hand,necromancer_necronomicon,archer_omen_falcon,berserker_frenzy,berserker_enrage,artillery_pressure_fire",
+        "nextNodeType": "moboboss"
+    },
+    {
         "dungeonRunId": "167498",
         "completedLevels": "55",
         "twitchDisplayName": "ImmerBock",
@@ -43,15 +52,6 @@
         "endTime": "2024-08-14 17:11:46",
         "captainBoons": "common_classic_comeback,bomber_omen_spark,musk_golden_rounds,barbarian_omen_axe,saint_surge_of_confidence,frogue_air_snipers,bomber_ricochet,warrior_falltodarkness,archer_omen_falcon,archer_soulpenetration,mage_elementalsummoning,blob_flesheater,musk_hunters_mark,orcs_inpenetrable,centurion_team_barbs,artillery_pressure_fire,flagbearer_omen_kings,warrior_flameslash",
         "nextNodeType": "raidhallaambush"
-    },
-    {
-        "dungeonRunId": "167932",
-        "completedLevels": "55",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-08-17 11:02:37",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_omen_blade,armored_doom_rust,musk_golden_rounds,archer_enchantedammo,lancer_omen_javelin,templar_commanding_presence,archer_soulpenetration,assassin_doom_fools,rogue_shadow_cloak,fairy_omen_rainbow,monk_pure_focus,healer_omen_hand,necromancer_necronomicon,archer_omen_falcon,berserker_frenzy,berserker_enrage,artillery_pressure_fire",
-        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "166703",
