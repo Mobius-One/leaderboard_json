@@ -63,6 +63,15 @@
         "nextNodeType": "raidhallaambush"
     },
     {
+        "dungeonRunId": "168171",
+        "completedLevels": "54",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-08-19 13:43:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_omen_javelin,tank_hoarfrost_armor,gladiator_sonofthunder,necro_furious_summoner,warrior_omen_wolf,lancer_firststrike,tank_ironclad,fairy_gift_of_the_wind,healer_omen_hand,flagbearer_omen_kings,archer_soulpenetration,fairy_omen_rainbow,berserker_enrage,monk_pure_focus,blob_flesheater,artillery_pressure_fire,berserker_frenzy",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "166703",
         "completedLevels": "54",
         "twitchDisplayName": "Hairtrigger83",
@@ -79,14 +88,5 @@
         "endTime": "2024-08-14 15:21:46",
         "captainBoons": "common_classic_comeback,blob_flesheater,archer_omen_falcon,centurion_2,vampire_omen_fallen,berserker_enrage,archer_soulpenetration,berserker_omen_pack,frogue_cloaking_field,frogue_air_snipers,artillery_pressure_fire,melee_doom_hunger,gladiator_omen_sands,blob_parasite,amazon_hermesblessing,healer_omen_hand,artillery_maxpower,lancer_omen_javelin,necromancer_necronomicon",
         "nextNodeType": "ancientspider"
-    },
-    {
-        "dungeonRunId": "168171",
-        "completedLevels": "53",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-08-19 13:43:09",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_omen_javelin,tank_hoarfrost_armor,support_omen_light,gladiator_sonofthunder,necro_furious_summoner,warrior_omen_wolf,lancer_firststrike,tank_ironclad,fairy_gift_of_the_wind,healer_omen_hand,flagbearer_omen_kings,archer_soulpenetration,fairy_omen_rainbow,berserker_enrage,monk_pure_focus,blob_flesheater,artillery_pressure_fire,berserker_frenzy",
-        "nextNodeType": "frontiershowdown"
     }
 ]
