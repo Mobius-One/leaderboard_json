@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "168387",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-08-21 10:57:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_omen_falcon,frogue_air_snipers,bomber_omen_spark,healer_arrogantmedium,flyingrogue_omen_feather,artillery_pressure_fire,healer_omen_hand,centurion_team_barbs,healer_1,orcs_inpenetrable,bomber_avatar_power,musk_hunters_mark,epic_giants_curse,artillery_maxpower,fairy_gift_of_the_wind,saint_surge_of_confidence",
-        "nextNodeType": "dungeonexperiment"
+        "captainBoons": "common_classic_comeback,archer_omen_falcon,frogue_air_snipers,bomber_omen_spark,healer_arrogantmedium,flyingrogue_omen_feather,artillery_pressure_fire,centurion_team_barbs,healer_1,orcs_inpenetrable,bomber_avatar_power,musk_hunters_mark,epic_giants_curse,artillery_maxpower,fairy_gift_of_the_wind,saint_surge_of_confidence",
+        "nextNodeType": "sugarhill"
     },
     {
         "dungeonRunId": "167439",
