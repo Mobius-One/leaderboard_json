@@ -27,6 +27,15 @@
         "nextNodeType": "raidhallaambush"
     },
     {
+        "dungeonRunId": "168387",
+        "completedLevels": "58",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-08-21 10:57:54",
+        "endTime": "2024-08-21 18:13:30",
+        "captainBoons": "common_classic_comeback,archer_omen_falcon,frogue_air_snipers,bomber_omen_spark,healer_arrogantmedium,flyingrogue_omen_feather,artillery_pressure_fire,centurion_team_barbs,healer_1,orcs_inpenetrable,bomber_avatar_power,musk_hunters_mark,epic_giants_curse,artillery_maxpower,fairy_gift_of_the_wind,saint_surge_of_confidence",
+        "nextNodeType": "sugarhill"
+    },
+    {
         "dungeonRunId": "166939",
         "completedLevels": "58",
         "twitchDisplayName": "ThaBan4",
@@ -34,15 +43,6 @@
         "endTime": "2024-08-11 06:21:36",
         "captainBoons": "common_classic_comeback,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,artillery_pressure_fire,warbeast_bestfriends,vampire_dark_pact,centurion_2,gladiator_omen_sands",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "168387",
-        "completedLevels": "58",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-08-21 10:57:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_omen_falcon,frogue_air_snipers,bomber_omen_spark,healer_arrogantmedium,flyingrogue_omen_feather,artillery_pressure_fire,centurion_team_barbs,healer_1,orcs_inpenetrable,bomber_avatar_power,musk_hunters_mark,epic_giants_curse,artillery_maxpower,fairy_gift_of_the_wind,saint_surge_of_confidence",
-        "nextNodeType": "sugarhill"
     },
     {
         "dungeonRunId": "167439",
