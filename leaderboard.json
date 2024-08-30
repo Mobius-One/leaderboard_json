@@ -27,6 +27,15 @@
         "nextNodeType": "raidhallaambush"
     },
     {
+        "dungeonRunId": "168434",
+        "completedLevels": "59",
+        "twitchDisplayName": "HipsuVT",
+        "startTime": "2024-08-21 17:41:24",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_ricochet,warrior_omen_wolf,berserker_enrage,necromancer_necronomicon,barbarian_omen_axe,archer_enchantedammo,saint_surge_of_confidence,fairy_gift_of_the_wind,artillery_pressure_fire,archer_omen_falcon,healer_1,warrior_flameslash,archer_soulpenetration,artillery_maxpower,musk_hunters_mark",
+        "nextNodeType": "olympiadbossAtlas2"
+    },
+    {
         "dungeonRunId": "166939",
         "completedLevels": "58",
         "twitchDisplayName": "ThaBan4",
@@ -43,15 +52,6 @@
         "endTime": "2024-08-21 18:13:30",
         "captainBoons": "common_classic_comeback,archer_omen_falcon,frogue_air_snipers,bomber_omen_spark,healer_arrogantmedium,flyingrogue_omen_feather,artillery_pressure_fire,centurion_team_barbs,healer_1,orcs_inpenetrable,bomber_avatar_power,musk_hunters_mark,epic_giants_curse,artillery_maxpower,fairy_gift_of_the_wind,saint_surge_of_confidence",
         "nextNodeType": "sugarhill"
-    },
-    {
-        "dungeonRunId": "168434",
-        "completedLevels": "58",
-        "twitchDisplayName": "HipsuVT",
-        "startTime": "2024-08-21 17:41:24",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_ricochet,warrior_omen_wolf,berserker_enrage,necromancer_necronomicon,barbarian_omen_axe,archer_enchantedammo,saint_surge_of_confidence,fairy_gift_of_the_wind,artillery_pressure_fire,archer_omen_falcon,healer_1,warrior_flameslash,archer_soulpenetration,artillery_maxpower,musk_hunters_mark",
-        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "167439",
