@@ -81,12 +81,12 @@
         "nextNodeType": "glitchedmoboatx"
     },
     {
-        "dungeonRunId": "168434",
+        "dungeonRunId": "167491",
         "completedLevels": "53",
-        "twitchDisplayName": "HipsuVT",
-        "startTime": "2024-08-21 17:41:24",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_ricochet,warrior_omen_wolf,berserker_enrage,necromancer_necronomicon,warbeast_bestfriends,barbarian_omen_axe,archer_enchantedammo,saint_surge_of_confidence,fairy_gift_of_the_wind,blob_flesheater,artillery_pressure_fire,archer_omen_falcon,healer_1,warrior_flameslash,archer_soulpenetration,artillery_maxpower,musk_hunters_mark,gladiator_sonofthunder",
-        "nextNodeType": "frontiershowdown"
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-08-14 08:31:33",
+        "endTime": "2024-08-14 15:21:46",
+        "captainBoons": "common_classic_comeback,blob_flesheater,archer_omen_falcon,centurion_2,vampire_omen_fallen,berserker_enrage,archer_soulpenetration,berserker_omen_pack,frogue_cloaking_field,frogue_air_snipers,artillery_pressure_fire,melee_doom_hunger,gladiator_omen_sands,blob_parasite,amazon_hermesblessing,healer_omen_hand,artillery_maxpower,lancer_omen_javelin,necromancer_necronomicon",
+        "nextNodeType": "ancientspider"
     }
 ]
