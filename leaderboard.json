@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "168434",
-        "completedLevels": "67",
+        "completedLevels": "68",
         "twitchDisplayName": "HipsuVT",
         "startTime": "2024-08-21 17:41:24",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_ricochet,berserker_enrage,necromancer_necronomicon,saint_surge_of_confidence,fairy_gift_of_the_wind,artillery_pressure_fire,archer_omen_falcon,warrior_flameslash,archer_soulpenetration,artillery_maxpower,musk_hunters_mark",
-        "nextNodeType": "plagueroost"
+        "captainBoons": "common_classic_comeback,bomber_ricochet,berserker_enrage,necromancer_necronomicon,saint_surge_of_confidence,fairy_gift_of_the_wind,artillery_pressure_fire,warrior_flameslash,archer_soulpenetration,artillery_maxpower,musk_hunters_mark",
+        "nextNodeType": "moboboss"
     },
     {
         "dungeonRunId": "167932",
