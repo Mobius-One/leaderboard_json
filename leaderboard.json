@@ -36,6 +36,15 @@
         "nextNodeType": "raidhallaambush"
     },
     {
+        "dungeonRunId": "168524",
+        "completedLevels": "59",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-08-22 04:58:43",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_surge_of_confidence,artillery_pressure_fire,armored_doom_rust,frogue_air_snipers,archer_enchantedammo,gladiator_war_machine,bomber_ricochet,rogue_shadow_cloak,centurion_team_barbs,archer_soulpenetration,flyingrogue_omen_feather,frogue_cloaking_field,saint_skeletondance,necromancer_necronomicon,archer_omen_falcon",
+        "nextNodeType": "olympiadbossAtlas2"
+    },
+    {
         "dungeonRunId": "168387",
         "completedLevels": "58",
         "twitchDisplayName": "ImmerBock",
@@ -52,15 +61,6 @@
         "endTime": "2024-08-11 06:21:36",
         "captainBoons": "common_classic_comeback,gladiator_sonofthunder,rogue_omen_dagger,frogue_cloaking_field,gladiator_war_machine,bomber_ricochet,archer_soulpenetration,saint_surge_of_confidence,frogue_air_snipers,flyingrogue_omen_feather,orcs_inpenetrable,artillery_pressure_fire,warbeast_bestfriends,vampire_dark_pact,centurion_2,gladiator_omen_sands",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "168524",
-        "completedLevels": "58",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-08-22 04:58:43",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_surge_of_confidence,artillery_pressure_fire,armored_doom_rust,frogue_air_snipers,archer_enchantedammo,gladiator_war_machine,bomber_ricochet,rogue_shadow_cloak,centurion_team_barbs,archer_soulpenetration,flyingrogue_omen_feather,frogue_cloaking_field,saint_skeletondance,necromancer_necronomicon,archer_omen_falcon",
-        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "167439",
