@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "168524",
-        "completedLevels": "62",
+        "completedLevels": "63",
         "twitchDisplayName": "lont123",
         "startTime": "2024-08-22 04:58:43",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_surge_of_confidence,artillery_pressure_fire,armored_doom_rust,frogue_air_snipers,archer_enchantedammo,gladiator_war_machine,bomber_ricochet,rogue_shadow_cloak,archer_soulpenetration,flyingrogue_omen_feather,frogue_cloaking_field,necromancer_necronomicon,archer_omen_falcon",
-        "nextNodeType": "ancientspider"
+        "nextNodeType": "plagueroost"
     },
     {
         "dungeonRunId": "168387",
