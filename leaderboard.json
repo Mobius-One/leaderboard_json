@@ -27,21 +27,21 @@
         "nextNodeType": "thehivecarmeet"
     },
     {
-        "dungeonRunId": "167932",
-        "completedLevels": "64",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-08-17 11:02:37",
-        "endTime": "2024-08-18 07:32:46",
-        "captainBoons": "common_classic_comeback,musk_golden_rounds,archer_enchantedammo,templar_commanding_presence,archer_soulpenetration,rogue_shadow_cloak,fairy_omen_rainbow,monk_pure_focus,necromancer_necronomicon,archer_omen_falcon,berserker_frenzy,berserker_enrage,artillery_pressure_fire",
-        "nextNodeType": "raidhallaambush"
-    },
-    {
         "dungeonRunId": "168524",
         "completedLevels": "64",
         "twitchDisplayName": "lont123",
         "startTime": "2024-08-22 04:58:43",
         "endTime": "2024-09-01 05:17:37",
         "captainBoons": "common_classic_comeback,saint_surge_of_confidence,artillery_pressure_fire,armored_doom_rust,frogue_air_snipers,archer_enchantedammo,gladiator_war_machine,rogue_shadow_cloak,archer_soulpenetration,flyingrogue_omen_feather,frogue_cloaking_field,necromancer_necronomicon,archer_omen_falcon",
+        "nextNodeType": "raidhallaambush"
+    },
+    {
+        "dungeonRunId": "167932",
+        "completedLevels": "64",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-08-17 11:02:37",
+        "endTime": "2024-08-18 07:32:46",
+        "captainBoons": "common_classic_comeback,musk_golden_rounds,archer_enchantedammo,templar_commanding_presence,archer_soulpenetration,rogue_shadow_cloak,fairy_omen_rainbow,monk_pure_focus,necromancer_necronomicon,archer_omen_falcon,berserker_frenzy,berserker_enrage,artillery_pressure_fire",
         "nextNodeType": "raidhallaambush"
     },
     {
