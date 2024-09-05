@@ -1,29 +1,38 @@
 [
     {
         "dungeonRunId": "168675",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-09-05 18:03:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,ranged_rangergloves",
-        "nextNodeType": "thehiveconveyor"
-    },
-    {
-        "dungeonRunId": "168673",
-        "completedLevels": "8",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-09-05 18:00:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle,epic_assassin_serialkiller,bomber_dangerzone,armored_heavyblades,monk_channel_chakra,warrior_blademastery,assassin_valkyriegadget",
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,ranged_rangergloves,warrior_flameslash",
         "nextNodeType": "icecaveboss"
     },
     {
+        "dungeonRunId": "168673",
+        "completedLevels": "9",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-09-05 18:00:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle,epic_assassin_serialkiller,bomber_dangerzone,armored_heavyblades,monk_channel_chakra,warrior_blademastery,assassin_valkyriegadget,common_specialists",
+        "nextNodeType": "icecaveportals"
+    },
+    {
         "dungeonRunId": "168677",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-09-05 18:03:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,berserker_enrage,amazon_vineclone,bomber_dangerzone,gladiator_sonofthunder,flagbearer_deathbegetslife,archer_deadshot,elf_elvenimmortality",
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,berserker_enrage,amazon_vineclone,bomber_dangerzone,gladiator_sonofthunder,flagbearer_deathbegetslife,archer_deadshot,elf_elvenimmortality,melee_finalcut",
+        "nextNodeType": "icecaveportals"
+    },
+    {
+        "dungeonRunId": "168674",
+        "completedLevels": "8",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-09-05 18:02:43",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,general_wellrounded,saint_skeletondance,flagbearer_bannerofluck,centurion_teambarbs,berserker_eyeofthestorm,general_cadence,epic_watchfulleaders",
         "nextNodeType": "plaguelandboss"
     },
     {
@@ -32,35 +41,44 @@
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot",
+        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,tank_ironclad",
         "nextNodeType": "lavafurnace"
     },
     {
-        "dungeonRunId": "168674",
-        "completedLevels": "7",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-09-05 18:02:43",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,general_wellrounded,saint_skeletondance,flagbearer_bannerofluck,centurion_teambarbs,berserker_eyeofthestorm,general_cadence",
-        "nextNodeType": "mothershiparmory"
-    },
-    {
         "dungeonRunId": "168680",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "nasbase",
         "startTime": "2024-09-05 18:06:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,epic_watchfulleaders,spell_empower_killingfield,support_doomingsong,vampire_lordofthedead",
-        "nextNodeType": "icecaveboss"
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,epic_watchfulleaders,spell_empower_killingfield,support_doomingsong,vampire_lordofthedead,musk_hunters_mark",
+        "nextNodeType": "alpharaiderssquare"
     },
     {
         "dungeonRunId": "168682",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-09-05 18:10:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder",
-        "nextNodeType": "icecaveboss"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder,spell_empower_haste",
+        "nextNodeType": "frontierroundup"
+    },
+    {
+        "dungeonRunId": "168690",
+        "completedLevels": "2",
+        "twitchDisplayName": "Juzy_Fruit",
+        "startTime": "2024-09-05 18:41:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
+        "dungeonRunId": "168688",
+        "completedLevels": "2",
+        "twitchDisplayName": "AtticPlays",
+        "startTime": "2024-09-05 18:35:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain,vampire_lordofthedead",
+        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "168686",
@@ -70,23 +88,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_damage",
         "nextNodeType": "icecaveboss"
-    },
-    {
-        "dungeonRunId": "168690",
-        "completedLevels": "1",
-        "twitchDisplayName": "Juzy_Fruit",
-        "startTime": "2024-09-05 18:41:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone",
-        "nextNodeType": "raidhallalake"
-    },
-    {
-        "dungeonRunId": "168688",
-        "completedLevels": "1",
-        "twitchDisplayName": "AtticPlays",
-        "startTime": "2024-09-05 18:35:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain",
-        "nextNodeType": "frontierroundup"
     }
 ]
