@@ -23,7 +23,7 @@
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,tank_ironclad,necromancer_bombasticbones,assassin_spynetwork,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,assassin_valkyriegadget,epic_armored_armoredgiants,general_cadence,musketeer_grapeshot,healer_healing_bloom,warrior_blademastery,melee_followup,ranged_hamstring,general_recovery,monk_snakestyle,epic_assassin_serialkiller,support_doomingsong",
+        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,tank_ironclad,necromancer_bombasticbones,assassin_spynetwork,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,assassin_valkyriegadget,epic_armored_armoredgiants,general_cadence,musketeer_grapeshot,healer_healing_bloom,warrior_blademastery,melee_followup,ranged_hamstring,general_recovery,monk_snakestyle,epic_assassin_serialkiller,support_doomingsong,barbarian_bringthepain",
         "nextNodeType": "wasterock"
     },
     {
@@ -41,35 +41,35 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-09-05 18:10:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder,spell_empower_haste,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance,archer_enchantedammo,archer_master_fletcher,saint_exalt,elf_elvenimmortality,fairy_nixiepops,warrior_blademastery,saint_surgeofconfidence,ensouled_bravespirits,lancer_sarissaspears,ranged_preciseshot,warbeast_underworldbeast,support_healingsong",
+        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder,spell_empower_haste,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance,archer_enchantedammo,archer_master_fletcher,saint_exalt,elf_elvenimmortality,fairy_nixiepops,warrior_blademastery,saint_surgeofconfidence,ensouled_bravespirits,lancer_sarissaspears,ranged_preciseshot,warbeast_underworldbeast,support_healingsong,monk_snakestyle",
         "nextNodeType": "wasterock"
     },
     {
         "dungeonRunId": "168690",
-        "completedLevels": "17",
+        "completedLevels": "18",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2024-09-05 18:41:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder,common_specialists,archer_deadshot,musketeer_grapeshot,epic_ranged_dragonarrows,general_resistance,ranged_rangerquivers,warrior_swordofruin,general_damage,assassin_disappearingact,epic_epicaspirations,support_healingsong,flagbearer_rallydefense",
-        "nextNodeType": "wasterock"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder,common_specialists,archer_deadshot,musketeer_grapeshot,epic_ranged_dragonarrows,general_resistance,ranged_rangerquivers,warrior_swordofruin,general_damage,assassin_disappearingact,epic_epicaspirations,support_healingsong,flagbearer_rallydefense,archer_master_fletcher",
+        "nextNodeType": "tabletopboard"
     },
     {
         "dungeonRunId": "168697",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "AtticPlays",
         "startTime": "2024-09-05 18:58:28",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,assassin_agility,support_enchantedstaves,archer_master_fletcher,general_resistance,warrior_flameslash,spell_empower_killingfield,general_recovery,support_defensivetraining,epic_melee_gloryofvictory,general_damage,general_wellrounded,warbeast_underworldbeast,general_cadence,bomber_flameinfusion",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,assassin_agility,support_enchantedstaves,archer_master_fletcher,general_resistance,warrior_flameslash,spell_empower_killingfield,general_recovery,support_defensivetraining,epic_melee_gloryofvictory,general_damage,general_wellrounded,warbeast_underworldbeast,general_cadence,bomber_flameinfusion,ranged_hamstring",
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "168698",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2024-09-05 19:00:57",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong,assassin_valkyriegadget,ensouled_bravespirits,bomber_dangerzone,healer_shadowword,bomber_living_bomb,ranged_rangergloves,epic_watchfulleaders,necromancer_bombasticbones,melee_carefulhunt,centurion_teambarbs,blob_parasite",
-        "nextNodeType": "sugarforest"
+        "captainBoons": "common_classic_comeback,support_healingsong,assassin_valkyriegadget,ensouled_bravespirits,bomber_dangerzone,healer_shadowword,bomber_living_bomb,ranged_rangergloves,epic_watchfulleaders,necromancer_bombasticbones,melee_carefulhunt,centurion_teambarbs,blob_parasite,paladin_layonhands",
+        "nextNodeType": "tabletopboard"
     },
     {
         "dungeonRunId": "168680",
