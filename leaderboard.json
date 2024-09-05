@@ -73,20 +73,20 @@
     },
     {
         "dungeonRunId": "168716",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "AeroGarfield29",
         "startTime": "2024-09-05 20:48:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_blademastery,fairy_hocuspocus,lancer_firststrike,armored_ignorepain,warrior_flameslash,mage_clone,archer_deadshot,monk_snakestyle,epic_armored_armoredgiants,support_healingsong,archer_enchantedammo,buster_nanobusters,flagbearer_bannerofluck,melee_battlebracers",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,warrior_blademastery,fairy_hocuspocus,lancer_firststrike,armored_ignorepain,warrior_flameslash,mage_clone,archer_deadshot,monk_snakestyle,epic_armored_armoredgiants,support_healingsong,archer_enchantedammo,buster_nanobusters,flagbearer_bannerofluck,melee_battlebracers,blob_parasite",
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "168719",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "redspecter23",
         "startTime": "2024-09-05 21:10:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_cadence,epic_giantsblessing,bomber_living_bomb,epic_giantsbrewzero,melee_followup,berserker_eyeofthestorm,general_critical,rogue_skeletonturret,epic_melee_gloryofvictory,lancer_sarissaspears,ranged_rangerquivers,epic_armored_armoredgiants,saint_exalt",
-        "nextNodeType": "tabletopboard"
+        "captainBoons": "common_classic_comeback,general_cadence,epic_giantsblessing,bomber_living_bomb,epic_giantsbrewzero,melee_followup,berserker_eyeofthestorm,general_critical,rogue_skeletonturret,epic_melee_gloryofvictory,lancer_sarissaspears,ranged_rangerquivers,epic_armored_armoredgiants,saint_exalt,support_enchantedstaves",
+        "nextNodeType": "dungeons_jerry"
     }
 ]
