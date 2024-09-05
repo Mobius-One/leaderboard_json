@@ -1,39 +1,39 @@
 [
     {
         "dungeonRunId": "168675",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-09-05 18:03:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,ranged_rangergloves,warrior_flameslash,epic_assassin_serialkiller,general_recovery,vampire_lordofthedead,ranged_hamstring,armored_ignorepain",
-        "nextNodeType": "alpharaiderssquare"
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,ranged_rangergloves,warrior_flameslash,epic_assassin_serialkiller,general_recovery,vampire_lordofthedead,ranged_hamstring,armored_ignorepain,assassin_disappearingact",
+        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "168673",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-09-05 18:00:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle,epic_assassin_serialkiller,bomber_dangerzone,armored_heavyblades,monk_channel_chakra,warrior_blademastery,assassin_valkyriegadget,common_specialists,general_resistance,assassin_disappearingact,warbeast_underworldbeast,melee_charge,ensouled_enragedspirits",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle,epic_assassin_serialkiller,bomber_dangerzone,armored_heavyblades,monk_channel_chakra,warrior_blademastery,assassin_valkyriegadget,common_specialists,general_resistance,assassin_disappearingact,warbeast_underworldbeast,melee_charge,ensouled_enragedspirits,epic_epicaspirations",
+        "nextNodeType": "frontierroundup"
     },
     {
         "dungeonRunId": "168677",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-09-05 18:03:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,berserker_enrage,amazon_vineclone,bomber_dangerzone,gladiator_sonofthunder,flagbearer_deathbegetslife,archer_deadshot,elf_elvenimmortality,melee_finalcut,epic_giantsbrewzero,melee_followup,spell_empower_highground,armored_ignorepain",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,berserker_enrage,amazon_vineclone,bomber_dangerzone,gladiator_sonofthunder,flagbearer_deathbegetslife,archer_deadshot,elf_elvenimmortality,melee_finalcut,epic_giantsbrewzero,melee_followup,spell_empower_highground,armored_ignorepain,saint_surgeofconfidence",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "168678",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,tank_ironclad,necromancer_bombasticbones,assassin_spynetwork,lancer_spearwall,bomber_living_bomb",
-        "nextNodeType": "frontierroundup"
+        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,tank_ironclad,necromancer_bombasticbones,assassin_spynetwork,lancer_spearwall,bomber_living_bomb,bomber_dangerzone",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "168682",
@@ -41,8 +41,17 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-09-05 18:10:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder,spell_empower_haste,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin",
+        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder,spell_empower_haste,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance",
         "nextNodeType": "lavachamber"
+    },
+    {
+        "dungeonRunId": "168680",
+        "completedLevels": "10",
+        "twitchDisplayName": "nasbase",
+        "startTime": "2024-09-05 18:06:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,epic_watchfulleaders,spell_empower_killingfield,support_doomingsong,vampire_lordofthedead,musk_hunters_mark,warrior_blademastery,assassin_disappearingact,epic_ranged_dragonarrows,general_cadence",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "168674",
@@ -54,22 +63,13 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "168680",
-        "completedLevels": "9",
-        "twitchDisplayName": "nasbase",
-        "startTime": "2024-09-05 18:06:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,epic_watchfulleaders,spell_empower_killingfield,support_doomingsong,vampire_lordofthedead,musk_hunters_mark,warrior_blademastery,assassin_disappearingact,epic_ranged_dragonarrows",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
         "dungeonRunId": "168690",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2024-09-05 18:41:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder",
-        "nextNodeType": "icecaveboss"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder,common_specialists",
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "168697",
@@ -81,12 +81,12 @@
         "nextNodeType": "alpharaiderssquare"
     },
     {
-        "dungeonRunId": "168686",
+        "dungeonRunId": "168698",
         "completedLevels": "2",
-        "twitchDisplayName": "PracticalRook",
-        "startTime": "2024-09-05 18:18:58",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-09-05 19:00:57",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_damage",
-        "nextNodeType": "icecaveboss"
+        "captainBoons": "common_classic_comeback,support_healingsong,assassin_valkyriegadget",
+        "nextNodeType": "plaguelandboss"
     }
 ]
