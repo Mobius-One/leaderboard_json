@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168675",
-        "completedLevels": "23",
+        "completedLevels": "24",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-09-05 18:03:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,ranged_rangergloves,warrior_flameslash,epic_assassin_serialkiller,general_recovery,vampire_lordofthedead,ranged_hamstring,armored_ignorepain,assassin_disappearingact,tank_hoarfrost_armor,assassin_agility,elf_elvenimmortality,human_humandestiny,bomber_dangerzone,epic_watchfulleaders",
-        "nextNodeType": "crashzoneboss"
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,ranged_rangergloves,warrior_flameslash,epic_assassin_serialkiller,general_recovery,vampire_lordofthedead,ranged_hamstring,armored_ignorepain,assassin_disappearingact,tank_hoarfrost_armor,assassin_agility,elf_elvenimmortality,human_humandestiny,bomber_dangerzone,epic_watchfulleaders,epic_melee_gloryofvictory",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "168673",
@@ -18,6 +18,15 @@
         "nextNodeType": "plaguegrotto"
     },
     {
+        "dungeonRunId": "168678",
+        "completedLevels": "19",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-09-05 18:04:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,tank_ironclad,necromancer_bombasticbones,assassin_spynetwork,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,assassin_valkyriegadget,epic_armored_armoredgiants,general_cadence,musketeer_grapeshot,healer_healing_bloom,warrior_blademastery",
+        "nextNodeType": "heartscelestialabyrinth"
+    },
+    {
         "dungeonRunId": "168677",
         "completedLevels": "18",
         "twitchDisplayName": "ThaTrueBeast",
@@ -27,22 +36,13 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "168678",
-        "completedLevels": "18",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-09-05 18:04:01",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,tank_ironclad,necromancer_bombasticbones,assassin_spynetwork,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,assassin_valkyriegadget,epic_armored_armoredgiants,general_cadence,musketeer_grapeshot,healer_healing_bloom",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
         "dungeonRunId": "168682",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-09-05 18:10:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder,spell_empower_haste,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance,archer_enchantedammo,archer_master_fletcher,saint_exalt,elf_elvenimmortality,fairy_nixiepops",
-        "nextNodeType": "sugarforest"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder,spell_empower_haste,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance,archer_enchantedammo,archer_master_fletcher,saint_exalt,elf_elvenimmortality,fairy_nixiepops,warrior_blademastery",
+        "nextNodeType": "alpharaiderssquare"
     },
     {
         "dungeonRunId": "168680",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "168690",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2024-09-05 18:41:36",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder,common_specialists,archer_deadshot,musketeer_grapeshot,epic_ranged_dragonarrows,general_resistance",
-        "nextNodeType": "lavachamber"
+        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "168674",
@@ -73,20 +73,20 @@
     },
     {
         "dungeonRunId": "168697",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "AtticPlays",
         "startTime": "2024-09-05 18:58:28",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,assassin_agility,support_enchantedstaves,archer_master_fletcher,general_resistance,warrior_flameslash,spell_empower_killingfield,general_recovery",
-        "nextNodeType": "frontierroundup"
+        "captainBoons": "common_classic_comeback,assassin_agility,support_enchantedstaves,archer_master_fletcher,general_resistance,warrior_flameslash,spell_empower_killingfield,general_recovery,support_defensivetraining",
+        "nextNodeType": "icecaveboss"
     },
     {
         "dungeonRunId": "168698",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2024-09-05 19:00:57",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong,assassin_valkyriegadget,ensouled_bravespirits,bomber_dangerzone,healer_shadowword,bomber_living_bomb",
-        "nextNodeType": "retroriver"
+        "captainBoons": "common_classic_comeback,support_healingsong,assassin_valkyriegadget,ensouled_bravespirits,bomber_dangerzone,healer_shadowword,bomber_living_bomb,ranged_rangergloves",
+        "nextNodeType": "lavachamber"
     }
 ]
