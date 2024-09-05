@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168678",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,necromancer_bombasticbones,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,general_cadence,healer_healing_bloom,melee_followup,ranged_hamstring,general_recovery,monk_snakestyle,epic_assassin_serialkiller,support_doomingsong,epic_giantsbrewzero,armored_shieldbash",
-        "nextNodeType": "icecaveboss"
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "168675",
@@ -27,6 +27,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "168690",
+        "completedLevels": "34",
+        "twitchDisplayName": "Juzy_Fruit",
+        "startTime": "2024-09-05 18:41:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder,common_specialists,archer_deadshot,musketeer_grapeshot,epic_ranged_dragonarrows,general_resistance,ranged_rangerquivers,warrior_swordofruin,general_damage,epic_epicaspirations,support_healingsong,flagbearer_rallydefense,archer_master_fletcher,support_doomingsong,amazon_vineclone,barbarian_bringthepain,spell_empower_highground,general_critical,lancer_spearwall,barbarian_immortal,ranged_rangergloves,tank_ironclad",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "168677",
         "completedLevels": "33",
         "twitchDisplayName": "ThaTrueBeast",
@@ -34,15 +43,6 @@
         "endTime": "2024-09-05 22:04:16",
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,berserker_enrage,amazon_vineclone,bomber_dangerzone,gladiator_sonofthunder,flagbearer_deathbegetslife,archer_deadshot,elf_elvenimmortality,melee_finalcut,epic_giantsbrewzero,melee_followup,spell_empower_highground,armored_ignorepain,ranged_rangergloves,armored_heavyblades,gladiator_war_machine,warrior_blademastery,bomber_flameinfusion,blob_parasite,general_damage,tank_ironclad,spell_empower_haste,general_resistance,assassin_valkyriegadget,support_divineintervention,armored_unyieldingdefense,musketeer_grapeshot",
         "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "168690",
-        "completedLevels": "33",
-        "twitchDisplayName": "Juzy_Fruit",
-        "startTime": "2024-09-05 18:41:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder,common_specialists,archer_deadshot,musketeer_grapeshot,epic_ranged_dragonarrows,general_resistance,ranged_rangerquivers,warrior_swordofruin,general_damage,epic_epicaspirations,support_healingsong,flagbearer_rallydefense,archer_master_fletcher,support_doomingsong,amazon_vineclone,melee_carefulhunt,barbarian_bringthepain,spell_empower_highground,general_critical,lancer_spearwall,barbarian_immortal,ranged_rangergloves,tank_ironclad",
-        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "168673",
@@ -77,7 +77,7 @@
         "twitchDisplayName": "redspecter23",
         "startTime": "2024-09-05 21:10:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_cadence,epic_giantsblessing,bomber_living_bomb,epic_giantsbrewzero,melee_followup,berserker_eyeofthestorm,general_critical,rogue_skeletonturret,epic_melee_gloryofvictory,lancer_sarissaspears,ranged_rangerquivers,epic_armored_armoredgiants,saint_exalt,support_enchantedstaves,epic_epicaspirations,bomber_dangerzone",
+        "captainBoons": "common_classic_comeback,general_cadence,epic_giantsblessing,bomber_living_bomb,epic_giantsbrewzero,melee_followup,berserker_eyeofthestorm,general_critical,rogue_skeletonturret,epic_melee_gloryofvictory,lancer_sarissaspears,ranged_rangerquivers,epic_armored_armoredgiants,saint_exalt,support_enchantedstaves,epic_epicaspirations,bomber_dangerzone,frogue_cloakingfield",
         "nextNodeType": "icecaveboss"
     },
     {
