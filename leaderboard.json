@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168678",
-        "completedLevels": "47",
+        "completedLevels": "48",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,necromancer_bombasticbones,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,general_cadence,healer_healing_bloom,melee_followup,ranged_hamstring,general_recovery,monk_snakestyle,support_doomingsong,epic_giantsbrewzero,armored_shieldbash",
-        "nextNodeType": "lavafurnace"
+        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,necromancer_bombasticbones,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,general_cadence,melee_followup,ranged_hamstring,general_recovery,monk_snakestyle,support_doomingsong,epic_giantsbrewzero,armored_shieldbash",
+        "nextNodeType": "sugarforest"
     },
     {
         "dungeonRunId": "168675",
@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "168690",
-        "completedLevels": "36",
+        "completedLevels": "37",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2024-09-05 18:41:36",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder,common_specialists,archer_deadshot,musketeer_grapeshot,epic_ranged_dragonarrows,ranged_rangerquivers,warrior_swordofruin,general_damage,epic_epicaspirations,support_healingsong,flagbearer_rallydefense,archer_master_fletcher,support_doomingsong,amazon_vineclone,barbarian_bringthepain,spell_empower_highground,general_critical,lancer_spearwall,barbarian_immortal,ranged_rangergloves,tank_ironclad",
-        "nextNodeType": "winterdinos"
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "168682",
@@ -86,7 +86,7 @@
         "twitchDisplayName": "LilithSM",
         "startTime": "2024-09-05 21:37:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_damage,berserker_enrage,vampire_swarmcoffin,armored_unyieldingdefense,vampire_lordofthedead,warrior_swordofruin,lancer_sarissaspears,ranged_preciseshot,warbeast_underworldbeast,warrior_blademastery,ranged_rangerquivers,mage_clone,vampire_darkwings,barbarian_bringthepain,melee_finalcut",
+        "captainBoons": "common_classic_comeback,general_damage,berserker_enrage,vampire_swarmcoffin,armored_unyieldingdefense,vampire_lordofthedead,warrior_swordofruin,lancer_sarissaspears,ranged_preciseshot,warbeast_underworldbeast,warrior_blademastery,ranged_rangerquivers,mage_clone,vampire_darkwings,barbarian_bringthepain,melee_finalcut,barbarian_gloriousdeath",
         "nextNodeType": "icecaveportals"
     }
 ]
