@@ -54,6 +54,15 @@
         "nextNodeType": "winterdinos"
     },
     {
+        "dungeonRunId": "168716",
+        "completedLevels": "17",
+        "twitchDisplayName": "AeroGarfield29",
+        "startTime": "2024-09-05 20:48:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_blademastery,fairy_hocuspocus,lancer_firststrike,armored_ignorepain,warrior_flameslash,mage_clone,archer_deadshot,monk_snakestyle,epic_armored_armoredgiants,support_healingsong,archer_enchantedammo,buster_nanobusters,flagbearer_bannerofluck,melee_battlebracers,blob_parasite,bomber_dangerzone",
+        "nextNodeType": "crashzoneboss"
+    },
+    {
         "dungeonRunId": "168697",
         "completedLevels": "17",
         "twitchDisplayName": "AtticPlays",
@@ -61,15 +70,6 @@
         "endTime": "2024-09-05 21:21:06",
         "captainBoons": "common_classic_comeback,assassin_agility,support_enchantedstaves,archer_master_fletcher,general_resistance,warrior_flameslash,spell_empower_killingfield,general_recovery,support_defensivetraining,epic_melee_gloryofvictory,general_damage,general_wellrounded,warbeast_underworldbeast,general_cadence,bomber_flameinfusion,ranged_hamstring,armored_unyieldingdefense,assassin_valkyriegadget",
         "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "168716",
-        "completedLevels": "16",
-        "twitchDisplayName": "AeroGarfield29",
-        "startTime": "2024-09-05 20:48:59",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_blademastery,fairy_hocuspocus,lancer_firststrike,armored_ignorepain,warrior_flameslash,mage_clone,archer_deadshot,monk_snakestyle,epic_armored_armoredgiants,support_healingsong,archer_enchantedammo,buster_nanobusters,flagbearer_bannerofluck,melee_battlebracers,blob_parasite,bomber_dangerzone",
-        "nextNodeType": "sugarforest"
     },
     {
         "dungeonRunId": "168698",
