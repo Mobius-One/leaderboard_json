@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168675",
-        "completedLevels": "43",
+        "completedLevels": "44",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-09-05 18:03:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,warrior_flameslash,epic_assassin_serialkiller,ranged_hamstring,assassin_disappearingact,assassin_agility,elf_elvenimmortality,bomber_dangerzone,epic_watchfulleaders,epic_melee_gloryofvictory,epic_giantsbrewzero,saint_surgeofconfidence,epic_ranged_dragonarrows,general_resistance,melee_followup",
-        "nextNodeType": "lavachamber"
+        "captainBoons": "common_classic_comeback,saint_exalt,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,warrior_flameslash,epic_assassin_serialkiller,ranged_hamstring,assassin_disappearingact,assassin_agility,elf_elvenimmortality,bomber_dangerzone,epic_watchfulleaders,epic_melee_gloryofvictory,epic_giantsbrewzero,saint_surgeofconfidence,general_resistance,melee_followup",
+        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "168678",
@@ -14,7 +14,7 @@
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,necromancer_bombasticbones,assassin_spynetwork,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,assassin_valkyriegadget,epic_armored_armoredgiants,general_cadence,musketeer_grapeshot,healer_healing_bloom,warrior_blademastery,melee_followup,ranged_hamstring,general_recovery,monk_snakestyle,epic_assassin_serialkiller,support_doomingsong,barbarian_bringthepain,templar_beaconofhope,epic_giantsbrewzero,armored_shieldbash",
+        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,necromancer_bombasticbones,lancer_spearwall,bomber_living_bomb,bomber_dangerzone,assassin_valkyriegadget,epic_armored_armoredgiants,general_cadence,musketeer_grapeshot,healer_healing_bloom,warrior_blademastery,melee_followup,ranged_hamstring,general_recovery,monk_snakestyle,epic_assassin_serialkiller,support_doomingsong,barbarian_bringthepain,templar_beaconofhope,epic_giantsbrewzero,armored_shieldbash",
         "nextNodeType": "lavafurnace"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "168682",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-09-05 18:10:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder,spell_empower_haste,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance,archer_enchantedammo,archer_master_fletcher,saint_exalt,elf_elvenimmortality,fairy_nixiepops,warrior_blademastery,saint_surgeofconfidence,ensouled_bravespirits,lancer_sarissaspears,ranged_preciseshot,warbeast_underworldbeast,support_healingsong,monk_snakestyle,saint_skeletondance,healer_combatmedic,melee_battlebracers,centurion_unstoppableforce,bomber_dangerzone",
-        "nextNodeType": "alpharaiderssquare"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb,general_recovery,gladiator_sonofthunder,spell_empower_haste,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance,archer_enchantedammo,archer_master_fletcher,saint_exalt,elf_elvenimmortality,fairy_nixiepops,warrior_blademastery,saint_surgeofconfidence,ensouled_bravespirits,lancer_sarissaspears,ranged_preciseshot,warbeast_underworldbeast,support_healingsong,monk_snakestyle,saint_skeletondance,healer_combatmedic,melee_battlebracers,centurion_unstoppableforce,bomber_dangerzone,general_wellrounded",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "168673",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "168690",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2024-09-05 18:41:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder,common_specialists,archer_deadshot,musketeer_grapeshot,epic_ranged_dragonarrows,general_resistance,ranged_rangerquivers,warrior_swordofruin,general_damage,assassin_disappearingact,epic_epicaspirations,support_healingsong,flagbearer_rallydefense,archer_master_fletcher,support_doomingsong,general_wellrounded,amazon_vineclone,melee_carefulhunt",
-        "nextNodeType": "tabletopboard"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,gladiator_sonofthunder,common_specialists,archer_deadshot,musketeer_grapeshot,epic_ranged_dragonarrows,general_resistance,ranged_rangerquivers,warrior_swordofruin,general_damage,assassin_disappearingact,epic_epicaspirations,support_healingsong,flagbearer_rallydefense,archer_master_fletcher,support_doomingsong,general_wellrounded,amazon_vineclone,melee_carefulhunt,barbarian_bringthepain",
+        "nextNodeType": "wasterock"
     },
     {
         "dungeonRunId": "168697",
