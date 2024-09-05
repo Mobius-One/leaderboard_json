@@ -1,48 +1,57 @@
 [
     {
-        "dungeonRunId": "168674",
-        "completedLevels": "2",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-09-05 18:02:43",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,general_wellrounded",
-        "nextNodeType": "lavafurnace"
-    },
-    {
-        "dungeonRunId": "168673",
-        "completedLevels": "2",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-09-05 18:00:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle",
-        "nextNodeType": "crashzoneboss"
-    },
-    {
-        "dungeonRunId": "168677",
-        "completedLevels": "2",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-09-05 18:03:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,berserker_enrage",
-        "nextNodeType": "crashzoneboss"
-    },
-    {
         "dungeonRunId": "168675",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-09-05 18:03:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot",
-        "nextNodeType": "plaguelandboss"
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,epic_armored_armoredgiants",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "168678",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_speed",
-        "nextNodeType": "icecaveboss"
+        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense",
+        "nextNodeType": "sugarforest"
+    },
+    {
+        "dungeonRunId": "168674",
+        "completedLevels": "3",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-09-05 18:02:43",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,general_wellrounded,saint_skeletondance",
+        "nextNodeType": "sugarforest"
+    },
+    {
+        "dungeonRunId": "168673",
+        "completedLevels": "3",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-09-05 18:00:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle,epic_assassin_serialkiller",
+        "nextNodeType": "tabletopboard"
+    },
+    {
+        "dungeonRunId": "168677",
+        "completedLevels": "3",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-09-05 18:03:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,berserker_enrage,amazon_vineclone",
+        "nextNodeType": "thehiveconveyor"
+    },
+    {
+        "dungeonRunId": "168682",
+        "completedLevels": "1",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-09-05 18:10:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_layonhands",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "168680",
@@ -52,14 +61,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_rangergloves",
         "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "168682",
-        "completedLevels": "1",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-09-05 18:10:02",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback",
-        "nextNodeType": "thehiveconveyor"
     }
 ]
