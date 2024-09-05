@@ -1,5 +1,32 @@
 [
     {
+        "dungeonRunId": "168675",
+        "completedLevels": "7",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-09-05 18:03:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher",
+        "nextNodeType": "tabletopboard"
+    },
+    {
+        "dungeonRunId": "168673",
+        "completedLevels": "6",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-09-05 18:00:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle,epic_assassin_serialkiller,bomber_dangerzone,armored_heavyblades,monk_channel_chakra",
+        "nextNodeType": "sugarforest"
+    },
+    {
+        "dungeonRunId": "168674",
+        "completedLevels": "5",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-09-05 18:02:43",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,general_wellrounded,saint_skeletondance,flagbearer_bannerofluck,centurion_teambarbs",
+        "nextNodeType": "icecaveboss"
+    },
+    {
         "dungeonRunId": "168677",
         "completedLevels": "5",
         "twitchDisplayName": "ThaTrueBeast",
@@ -9,40 +36,13 @@
         "nextNodeType": "icecaveboss"
     },
     {
-        "dungeonRunId": "168673",
-        "completedLevels": "5",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-09-05 18:00:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle,epic_assassin_serialkiller,bomber_dangerzone,armored_heavyblades",
-        "nextNodeType": "wasterock"
-    },
-    {
-        "dungeonRunId": "168675",
-        "completedLevels": "5",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-09-05 18:03:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder",
-        "nextNodeType": "wasterock"
-    },
-    {
         "dungeonRunId": "168678",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance",
-        "nextNodeType": "lavachamber"
-    },
-    {
-        "dungeonRunId": "168674",
-        "completedLevels": "4",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-09-05 18:02:43",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,general_wellrounded,saint_skeletondance,flagbearer_bannerofluck",
-        "nextNodeType": "cruciblemeltdown"
+        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded",
+        "nextNodeType": "plaguelandboss"
     },
     {
         "dungeonRunId": "168682",
@@ -50,7 +50,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-09-05 18:10:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers",
+        "captainBoons": "common_classic_comeback,paladin_layonhands,flying_evasivemaneuvers,bomber_living_bomb",
         "nextNodeType": "retroriver"
     },
     {
@@ -59,16 +59,16 @@
         "twitchDisplayName": "nasbase",
         "startTime": "2024-09-05 18:06:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,epic_watchfulleaders",
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,epic_watchfulleaders,spell_empower_killingfield",
         "nextNodeType": "oasisruins"
     },
     {
         "dungeonRunId": "168686",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "PracticalRook",
         "startTime": "2024-09-05 18:18:58",
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_damage",
-        "nextNodeType": "cruciblemeltdown"
+        "nextNodeType": "icecaveboss"
     }
 ]
