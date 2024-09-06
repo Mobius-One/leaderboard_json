@@ -73,20 +73,20 @@
     },
     {
         "dungeonRunId": "168734",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_critical,melee_followup,epic_assassin_serialkiller,general_cadence,frogue_cloakingfield,human_humandestiny,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,epic_watchfulleaders,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,ensouled_fatedspirits,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad",
-        "nextNodeType": "retroriver"
+        "captainBoons": "common_classic_comeback,general_critical,melee_followup,epic_assassin_serialkiller,general_cadence,frogue_cloakingfield,human_humandestiny,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,epic_watchfulleaders,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,ensouled_fatedspirits,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "168722",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "A_Tall_Canadian",
         "startTime": "2024-09-05 21:38:24",
         "endTime": null,
         "captainBoons": "common_classic_comeback,rogue_flamewalker,ranged_preciseshot,epic_assassin_serialkiller,general_recovery,support_enchantedstaves,saint_skeletondance,general_damage,melee_battlebracers,armored_forceofwill,general_speed,melee_followup,fairy_nixiepops,general_resistance,musketeer_grapeshot,epic_armored_armoredgiants,assassin_spynetwork,general_wellrounded,vampire_swarmcoffin,vampire_darkwings,archer_enchantedammo,necromancer_bombasticbones",
-        "nextNodeType": "alpharaiderssquare"
+        "nextNodeType": "icecaveportals"
     }
 ]
