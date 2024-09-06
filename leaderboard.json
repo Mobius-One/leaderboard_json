@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168734",
-        "completedLevels": "63",
+        "completedLevels": "64",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,barbarian_immortal,warrior_blademastery",
-        "nextNodeType": "mothershiparmory"
+        "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,barbarian_immortal,warrior_blademastery",
+        "nextNodeType": "sugarforest"
     },
     {
         "dungeonRunId": "168678",
@@ -36,6 +36,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "168749",
+        "completedLevels": "39",
+        "twitchDisplayName": "RoseGaminDiva",
+        "startTime": "2024-09-06 00:52:29",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain,musketeer_grapeshot,gladiator_war_machine,ranged_preciseshot,amazon_vineclone,archer_deadshot,bomber_flameinfusion,general_recovery,healer_shadowword,artillery_pressure_fire,ranged_rangergloves,epic_ranged_dragonarrows,ranged_rangerquivers,melee_finalcut,healer_combatmedic,assassin_valkyriegadget,epic_giantsbrewzero,flying_evasivemaneuvers,barbarian_immortal,bomber_dangerzone,epic_watchfulleaders,epic_epicaspirations,flagbearer_bannerofluck,lancer_spearwall",
+        "nextNodeType": "plaguegrotto"
+    },
+    {
         "dungeonRunId": "168739",
         "completedLevels": "39",
         "twitchDisplayName": "3aglesdwm",
@@ -43,15 +52,6 @@
         "endTime": "2024-09-06 03:02:13",
         "captainBoons": "common_classic_comeback,warrior_blademastery,ranged_rangerquivers,general_critical,lancer_spearwall,ensouled_bravespirits,bomber_dangerzone,ensouled_fatedspirits,melee_battlebracers,amazon_vineclone,general_speed,melee_followup,warrior_swordofruin,ranged_ironbreakballistics,bomber_flameinfusion,lancer_sarissaspears,epic_watchfulleaders,bomber_living_bomb,saint_exalt,berserker_enrage,lancer_firststrike,archer_deadshot,ranged_preciseshot,ranged_rangergloves,flying_evasivemaneuvers",
         "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "168749",
-        "completedLevels": "38",
-        "twitchDisplayName": "RoseGaminDiva",
-        "startTime": "2024-09-06 00:52:29",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,musketeer_grapeshot,gladiator_war_machine,ranged_preciseshot,amazon_vineclone,archer_deadshot,bomber_flameinfusion,general_recovery,healer_shadowword,artillery_pressure_fire,ranged_rangergloves,epic_ranged_dragonarrows,ranged_rangerquivers,melee_finalcut,healer_combatmedic,assassin_valkyriegadget,epic_giantsbrewzero,flying_evasivemaneuvers,barbarian_immortal,bomber_dangerzone,epic_watchfulleaders,epic_epicaspirations,flagbearer_bannerofluck,lancer_spearwall",
-        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "168682",
