@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "168734",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_critical,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
-        "nextNodeType": "frontierroundup"
+        "captainBoons": "common_classic_comeback,general_critical,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "168675",
