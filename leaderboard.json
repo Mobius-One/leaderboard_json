@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "168734",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_critical,melee_followup,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
-        "nextNodeType": "icecaveboss"
+        "captainBoons": "common_classic_comeback,general_critical,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "168690",
@@ -45,6 +45,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "168739",
+        "completedLevels": "34",
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-09-05 23:14:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_blademastery,ranged_rangerquivers,general_critical,lancer_spearwall,ensouled_bravespirits,bomber_dangerzone,ensouled_fatedspirits,epic_epicaspirations,general_recovery,melee_battlebracers,amazon_vineclone,general_speed,melee_followup,warrior_swordofruin,ranged_ironbreakballistics,bomber_flameinfusion,lancer_sarissaspears,epic_watchfulleaders,bomber_living_bomb,saint_exalt,berserker_enrage,lancer_firststrike,archer_deadshot,ranged_preciseshot,ranged_rangergloves,flying_evasivemaneuvers",
+        "nextNodeType": "tabletopboard"
+    },
+    {
         "dungeonRunId": "168677",
         "completedLevels": "33",
         "twitchDisplayName": "ThaTrueBeast",
@@ -54,13 +63,13 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "168739",
-        "completedLevels": "33",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-09-05 23:14:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_blademastery,ranged_rangerquivers,general_critical,lancer_spearwall,ensouled_bravespirits,bomber_dangerzone,ensouled_fatedspirits,epic_epicaspirations,general_recovery,melee_battlebracers,amazon_vineclone,general_speed,melee_followup,warrior_swordofruin,ranged_ironbreakballistics,bomber_flameinfusion,lancer_sarissaspears,epic_watchfulleaders,bomber_living_bomb,saint_exalt,berserker_enrage,lancer_firststrike,archer_deadshot,ranged_preciseshot,artillery_pressure_fire,ranged_rangergloves,flying_evasivemaneuvers",
-        "nextNodeType": "retroriver"
+        "dungeonRunId": "168673",
+        "completedLevels": "28",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-09-05 18:00:36",
+        "endTime": "2024-09-05 20:38:18",
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle,epic_assassin_serialkiller,bomber_dangerzone,armored_heavyblades,monk_channel_chakra,warrior_blademastery,assassin_valkyriegadget,common_specialists,general_resistance,assassin_disappearingact,warbeast_underworldbeast,melee_charge,ensouled_enragedspirits,epic_epicaspirations,general_critical,berserker_enrage,ranged_hamstring,armored_ignorepain,rogue_skeletonturret,lancer_firststrike,general_cadence,ensouled_fatedspirits,human_humandestiny,support_healingsong,melee_followup,warrior_swordofruin,saint_exalt",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "168716",
@@ -70,15 +79,6 @@
         "endTime": "2024-09-06 00:56:50",
         "captainBoons": "common_classic_comeback,warrior_blademastery,fairy_hocuspocus,lancer_firststrike,armored_ignorepain,warrior_flameslash,mage_clone,archer_deadshot,monk_snakestyle,epic_armored_armoredgiants,support_healingsong,archer_enchantedammo,buster_nanobusters,flagbearer_bannerofluck,melee_battlebracers,blob_parasite,bomber_dangerzone,berserker_enrage,epic_melee_gloryofvictory,tank_battlefieldcontrol,ensouled_fatedspirits,spell_empower_highground,rogue_flamewalker,assassin_valkyriegadget,epic_assassin_serialkiller,melee_carefulhunt,healer_shadowword,saint_skeletondance,general_damage",
         "nextNodeType": "tabletopboard"
-    },
-    {
-        "dungeonRunId": "168673",
-        "completedLevels": "28",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-09-05 18:00:36",
-        "endTime": "2024-09-05 20:38:18",
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_snakestyle,epic_assassin_serialkiller,bomber_dangerzone,armored_heavyblades,monk_channel_chakra,warrior_blademastery,assassin_valkyriegadget,common_specialists,general_resistance,assassin_disappearingact,warbeast_underworldbeast,melee_charge,ensouled_enragedspirits,epic_epicaspirations,general_critical,berserker_enrage,ranged_hamstring,armored_ignorepain,rogue_skeletonturret,lancer_firststrike,general_cadence,ensouled_fatedspirits,human_humandestiny,support_healingsong,melee_followup,warrior_swordofruin,saint_exalt",
-        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "168719",
