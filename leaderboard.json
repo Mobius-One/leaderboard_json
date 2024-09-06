@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168678",
-        "completedLevels": "54",
+        "completedLevels": "55",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,bomber_living_bomb,bomber_dangerzone,general_cadence,melee_followup,ranged_hamstring,general_recovery,monk_snakestyle,support_doomingsong,epic_giantsbrewzero",
-        "nextNodeType": "tabletopboard"
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "168675",
@@ -45,6 +45,15 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
+        "dungeonRunId": "168716",
+        "completedLevels": "28",
+        "twitchDisplayName": "AeroGarfield29",
+        "startTime": "2024-09-05 20:48:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_blademastery,fairy_hocuspocus,lancer_firststrike,armored_ignorepain,warrior_flameslash,mage_clone,archer_deadshot,monk_snakestyle,epic_armored_armoredgiants,support_healingsong,archer_enchantedammo,buster_nanobusters,flagbearer_bannerofluck,melee_battlebracers,blob_parasite,bomber_dangerzone,berserker_enrage,epic_melee_gloryofvictory,tank_battlefieldcontrol,ensouled_fatedspirits,spell_empower_highground,rogue_flamewalker,assassin_valkyriegadget,epic_assassin_serialkiller,melee_carefulhunt,healer_shadowword,saint_skeletondance,general_damage",
+        "nextNodeType": "tabletopboard"
+    },
+    {
         "dungeonRunId": "168673",
         "completedLevels": "28",
         "twitchDisplayName": "Meistar",
@@ -54,31 +63,22 @@
         "nextNodeType": "winterdinos"
     },
     {
-        "dungeonRunId": "168716",
-        "completedLevels": "27",
-        "twitchDisplayName": "AeroGarfield29",
-        "startTime": "2024-09-05 20:48:59",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_blademastery,fairy_hocuspocus,lancer_firststrike,armored_ignorepain,warrior_flameslash,mage_clone,archer_deadshot,monk_snakestyle,epic_armored_armoredgiants,support_healingsong,archer_enchantedammo,buster_nanobusters,flagbearer_bannerofluck,melee_battlebracers,blob_parasite,bomber_dangerzone,berserker_enrage,epic_melee_gloryofvictory,tank_battlefieldcontrol,ensouled_fatedspirits,spell_empower_highground,rogue_flamewalker,assassin_valkyriegadget,epic_assassin_serialkiller,melee_carefulhunt,healer_shadowword,saint_skeletondance",
-        "nextNodeType": "thehiveconveyor"
-    },
-    {
         "dungeonRunId": "168719",
-        "completedLevels": "26",
+        "completedLevels": "27",
         "twitchDisplayName": "redspecter23",
         "startTime": "2024-09-05 21:10:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_cadence,epic_giantsblessing,bomber_living_bomb,epic_giantsbrewzero,melee_followup,berserker_eyeofthestorm,general_critical,rogue_skeletonturret,epic_melee_gloryofvictory,lancer_sarissaspears,ranged_rangerquivers,epic_armored_armoredgiants,saint_exalt,support_enchantedstaves,epic_epicaspirations,bomber_dangerzone,frogue_cloakingfield,blob_parasite,archer_deadshot,flagbearer_rallydefense,flagbearer_deathbegetslife,general_speed,ensouled_enragedspirits,spell_empower_highground,ranged_ironbreakballistics,ensouled_fatedspirits",
-        "nextNodeType": "icecaveboss"
+        "captainBoons": "common_classic_comeback,general_cadence,epic_giantsblessing,bomber_living_bomb,epic_giantsbrewzero,melee_followup,berserker_eyeofthestorm,general_critical,rogue_skeletonturret,epic_melee_gloryofvictory,lancer_sarissaspears,ranged_rangerquivers,epic_armored_armoredgiants,saint_exalt,support_enchantedstaves,epic_epicaspirations,bomber_dangerzone,frogue_cloakingfield,blob_parasite,archer_deadshot,flagbearer_rallydefense,flagbearer_deathbegetslife,general_speed,ensouled_enragedspirits,spell_empower_highground,ranged_ironbreakballistics,ensouled_fatedspirits,templar_beaconofhope",
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "168734",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_critical,melee_followup,epic_assassin_serialkiller,general_cadence,frogue_cloakingfield,human_humandestiny,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,epic_watchfulleaders,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,ensouled_fatedspirits,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal",
-        "nextNodeType": "thehiveconveyor"
+        "captainBoons": "common_classic_comeback,general_critical,melee_followup,epic_assassin_serialkiller,general_cadence,frogue_cloakingfield,human_humandestiny,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,epic_watchfulleaders,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,ensouled_fatedspirits,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers",
+        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "168722",
@@ -86,7 +86,7 @@
         "twitchDisplayName": "A_Tall_Canadian",
         "startTime": "2024-09-05 21:38:24",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_flamewalker,ranged_preciseshot,epic_assassin_serialkiller,general_recovery,support_enchantedstaves,saint_skeletondance,general_damage,melee_battlebracers,armored_forceofwill,general_speed,melee_followup,fairy_nixiepops,general_resistance,musketeer_grapeshot,epic_armored_armoredgiants,assassin_spynetwork,general_wellrounded,vampire_swarmcoffin,vampire_darkwings,archer_enchantedammo,necromancer_bombasticbones",
+        "captainBoons": "common_classic_comeback,rogue_flamewalker,ranged_preciseshot,epic_assassin_serialkiller,general_recovery,support_enchantedstaves,saint_skeletondance,general_damage,melee_battlebracers,armored_forceofwill,general_speed,melee_followup,fairy_nixiepops,general_resistance,musketeer_grapeshot,epic_armored_armoredgiants,assassin_spynetwork,general_wellrounded,vampire_swarmcoffin,vampire_darkwings,archer_enchantedammo,necromancer_bombasticbones,tank_battlefieldcontrol",
         "nextNodeType": "icecaveportals"
     }
 ]
