@@ -72,6 +72,15 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
+        "dungeonRunId": "168802",
+        "completedLevels": "32",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-06 09:39:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,spell_empower_haste,flying_evasivemaneuvers,musk_hunters_mark,general_cadence,bomber_flameinfusion,ensouled_bravespirits,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,epic_melee_gloryofvictory,tank_battlefieldcontrol,epic_giantsblessing,ensouled_heroicspirits,epic_giantsbrewzero,epic_watchfulleaders,spell_empower_highground,healer_combatmedic,ensouled_fatedspirits",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
         "dungeonRunId": "168743",
         "completedLevels": "32",
         "twitchDisplayName": "one_l0ve_710",
@@ -79,14 +88,5 @@
         "endTime": "2024-09-06 04:23:29",
         "captainBoons": "common_classic_comeback,general_damage,assassin_disappearingact,saint_skeletondance,general_critical,general_wellrounded,armored_forceofwill,archer_deadshot,saint_surgeofconfidence,archer_master_fletcher,general_cadence,vampire_lordofthedead,common_specialists,tank_battlefieldcontrol,bomber_flameinfusion,rogue_flamewalker,flagbearer_rallydefense,vampire_darkwings,archer_enchantedammo,assassin_demoralize,general_recovery,centurion_teambarbs,blob_parasite,assassin_spynetwork,support_enchantedstaves,spy_fromcaptainwithlove,bomber_dangerzone,assassin_valkyriegadget",
         "nextNodeType": "crashzoneboss"
-    },
-    {
-        "dungeonRunId": "168795",
-        "completedLevels": "31",
-        "twitchDisplayName": "La_Ferme_de_Karpe",
-        "startTime": "2024-09-06 09:18:44",
-        "endTime": "2024-09-06 12:17:53",
-        "captainBoons": "common_classic_comeback,general_damage,melee_followup,orcslayer_worldrazer,epic_giantsbrewzero,ensouled_enragedspirits,warrior_swordofruin,assassin_agility,ensouled_fatedspirits,epic_epicaspirations,warrior_blademastery,assassin_disappearingact,assassin_demoralize,general_critical,rogue_skeletonturret,epic_assassin_serialkiller,tank_battlefieldcontrol,armored_shieldbash,amazon_vineclone,bomber_dangerzone,epic_giantsblessing,artillery_pressure_fire,saint_exalt,assassin_valkyriegadget,spell_empower_haste,flagbearer_bannerofluck,saint_surgeofconfidence,common_specialists,assassin_spynetwork",
-        "nextNodeType": "cruciblemeltdown"
     }
 ]
