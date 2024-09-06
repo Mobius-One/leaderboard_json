@@ -63,6 +63,15 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
+        "dungeonRunId": "168841",
+        "completedLevels": "35",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-09-06 14:41:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_cadence,saint_surgeofconfidence,bomber_living_bomb,ranged_rangergloves,ranged_preciseshot,epic_melee_gloryofvictory,bomber_dangerzone,bomber_flameinfusion,orcslayer_worldrazer,melee_carefulhunt,assassin_valkyriegadget,epic_assassin_serialkiller,warrior_blademastery,ensouled_fatedspirits,support_healingsong,assassin_disappearingact,ranged_hamstring,armored_ignorepain,epic_watchfulleaders,buster_nanobusters,robot_robotauthority,warbeast_underworldbeast,lancer_sarissaspears,ranged_rangerquivers,ranged_ironbreakballistics,melee_followup",
+        "nextNodeType": "icecaveboss"
+    },
+    {
         "dungeonRunId": "168682",
         "completedLevels": "35",
         "twitchDisplayName": "Rafipi",
@@ -72,21 +81,12 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "168841",
-        "completedLevels": "34",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-09-06 14:41:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_cadence,saint_surgeofconfidence,bomber_living_bomb,ranged_rangergloves,ranged_preciseshot,epic_melee_gloryofvictory,bomber_dangerzone,bomber_flameinfusion,orcslayer_worldrazer,melee_carefulhunt,assassin_valkyriegadget,epic_assassin_serialkiller,warrior_blademastery,ensouled_fatedspirits,support_healingsong,assassin_disappearingact,ranged_hamstring,armored_ignorepain,epic_watchfulleaders,buster_nanobusters,robot_robotauthority,warbeast_underworldbeast,lancer_sarissaspears,ranged_rangerquivers,ranged_ironbreakballistics,melee_followup",
-        "nextNodeType": "retroriver"
-    },
-    {
-        "dungeonRunId": "168677",
+        "dungeonRunId": "168857",
         "completedLevels": "33",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-09-05 18:03:54",
-        "endTime": "2024-09-05 22:04:16",
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,berserker_enrage,amazon_vineclone,bomber_dangerzone,gladiator_sonofthunder,flagbearer_deathbegetslife,archer_deadshot,elf_elvenimmortality,melee_finalcut,epic_giantsbrewzero,melee_followup,spell_empower_highground,armored_ignorepain,ranged_rangergloves,armored_heavyblades,gladiator_war_machine,warrior_blademastery,bomber_flameinfusion,blob_parasite,general_damage,tank_ironclad,spell_empower_haste,general_resistance,assassin_valkyriegadget,support_divineintervention,armored_unyieldingdefense,musketeer_grapeshot",
-        "nextNodeType": "cruciblemeltdown"
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-09-06 16:16:32",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_flameslash,barbarian_immortal,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,lancer_firststrike,bomber_dangerzone,ensouled_enragedspirits,saint_skeletondance,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,lancer_sarissaspears,blob_parasite,bomber_flameinfusion",
+        "nextNodeType": "oasisruins"
     }
 ]
