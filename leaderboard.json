@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "168734",
-        "completedLevels": "60",
+        "completedLevels": "61",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,barbarian_immortal,warrior_blademastery,armored_ignorepain",
-        "nextNodeType": "alpharaiderssquare"
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "168675",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "168749",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-09-06 00:52:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,musketeer_grapeshot,gladiator_war_machine,ranged_preciseshot,amazon_vineclone,archer_deadshot,bomber_flameinfusion,general_recovery,healer_shadowword,artillery_pressure_fire,ranged_rangergloves,epic_ranged_dragonarrows,paladin_layonhands,ranged_rangerquivers,melee_finalcut,healer_combatmedic,assassin_valkyriegadget,bomber_living_bomb,epic_giantsbrewzero,flying_evasivemaneuvers,barbarian_immortal,bomber_dangerzone,epic_watchfulleaders,epic_epicaspirations,flagbearer_bannerofluck,lancer_spearwall",
-        "nextNodeType": "lavafurnace"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,musketeer_grapeshot,gladiator_war_machine,ranged_preciseshot,amazon_vineclone,archer_deadshot,bomber_flameinfusion,general_recovery,healer_shadowword,artillery_pressure_fire,ranged_rangergloves,epic_ranged_dragonarrows,paladin_layonhands,ranged_rangerquivers,melee_finalcut,healer_combatmedic,assassin_valkyriegadget,epic_giantsbrewzero,flying_evasivemaneuvers,barbarian_immortal,bomber_dangerzone,epic_watchfulleaders,epic_epicaspirations,flagbearer_bannerofluck,lancer_spearwall",
+        "nextNodeType": "sugarforest"
     },
     {
         "dungeonRunId": "168682",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "168743",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "one_l0ve_710",
         "startTime": "2024-09-05 23:40:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_damage,assassin_disappearingact,saint_skeletondance,general_critical,general_wellrounded,armored_forceofwill,archer_deadshot,saint_surgeofconfidence,archer_master_fletcher,general_cadence,vampire_lordofthedead,common_specialists,tank_battlefieldcontrol,bomber_flameinfusion,musk_hunters_mark,rogue_flamewalker,flagbearer_rallydefense,epic_ranged_dragonarrows,vampire_darkwings,archer_enchantedammo,assassin_demoralize,general_recovery,centurion_teambarbs,blob_parasite,assassin_spynetwork,support_enchantedstaves,spy_fromcaptainwithlove,bomber_dangerzone,assassin_valkyriegadget",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,general_damage,assassin_disappearingact,saint_skeletondance,general_critical,general_wellrounded,armored_forceofwill,archer_deadshot,saint_surgeofconfidence,archer_master_fletcher,general_cadence,vampire_lordofthedead,common_specialists,tank_battlefieldcontrol,bomber_flameinfusion,musk_hunters_mark,rogue_flamewalker,flagbearer_rallydefense,vampire_darkwings,archer_enchantedammo,assassin_demoralize,general_recovery,centurion_teambarbs,blob_parasite,assassin_spynetwork,support_enchantedstaves,spy_fromcaptainwithlove,bomber_dangerzone,assassin_valkyriegadget",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "168716",
