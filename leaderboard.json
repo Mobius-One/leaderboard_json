@@ -54,6 +54,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "168857",
+        "completedLevels": "40",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-09-06 16:16:32",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,lancer_firststrike,bomber_dangerzone,ensouled_enragedspirits,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,blob_parasite,bomber_flameinfusion",
+        "nextNodeType": "raidhallalake"
+    },
+    {
         "dungeonRunId": "168739",
         "completedLevels": "39",
         "twitchDisplayName": "3aglesdwm",
@@ -61,15 +70,6 @@
         "endTime": "2024-09-06 03:02:13",
         "captainBoons": "common_classic_comeback,warrior_blademastery,ranged_rangerquivers,general_critical,lancer_spearwall,ensouled_bravespirits,bomber_dangerzone,ensouled_fatedspirits,melee_battlebracers,amazon_vineclone,general_speed,melee_followup,warrior_swordofruin,ranged_ironbreakballistics,bomber_flameinfusion,lancer_sarissaspears,epic_watchfulleaders,bomber_living_bomb,saint_exalt,berserker_enrage,lancer_firststrike,archer_deadshot,ranged_preciseshot,ranged_rangergloves,flying_evasivemaneuvers",
         "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "168857",
-        "completedLevels": "39",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-09-06 16:16:32",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,lancer_firststrike,bomber_dangerzone,ensouled_enragedspirits,saint_skeletondance,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,blob_parasite,bomber_flameinfusion",
-        "nextNodeType": "sugarforest"
     },
     {
         "dungeonRunId": "168841",
