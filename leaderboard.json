@@ -81,12 +81,12 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "168779",
+        "dungeonRunId": "168795",
         "completedLevels": "31",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-06 05:41:31",
-        "endTime": "2024-09-06 09:12:35",
-        "captainBoons": "common_classic_comeback,general_cadence,ranged_rangerquivers,armored_forceofwill,armored_ignorepain,ranged_preciseshot,assassin_demoralize,assassin_spynetwork,frogue_cloakingfield,general_damage,archer_enchantedammo,blob_parasite,support_doomingsong,ensouled_fatedspirits,paladin_holyforce,epic_giantsbrewzero,lancer_spearwall,barbarian_immortal,lancer_sarissaspears,warrior_flameslash,spell_empower_curse,barbarian_gloriousdeath,support_enchantedstaves,bomber_living_bomb,support_healingsong,assassin_disappearingact,musk_hunters_mark,saint_exalt,epic_giantsblessing",
-        "nextNodeType": "winterdinos"
+        "twitchDisplayName": "La_Ferme_de_Karpe",
+        "startTime": "2024-09-06 09:18:44",
+        "endTime": "2024-09-06 12:17:53",
+        "captainBoons": "common_classic_comeback,general_damage,melee_followup,orcslayer_worldrazer,epic_giantsbrewzero,ensouled_enragedspirits,warrior_swordofruin,assassin_agility,ensouled_fatedspirits,epic_epicaspirations,warrior_blademastery,assassin_disappearingact,assassin_demoralize,general_critical,rogue_skeletonturret,epic_assassin_serialkiller,tank_battlefieldcontrol,armored_shieldbash,amazon_vineclone,bomber_dangerzone,epic_giantsblessing,artillery_pressure_fire,saint_exalt,assassin_valkyriegadget,spell_empower_haste,flagbearer_bannerofluck,saint_surgeofconfidence,common_specialists,assassin_spynetwork",
+        "nextNodeType": "cruciblemeltdown"
     }
 ]
