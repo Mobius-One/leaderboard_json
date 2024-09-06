@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168678",
-        "completedLevels": "58",
+        "completedLevels": "59",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,bomber_living_bomb,bomber_dangerzone,general_cadence,melee_followup,ranged_hamstring,monk_snakestyle,support_doomingsong",
-        "nextNodeType": "thehiveconveyor"
+        "nextNodeType": "wasterock"
     },
     {
         "dungeonRunId": "168675",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "168734",
-        "completedLevels": "31",
+        "completedLevels": "32",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_critical,melee_followup,epic_assassin_serialkiller,general_cadence,frogue_cloakingfield,human_humandestiny,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,epic_watchfulleaders,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
-        "nextNodeType": "cruciblemeltdown"
+        "captainBoons": "common_classic_comeback,general_critical,melee_followup,epic_assassin_serialkiller,frogue_cloakingfield,human_humandestiny,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,epic_watchfulleaders,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
+        "nextNodeType": "plaguelandboss"
     },
     {
         "dungeonRunId": "168716",
@@ -81,12 +81,12 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "168722",
-        "completedLevels": "24",
-        "twitchDisplayName": "A_Tall_Canadian",
-        "startTime": "2024-09-05 21:38:24",
+        "dungeonRunId": "168739",
+        "completedLevels": "25",
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-09-05 23:14:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_flamewalker,ranged_preciseshot,epic_assassin_serialkiller,general_recovery,support_enchantedstaves,saint_skeletondance,general_damage,melee_battlebracers,armored_forceofwill,general_speed,melee_followup,fairy_nixiepops,general_resistance,musketeer_grapeshot,epic_armored_armoredgiants,assassin_spynetwork,general_wellrounded,vampire_swarmcoffin,vampire_darkwings,archer_enchantedammo,necromancer_bombasticbones,tank_battlefieldcontrol,tank_ironclad,frogue_vanishing_powder",
-        "nextNodeType": "retroriver"
+        "captainBoons": "common_classic_comeback,warrior_blademastery,ranged_rangerquivers,musk_hunters_mark,general_critical,lancer_spearwall,ensouled_bravespirits,bomber_dangerzone,ensouled_fatedspirits,epic_epicaspirations,general_recovery,melee_battlebracers,amazon_vineclone,general_speed,melee_followup,warrior_swordofruin,ranged_ironbreakballistics,bomber_flameinfusion,spell_empower_haste,lancer_sarissaspears,epic_watchfulleaders,bomber_living_bomb,saint_exalt,berserker_enrage,lancer_firststrike,archer_deadshot",
+        "nextNodeType": "mothershiparmory"
     }
 ]
