@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "168857",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-09-06 16:16:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,lancer_firststrike,bomber_dangerzone,ensouled_enragedspirits,saint_skeletondance,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,blob_parasite,bomber_flameinfusion",
-        "nextNodeType": "crashzoneboss"
+        "nextNodeType": "sugarforest"
     },
     {
         "dungeonRunId": "168841",
