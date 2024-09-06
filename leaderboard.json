@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168678",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-05 18:04:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,bomber_living_bomb,bomber_dangerzone,general_cadence,melee_followup,ranged_hamstring,general_recovery,monk_snakestyle,support_doomingsong",
-        "nextNodeType": "alpharaiderssquare"
+        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,general_wellrounded,epic_epicaspirations,archer_deadshot,bomber_living_bomb,bomber_dangerzone,general_cadence,melee_followup,ranged_hamstring,monk_snakestyle,support_doomingsong",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "168675",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "168734",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_critical,melee_followup,epic_assassin_serialkiller,general_cadence,frogue_cloakingfield,human_humandestiny,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,epic_watchfulleaders,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
-        "nextNodeType": "sugarforest"
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "168716",
