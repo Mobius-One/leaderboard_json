@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "168734",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,tank_ironclad,barbarian_immortal,warrior_blademastery,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
+        "nextNodeType": "wasterock"
     },
     {
         "dungeonRunId": "168675",
@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "168739",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "3aglesdwm",
         "startTime": "2024-09-05 23:14:25",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_blademastery,ranged_rangerquivers,general_critical,lancer_spearwall,ensouled_bravespirits,bomber_dangerzone,ensouled_fatedspirits,melee_battlebracers,amazon_vineclone,general_speed,melee_followup,warrior_swordofruin,ranged_ironbreakballistics,bomber_flameinfusion,lancer_sarissaspears,epic_watchfulleaders,bomber_living_bomb,saint_exalt,berserker_enrage,lancer_firststrike,archer_deadshot,ranged_preciseshot,ranged_rangergloves,flying_evasivemaneuvers",
-        "nextNodeType": "plaguelandboss"
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "168682",
