@@ -81,12 +81,12 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "168716",
-        "completedLevels": "28",
-        "twitchDisplayName": "AeroGarfield29",
-        "startTime": "2024-09-05 20:48:59",
-        "endTime": "2024-09-06 00:56:50",
-        "captainBoons": "common_classic_comeback,warrior_blademastery,fairy_hocuspocus,lancer_firststrike,armored_ignorepain,warrior_flameslash,mage_clone,archer_deadshot,monk_snakestyle,epic_armored_armoredgiants,support_healingsong,archer_enchantedammo,buster_nanobusters,flagbearer_bannerofluck,melee_battlebracers,blob_parasite,bomber_dangerzone,berserker_enrage,epic_melee_gloryofvictory,tank_battlefieldcontrol,ensouled_fatedspirits,spell_empower_highground,rogue_flamewalker,assassin_valkyriegadget,epic_assassin_serialkiller,melee_carefulhunt,healer_shadowword,saint_skeletondance,general_damage",
-        "nextNodeType": "tabletopboard"
+        "dungeonRunId": "168779",
+        "completedLevels": "29",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-06 05:41:31",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_cadence,ranged_rangerquivers,armored_forceofwill,armored_ignorepain,ranged_preciseshot,assassin_demoralize,assassin_spynetwork,frogue_cloakingfield,centurion_unstoppableforce,general_damage,archer_enchantedammo,blob_parasite,support_doomingsong,ensouled_fatedspirits,paladin_holyforce,epic_giantsbrewzero,lancer_spearwall,barbarian_immortal,lancer_sarissaspears,warrior_flameslash,spell_empower_curse,barbarian_gloriousdeath,support_enchantedstaves,bomber_living_bomb,support_healingsong,assassin_disappearingact,musk_hunters_mark,saint_exalt,epic_giantsblessing",
+        "nextNodeType": "dungeons_jerry"
     }
 ]
