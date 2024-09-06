@@ -63,21 +63,21 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "168802",
+        "completedLevels": "34",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-06 09:39:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,spell_empower_haste,flying_evasivemaneuvers,musk_hunters_mark,general_cadence,bomber_flameinfusion,ensouled_bravespirits,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,tank_battlefieldcontrol,epic_giantsblessing,ensouled_heroicspirits,epic_giantsbrewzero,epic_watchfulleaders,spell_empower_highground,healer_combatmedic,ensouled_fatedspirits",
+        "nextNodeType": "retroriver"
+    },
+    {
         "dungeonRunId": "168677",
         "completedLevels": "33",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-09-05 18:03:54",
         "endTime": "2024-09-05 22:04:16",
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,berserker_enrage,amazon_vineclone,bomber_dangerzone,gladiator_sonofthunder,flagbearer_deathbegetslife,archer_deadshot,elf_elvenimmortality,melee_finalcut,epic_giantsbrewzero,melee_followup,spell_empower_highground,armored_ignorepain,ranged_rangergloves,armored_heavyblades,gladiator_war_machine,warrior_blademastery,bomber_flameinfusion,blob_parasite,general_damage,tank_ironclad,spell_empower_haste,general_resistance,assassin_valkyriegadget,support_divineintervention,armored_unyieldingdefense,musketeer_grapeshot",
-        "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "168802",
-        "completedLevels": "33",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-06 09:39:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,spell_empower_haste,flying_evasivemaneuvers,musk_hunters_mark,general_cadence,bomber_flameinfusion,ensouled_bravespirits,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,epic_melee_gloryofvictory,tank_battlefieldcontrol,epic_giantsblessing,ensouled_heroicspirits,epic_giantsbrewzero,epic_watchfulleaders,spell_empower_highground,healer_combatmedic,ensouled_fatedspirits",
         "nextNodeType": "cruciblemeltdown"
     },
     {
