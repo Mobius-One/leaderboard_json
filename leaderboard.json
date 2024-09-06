@@ -54,6 +54,15 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
+        "dungeonRunId": "168802",
+        "completedLevels": "35",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-06 09:39:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,spell_empower_haste,flying_evasivemaneuvers,musk_hunters_mark,general_cadence,bomber_flameinfusion,ensouled_bravespirits,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,tank_battlefieldcontrol,epic_giantsblessing,ensouled_heroicspirits,epic_giantsbrewzero,epic_watchfulleaders,spell_empower_highground,healer_combatmedic,ensouled_fatedspirits",
+        "nextNodeType": "wasterock"
+    },
+    {
         "dungeonRunId": "168682",
         "completedLevels": "35",
         "twitchDisplayName": "Rafipi",
@@ -61,15 +70,6 @@
         "endTime": "2024-09-05 22:43:16",
         "captainBoons": "common_classic_comeback,paladin_layonhands,bomber_living_bomb,general_recovery,gladiator_sonofthunder,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance,archer_enchantedammo,archer_master_fletcher,saint_exalt,elf_elvenimmortality,fairy_nixiepops,warrior_blademastery,saint_surgeofconfidence,ensouled_bravespirits,lancer_sarissaspears,ranged_preciseshot,warbeast_underworldbeast,monk_snakestyle,saint_skeletondance,healer_combatmedic,melee_battlebracers,centurion_unstoppableforce,bomber_dangerzone,general_wellrounded",
         "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "168802",
-        "completedLevels": "34",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-06 09:39:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,spell_empower_haste,flying_evasivemaneuvers,musk_hunters_mark,general_cadence,bomber_flameinfusion,ensouled_bravespirits,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,tank_battlefieldcontrol,epic_giantsblessing,ensouled_heroicspirits,epic_giantsbrewzero,epic_watchfulleaders,spell_empower_highground,healer_combatmedic,ensouled_fatedspirits",
-        "nextNodeType": "retroriver"
     },
     {
         "dungeonRunId": "168677",
