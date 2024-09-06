@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "168734",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,tank_ironclad,barbarian_immortal,warrior_blademastery,armored_ignorepain,saint_surgeofconfidence",
-        "nextNodeType": "cruciblemeltdown"
+        "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,tank_ironclad,barbarian_immortal,warrior_blademastery,armored_ignorepain",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "168675",
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "168749",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-09-06 00:52:29",
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_ignorepain,musketeer_grapeshot,gladiator_war_machine,ranged_preciseshot,amazon_vineclone,archer_deadshot,bomber_flameinfusion,general_recovery,healer_shadowword,artillery_pressure_fire,ranged_rangergloves,support_defensivetraining,epic_ranged_dragonarrows,paladin_layonhands,ranged_rangerquivers,melee_finalcut,healer_combatmedic,assassin_valkyriegadget,bomber_living_bomb,epic_giantsbrewzero,flying_evasivemaneuvers,barbarian_immortal,bomber_dangerzone,epic_watchfulleaders,epic_epicaspirations,flagbearer_bannerofluck,lancer_spearwall",
-        "nextNodeType": "crashzoneboss"
+        "nextNodeType": "mothershiparmory"
     },
     {
         "dungeonRunId": "168716",
