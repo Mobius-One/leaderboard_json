@@ -9,6 +9,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "168734",
+        "completedLevels": "45",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-09-05 22:41:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_critical,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
+        "nextNodeType": "frontierroundup"
+    },
+    {
         "dungeonRunId": "168675",
         "completedLevels": "44",
         "twitchDisplayName": "Hairtrigger83",
@@ -16,15 +25,6 @@
         "endTime": "2024-09-05 21:43:13",
         "captainBoons": "common_classic_comeback,saint_exalt,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,warrior_flameslash,epic_assassin_serialkiller,ranged_hamstring,assassin_disappearingact,assassin_agility,elf_elvenimmortality,bomber_dangerzone,epic_watchfulleaders,epic_melee_gloryofvictory,epic_giantsbrewzero,saint_surgeofconfidence,general_resistance,melee_followup",
         "nextNodeType": "crashzoneboss"
-    },
-    {
-        "dungeonRunId": "168734",
-        "completedLevels": "44",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-09-05 22:41:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_critical,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain,saint_surgeofconfidence",
-        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "168690",
@@ -36,6 +36,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "168739",
+        "completedLevels": "36",
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-09-05 23:14:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_blademastery,ranged_rangerquivers,general_critical,lancer_spearwall,ensouled_bravespirits,bomber_dangerzone,ensouled_fatedspirits,epic_epicaspirations,melee_battlebracers,amazon_vineclone,general_speed,melee_followup,warrior_swordofruin,ranged_ironbreakballistics,bomber_flameinfusion,lancer_sarissaspears,epic_watchfulleaders,bomber_living_bomb,saint_exalt,berserker_enrage,lancer_firststrike,archer_deadshot,ranged_preciseshot,ranged_rangergloves,flying_evasivemaneuvers",
+        "nextNodeType": "thehiveconveyor"
+    },
+    {
         "dungeonRunId": "168682",
         "completedLevels": "35",
         "twitchDisplayName": "Rafipi",
@@ -43,15 +52,6 @@
         "endTime": "2024-09-05 22:43:16",
         "captainBoons": "common_classic_comeback,paladin_layonhands,bomber_living_bomb,general_recovery,gladiator_sonofthunder,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance,archer_enchantedammo,archer_master_fletcher,saint_exalt,elf_elvenimmortality,fairy_nixiepops,warrior_blademastery,saint_surgeofconfidence,ensouled_bravespirits,lancer_sarissaspears,ranged_preciseshot,warbeast_underworldbeast,monk_snakestyle,saint_skeletondance,healer_combatmedic,melee_battlebracers,centurion_unstoppableforce,bomber_dangerzone,general_wellrounded",
         "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "168739",
-        "completedLevels": "35",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-09-05 23:14:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_blademastery,ranged_rangerquivers,general_critical,lancer_spearwall,ensouled_bravespirits,bomber_dangerzone,ensouled_fatedspirits,epic_epicaspirations,general_recovery,melee_battlebracers,amazon_vineclone,general_speed,melee_followup,warrior_swordofruin,ranged_ironbreakballistics,bomber_flameinfusion,lancer_sarissaspears,epic_watchfulleaders,bomber_living_bomb,saint_exalt,berserker_enrage,lancer_firststrike,archer_deadshot,ranged_preciseshot,ranged_rangergloves,flying_evasivemaneuvers",
-        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "168677",
