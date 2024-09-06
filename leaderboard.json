@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168734",
-        "completedLevels": "69",
+        "completedLevels": "70",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,barbarian_immortal,warrior_blademastery",
-        "nextNodeType": "thehiveconveyor"
+        "captainBoons": "melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,barbarian_immortal,warrior_blademastery",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "168678",
@@ -31,7 +31,7 @@
         "completedLevels": "43",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-09-06 00:52:29",
-        "endTime": null,
+        "endTime": "2024-09-06 04:43:10",
         "captainBoons": "common_classic_comeback,musketeer_grapeshot,gladiator_war_machine,ranged_preciseshot,amazon_vineclone,archer_deadshot,bomber_flameinfusion,general_recovery,healer_shadowword,artillery_pressure_fire,ranged_rangergloves,epic_ranged_dragonarrows,ranged_rangerquivers,melee_finalcut,healer_combatmedic,assassin_valkyriegadget,epic_giantsbrewzero,flying_evasivemaneuvers,barbarian_immortal,bomber_dangerzone,epic_watchfulleaders,flagbearer_bannerofluck,lancer_spearwall",
         "nextNodeType": "winterdinos"
     },
