@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "168734",
+        "completedLevels": "62",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-09-05 22:41:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,barbarian_immortal,warrior_blademastery",
+        "nextNodeType": "wasterock"
+    },
+    {
         "dungeonRunId": "168678",
         "completedLevels": "62",
         "twitchDisplayName": "ImmerBock",
@@ -7,15 +16,6 @@
         "endTime": "2024-09-06 01:56:55",
         "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,epic_epicaspirations,bomber_living_bomb,bomber_dangerzone,general_cadence,melee_followup,ranged_hamstring,monk_snakestyle,support_doomingsong",
         "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "168734",
-        "completedLevels": "61",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-09-05 22:41:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,flagbearer_deathbegetslife,musketeer_grapeshot,ensouled_bravespirits,general_damage,bomber_living_bomb,bomber_dangerzone,barbarian_immortal,warrior_blademastery,armored_ignorepain",
-        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "168675",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "168749",
-        "completedLevels": "36",
+        "completedLevels": "37",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-09-06 00:52:29",
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_ignorepain,musketeer_grapeshot,gladiator_war_machine,ranged_preciseshot,amazon_vineclone,archer_deadshot,bomber_flameinfusion,general_recovery,healer_shadowword,artillery_pressure_fire,ranged_rangergloves,epic_ranged_dragonarrows,paladin_layonhands,ranged_rangerquivers,melee_finalcut,healer_combatmedic,assassin_valkyriegadget,epic_giantsbrewzero,flying_evasivemaneuvers,barbarian_immortal,bomber_dangerzone,epic_watchfulleaders,epic_epicaspirations,flagbearer_bannerofluck,lancer_spearwall",
-        "nextNodeType": "sugarforest"
+        "nextNodeType": "oasisruins"
     },
     {
         "dungeonRunId": "168682",
