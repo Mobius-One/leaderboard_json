@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "168779",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-09-06 05:41:31",
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_cadence,ranged_rangerquivers,armored_forceofwill,armored_ignorepain,ranged_preciseshot,assassin_demoralize,assassin_spynetwork,frogue_cloakingfield,general_damage,archer_enchantedammo,blob_parasite,support_doomingsong,ensouled_fatedspirits,paladin_holyforce,epic_giantsbrewzero,lancer_spearwall,barbarian_immortal,lancer_sarissaspears,warrior_flameslash,spell_empower_curse,barbarian_gloriousdeath,support_enchantedstaves,bomber_living_bomb,support_healingsong,assassin_disappearingact,musk_hunters_mark,saint_exalt,epic_giantsblessing",
-        "nextNodeType": "cruciblemeltdown"
+        "nextNodeType": "winterdinos"
     }
 ]
