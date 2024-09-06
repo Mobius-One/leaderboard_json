@@ -63,6 +63,15 @@
         "nextNodeType": "winterdinos"
     },
     {
+        "dungeonRunId": "168734",
+        "completedLevels": "28",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-09-05 22:41:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_critical,melee_followup,epic_assassin_serialkiller,general_cadence,frogue_cloakingfield,human_humandestiny,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,epic_watchfulleaders,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,ensouled_fatedspirits,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer,armored_ignorepain",
+        "nextNodeType": "heartscelestialabyrinth"
+    },
+    {
         "dungeonRunId": "168719",
         "completedLevels": "27",
         "twitchDisplayName": "redspecter23",
@@ -70,15 +79,6 @@
         "endTime": "2024-09-06 00:55:33",
         "captainBoons": "common_classic_comeback,general_cadence,epic_giantsblessing,bomber_living_bomb,epic_giantsbrewzero,melee_followup,berserker_eyeofthestorm,general_critical,rogue_skeletonturret,epic_melee_gloryofvictory,lancer_sarissaspears,ranged_rangerquivers,epic_armored_armoredgiants,saint_exalt,support_enchantedstaves,epic_epicaspirations,bomber_dangerzone,frogue_cloakingfield,blob_parasite,archer_deadshot,flagbearer_rallydefense,flagbearer_deathbegetslife,general_speed,ensouled_enragedspirits,spell_empower_highground,ranged_ironbreakballistics,ensouled_fatedspirits,templar_beaconofhope",
         "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "168734",
-        "completedLevels": "27",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-09-05 22:41:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_critical,melee_followup,epic_assassin_serialkiller,general_cadence,frogue_cloakingfield,human_humandestiny,assassin_spynetwork,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,epic_watchfulleaders,flagbearer_deathbegetslife,general_recovery,musketeer_grapeshot,ensouled_bravespirits,general_damage,ensouled_fatedspirits,bomber_living_bomb,bomber_dangerzone,ranged_rangerquivers,blob_parasite,saint_exalt,tank_ironclad,barbarian_immortal,warrior_blademastery,melee_battlebracers,orcslayer_worldrazer",
-        "nextNodeType": "frontierroundup"
     },
     {
         "dungeonRunId": "168722",
