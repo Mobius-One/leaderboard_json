@@ -72,6 +72,15 @@
         "nextNodeType": "winterdinos"
     },
     {
+        "dungeonRunId": "168857",
+        "completedLevels": "35",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-09-06 16:16:32",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_immortal,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,lancer_firststrike,bomber_dangerzone,ensouled_enragedspirits,saint_skeletondance,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,lancer_sarissaspears,blob_parasite,bomber_flameinfusion",
+        "nextNodeType": "crashzoneboss"
+    },
+    {
         "dungeonRunId": "168682",
         "completedLevels": "35",
         "twitchDisplayName": "Rafipi",
@@ -79,14 +88,5 @@
         "endTime": "2024-09-05 22:43:16",
         "captainBoons": "common_classic_comeback,paladin_layonhands,bomber_living_bomb,general_recovery,gladiator_sonofthunder,archer_deadshot,flagbearer_rallydefense,warrior_swordofruin,general_resistance,archer_enchantedammo,archer_master_fletcher,saint_exalt,elf_elvenimmortality,fairy_nixiepops,warrior_blademastery,saint_surgeofconfidence,ensouled_bravespirits,lancer_sarissaspears,ranged_preciseshot,warbeast_underworldbeast,monk_snakestyle,saint_skeletondance,healer_combatmedic,melee_battlebracers,centurion_unstoppableforce,bomber_dangerzone,general_wellrounded",
         "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "168857",
-        "completedLevels": "34",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-09-06 16:16:32",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_immortal,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,lancer_firststrike,bomber_dangerzone,ensouled_enragedspirits,saint_skeletondance,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,lancer_sarissaspears,blob_parasite,bomber_flameinfusion",
-        "nextNodeType": "retroriver"
     }
 ]
