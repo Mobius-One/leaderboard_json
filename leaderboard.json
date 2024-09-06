@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "168734",
-        "completedLevels": "70",
+        "completedLevels": "71",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-05 22:41:58",
         "endTime": null,
         "captainBoons": "melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,barbarian_immortal,warrior_blademastery",
-        "nextNodeType": "raidhallalake"
+        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "168678",
