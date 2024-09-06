@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "168802",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-09-06 09:39:56",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,spell_empower_haste,flying_evasivemaneuvers,musk_hunters_mark,general_cadence,bomber_flameinfusion,ensouled_bravespirits,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,epic_melee_gloryofvictory,tank_battlefieldcontrol,epic_giantsblessing,ensouled_heroicspirits,epic_giantsbrewzero,epic_watchfulleaders,spell_empower_highground,healer_combatmedic,ensouled_fatedspirits",
-        "nextNodeType": "plaguelandboss"
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "168743",
