@@ -36,6 +36,15 @@
         "nextNodeType": "winterdinos"
     },
     {
+        "dungeonRunId": "168802",
+        "completedLevels": "42",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-06 09:39:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,flying_evasivemaneuvers,musk_hunters_mark,general_cadence,ensouled_bravespirits,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,tank_battlefieldcontrol,epic_giantsblessing,epic_giantsbrewzero,spell_empower_highground,healer_combatmedic,ensouled_fatedspirits",
+        "nextNodeType": "thehiveconveyor"
+    },
+    {
         "dungeonRunId": "168690",
         "completedLevels": "41",
         "twitchDisplayName": "Juzy_Fruit",
@@ -43,15 +52,6 @@
         "endTime": "2024-09-06 00:33:00",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_enchantedammo,centurion_unstoppableforce,flagbearer_bannerofluck,common_specialists,archer_deadshot,musketeer_grapeshot,epic_ranged_dragonarrows,ranged_rangerquivers,warrior_swordofruin,general_damage,epic_epicaspirations,support_healingsong,flagbearer_rallydefense,archer_master_fletcher,support_doomingsong,amazon_vineclone,barbarian_bringthepain,general_critical,lancer_spearwall,barbarian_immortal,ranged_rangergloves,tank_ironclad",
         "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "168802",
-        "completedLevels": "41",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-06 09:39:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,flying_evasivemaneuvers,musk_hunters_mark,general_cadence,ensouled_bravespirits,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,tank_battlefieldcontrol,epic_giantsblessing,ensouled_heroicspirits,epic_giantsbrewzero,spell_empower_highground,healer_combatmedic,ensouled_fatedspirits",
-        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "168739",
