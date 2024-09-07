@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "168931",
-        "completedLevels": "48",
+        "completedLevels": "49",
         "twitchDisplayName": "lont123",
         "startTime": "2024-09-07 01:52:41",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,musk_hunters_mark,saint_exalt,melee_followup,archer_master_fletcher,bomber_flameinfusion,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,epic_ranged_dragonarrows,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
-        "nextNodeType": "sugarforest"
+        "nextNodeType": "frontierroundup"
     },
     {
         "dungeonRunId": "168675",
