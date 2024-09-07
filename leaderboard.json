@@ -63,6 +63,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "169043",
+        "completedLevels": "45",
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-09-07 15:26:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,common_specialists,saint_exalt,epic_melee_gloryofvictory,lancer_spearwall,bomber_living_bomb,archer_deadshot,elf_elvenimmortality,general_critical,musketeer_grapeshot",
+        "nextNodeType": "retroriver"
+    },
+    {
         "dungeonRunId": "168675",
         "completedLevels": "44",
         "twitchDisplayName": "Hairtrigger83",
@@ -79,14 +88,5 @@
         "endTime": "2024-09-06 21:28:37",
         "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,bomber_dangerzone,ensouled_enragedspirits,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,blob_parasite",
         "nextNodeType": "icecaveboss"
-    },
-    {
-        "dungeonRunId": "169043",
-        "completedLevels": "44",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-09-07 15:26:45",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,common_specialists,saint_exalt,epic_melee_gloryofvictory,lancer_spearwall,bomber_living_bomb,archer_deadshot,elf_elvenimmortality,general_critical,musketeer_grapeshot",
-        "nextNodeType": "lavafurnace"
     }
 ]
