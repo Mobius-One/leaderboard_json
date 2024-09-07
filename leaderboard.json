@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "169012",
-        "completedLevels": "47",
+        "completedLevels": "48",
         "twitchDisplayName": "RealAlize",
         "startTime": "2024-09-07 10:36:41",
         "endTime": null,
         "captainBoons": "common_classic_comeback,flagbearer_rallydefense,flagbearer_deathbegetslife,warrior_blademastery,archer_master_fletcher,general_resistance,artillery_pressure_fire,archer_deadshot,elf_elvenimmortality,lancer_sarissaspears,epic_melee_gloryofvictory,epic_giantsbrewzero,berserker_enrage,ensouled_bravespirits,bomber_dangerzone,tank_hoarfrost_armor,general_critical,musketeer_grapeshot,warrior_swordofruin,general_damage,gladiator_sonofthunder",
-        "nextNodeType": "icecaveboss"
+        "nextNodeType": "retroriver"
     },
     {
         "dungeonRunId": "168675",
