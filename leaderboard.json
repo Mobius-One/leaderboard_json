@@ -45,6 +45,15 @@
         "nextNodeType": "crashzoneboss"
     },
     {
+        "dungeonRunId": "168881",
+        "completedLevels": "43",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-09-06 20:41:11",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,assassin_disappearingact,warrior_swordofruin,general_critical,ranged_preciseshot,tank_hoarfrost_armor,bomber_dangerzone,armored_ignorepain,melee_battlebracers,armored_forceofwill,saint_exalt,ranged_rangerquivers,archer_master_fletcher,artillery_pressure_fire,general_cadence,gladiator_sonofthunder,warbeast_underworldbeast,lancer_sarissaspears,support_enchantedstaves,ensouled_heroicspirits,support_healingsong,epic_melee_gloryofvictory,armored_heavyblades",
+        "nextNodeType": "tabletopboard"
+    },
+    {
         "dungeonRunId": "168749",
         "completedLevels": "43",
         "twitchDisplayName": "RoseGaminDiva",
@@ -52,15 +61,6 @@
         "endTime": "2024-09-06 04:43:10",
         "captainBoons": "common_classic_comeback,musketeer_grapeshot,gladiator_war_machine,ranged_preciseshot,amazon_vineclone,archer_deadshot,bomber_flameinfusion,general_recovery,healer_shadowword,artillery_pressure_fire,ranged_rangergloves,epic_ranged_dragonarrows,ranged_rangerquivers,melee_finalcut,healer_combatmedic,assassin_valkyriegadget,epic_giantsbrewzero,flying_evasivemaneuvers,barbarian_immortal,bomber_dangerzone,epic_watchfulleaders,flagbearer_bannerofluck,lancer_spearwall",
         "nextNodeType": "winterdinos"
-    },
-    {
-        "dungeonRunId": "168881",
-        "completedLevels": "42",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-09-06 20:41:11",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,assassin_disappearingact,warrior_swordofruin,general_critical,ranged_preciseshot,tank_hoarfrost_armor,bomber_dangerzone,armored_ignorepain,melee_battlebracers,armored_forceofwill,saint_exalt,ranged_rangerquivers,archer_master_fletcher,artillery_pressure_fire,general_cadence,gladiator_sonofthunder,warbeast_underworldbeast,lancer_sarissaspears,support_enchantedstaves,ensouled_heroicspirits,support_healingsong,epic_melee_gloryofvictory,armored_heavyblades",
-        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "168690",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "168888",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "AeroGarfield29",
         "startTime": "2024-09-06 21:14:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_critical,tank_ironclad,armored_forceofwill,saint_exalt,melee_followup,archer_master_fletcher,epic_giantsbrewzero,healer_shadowword,epic_assassin_serialkiller,general_cadence,artillery_pressure_fire,bomber_dangerzone,centurion_teambarbs,bomber_living_bomb,support_healingsong,bomber_flameinfusion,gladiator_war_machine,archer_deadshot,monk_snakestyle,ensouled_heroicspirits,armored_unyieldingdefense,archer_enchantedammo,healer_combatmedic,general_wellrounded,ensouled_bravespirits,ensouled_enragedspirits",
-        "nextNodeType": "icecaveboss"
+        "captainBoons": "common_classic_comeback,general_critical,tank_ironclad,armored_forceofwill,saint_exalt,melee_followup,archer_master_fletcher,epic_giantsbrewzero,healer_shadowword,epic_assassin_serialkiller,artillery_pressure_fire,bomber_dangerzone,centurion_teambarbs,bomber_living_bomb,support_healingsong,bomber_flameinfusion,gladiator_war_machine,archer_deadshot,monk_snakestyle,ensouled_heroicspirits,armored_unyieldingdefense,archer_enchantedammo,healer_combatmedic,general_wellrounded,ensouled_bravespirits,ensouled_enragedspirits",
+        "nextNodeType": "cruciblemeltdown"
     }
 ]
