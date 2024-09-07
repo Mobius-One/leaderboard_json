@@ -63,15 +63,6 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "168857",
-        "completedLevels": "44",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-09-06 16:16:32",
-        "endTime": "2024-09-06 21:28:37",
-        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,bomber_dangerzone,ensouled_enragedspirits,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,blob_parasite",
-        "nextNodeType": "icecaveboss"
-    },
-    {
         "dungeonRunId": "168675",
         "completedLevels": "44",
         "twitchDisplayName": "Hairtrigger83",
@@ -79,6 +70,15 @@
         "endTime": "2024-09-05 21:43:13",
         "captainBoons": "common_classic_comeback,saint_exalt,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,warrior_flameslash,epic_assassin_serialkiller,ranged_hamstring,assassin_disappearingact,assassin_agility,elf_elvenimmortality,bomber_dangerzone,epic_watchfulleaders,epic_melee_gloryofvictory,epic_giantsbrewzero,saint_surgeofconfidence,general_resistance,melee_followup",
         "nextNodeType": "crashzoneboss"
+    },
+    {
+        "dungeonRunId": "168857",
+        "completedLevels": "44",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-09-06 16:16:32",
+        "endTime": "2024-09-06 21:28:37",
+        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,bomber_dangerzone,ensouled_enragedspirits,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,blob_parasite",
+        "nextNodeType": "icecaveboss"
     },
     {
         "dungeonRunId": "168690",
