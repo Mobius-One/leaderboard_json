@@ -22,7 +22,7 @@
         "completedLevels": "55",
         "twitchDisplayName": "lont123",
         "startTime": "2024-09-07 01:52:41",
-        "endTime": null,
+        "endTime": "2024-09-07 08:25:23",
         "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
         "nextNodeType": "plaguegrotto"
     },
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "168955",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-09-07 03:18:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,berserker_enrage,artillery_pressure_fire,bomber_flameinfusion,gladiator_war_machine,bomber_dangerzone,ranged_rangerquivers,epic_melee_gloryofvictory,musketeer_grapeshot,lancer_firststrike,lancer_spearwall,warrior_blademastery,general_wellrounded,barbarian_immortal,archer_enchantedammo,blob_parasite,general_cadence,berserker_eyeofthestorm,ranged_preciseshot,spell_empower_highground,epic_giantsblessing",
-        "nextNodeType": "thehiveconveyor"
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,berserker_enrage,artillery_pressure_fire,bomber_flameinfusion,gladiator_war_machine,bomber_dangerzone,ranged_rangerquivers,epic_melee_gloryofvictory,musketeer_grapeshot,lancer_firststrike,lancer_spearwall,warrior_blademastery,barbarian_immortal,archer_enchantedammo,blob_parasite,general_cadence,berserker_eyeofthestorm,ranged_preciseshot,spell_empower_highground,epic_giantsblessing",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "168675",
