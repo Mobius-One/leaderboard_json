@@ -54,6 +54,15 @@
         "nextNodeType": "crashzoneboss"
     },
     {
+        "dungeonRunId": "168931",
+        "completedLevels": "43",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-09-07 01:52:41",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,musk_hunters_mark,saint_exalt,melee_followup,archer_master_fletcher,melee_carefulhunt,bomber_flameinfusion,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,epic_ranged_dragonarrows,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot,healer_healing_bloom,gladiator_sonofthunder",
+        "nextNodeType": "lavachamber"
+    },
+    {
         "dungeonRunId": "168749",
         "completedLevels": "43",
         "twitchDisplayName": "RoseGaminDiva",
@@ -61,15 +70,6 @@
         "endTime": "2024-09-06 04:43:10",
         "captainBoons": "common_classic_comeback,musketeer_grapeshot,gladiator_war_machine,ranged_preciseshot,amazon_vineclone,archer_deadshot,bomber_flameinfusion,general_recovery,healer_shadowword,artillery_pressure_fire,ranged_rangergloves,epic_ranged_dragonarrows,ranged_rangerquivers,melee_finalcut,healer_combatmedic,assassin_valkyriegadget,epic_giantsbrewzero,flying_evasivemaneuvers,barbarian_immortal,bomber_dangerzone,epic_watchfulleaders,flagbearer_bannerofluck,lancer_spearwall",
         "nextNodeType": "winterdinos"
-    },
-    {
-        "dungeonRunId": "168931",
-        "completedLevels": "42",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-09-07 01:52:41",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,musk_hunters_mark,saint_exalt,melee_followup,archer_master_fletcher,melee_carefulhunt,bomber_flameinfusion,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,epic_ranged_dragonarrows,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot,healer_healing_bloom,gladiator_sonofthunder",
-        "nextNodeType": "oasisruins"
     },
     {
         "dungeonRunId": "168690",
