@@ -36,6 +36,15 @@
         "nextNodeType": "plaguelandboss"
     },
     {
+        "dungeonRunId": "168931",
+        "completedLevels": "44",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-09-07 01:52:41",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,musk_hunters_mark,saint_exalt,melee_followup,archer_master_fletcher,melee_carefulhunt,bomber_flameinfusion,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,epic_ranged_dragonarrows,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot,healer_healing_bloom,gladiator_sonofthunder",
+        "nextNodeType": "lavafurnace"
+    },
+    {
         "dungeonRunId": "168675",
         "completedLevels": "44",
         "twitchDisplayName": "Hairtrigger83",
@@ -52,15 +61,6 @@
         "endTime": "2024-09-06 21:28:37",
         "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_spynetwork,musketeer_grapeshot,gladiator_war_machine,melee_carefulhunt,assassin_disappearingact,human_humandestiny,saint_exalt,assassin_valkyriegadget,bomber_dangerzone,ensouled_enragedspirits,assassin_agility,saint_surgeofconfidence,epic_assassin_serialkiller,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_cadence,epic_giantsblessing,assassin_demoralize,blob_parasite",
         "nextNodeType": "icecaveboss"
-    },
-    {
-        "dungeonRunId": "168931",
-        "completedLevels": "43",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-09-07 01:52:41",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,musk_hunters_mark,saint_exalt,melee_followup,archer_master_fletcher,melee_carefulhunt,bomber_flameinfusion,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,epic_ranged_dragonarrows,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot,healer_healing_bloom,gladiator_sonofthunder",
-        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "168749",
