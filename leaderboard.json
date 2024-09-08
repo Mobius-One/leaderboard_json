@@ -54,21 +54,21 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "168802",
-        "completedLevels": "50",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-06 09:39:56",
-        "endTime": "2024-09-06 15:44:02",
-        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,musk_hunters_mark,general_cadence,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,epic_giantsblessing,epic_giantsbrewzero,spell_empower_highground,ensouled_fatedspirits",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
         "dungeonRunId": "168955",
         "completedLevels": "50",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-09-07 03:18:13",
         "endTime": "2024-09-07 08:55:05",
         "captainBoons": "common_classic_comeback,ranged_rangergloves,berserker_enrage,artillery_pressure_fire,bomber_flameinfusion,gladiator_war_machine,bomber_dangerzone,ranged_rangerquivers,epic_melee_gloryofvictory,musketeer_grapeshot,lancer_firststrike,lancer_spearwall,warrior_blademastery,barbarian_immortal,archer_enchantedammo,blob_parasite,berserker_eyeofthestorm,ranged_preciseshot,epic_giantsblessing",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
+        "dungeonRunId": "168802",
+        "completedLevels": "50",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-06 09:39:56",
+        "endTime": "2024-09-06 15:44:02",
+        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,musk_hunters_mark,general_cadence,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,epic_giantsblessing,epic_giantsbrewzero,spell_empower_highground,ensouled_fatedspirits",
         "nextNodeType": "plaguelandboss"
     },
     {
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "169176",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "3aglesdwm",
         "startTime": "2024-09-08 07:07:23",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,general_wellrounded,general_resistance,barbarian_bringthepain,ensouled_bravespirits,epic_giantsblessing,epic_ranged_dragonarrows,healer_combatmedic,gladiator_war_machine,warrior_blademastery,epic_watchfulleaders,amazon_vineclone,musketeer_grapeshot,epic_melee_gloryofvictory,bomber_dangerzone,barbarian_immortal,general_critical,berserker_enrage,general_cadence,general_recovery,melee_battlebracers",
-        "nextNodeType": "wasterock"
+        "nextNodeType": "oasisruins"
     }
 ]
