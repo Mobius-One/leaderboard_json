@@ -81,12 +81,12 @@
         "nextNodeType": "sugarforest"
     },
     {
-        "dungeonRunId": "168675",
+        "dungeonRunId": "169129",
         "completedLevels": "44",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-09-05 18:03:08",
-        "endTime": "2024-09-05 21:43:13",
-        "captainBoons": "common_classic_comeback,saint_exalt,epic_armored_armoredgiants,lancer_sarissaspears,gladiator_sonofthunder,archer_master_fletcher,general_damage,bomber_flameinfusion,gladiator_war_machine,warrior_flameslash,epic_assassin_serialkiller,ranged_hamstring,assassin_disappearingact,assassin_agility,elf_elvenimmortality,bomber_dangerzone,epic_watchfulleaders,epic_melee_gloryofvictory,epic_giantsbrewzero,saint_surgeofconfidence,general_resistance,melee_followup",
-        "nextNodeType": "crashzoneboss"
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-09-07 23:16:39",
+        "endTime": "2024-09-08 04:51:57",
+        "captainBoons": "common_classic_comeback,flying_evasivemaneuvers,ranged_hamstring,epic_giantsbrewzero,epic_watchfulleaders,bomber_dangerzone,ensouled_fatedspirits,gladiator_war_machine,warrior_flameslash,spell_empower_highground,warrior_blademastery,epic_giantsblessing,general_critical,frogue_cloakingfield,amazon_vineclone,saint_exalt,archer_enchantedammo,artillery_pressure_fire,armored_ignorepain,undead_undeadresilience,armored_heavyblades,berserker_enrage",
+        "nextNodeType": "plaguelandboss"
     }
 ]
