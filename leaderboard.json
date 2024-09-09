@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "169289",
-        "completedLevels": "48",
+        "completedLevels": "49",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-09-08 22:41:20",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_blademastery,epic_giantsblessing,musk_hunters_mark,epic_watchfulleaders,bomber_living_bomb,tank_ironclad,spell_empower_killingfield,epic_giantsbrewzero,epic_ranged_dragonarrows,assassin_disappearingact,fairy_nixiepops,warrior_flameslash,gladiator_war_machine,general_damage,barbarian_bringthepain,bomber_dangerzone,shinobi_lastninja,bomber_flameinfusion,saint_exalt",
-        "nextNodeType": "tabletopboard"
+        "nextNodeType": "retroriver"
     },
     {
         "dungeonRunId": "169176",
