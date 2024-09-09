@@ -18,15 +18,6 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "169043",
-        "completedLevels": "55",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-09-07 15:26:45",
-        "endTime": "2024-09-07 22:24:18",
-        "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
-        "nextNodeType": "cruciblemeltdown"
-    },
-    {
         "dungeonRunId": "168931",
         "completedLevels": "55",
         "twitchDisplayName": "lont123",
@@ -36,6 +27,24 @@
         "nextNodeType": "plaguegrotto"
     },
     {
+        "dungeonRunId": "169043",
+        "completedLevels": "55",
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-09-07 15:26:45",
+        "endTime": "2024-09-07 22:24:18",
+        "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
+        "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "169348",
+        "completedLevels": "53",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-09-09 10:01:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,lancer_firststrike,general_critical,epic_giantsblessing,general_cadence,ranged_preciseshot,barbarian_immortal,saint_exalt,ensouled_heroicspirits,ensouled_fatedspirits,musk_hunters_mark,gladiator_war_machine,bomber_dangerzone,elf_elvenimmortality,bomber_living_bomb,epic_giantsbrewzero,berserker_eyeofthestorm",
+        "nextNodeType": "lavafurnace"
+    },
+    {
         "dungeonRunId": "168881",
         "completedLevels": "52",
         "twitchDisplayName": "JojoGeeker",
@@ -43,15 +52,6 @@
         "endTime": "2024-09-07 03:51:39",
         "captainBoons": "common_classic_comeback,assassin_disappearingact,warrior_swordofruin,general_critical,tank_hoarfrost_armor,bomber_dangerzone,armored_ignorepain,melee_battlebracers,saint_exalt,ranged_rangerquivers,archer_master_fletcher,artillery_pressure_fire,gladiator_sonofthunder,warbeast_underworldbeast,lancer_sarissaspears,support_enchantedstaves,ensouled_heroicspirits,epic_melee_gloryofvictory",
         "nextNodeType": "thehiveconveyor"
-    },
-    {
-        "dungeonRunId": "169348",
-        "completedLevels": "52",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-09-09 10:01:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,lancer_firststrike,general_critical,epic_giantsblessing,general_cadence,ranged_preciseshot,barbarian_immortal,saint_exalt,ensouled_heroicspirits,ensouled_fatedspirits,musk_hunters_mark,gladiator_war_machine,bomber_dangerzone,elf_elvenimmortality,bomber_living_bomb,epic_giantsbrewzero,berserker_eyeofthestorm",
-        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "169012",
