@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "169348",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-09-09 10:01:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,lancer_firststrike,general_critical,epic_giantsblessing,ranged_preciseshot,saint_exalt,ensouled_heroicspirits,ensouled_fatedspirits,musk_hunters_mark,gladiator_war_machine,bomber_dangerzone,elf_elvenimmortality,bomber_living_bomb,epic_giantsbrewzero,berserker_eyeofthestorm",
-        "nextNodeType": "frontierroundup"
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,lancer_firststrike,general_critical,ranged_preciseshot,saint_exalt,ensouled_heroicspirits,ensouled_fatedspirits,musk_hunters_mark,gladiator_war_machine,bomber_dangerzone,elf_elvenimmortality,bomber_living_bomb,epic_giantsbrewzero,berserker_eyeofthestorm",
+        "nextNodeType": "sugarforest"
     },
     {
         "dungeonRunId": "168931",
