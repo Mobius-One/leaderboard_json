@@ -18,15 +18,6 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "168931",
-        "completedLevels": "55",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-09-07 01:52:41",
-        "endTime": "2024-09-07 08:25:23",
-        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
         "dungeonRunId": "169043",
         "completedLevels": "55",
         "twitchDisplayName": "FinalSun",
@@ -34,6 +25,15 @@
         "endTime": "2024-09-07 22:24:18",
         "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
         "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "168931",
+        "completedLevels": "55",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-09-07 01:52:41",
+        "endTime": "2024-09-07 08:25:23",
+        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "168881",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "169289",
-        "completedLevels": "47",
+        "completedLevels": "48",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-09-08 22:41:20",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_blademastery,epic_giantsblessing,musk_hunters_mark,epic_watchfulleaders,bomber_living_bomb,tank_ironclad,spell_empower_killingfield,epic_giantsbrewzero,epic_ranged_dragonarrows,assassin_disappearingact,fairy_nixiepops,warrior_flameslash,gladiator_war_machine,general_damage,barbarian_bringthepain,bomber_dangerzone,shinobi_lastninja,bomber_flameinfusion,saint_exalt,archer_enchantedammo",
-        "nextNodeType": "icecaveboss"
+        "nextNodeType": "tabletopboard"
     },
     {
         "dungeonRunId": "169176",
