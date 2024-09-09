@@ -36,15 +36,6 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "169012",
-        "completedLevels": "52",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-09-07 10:36:41",
-        "endTime": "2024-09-07 16:20:38",
-        "captainBoons": "common_classic_comeback,flagbearer_deathbegetslife,warrior_blademastery,archer_master_fletcher,general_resistance,artillery_pressure_fire,archer_deadshot,elf_elvenimmortality,lancer_sarissaspears,epic_melee_gloryofvictory,epic_giantsbrewzero,berserker_enrage,ensouled_bravespirits,bomber_dangerzone,tank_hoarfrost_armor,general_critical,warrior_swordofruin,gladiator_sonofthunder",
-        "nextNodeType": "cruciblemeltdown"
-    },
-    {
         "dungeonRunId": "168881",
         "completedLevels": "52",
         "twitchDisplayName": "JojoGeeker",
@@ -54,13 +45,13 @@
         "nextNodeType": "thehiveconveyor"
     },
     {
-        "dungeonRunId": "168955",
-        "completedLevels": "50",
-        "twitchDisplayName": "RoseGaminDiva",
-        "startTime": "2024-09-07 03:18:13",
-        "endTime": "2024-09-07 08:55:05",
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,berserker_enrage,artillery_pressure_fire,bomber_flameinfusion,gladiator_war_machine,bomber_dangerzone,ranged_rangerquivers,epic_melee_gloryofvictory,musketeer_grapeshot,lancer_firststrike,lancer_spearwall,warrior_blademastery,barbarian_immortal,archer_enchantedammo,blob_parasite,berserker_eyeofthestorm,ranged_preciseshot,epic_giantsblessing",
-        "nextNodeType": "plaguelandboss"
+        "dungeonRunId": "169012",
+        "completedLevels": "52",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-09-07 10:36:41",
+        "endTime": "2024-09-07 16:20:38",
+        "captainBoons": "common_classic_comeback,flagbearer_deathbegetslife,warrior_blademastery,archer_master_fletcher,general_resistance,artillery_pressure_fire,archer_deadshot,elf_elvenimmortality,lancer_sarissaspears,epic_melee_gloryofvictory,epic_giantsbrewzero,berserker_enrage,ensouled_bravespirits,bomber_dangerzone,tank_hoarfrost_armor,general_critical,warrior_swordofruin,gladiator_sonofthunder",
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "169289",
@@ -81,12 +72,21 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "169190",
+        "dungeonRunId": "168955",
+        "completedLevels": "50",
+        "twitchDisplayName": "RoseGaminDiva",
+        "startTime": "2024-09-07 03:18:13",
+        "endTime": "2024-09-07 08:55:05",
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,berserker_enrage,artillery_pressure_fire,bomber_flameinfusion,gladiator_war_machine,bomber_dangerzone,ranged_rangerquivers,epic_melee_gloryofvictory,musketeer_grapeshot,lancer_firststrike,lancer_spearwall,warrior_blademastery,barbarian_immortal,archer_enchantedammo,blob_parasite,berserker_eyeofthestorm,ranged_preciseshot,epic_giantsblessing",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
+        "dungeonRunId": "169176",
         "completedLevels": "46",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-09-08 10:37:50",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_damage,musketeer_grapeshot,bomber_living_bomb,general_speed,ranged_hamstring,bomber_dangerzone,gladiator_sonofthunder,epic_giantsblessing,gladiator_war_machine,general_cadence,ranged_rangerquivers,epic_melee_gloryofvictory,armored_unyieldingdefense,bomber_flameinfusion,armored_ignorepain,general_wellrounded,epic_giantsbrewzero,armored_forceofwill,barbarian_gloriousdeath,saint_surgeofconfidence",
-        "nextNodeType": "heartscelestialabyrinth"
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-09-08 07:07:23",
+        "endTime": "2024-09-08 12:17:57",
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,general_wellrounded,general_resistance,barbarian_bringthepain,ensouled_bravespirits,epic_giantsblessing,epic_ranged_dragonarrows,healer_combatmedic,gladiator_war_machine,warrior_blademastery,epic_watchfulleaders,amazon_vineclone,musketeer_grapeshot,epic_melee_gloryofvictory,bomber_dangerzone,barbarian_immortal,general_critical,berserker_enrage,general_cadence,general_recovery",
+        "nextNodeType": "mothershiparmory"
     }
 ]
