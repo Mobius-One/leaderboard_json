@@ -63,6 +63,15 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
+        "dungeonRunId": "168802",
+        "completedLevels": "50",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-06 09:39:56",
+        "endTime": "2024-09-06 15:44:02",
+        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,musk_hunters_mark,general_cadence,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,epic_giantsblessing,epic_giantsbrewzero,spell_empower_highground,ensouled_fatedspirits",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
         "dungeonRunId": "168955",
         "completedLevels": "50",
         "twitchDisplayName": "RoseGaminDiva",
@@ -79,14 +88,5 @@
         "endTime": "2024-09-09 05:16:30",
         "captainBoons": "common_classic_comeback,warrior_blademastery,epic_giantsblessing,musk_hunters_mark,epic_watchfulleaders,bomber_living_bomb,tank_ironclad,spell_empower_killingfield,epic_giantsbrewzero,epic_ranged_dragonarrows,assassin_disappearingact,fairy_nixiepops,warrior_flameslash,gladiator_war_machine,general_damage,barbarian_bringthepain,bomber_dangerzone,bomber_flameinfusion,saint_exalt",
         "nextNodeType": "crashzoneboss"
-    },
-    {
-        "dungeonRunId": "168802",
-        "completedLevels": "50",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-06 09:39:56",
-        "endTime": "2024-09-06 15:44:02",
-        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,artillery_pressure_fire,general_speed,musk_hunters_mark,general_cadence,bomber_dangerzone,ranged_preciseshot,spell_empower_killingfield,general_damage,melee_battlebracers,armored_forceofwill,support_healingsong,musketeer_grapeshot,epic_giantsblessing,epic_giantsbrewzero,spell_empower_highground,ensouled_fatedspirits",
-        "nextNodeType": "plaguelandboss"
     }
 ]
