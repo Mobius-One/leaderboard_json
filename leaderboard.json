@@ -64,21 +64,12 @@
     },
     {
         "dungeonRunId": "169535",
-        "completedLevels": "51",
+        "completedLevels": "52",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-09-10 16:34:23",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,melee_followup,archer_master_fletcher,epic_giantsblessing,musk_hunters_mark,epic_giantsbrewzero,elf_elvenimmortality,centurion_unstoppableforce,berserker_enrage,armored_ignorepain,saint_exalt,lancer_spearwall,monk_channel_chakra,artillery_pressure_fire,general_recovery,bomber_flameinfusion,epic_melee_gloryofvictory,tank_ironclad",
-        "nextNodeType": "retroriver"
-    },
-    {
-        "dungeonRunId": "169289",
-        "completedLevels": "50",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-09-08 22:41:20",
-        "endTime": "2024-09-09 05:16:30",
-        "captainBoons": "common_classic_comeback,warrior_blademastery,epic_giantsblessing,musk_hunters_mark,epic_watchfulleaders,bomber_living_bomb,tank_ironclad,spell_empower_killingfield,epic_giantsbrewzero,epic_ranged_dragonarrows,assassin_disappearingact,fairy_nixiepops,warrior_flameslash,gladiator_war_machine,general_damage,barbarian_bringthepain,bomber_dangerzone,bomber_flameinfusion,saint_exalt",
-        "nextNodeType": "crashzoneboss"
+        "nextNodeType": "frontierroundup"
     },
     {
         "dungeonRunId": "168955",
@@ -88,5 +79,14 @@
         "endTime": "2024-09-07 08:55:05",
         "captainBoons": "common_classic_comeback,ranged_rangergloves,berserker_enrage,artillery_pressure_fire,bomber_flameinfusion,gladiator_war_machine,bomber_dangerzone,ranged_rangerquivers,epic_melee_gloryofvictory,musketeer_grapeshot,lancer_firststrike,lancer_spearwall,warrior_blademastery,barbarian_immortal,archer_enchantedammo,blob_parasite,berserker_eyeofthestorm,ranged_preciseshot,epic_giantsblessing",
         "nextNodeType": "plaguelandboss"
+    },
+    {
+        "dungeonRunId": "169289",
+        "completedLevels": "50",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-09-08 22:41:20",
+        "endTime": "2024-09-09 05:16:30",
+        "captainBoons": "common_classic_comeback,warrior_blademastery,epic_giantsblessing,musk_hunters_mark,epic_watchfulleaders,bomber_living_bomb,tank_ironclad,spell_empower_killingfield,epic_giantsbrewzero,epic_ranged_dragonarrows,assassin_disappearingact,fairy_nixiepops,warrior_flameslash,gladiator_war_machine,general_damage,barbarian_bringthepain,bomber_dangerzone,bomber_flameinfusion,saint_exalt",
+        "nextNodeType": "crashzoneboss"
     }
 ]
