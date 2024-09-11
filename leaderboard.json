@@ -27,6 +27,15 @@
         "nextNodeType": "plaguegrotto"
     },
     {
+        "dungeonRunId": "168931",
+        "completedLevels": "55",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-09-07 01:52:41",
+        "endTime": "2024-09-07 08:25:23",
+        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
+        "nextNodeType": "plaguegrotto"
+    },
+    {
         "dungeonRunId": "169043",
         "completedLevels": "55",
         "twitchDisplayName": "FinalSun",
@@ -36,13 +45,13 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "168931",
-        "completedLevels": "55",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-09-07 01:52:41",
-        "endTime": "2024-09-07 08:25:23",
-        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
-        "nextNodeType": "plaguegrotto"
+        "dungeonRunId": "169620",
+        "completedLevels": "54",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-11 06:54:56",
+        "endTime": null,
+        "captainBoons": "general_damage,armored_heavyblades,saint_exalt,common_specialists,ranged_rangerquivers,artillery_pressure_fire,epic_assassin_serialkiller,ranged_rangergloves,ranged_preciseshot,paladin_holyforce,bomber_dangerzone,gladiator_war_machine,epic_giantsblessing,warrior_swordofruin,warrior_flameslash,spell_empower_killingfield,saint_surgeofconfidence",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "169535",
@@ -54,13 +63,13 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "169620",
-        "completedLevels": "53",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-11 06:54:56",
-        "endTime": null,
-        "captainBoons": "general_damage,armored_heavyblades,saint_exalt,common_specialists,ranged_rangerquivers,artillery_pressure_fire,bomber_flameinfusion,epic_assassin_serialkiller,ranged_rangergloves,ranged_preciseshot,paladin_holyforce,bomber_dangerzone,gladiator_war_machine,epic_giantsblessing,warrior_swordofruin,warrior_flameslash,spell_empower_killingfield,saint_surgeofconfidence",
-        "nextNodeType": "icecaveboss"
+        "dungeonRunId": "168881",
+        "completedLevels": "52",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-09-06 20:41:11",
+        "endTime": "2024-09-07 03:51:39",
+        "captainBoons": "common_classic_comeback,assassin_disappearingact,warrior_swordofruin,general_critical,tank_hoarfrost_armor,bomber_dangerzone,armored_ignorepain,melee_battlebracers,saint_exalt,ranged_rangerquivers,archer_master_fletcher,artillery_pressure_fire,gladiator_sonofthunder,warbeast_underworldbeast,lancer_sarissaspears,support_enchantedstaves,ensouled_heroicspirits,epic_melee_gloryofvictory",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "169012",
@@ -70,15 +79,6 @@
         "endTime": "2024-09-07 16:20:38",
         "captainBoons": "common_classic_comeback,flagbearer_deathbegetslife,warrior_blademastery,archer_master_fletcher,general_resistance,artillery_pressure_fire,archer_deadshot,elf_elvenimmortality,lancer_sarissaspears,epic_melee_gloryofvictory,epic_giantsbrewzero,berserker_enrage,ensouled_bravespirits,bomber_dangerzone,tank_hoarfrost_armor,general_critical,warrior_swordofruin,gladiator_sonofthunder",
         "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "168881",
-        "completedLevels": "52",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-09-06 20:41:11",
-        "endTime": "2024-09-07 03:51:39",
-        "captainBoons": "common_classic_comeback,assassin_disappearingact,warrior_swordofruin,general_critical,tank_hoarfrost_armor,bomber_dangerzone,armored_ignorepain,melee_battlebracers,saint_exalt,ranged_rangerquivers,archer_master_fletcher,artillery_pressure_fire,gladiator_sonofthunder,warbeast_underworldbeast,lancer_sarissaspears,support_enchantedstaves,ensouled_heroicspirits,epic_melee_gloryofvictory",
-        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "168955",
