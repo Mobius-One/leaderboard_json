@@ -81,12 +81,12 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "169289",
+        "dungeonRunId": "168955",
         "completedLevels": "50",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-09-08 22:41:20",
-        "endTime": "2024-09-09 05:16:30",
-        "captainBoons": "common_classic_comeback,warrior_blademastery,epic_giantsblessing,musk_hunters_mark,epic_watchfulleaders,bomber_living_bomb,tank_ironclad,spell_empower_killingfield,epic_giantsbrewzero,epic_ranged_dragonarrows,assassin_disappearingact,fairy_nixiepops,warrior_flameslash,gladiator_war_machine,general_damage,barbarian_bringthepain,bomber_dangerzone,bomber_flameinfusion,saint_exalt",
-        "nextNodeType": "crashzoneboss"
+        "twitchDisplayName": "RoseGaminDiva",
+        "startTime": "2024-09-07 03:18:13",
+        "endTime": "2024-09-07 08:55:05",
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,berserker_enrage,artillery_pressure_fire,bomber_flameinfusion,gladiator_war_machine,bomber_dangerzone,ranged_rangerquivers,epic_melee_gloryofvictory,musketeer_grapeshot,lancer_firststrike,lancer_spearwall,warrior_blademastery,barbarian_immortal,archer_enchantedammo,blob_parasite,berserker_eyeofthestorm,ranged_preciseshot,epic_giantsblessing",
+        "nextNodeType": "plaguelandboss"
     }
 ]
