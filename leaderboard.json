@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "169715",
-        "completedLevels": "72",
+        "completedLevels": "73",
         "twitchDisplayName": "Angel",
         "startTime": "2024-09-11 23:19:15",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,warrior_swordofruin,epic_giantsblessing,warrior_blademastery,musketeer_grapeshot,bomber_living_bomb",
-        "nextNodeType": "thehiveconveyor"
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "168678",
