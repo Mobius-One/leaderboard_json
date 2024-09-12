@@ -1,12 +1,12 @@
 [
     {
-        "dungeonRunId": "168734",
-        "completedLevels": "71",
+        "dungeonRunId": "169715",
+        "completedLevels": "72",
         "twitchDisplayName": "Angel",
-        "startTime": "2024-09-05 22:41:58",
-        "endTime": "2024-09-06 04:54:57",
-        "captainBoons": "melee_followup,assassin_valkyriegadget,archer_master_fletcher,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,barbarian_immortal,warrior_blademastery",
-        "nextNodeType": "crashzoneboss"
+        "startTime": "2024-09-11 23:19:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,warrior_swordofruin,epic_giantsblessing,warrior_blademastery,musketeer_grapeshot,bomber_living_bomb",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "168678",
