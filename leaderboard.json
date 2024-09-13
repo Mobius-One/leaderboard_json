@@ -9,13 +9,13 @@
         "nextNodeType": "icecaveboss"
     },
     {
-        "dungeonRunId": "168678",
-        "completedLevels": "62",
+        "dungeonRunId": "169863",
+        "completedLevels": "63",
         "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-09-05 18:04:01",
-        "endTime": "2024-09-06 01:56:55",
-        "captainBoons": "common_classic_comeback,general_speed,flagbearer_rallydefense,artillery_pressure_fire,general_resistance,epic_epicaspirations,bomber_living_bomb,bomber_dangerzone,general_cadence,melee_followup,ranged_hamstring,monk_snakestyle,support_doomingsong",
-        "nextNodeType": "plaguelandboss"
+        "startTime": "2024-09-12 21:41:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,centurion_unstoppableforce,assassin_disappearingact,bomber_living_bomb,warrior_flameslash,warrior_swordofruin,assassin_valkyriegadget,bomber_dangerzone,epic_giantsblessing,spell_empower_aegis,lancer_spearwall,artillery_pressure_fire,epic_watchfulleaders",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "169348",
