@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "169863",
-        "completedLevels": "65",
+        "completedLevels": "66",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-09-12 21:41:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_unstoppableforce,assassin_disappearingact,bomber_living_bomb,warrior_flameslash,warrior_swordofruin,assassin_valkyriegadget,bomber_dangerzone,spell_empower_aegis,lancer_spearwall,artillery_pressure_fire,epic_watchfulleaders",
-        "nextNodeType": "wasterock"
+        "captainBoons": "common_classic_comeback,centurion_unstoppableforce,assassin_disappearingact,bomber_living_bomb,warrior_swordofruin,assassin_valkyriegadget,bomber_dangerzone,spell_empower_aegis,lancer_spearwall,artillery_pressure_fire,epic_watchfulleaders",
+        "nextNodeType": "frontierroundup"
     },
     {
         "dungeonRunId": "169348",
