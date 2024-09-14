@@ -36,15 +36,6 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "168931",
-        "completedLevels": "55",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-09-07 01:52:41",
-        "endTime": "2024-09-07 08:25:23",
-        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
         "dungeonRunId": "169043",
         "completedLevels": "55",
         "twitchDisplayName": "FinalSun",
@@ -52,6 +43,15 @@
         "endTime": "2024-09-07 22:24:18",
         "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
         "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "168931",
+        "completedLevels": "55",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-09-07 01:52:41",
+        "endTime": "2024-09-07 08:25:23",
+        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "169535",
@@ -81,12 +81,12 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "168955",
+        "dungeonRunId": "169986",
         "completedLevels": "50",
-        "twitchDisplayName": "RoseGaminDiva",
-        "startTime": "2024-09-07 03:18:13",
-        "endTime": "2024-09-07 08:55:05",
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,berserker_enrage,artillery_pressure_fire,bomber_flameinfusion,gladiator_war_machine,bomber_dangerzone,ranged_rangerquivers,epic_melee_gloryofvictory,musketeer_grapeshot,lancer_firststrike,lancer_spearwall,warrior_blademastery,barbarian_immortal,archer_enchantedammo,blob_parasite,berserker_eyeofthestorm,ranged_preciseshot,epic_giantsblessing",
-        "nextNodeType": "plaguelandboss"
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-09-13 17:45:11",
+        "endTime": "2024-09-14 02:13:52",
+        "captainBoons": "common_classic_comeback,musketeer_grapeshot,lancer_sarissaspears,berserker_enrage,artillery_pressure_fire,bomber_dangerzone,ranged_preciseshot,warbeast_underworldbeast,ensouled_heroicspirits,warrior_blademastery,warrior_flameslash,berserker_eyeofthestorm,melee_battlebracers,general_resistance,warrior_swordofruin,assassin_disappearingact,epic_armored_armoredgiants,saint_surgeofconfidence,flagbearer_bannerofluck",
+        "nextNodeType": "crashzoneboss"
     }
 ]
