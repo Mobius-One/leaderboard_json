@@ -63,15 +63,6 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "168881",
-        "completedLevels": "52",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-09-06 20:41:11",
-        "endTime": "2024-09-07 03:51:39",
-        "captainBoons": "common_classic_comeback,assassin_disappearingact,warrior_swordofruin,general_critical,tank_hoarfrost_armor,bomber_dangerzone,armored_ignorepain,melee_battlebracers,saint_exalt,ranged_rangerquivers,archer_master_fletcher,artillery_pressure_fire,gladiator_sonofthunder,warbeast_underworldbeast,lancer_sarissaspears,support_enchantedstaves,ensouled_heroicspirits,epic_melee_gloryofvictory",
-        "nextNodeType": "thehiveconveyor"
-    },
-    {
         "dungeonRunId": "169012",
         "completedLevels": "52",
         "twitchDisplayName": "RealAlize",
@@ -81,12 +72,21 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "169986",
+        "dungeonRunId": "168881",
+        "completedLevels": "52",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-09-06 20:41:11",
+        "endTime": "2024-09-07 03:51:39",
+        "captainBoons": "common_classic_comeback,assassin_disappearingact,warrior_swordofruin,general_critical,tank_hoarfrost_armor,bomber_dangerzone,armored_ignorepain,melee_battlebracers,saint_exalt,ranged_rangerquivers,archer_master_fletcher,artillery_pressure_fire,gladiator_sonofthunder,warbeast_underworldbeast,lancer_sarissaspears,support_enchantedstaves,ensouled_heroicspirits,epic_melee_gloryofvictory",
+        "nextNodeType": "thehiveconveyor"
+    },
+    {
+        "dungeonRunId": "168955",
         "completedLevels": "50",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-09-13 17:45:11",
-        "endTime": "2024-09-14 02:13:52",
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,lancer_sarissaspears,berserker_enrage,artillery_pressure_fire,bomber_dangerzone,ranged_preciseshot,warbeast_underworldbeast,ensouled_heroicspirits,warrior_blademastery,warrior_flameslash,berserker_eyeofthestorm,melee_battlebracers,general_resistance,warrior_swordofruin,assassin_disappearingact,epic_armored_armoredgiants,saint_surgeofconfidence,flagbearer_bannerofluck",
-        "nextNodeType": "crashzoneboss"
+        "twitchDisplayName": "RoseGaminDiva",
+        "startTime": "2024-09-07 03:18:13",
+        "endTime": "2024-09-07 08:55:05",
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,berserker_enrage,artillery_pressure_fire,bomber_flameinfusion,gladiator_war_machine,bomber_dangerzone,ranged_rangerquivers,epic_melee_gloryofvictory,musketeer_grapeshot,lancer_firststrike,lancer_spearwall,warrior_blademastery,barbarian_immortal,archer_enchantedammo,blob_parasite,berserker_eyeofthestorm,ranged_preciseshot,epic_giantsblessing",
+        "nextNodeType": "plaguelandboss"
     }
 ]
