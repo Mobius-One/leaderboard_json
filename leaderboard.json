@@ -81,12 +81,12 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "169154",
-        "completedLevels": "50",
+        "dungeonRunId": "170134",
+        "completedLevels": "51",
         "twitchDisplayName": "NutshellinChains",
-        "startTime": "2024-09-08 01:46:03",
-        "endTime": "2024-09-08 19:52:17",
-        "captainBoons": "common_classic_comeback,ranged_rangerquivers,general_damage,epic_giantsblessing,warrior_swordofruin,saint_exalt,musketeer_grapeshot,epic_giantsbrewzero,tank_hoarfrost_armor,bomber_dangerzone,human_humandestiny,warrior_blademastery,armored_forceofwill,general_speed,elf_elvenimmortality,epic_armored_armoredgiants,general_critical,saint_surgeofconfidence,general_recovery",
-        "nextNodeType": "plaguelandboss"
+        "startTime": "2024-09-14 19:06:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_parasite,berserker_enrage,spell_empower_haste,bomber_dangerzone,warrior_flameslash,warrior_blademastery,bomber_flameinfusion,lancer_firststrike,tank_battlefieldcontrol,epic_giantsblessing,berserker_eyeofthestorm,general_critical,ensouled_fatedspirits,orcslayer_worldrazer,general_resistance,archer_master_fletcher,general_wellrounded",
+        "nextNodeType": "frontierroundup"
     }
 ]
