@@ -63,15 +63,6 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
-        "dungeonRunId": "170134",
-        "completedLevels": "52",
-        "twitchDisplayName": "NutshellinChains",
-        "startTime": "2024-09-14 19:06:16",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,blob_parasite,berserker_enrage,spell_empower_haste,bomber_dangerzone,warrior_flameslash,warrior_blademastery,bomber_flameinfusion,lancer_firststrike,tank_battlefieldcontrol,epic_giantsblessing,berserker_eyeofthestorm,general_critical,ensouled_fatedspirits,orcslayer_worldrazer,general_resistance,archer_master_fletcher,general_wellrounded",
-        "nextNodeType": "icecaveportals"
-    },
-    {
         "dungeonRunId": "168881",
         "completedLevels": "52",
         "twitchDisplayName": "JojoGeeker",
@@ -88,5 +79,14 @@
         "endTime": "2024-09-07 16:20:38",
         "captainBoons": "common_classic_comeback,flagbearer_deathbegetslife,warrior_blademastery,archer_master_fletcher,general_resistance,artillery_pressure_fire,archer_deadshot,elf_elvenimmortality,lancer_sarissaspears,epic_melee_gloryofvictory,epic_giantsbrewzero,berserker_enrage,ensouled_bravespirits,bomber_dangerzone,tank_hoarfrost_armor,general_critical,warrior_swordofruin,gladiator_sonofthunder",
         "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "170134",
+        "completedLevels": "52",
+        "twitchDisplayName": "NutshellinChains",
+        "startTime": "2024-09-14 19:06:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_parasite,berserker_enrage,spell_empower_haste,bomber_dangerzone,warrior_flameslash,warrior_blademastery,lancer_firststrike,tank_battlefieldcontrol,epic_giantsblessing,berserker_eyeofthestorm,general_critical,ensouled_fatedspirits,orcslayer_worldrazer,general_resistance,archer_master_fletcher,general_wellrounded",
+        "nextNodeType": "icecaveportals"
     }
 ]
