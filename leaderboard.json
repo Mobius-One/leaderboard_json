@@ -32,7 +32,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-09-18 08:37:16",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,warrior_swordofruin,bomber_dangerzone,epic_giantsbrewzero,saint_surgeofconfidence,archer_master_fletcher,general_cadence,bomber_living_bomb,epic_giantsblessing,berserker_eyeofthestorm,saint_exalt,centurion_unstoppableforce,gladiator_sonofthunder,gladiator_war_machine,support_healingsong",
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,warrior_swordofruin,bomber_dangerzone,epic_giantsbrewzero,saint_surgeofconfidence,archer_master_fletcher,bomber_living_bomb,epic_giantsblessing,berserker_eyeofthestorm,saint_exalt,centurion_unstoppableforce,gladiator_sonofthunder,gladiator_war_machine,support_healingsong",
         "nextNodeType": "oasisruins"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "169012",
+        "dungeonRunId": "170134",
         "completedLevels": "52",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-09-07 10:36:41",
-        "endTime": "2024-09-07 16:20:38",
-        "captainBoons": "common_classic_comeback,flagbearer_deathbegetslife,warrior_blademastery,archer_master_fletcher,general_resistance,artillery_pressure_fire,archer_deadshot,elf_elvenimmortality,lancer_sarissaspears,epic_melee_gloryofvictory,epic_giantsbrewzero,berserker_enrage,ensouled_bravespirits,bomber_dangerzone,tank_hoarfrost_armor,general_critical,warrior_swordofruin,gladiator_sonofthunder",
-        "nextNodeType": "cruciblemeltdown"
+        "twitchDisplayName": "NutshellinChains",
+        "startTime": "2024-09-14 19:06:16",
+        "endTime": "2024-09-15 01:01:36",
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_parasite,berserker_enrage,spell_empower_haste,bomber_dangerzone,warrior_flameslash,warrior_blademastery,lancer_firststrike,tank_battlefieldcontrol,epic_giantsblessing,berserker_eyeofthestorm,general_critical,ensouled_fatedspirits,orcslayer_worldrazer,general_resistance,archer_master_fletcher,general_wellrounded",
+        "nextNodeType": "icecaveportals"
     }
 ]
