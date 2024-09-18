@@ -27,6 +27,15 @@
         "nextNodeType": "plaguegrotto"
     },
     {
+        "dungeonRunId": "170672",
+        "completedLevels": "57",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-09-18 08:37:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,warrior_swordofruin,bomber_dangerzone,epic_giantsbrewzero,saint_surgeofconfidence,archer_master_fletcher,general_cadence,bomber_living_bomb,epic_giantsblessing,berserker_eyeofthestorm,saint_exalt,centurion_unstoppableforce,gladiator_sonofthunder,gladiator_war_machine,support_healingsong",
+        "nextNodeType": "thehiveconveyor"
+    },
+    {
         "dungeonRunId": "169620",
         "completedLevels": "56",
         "twitchDisplayName": "chiquik",
@@ -34,15 +43,6 @@
         "endTime": "2024-09-11 14:21:33",
         "captainBoons": "general_damage,armored_heavyblades,saint_exalt,common_specialists,ranged_rangerquivers,artillery_pressure_fire,epic_assassin_serialkiller,ranged_preciseshot,paladin_holyforce,bomber_dangerzone,gladiator_war_machine,epic_giantsblessing,warrior_swordofruin,warrior_flameslash,spell_empower_killingfield,saint_surgeofconfidence",
         "nextNodeType": "crashzoneboss"
-    },
-    {
-        "dungeonRunId": "170672",
-        "completedLevels": "56",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-09-18 08:37:16",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,warrior_swordofruin,bomber_dangerzone,epic_giantsbrewzero,saint_surgeofconfidence,archer_master_fletcher,general_cadence,bomber_living_bomb,epic_giantsblessing,berserker_eyeofthestorm,saint_exalt,centurion_unstoppableforce,gladiator_sonofthunder,gladiator_war_machine,support_healingsong",
-        "nextNodeType": "icecaveboss"
     },
     {
         "dungeonRunId": "169043",
