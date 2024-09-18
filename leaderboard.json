@@ -54,6 +54,15 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
+        "dungeonRunId": "170672",
+        "completedLevels": "54",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-09-18 08:37:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,warrior_swordofruin,bomber_dangerzone,epic_giantsbrewzero,saint_surgeofconfidence,archer_master_fletcher,general_cadence,bomber_living_bomb,epic_giantsblessing,berserker_eyeofthestorm,saint_exalt,spell_empower_haste,centurion_unstoppableforce,gladiator_sonofthunder,gladiator_war_machine,support_healingsong",
+        "nextNodeType": "tabletopboard"
+    },
+    {
         "dungeonRunId": "169535",
         "completedLevels": "54",
         "twitchDisplayName": "Meistar",
@@ -61,15 +70,6 @@
         "endTime": "2024-09-11 00:08:44",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,melee_followup,archer_master_fletcher,epic_giantsblessing,musk_hunters_mark,epic_giantsbrewzero,centurion_unstoppableforce,berserker_enrage,armored_ignorepain,saint_exalt,monk_channel_chakra,artillery_pressure_fire,general_recovery,bomber_flameinfusion,epic_melee_gloryofvictory,tank_ironclad",
         "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "170672",
-        "completedLevels": "53",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-09-18 08:37:16",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,warrior_swordofruin,bomber_dangerzone,epic_giantsbrewzero,saint_surgeofconfidence,archer_master_fletcher,general_cadence,bomber_living_bomb,support_doomingsong,epic_giantsblessing,berserker_eyeofthestorm,saint_exalt,spell_empower_haste,centurion_unstoppableforce,gladiator_sonofthunder,gladiator_war_machine,support_healingsong",
-        "nextNodeType": "wasterock"
     },
     {
         "dungeonRunId": "170237",
@@ -81,12 +81,12 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "168881",
+        "dungeonRunId": "169012",
         "completedLevels": "52",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-09-06 20:41:11",
-        "endTime": "2024-09-07 03:51:39",
-        "captainBoons": "common_classic_comeback,assassin_disappearingact,warrior_swordofruin,general_critical,tank_hoarfrost_armor,bomber_dangerzone,armored_ignorepain,melee_battlebracers,saint_exalt,ranged_rangerquivers,archer_master_fletcher,artillery_pressure_fire,gladiator_sonofthunder,warbeast_underworldbeast,lancer_sarissaspears,support_enchantedstaves,ensouled_heroicspirits,epic_melee_gloryofvictory",
-        "nextNodeType": "thehiveconveyor"
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-09-07 10:36:41",
+        "endTime": "2024-09-07 16:20:38",
+        "captainBoons": "common_classic_comeback,flagbearer_deathbegetslife,warrior_blademastery,archer_master_fletcher,general_resistance,artillery_pressure_fire,archer_deadshot,elf_elvenimmortality,lancer_sarissaspears,epic_melee_gloryofvictory,epic_giantsbrewzero,berserker_enrage,ensouled_bravespirits,bomber_dangerzone,tank_hoarfrost_armor,general_critical,warrior_swordofruin,gladiator_sonofthunder",
+        "nextNodeType": "cruciblemeltdown"
     }
 ]
