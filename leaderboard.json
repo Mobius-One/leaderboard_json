@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "170644",
-        "completedLevels": "53",
+        "completedLevels": "54",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2024-09-18 03:50:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,berserker_eyeofthestorm,berserker_enrage,general_resistance,armored_ignorepain,bomber_living_bomb,general_recovery,vampire_lordofthedead,archer_deadshot,epic_armored_armoredgiants,general_critical,shinobi_firetechinique,archer_master_fletcher,bomber_dangerzone,warrior_flameslash,artillery_pressure_fire,ranged_rangergloves",
-        "nextNodeType": "wasterock"
+        "captainBoons": "common_classic_comeback,saint_exalt,berserker_eyeofthestorm,berserker_enrage,general_resistance,armored_ignorepain,bomber_living_bomb,vampire_lordofthedead,archer_deadshot,epic_armored_armoredgiants,general_critical,shinobi_firetechinique,archer_master_fletcher,bomber_dangerzone,warrior_flameslash,artillery_pressure_fire,ranged_rangergloves",
+        "nextNodeType": "frontierroundup"
     },
     {
         "dungeonRunId": "170237",
