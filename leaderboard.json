@@ -72,6 +72,15 @@
         "nextNodeType": "cruciblemeltdown"
     },
     {
+        "dungeonRunId": "170644",
+        "completedLevels": "53",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-09-18 03:50:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,berserker_eyeofthestorm,berserker_enrage,general_resistance,armored_ignorepain,bomber_living_bomb,general_recovery,vampire_lordofthedead,archer_deadshot,epic_armored_armoredgiants,general_critical,shinobi_firetechinique,archer_master_fletcher,bomber_dangerzone,warrior_flameslash,artillery_pressure_fire,ranged_rangergloves",
+        "nextNodeType": "wasterock"
+    },
+    {
         "dungeonRunId": "170237",
         "completedLevels": "53",
         "twitchDisplayName": "Hyf1re",
@@ -79,14 +88,5 @@
         "endTime": "2024-09-15 22:49:46",
         "captainBoons": "common_classic_comeback,ranged_rangerquivers,ensouled_bravespirits,lancer_firststrike,warrior_flameslash,archer_master_fletcher,bomber_dangerzone,epic_watchfulleaders,bomber_living_bomb,ranged_preciseshot,epic_armored_armoredgiants,lancer_sarissaspears,melee_followup,warrior_swordofruin,epic_assassin_serialkiller,assassin_disappearingact,warbeast_underworldbeast,gladiator_sonofthunder",
         "nextNodeType": "crashzoneboss"
-    },
-    {
-        "dungeonRunId": "170134",
-        "completedLevels": "52",
-        "twitchDisplayName": "NutshellinChains",
-        "startTime": "2024-09-14 19:06:16",
-        "endTime": "2024-09-15 01:01:36",
-        "captainBoons": "common_classic_comeback,saint_exalt,blob_parasite,berserker_enrage,spell_empower_haste,bomber_dangerzone,warrior_flameslash,warrior_blademastery,lancer_firststrike,tank_battlefieldcontrol,epic_giantsblessing,berserker_eyeofthestorm,general_critical,ensouled_fatedspirits,orcslayer_worldrazer,general_resistance,archer_master_fletcher,general_wellrounded",
-        "nextNodeType": "icecaveportals"
     }
 ]
