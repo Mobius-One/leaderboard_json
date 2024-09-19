@@ -45,15 +45,6 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "168931",
-        "completedLevels": "55",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-09-07 01:52:41",
-        "endTime": "2024-09-07 08:25:23",
-        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
         "dungeonRunId": "169043",
         "completedLevels": "55",
         "twitchDisplayName": "FinalSun",
@@ -61,6 +52,15 @@
         "endTime": "2024-09-07 22:24:18",
         "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
         "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "168931",
+        "completedLevels": "55",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-09-07 01:52:41",
+        "endTime": "2024-09-07 08:25:23",
+        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "169535",
@@ -81,12 +81,12 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "169012",
+        "dungeonRunId": "170134",
         "completedLevels": "52",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-09-07 10:36:41",
-        "endTime": "2024-09-07 16:20:38",
-        "captainBoons": "common_classic_comeback,flagbearer_deathbegetslife,warrior_blademastery,archer_master_fletcher,general_resistance,artillery_pressure_fire,archer_deadshot,elf_elvenimmortality,lancer_sarissaspears,epic_melee_gloryofvictory,epic_giantsbrewzero,berserker_enrage,ensouled_bravespirits,bomber_dangerzone,tank_hoarfrost_armor,general_critical,warrior_swordofruin,gladiator_sonofthunder",
-        "nextNodeType": "cruciblemeltdown"
+        "twitchDisplayName": "NutshellinChains",
+        "startTime": "2024-09-14 19:06:16",
+        "endTime": "2024-09-15 01:01:36",
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_parasite,berserker_enrage,spell_empower_haste,bomber_dangerzone,warrior_flameslash,warrior_blademastery,lancer_firststrike,tank_battlefieldcontrol,epic_giantsblessing,berserker_eyeofthestorm,general_critical,ensouled_fatedspirits,orcslayer_worldrazer,general_resistance,archer_master_fletcher,general_wellrounded",
+        "nextNodeType": "icecaveportals"
     }
 ]
