@@ -36,15 +36,6 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "168830",
-        "completedLevels": "56",
-        "twitchDisplayName": "ShinyEevee27",
-        "startTime": "2024-09-06 13:33:12",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_preciseshot,paladin_holyforce,general_cadence,flagbearer_rallydefense,general_wellrounded,archer_master_fletcher,archer_deadshot,armored_forceofwill,bomber_flameinfusion,common_specialists,saint_exalt,ensouled_enragedspirits,bomber_dangerzone,artillery_pressure_fire,spell_empower_stronghold",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
         "dungeonRunId": "169620",
         "completedLevels": "56",
         "twitchDisplayName": "chiquik",
@@ -61,6 +52,15 @@
         "endTime": "2024-09-19 05:52:05",
         "captainBoons": "common_classic_comeback,saint_exalt,berserker_eyeofthestorm,berserker_enrage,general_resistance,armored_ignorepain,bomber_living_bomb,vampire_lordofthedead,archer_deadshot,epic_armored_armoredgiants,general_critical,shinobi_firetechinique,archer_master_fletcher,bomber_dangerzone,warrior_flameslash,artillery_pressure_fire",
         "nextNodeType": "lavafurnace"
+    },
+    {
+        "dungeonRunId": "168830",
+        "completedLevels": "56",
+        "twitchDisplayName": "ShinyEevee27",
+        "startTime": "2024-09-06 13:33:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_preciseshot,paladin_holyforce,general_cadence,flagbearer_rallydefense,general_wellrounded,archer_master_fletcher,archer_deadshot,armored_forceofwill,bomber_flameinfusion,common_specialists,saint_exalt,ensouled_enragedspirits,bomber_dangerzone,artillery_pressure_fire,spell_empower_stronghold",
+        "nextNodeType": "plaguelandboss"
     },
     {
         "dungeonRunId": "168931",
