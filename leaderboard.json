@@ -45,6 +45,15 @@
         "nextNodeType": "lavafurnace"
     },
     {
+        "dungeonRunId": "168830",
+        "completedLevels": "56",
+        "twitchDisplayName": "ShinyEevee27",
+        "startTime": "2024-09-06 13:33:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_preciseshot,paladin_holyforce,general_cadence,flagbearer_rallydefense,barbarian_immortal,general_wellrounded,archer_master_fletcher,archer_deadshot,armored_forceofwill,bomber_flameinfusion,common_specialists,saint_exalt,ensouled_enragedspirits,bomber_dangerzone,artillery_pressure_fire,spell_empower_stronghold",
+        "nextNodeType": "plaguelandboss"
+    },
+    {
         "dungeonRunId": "169620",
         "completedLevels": "56",
         "twitchDisplayName": "chiquik",
@@ -52,15 +61,6 @@
         "endTime": "2024-09-11 14:21:33",
         "captainBoons": "general_damage,armored_heavyblades,saint_exalt,common_specialists,ranged_rangerquivers,artillery_pressure_fire,epic_assassin_serialkiller,ranged_preciseshot,paladin_holyforce,bomber_dangerzone,gladiator_war_machine,epic_giantsblessing,warrior_swordofruin,warrior_flameslash,spell_empower_killingfield,saint_surgeofconfidence",
         "nextNodeType": "crashzoneboss"
-    },
-    {
-        "dungeonRunId": "169043",
-        "completedLevels": "55",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-09-07 15:26:45",
-        "endTime": "2024-09-07 22:24:18",
-        "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
-        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "168931",
@@ -72,13 +72,13 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "168830",
+        "dungeonRunId": "169043",
         "completedLevels": "55",
-        "twitchDisplayName": "ShinyEevee27",
-        "startTime": "2024-09-06 13:33:12",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_preciseshot,paladin_holyforce,general_cadence,flagbearer_rallydefense,barbarian_immortal,general_wellrounded,archer_master_fletcher,archer_deadshot,armored_forceofwill,bomber_flameinfusion,common_specialists,saint_exalt,ensouled_enragedspirits,bomber_dangerzone,artillery_pressure_fire,spell_empower_stronghold",
-        "nextNodeType": "oasisruins"
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-09-07 15:26:45",
+        "endTime": "2024-09-07 22:24:18",
+        "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "169535",
