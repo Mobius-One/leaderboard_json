@@ -45,13 +45,13 @@
         "nextNodeType": "plaguelandboss"
     },
     {
-        "dungeonRunId": "169620",
-        "completedLevels": "56",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-11 06:54:56",
-        "endTime": "2024-09-11 14:21:33",
-        "captainBoons": "general_damage,armored_heavyblades,saint_exalt,common_specialists,ranged_rangerquivers,artillery_pressure_fire,epic_assassin_serialkiller,ranged_preciseshot,paladin_holyforce,bomber_dangerzone,gladiator_war_machine,epic_giantsblessing,warrior_swordofruin,warrior_flameslash,spell_empower_killingfield,saint_surgeofconfidence",
-        "nextNodeType": "crashzoneboss"
+        "dungeonRunId": "170652",
+        "completedLevels": "57",
+        "twitchDisplayName": "LitterboxToast",
+        "startTime": "2024-09-18 04:59:15",
+        "endTime": null,
+        "captainBoons": "epic_assassin_serialkiller,general_cadence,ranged_rangerquivers,saint_exalt,elf_elvenimmortality,bomber_living_bomb,general_critical,assassin_valkyriegadget,artillery_pressure_fire,epic_giantsbrewzero,epic_giantsblessing,rogue_flamewalker,warrior_flameslash,frogue_cloakingfield,epic_melee_gloryofvictory,ranged_rangergloves",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "170644",
@@ -63,13 +63,13 @@
         "nextNodeType": "lavafurnace"
     },
     {
-        "dungeonRunId": "170652",
+        "dungeonRunId": "169620",
         "completedLevels": "56",
-        "twitchDisplayName": "LitterboxToast",
-        "startTime": "2024-09-18 04:59:15",
-        "endTime": null,
-        "captainBoons": "epic_assassin_serialkiller,general_cadence,ranged_rangerquivers,saint_exalt,elf_elvenimmortality,bomber_living_bomb,general_critical,assassin_valkyriegadget,artillery_pressure_fire,epic_giantsbrewzero,epic_giantsblessing,rogue_flamewalker,warrior_flameslash,frogue_cloakingfield,epic_melee_gloryofvictory,ranged_rangergloves",
-        "nextNodeType": "icecaveboss"
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-11 06:54:56",
+        "endTime": "2024-09-11 14:21:33",
+        "captainBoons": "general_damage,armored_heavyblades,saint_exalt,common_specialists,ranged_rangerquivers,artillery_pressure_fire,epic_assassin_serialkiller,ranged_preciseshot,paladin_holyforce,bomber_dangerzone,gladiator_war_machine,epic_giantsblessing,warrior_swordofruin,warrior_flameslash,spell_empower_killingfield,saint_surgeofconfidence",
+        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "168931",
