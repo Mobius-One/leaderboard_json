@@ -50,7 +50,7 @@
         "twitchDisplayName": "LitterboxToast",
         "startTime": "2024-09-18 04:59:15",
         "endTime": null,
-        "captainBoons": "epic_assassin_serialkiller,general_cadence,ranged_rangerquivers,saint_exalt,elf_elvenimmortality,bomber_living_bomb,general_critical,assassin_valkyriegadget,artillery_pressure_fire,epic_giantsbrewzero,epic_giantsblessing,rogue_flamewalker,warrior_flameslash,frogue_cloakingfield,epic_melee_gloryofvictory,ranged_rangergloves",
+        "captainBoons": "epic_assassin_serialkiller,general_cadence,ranged_rangerquivers,saint_exalt,elf_elvenimmortality,general_critical,assassin_valkyriegadget,artillery_pressure_fire,epic_giantsbrewzero,epic_giantsblessing,rogue_flamewalker,warrior_flameslash,frogue_cloakingfield,epic_melee_gloryofvictory,ranged_rangergloves",
         "nextNodeType": "lavachamber"
     },
     {
@@ -72,15 +72,6 @@
         "nextNodeType": "lavafurnace"
     },
     {
-        "dungeonRunId": "168931",
-        "completedLevels": "55",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-09-07 01:52:41",
-        "endTime": "2024-09-07 08:25:23",
-        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
         "dungeonRunId": "169043",
         "completedLevels": "55",
         "twitchDisplayName": "FinalSun",
@@ -88,5 +79,14 @@
         "endTime": "2024-09-07 22:24:18",
         "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
         "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "168931",
+        "completedLevels": "55",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-09-07 01:52:41",
+        "endTime": "2024-09-07 08:25:23",
+        "captainBoons": "common_classic_comeback,warrior_blademastery,elf_elvenimmortality,armored_ignorepain,berserker_enrage,saint_exalt,melee_followup,archer_master_fletcher,barbarian_immortal,archer_deadshot,ranged_rangerquivers,fairy_nixiepops,epic_giantsbrewzero,bomber_dangerzone,melee_finalcut,general_resistance,musketeer_grapeshot",
+        "nextNodeType": "plaguegrotto"
     }
 ]
