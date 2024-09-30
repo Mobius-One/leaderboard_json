@@ -63,15 +63,6 @@
         "nextNodeType": "mothershiparmory"
     },
     {
-        "dungeonRunId": "170644",
-        "completedLevels": "56",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-09-18 03:50:52",
-        "endTime": "2024-09-19 05:52:05",
-        "captainBoons": "common_classic_comeback,saint_exalt,berserker_eyeofthestorm,berserker_enrage,general_resistance,armored_ignorepain,bomber_living_bomb,vampire_lordofthedead,archer_deadshot,epic_armored_armoredgiants,general_critical,shinobi_firetechinique,archer_master_fletcher,bomber_dangerzone,warrior_flameslash,artillery_pressure_fire",
-        "nextNodeType": "lavafurnace"
-    },
-    {
         "dungeonRunId": "169620",
         "completedLevels": "56",
         "twitchDisplayName": "chiquik",
@@ -81,12 +72,21 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "170338",
+        "dungeonRunId": "170644",
+        "completedLevels": "56",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-09-18 03:50:52",
+        "endTime": "2024-09-19 05:52:05",
+        "captainBoons": "common_classic_comeback,saint_exalt,berserker_eyeofthestorm,berserker_enrage,general_resistance,armored_ignorepain,bomber_living_bomb,vampire_lordofthedead,archer_deadshot,epic_armored_armoredgiants,general_critical,shinobi_firetechinique,archer_master_fletcher,bomber_dangerzone,warrior_flameslash,artillery_pressure_fire",
+        "nextNodeType": "lavafurnace"
+    },
+    {
+        "dungeonRunId": "169043",
         "completedLevels": "55",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-09-16 03:13:28",
-        "endTime": "2024-09-29 23:08:19",
-        "captainBoons": "common_classic_comeback,ranged_rangerquivers,archer_master_fletcher,bomber_dangerzone,general_damage,ranged_preciseshot,ranged_hamstring,warrior_blademastery,artillery_pressure_fire,armored_ignorepain,ensouled_enragedspirits,gladiator_war_machine,epic_giantsblessing,necromancer_bombasticbones,flagbearer_rallydefense,epic_giantsbrewzero,elf_elvenimmortality",
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-09-07 15:26:45",
+        "endTime": "2024-09-07 22:24:18",
+        "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
         "nextNodeType": "cruciblemeltdown"
     }
 ]
