@@ -63,15 +63,6 @@
         "nextNodeType": "mothershiparmory"
     },
     {
-        "dungeonRunId": "169620",
-        "completedLevels": "56",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-11 06:54:56",
-        "endTime": "2024-09-11 14:21:33",
-        "captainBoons": "general_damage,armored_heavyblades,saint_exalt,common_specialists,ranged_rangerquivers,artillery_pressure_fire,epic_assassin_serialkiller,ranged_preciseshot,paladin_holyforce,bomber_dangerzone,gladiator_war_machine,epic_giantsblessing,warrior_swordofruin,warrior_flameslash,spell_empower_killingfield,saint_surgeofconfidence",
-        "nextNodeType": "crashzoneboss"
-    },
-    {
         "dungeonRunId": "170644",
         "completedLevels": "56",
         "twitchDisplayName": "elcanadiano",
@@ -81,12 +72,21 @@
         "nextNodeType": "lavafurnace"
     },
     {
-        "dungeonRunId": "170883",
+        "dungeonRunId": "169620",
+        "completedLevels": "56",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-09-11 06:54:56",
+        "endTime": "2024-09-11 14:21:33",
+        "captainBoons": "general_damage,armored_heavyblades,saint_exalt,common_specialists,ranged_rangerquivers,artillery_pressure_fire,epic_assassin_serialkiller,ranged_preciseshot,paladin_holyforce,bomber_dangerzone,gladiator_war_machine,epic_giantsblessing,warrior_swordofruin,warrior_flameslash,spell_empower_killingfield,saint_surgeofconfidence",
+        "nextNodeType": "crashzoneboss"
+    },
+    {
+        "dungeonRunId": "170338",
         "completedLevels": "55",
-        "twitchDisplayName": "TheVinylViper",
-        "startTime": "2024-09-19 14:05:28",
-        "endTime": "2024-10-08 19:43:27",
-        "captainBoons": "common_classic_comeback,saint_surgeofconfidence,berserker_eyeofthestorm,lancer_sarissaspears,berserker_enrage,general_speed,ranged_preciseshot,bomber_living_bomb,bomber_dangerzone,amazon_vineclone,artillery_pressure_fire,general_wellrounded,ensouled_heroicspirits,epic_watchfulleaders,ranged_hamstring,armored_heavyblades,general_cadence",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-09-16 03:13:28",
+        "endTime": "2024-09-29 23:08:19",
+        "captainBoons": "common_classic_comeback,ranged_rangerquivers,archer_master_fletcher,bomber_dangerzone,general_damage,ranged_preciseshot,ranged_hamstring,warrior_blademastery,artillery_pressure_fire,armored_ignorepain,ensouled_enragedspirits,gladiator_war_machine,epic_giantsblessing,necromancer_bombasticbones,flagbearer_rallydefense,epic_giantsbrewzero,elf_elvenimmortality",
         "nextNodeType": "cruciblemeltdown"
     }
 ]
