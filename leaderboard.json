@@ -81,12 +81,12 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "170338",
+        "dungeonRunId": "170850",
         "completedLevels": "55",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-09-16 03:13:28",
-        "endTime": "2024-09-29 23:08:19",
-        "captainBoons": "common_classic_comeback,ranged_rangerquivers,archer_master_fletcher,bomber_dangerzone,general_damage,ranged_preciseshot,ranged_hamstring,warrior_blademastery,artillery_pressure_fire,armored_ignorepain,ensouled_enragedspirits,gladiator_war_machine,epic_giantsblessing,necromancer_bombasticbones,flagbearer_rallydefense,epic_giantsbrewzero,elf_elvenimmortality",
-        "nextNodeType": "cruciblemeltdown"
+        "twitchDisplayName": "Leskarpe76",
+        "startTime": "2024-09-19 10:53:05",
+        "endTime": "2024-10-17 22:16:12",
+        "captainBoons": "common_classic_comeback,armored_ignorepain,barbarian_bringthepain,bomber_living_bomb,epic_giantsbrewzero,armored_forceofwill,lancer_sarissaspears,warrior_blademastery,ranged_hamstring,saint_exalt,melee_carefulhunt,archer_master_fletcher,epic_giantsblessing,berserker_eyeofthestorm,bomber_flameinfusion,epic_armored_armoredgiants,saint_surgeofconfidence",
+        "nextNodeType": "sugarforest"
     }
 ]
