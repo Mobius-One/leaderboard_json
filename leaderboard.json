@@ -81,12 +81,12 @@
         "nextNodeType": "crashzoneboss"
     },
     {
-        "dungeonRunId": "170883",
+        "dungeonRunId": "169043",
         "completedLevels": "55",
-        "twitchDisplayName": "TheVinylViper",
-        "startTime": "2024-09-19 14:05:28",
-        "endTime": "2024-10-08 19:43:27",
-        "captainBoons": "common_classic_comeback,saint_surgeofconfidence,berserker_eyeofthestorm,lancer_sarissaspears,berserker_enrage,general_speed,ranged_preciseshot,bomber_living_bomb,bomber_dangerzone,amazon_vineclone,artillery_pressure_fire,general_wellrounded,ensouled_heroicspirits,epic_watchfulleaders,ranged_hamstring,armored_heavyblades,general_cadence",
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-09-07 15:26:45",
+        "endTime": "2024-09-07 22:24:18",
+        "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
         "nextNodeType": "cruciblemeltdown"
     }
 ]
