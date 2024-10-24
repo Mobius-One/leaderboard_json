@@ -1,92 +1,20 @@
 [
     {
-        "dungeonRunId": "169863",
-        "completedLevels": "75",
+        "dungeonRunId": "170933",
+        "completedLevels": "1",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-10-24 18:00:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_dyingsong",
+        "nextNodeType": "dungeons_cult_fields"
+    },
+    {
+        "dungeonRunId": "170943",
+        "completedLevels": "1",
         "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-09-12 21:41:56",
-        "endTime": "2024-09-14 01:03:02",
-        "captainBoons": "bomber_living_bomb,warrior_swordofruin,assassin_valkyriegadget,bomber_dangerzone,spell_empower_aegis,lancer_spearwall,artillery_pressure_fire",
-        "nextNodeType": "alpharaiderssquare"
-    },
-    {
-        "dungeonRunId": "169715",
-        "completedLevels": "74",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-09-11 23:19:15",
-        "endTime": "2024-09-12 06:14:13",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_swordofruin,epic_giantsblessing,warrior_blademastery,musketeer_grapeshot,bomber_living_bomb",
-        "nextNodeType": "icecaveboss"
-    },
-    {
-        "dungeonRunId": "168830",
-        "completedLevels": "66",
-        "twitchDisplayName": "ShinyEevee27",
-        "startTime": "2024-09-06 13:33:12",
-        "endTime": "2024-09-28 08:49:06",
-        "captainBoons": "common_classic_comeback,ranged_preciseshot,paladin_holyforce,flagbearer_rallydefense,general_wellrounded,archer_deadshot,bomber_flameinfusion,common_specialists,ensouled_enragedspirits,bomber_dangerzone,artillery_pressure_fire",
-        "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "170652",
-        "completedLevels": "64",
-        "twitchDisplayName": "LitterboxToast",
-        "startTime": "2024-09-18 04:59:15",
-        "endTime": "2024-09-29 12:06:11",
-        "captainBoons": "epic_assassin_serialkiller,general_cadence,saint_exalt,assassin_valkyriegadget,artillery_pressure_fire,epic_giantsbrewzero,epic_giantsblessing,rogue_flamewalker,warrior_flameslash,frogue_cloakingfield,epic_melee_gloryofvictory,ranged_rangergloves",
-        "nextNodeType": "cruciblemeltdown"
-    },
-    {
-        "dungeonRunId": "169348",
-        "completedLevels": "61",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-09-09 10:01:54",
-        "endTime": "2024-09-09 17:38:31",
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,lancer_firststrike,ranged_preciseshot,saint_exalt,ensouled_heroicspirits,ensouled_fatedspirits,musk_hunters_mark,gladiator_war_machine,bomber_dangerzone,elf_elvenimmortality,bomber_living_bomb,epic_giantsbrewzero,berserker_eyeofthestorm",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
-        "dungeonRunId": "170672",
-        "completedLevels": "59",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-09-18 08:37:16",
-        "endTime": "2024-09-18 18:48:36",
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,warrior_swordofruin,bomber_dangerzone,epic_giantsbrewzero,saint_surgeofconfidence,archer_master_fletcher,bomber_living_bomb,epic_giantsblessing,berserker_eyeofthestorm,saint_exalt,centurion_unstoppableforce,gladiator_sonofthunder,gladiator_war_machine,support_healingsong",
-        "nextNodeType": "plaguelandboss"
-    },
-    {
-        "dungeonRunId": "170816",
-        "completedLevels": "58",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-09-19 04:46:59",
-        "endTime": "2024-09-30 10:25:26",
-        "captainBoons": "common_classic_comeback,ranged_preciseshot,bomber_living_bomb,saint_exalt,archer_deadshot,warrior_swordofruin,barbarian_immortal,healer_combatmedic,musketeer_grapeshot,general_recovery,ranged_rangerquivers,artillery_pressure_fire,general_damage,general_wellrounded,epic_ranged_dragonarrows",
-        "nextNodeType": "mothershiparmory"
-    },
-    {
-        "dungeonRunId": "170644",
-        "completedLevels": "56",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-09-18 03:50:52",
-        "endTime": "2024-09-19 05:52:05",
-        "captainBoons": "common_classic_comeback,saint_exalt,berserker_eyeofthestorm,berserker_enrage,general_resistance,armored_ignorepain,bomber_living_bomb,vampire_lordofthedead,archer_deadshot,epic_armored_armoredgiants,general_critical,shinobi_firetechinique,archer_master_fletcher,bomber_dangerzone,warrior_flameslash,artillery_pressure_fire",
-        "nextNodeType": "lavafurnace"
-    },
-    {
-        "dungeonRunId": "169620",
-        "completedLevels": "56",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-09-11 06:54:56",
-        "endTime": "2024-09-11 14:21:33",
-        "captainBoons": "general_damage,armored_heavyblades,saint_exalt,common_specialists,ranged_rangerquivers,artillery_pressure_fire,epic_assassin_serialkiller,ranged_preciseshot,paladin_holyforce,bomber_dangerzone,gladiator_war_machine,epic_giantsblessing,warrior_swordofruin,warrior_flameslash,spell_empower_killingfield,saint_surgeofconfidence",
-        "nextNodeType": "crashzoneboss"
-    },
-    {
-        "dungeonRunId": "169043",
-        "completedLevels": "55",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-09-07 15:26:45",
-        "endTime": "2024-09-07 22:24:18",
-        "captainBoons": "common_classic_comeback,ranged_hamstring,bomber_dangerzone,musk_hunters_mark,general_cadence,melee_followup,lancer_sarissaspears,epic_watchfulleaders,epic_armored_armoredgiants,warrior_swordofruin,general_resistance,saint_surgeofconfidence,saint_exalt,epic_melee_gloryofvictory,bomber_living_bomb,archer_deadshot,musketeer_grapeshot",
-        "nextNodeType": "cruciblemeltdown"
+        "startTime": "2024-10-24 18:05:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback",
+        "nextNodeType": "dungeons_polterheist_town"
     }
 ]
