@@ -1,39 +1,30 @@
 [
     {
         "dungeonRunId": "170944",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "RoseGaminDiva",
         "startTime": "2024-10-24 18:07:00",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,blob_flesheater,mage_clone,melee_spikedbones,warrior_dragonslayers,warbeast_underworldbeast,warrior_silveredblades,ranged_rangershivers,archer_soulpenetration",
-        "nextNodeType": "dungeons_cult_alley"
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,blob_flesheater,mage_clone,melee_spikedbones,warrior_dragonslayers,warbeast_underworldbeast,warrior_silveredblades,ranged_rangershivers,archer_soulpenetration,tank_boneyardwarden",
+        "nextNodeType": "dungeons_haunted_forest"
     },
     {
-        "dungeonRunId": "170933",
-        "completedLevels": "6",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-10-24 18:00:45",
+        "dungeonRunId": "170943",
+        "completedLevels": "7",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-10-24 18:05:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_dyingsong,ranged_rangershivers,balloonbuster_pinata,melee_spikedbones,archer_enchantedammo,berserker_killing_spree",
-        "nextNodeType": "dungeons_cult_alley"
+        "captainBoons": "common_classic_comeback,general_ghoulsprint,blob_flesheater,necromancer_ectoplosion,ranged_strangergloves,leader_undyingconscription,armored_tartarusguard,melee_spikedbones",
+        "nextNodeType": "dungeons_cult_docks"
     },
     {
         "dungeonRunId": "170938",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "ImMrFluffyToYou",
         "startTime": "2024-10-24 18:03:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_silveredblades,blob_ectoplasmic,warbeast_underworldbeast,melee_spikedbones,vampire_lordofthedead,art_1",
-        "nextNodeType": "dungeons_polterheist_clearing"
-    },
-    {
-        "dungeonRunId": "170943",
-        "completedLevels": "6",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-10-24 18:05:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_ghoulsprint,blob_flesheater,necromancer_ectoplosion,ranged_strangergloves,leader_undyingconscription,armored_tartarusguard",
-        "nextNodeType": "dungeons_polterheist_forest"
+        "nextNodeType": "dungeons_haunted_ruins"
     },
     {
         "dungeonRunId": "170942",
@@ -55,12 +46,30 @@
     },
     {
         "dungeonRunId": "170941",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "s0lskynn",
         "startTime": "2024-10-24 18:04:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_strangergloves,tank_lastlaugh,flagbearer_deathbegetslife,support_dyingsong,blob_flesheater",
-        "nextNodeType": "dungeons_boss_headlesshorseman"
+        "captainBoons": "common_classic_comeback,ranged_strangergloves,tank_lastlaugh,flagbearer_deathbegetslife,support_dyingsong,blob_flesheater,balloonbuster_pinata",
+        "nextNodeType": "dungeons_haunted_ruins"
+    },
+    {
+        "dungeonRunId": "170933",
+        "completedLevels": "6",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-10-24 18:00:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_dyingsong,ranged_rangershivers,balloonbuster_pinata,melee_spikedbones,archer_enchantedammo,berserker_killing_spree",
+        "nextNodeType": "dungeons_cult_alley"
+    },
+    {
+        "dungeonRunId": "170949",
+        "completedLevels": "5",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-10-24 18:13:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,tank_boneyardwarden,archer_enchantedammo,healer_monsterrehab,warrior_silveredblades",
+        "nextNodeType": "polterheisttownboss"
     },
     {
         "dungeonRunId": "170953",
@@ -68,25 +77,16 @@
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-10-24 18:24:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_spikedbones,leader_undyingconscription,armored_tartarusguard,assassin_arghgility",
+        "captainBoons": "common_classic_comeback,melee_spikedbones,leader_undyingconscription,armored_tartarusguard,assassin_arghgility,saint_surgeofconfidence",
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
-        "dungeonRunId": "170946",
+        "dungeonRunId": "170952",
         "completedLevels": "4",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-10-24 18:09:56",
+        "twitchDisplayName": "redspecter23",
+        "startTime": "2024-10-24 18:22:37",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_undyingdefense,paladin_skeletalsquire,paladin_holyforce",
-        "nextNodeType": "dungeons_polterheist_panic"
-    },
-    {
-        "dungeonRunId": "170949",
-        "completedLevels": "4",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-10-24 18:13:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_boneyardwarden,archer_enchantedammo,healer_monsterrehab,warrior_silveredblades",
-        "nextNodeType": "dungeons_polterheist_panic"
+        "captainBoons": "common_classic_comeback,melee_spikedbones,healer_arrogantmedium,barbarian_spiritconversion",
+        "nextNodeType": "dungeons_cult_square"
     }
 ]
