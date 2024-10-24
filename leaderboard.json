@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "170933",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2024-10-24 18:00:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_dyingsong,ranged_rangershivers,balloonbuster_pinata,melee_spikedbones,archer_enchantedammo,berserker_killing_spree,warrior_silveredblades,warrior_dragonslayers,armored_tartarusguard,archer_silveredarrows,leader_undyingconscription,archer_soulpenetration,assassin_undeathmark,barbarian_spiritconversion,armored_undyingdefense,lancer_impalingstakes,gladiator_war_machine,flagbearer_flagbearerswill,vampire_feastofessence,healer_monsterrehab,ranged_strangergloves,bomber_ricochet,monk_spiritstrike,armored_sanctifiedbones,paladin_holyforce,tank_boneyardwarden,flagbearer_hauntingflags",
-        "nextNodeType": "dungeons_haunted_field"
+        "captainBoons": "common_classic_comeback,support_dyingsong,ranged_rangershivers,balloonbuster_pinata,melee_spikedbones,archer_enchantedammo,berserker_killing_spree,warrior_silveredblades,warrior_dragonslayers,armored_tartarusguard,archer_silveredarrows,leader_undyingconscription,archer_soulpenetration,assassin_undeathmark,barbarian_spiritconversion,armored_undyingdefense,lancer_impalingstakes,gladiator_war_machine,flagbearer_flagbearerswill,healer_monsterrehab,ranged_strangergloves,bomber_ricochet,monk_spiritstrike,armored_sanctifiedbones,paladin_holyforce,tank_boneyardwarden,flagbearer_hauntingflags",
+        "nextNodeType": "dungeons_cult_fields"
     },
     {
         "dungeonRunId": "170953",
