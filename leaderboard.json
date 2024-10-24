@@ -31,18 +31,9 @@
         "completedLevels": "24",
         "twitchDisplayName": "Angel",
         "startTime": "2024-10-24 19:55:58",
-        "endTime": null,
+        "endTime": "2024-10-24 22:09:59",
         "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,rogue_momentum,rogue_2,tank_boneyardwarden,blob_ectoplasmic,warbeast_underworldbeast,ranged_strangergloves,warrior_dragonslayers,lancer_firststrike,melee_spikedbones,melee_hollowup,art_1,support_dyingsong,armored_sanctifiedbones,paladin_holyforce,assassin_arghgility,ranged_rangershivers,berserker_killing_spree,warrior_silveredblades,paladin_skeletalsquire,tank_hoarfrost_armor,armored_undyingdefense,bomber_ricochet,mage_clone",
         "nextNodeType": "dungeons_polterheist_swamp"
-    },
-    {
-        "dungeonRunId": "170944",
-        "completedLevels": "22",
-        "twitchDisplayName": "RoseGaminDiva",
-        "startTime": "2024-10-24 18:07:00",
-        "endTime": "2024-10-24 20:05:20",
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,blob_flesheater,mage_clone,melee_spikedbones,warrior_dragonslayers,warbeast_underworldbeast,warrior_silveredblades,ranged_rangershivers,archer_soulpenetration,tank_boneyardwarden,saint_surgeofconfidence,amazon_vineclone,ranged_strangergloves,rogue_momentum,support_rarecandy,epic_monstersbrew,epic_monstersblessing,necromancer_ectoplosion,archer_silveredarrows,archer_enchantedammo,tank_hoarfrost_armor,support_dyingsong",
-        "nextNodeType": "dungeons_haunted_town"
     },
     {
         "dungeonRunId": "170952",
@@ -52,6 +43,15 @@
         "endTime": "2024-10-24 21:47:38",
         "captainBoons": "common_classic_comeback,melee_spikedbones,healer_arrogantmedium,barbarian_spiritconversion,warrior_silveredblades,armored_sanctifiedbones,ranged_etherealwounds,armored_undyingdefense,vampire_lordofthedead,berserker_killing_spree,rogue_nighthunter,saint_surgeofconfidence,archer_soulpenetration,support_dyingsong,bomber_ricochet,saint_skeletondance,ranged_strangergloves,assassin_undeathmark,gladiator_war_machine,flagbearer_flagbearerswill,vampire_feastofessence,shinobi_lastninja,general_ghoulsprint",
         "nextNodeType": "dungeons_polterheist_forest"
+    },
+    {
+        "dungeonRunId": "170944",
+        "completedLevels": "22",
+        "twitchDisplayName": "RoseGaminDiva",
+        "startTime": "2024-10-24 18:07:00",
+        "endTime": "2024-10-24 20:05:20",
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,blob_flesheater,mage_clone,melee_spikedbones,warrior_dragonslayers,warbeast_underworldbeast,warrior_silveredblades,ranged_rangershivers,archer_soulpenetration,tank_boneyardwarden,saint_surgeofconfidence,amazon_vineclone,ranged_strangergloves,rogue_momentum,support_rarecandy,epic_monstersbrew,epic_monstersblessing,necromancer_ectoplosion,archer_silveredarrows,archer_enchantedammo,tank_hoarfrost_armor,support_dyingsong",
+        "nextNodeType": "dungeons_haunted_town"
     },
     {
         "dungeonRunId": "170938",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "170946",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "Hooks",
         "startTime": "2024-10-24 18:09:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_undyingdefense,paladin_skeletalsquire,paladin_holyforce,archer_silveredarrows,buster_ghostbuster,rogue_2,ranged_strangergloves,ranged_rangershivers,orcs_guardian_of_the_dead,assassin_arghgility,general_raidofthedead,necromancer_ectoplosion,general_ghoulhide,blob_flesheater,melee_cursedassimilation,epic_monstersbrew,vampire_feastofessence,fairy_nixiepops",
-        "nextNodeType": "dungeons_haunted_circle"
+        "captainBoons": "common_classic_comeback,armored_undyingdefense,paladin_skeletalsquire,paladin_holyforce,archer_silveredarrows,buster_ghostbuster,rogue_2,ranged_strangergloves,ranged_rangershivers,orcs_guardian_of_the_dead,assassin_arghgility,general_raidofthedead,necromancer_ectoplosion,general_ghoulhide,blob_flesheater,melee_cursedassimilation,epic_monstersbrew,vampire_feastofessence,fairy_nixiepops,general_ghoulsprint",
+        "nextNodeType": "dungeons_haunted_town"
     },
     {
         "dungeonRunId": "170942",
