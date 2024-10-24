@@ -1,5 +1,23 @@
 [
     {
+        "dungeonRunId": "170942",
+        "completedLevels": "1",
+        "twitchDisplayName": "LitterboxToast",
+        "startTime": "2024-10-24 18:05:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_spikedbones",
+        "nextNodeType": "dungeons_haunted_circle"
+    },
+    {
+        "dungeonRunId": "170940",
+        "completedLevels": "1",
+        "twitchDisplayName": "Gugaismaelbr",
+        "startTime": "2024-10-24 18:04:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_silveredblades",
+        "nextNodeType": "dungeons_haunted_field"
+    },
+    {
         "dungeonRunId": "170933",
         "completedLevels": "1",
         "twitchDisplayName": "JayEmDee",
@@ -9,12 +27,39 @@
         "nextNodeType": "dungeons_cult_fields"
     },
     {
+        "dungeonRunId": "170944",
+        "completedLevels": "1",
+        "twitchDisplayName": "RoseGaminDiva",
+        "startTime": "2024-10-24 18:07:00",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill",
+        "nextNodeType": "dungeons_polterheist_swamp"
+    },
+    {
+        "dungeonRunId": "170941",
+        "completedLevels": "1",
+        "twitchDisplayName": "s0lskynn",
+        "startTime": "2024-10-24 18:04:22",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_strangergloves",
+        "nextNodeType": "dungeons_haunted_town"
+    },
+    {
+        "dungeonRunId": "170938",
+        "completedLevels": "1",
+        "twitchDisplayName": "ImMrFluffyToYou",
+        "startTime": "2024-10-24 18:03:32",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_silveredblades",
+        "nextNodeType": "dungeons_haunted_fountain"
+    },
+    {
         "dungeonRunId": "170943",
         "completedLevels": "1",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-10-24 18:05:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback",
+        "captainBoons": "common_classic_comeback,general_ghoulsprint",
         "nextNodeType": "dungeons_polterheist_town"
     }
 ]
