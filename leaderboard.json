@@ -18,15 +18,6 @@
         "nextNodeType": "dungeons_polterheist_panic"
     },
     {
-        "dungeonRunId": "171028",
-        "completedLevels": "31",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-10-25 02:49:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_nighthunter,vampire_lordofthedead,art_1,warrior_silveredblades,saint_surgeofconfidence,melee_cursedassimilation,archer_silveredarrows,assassin_undeathmark,saint_skeletondance,melee_spikedbones,flagbearer_hauntingflags,epic_assassin_serialkiller,armored_undyingdefense,archer_enchantedammo,necromancer_bombasticbones,tank_boneyardwarden,paladin_skeletalsquire,ranged_etherealwounds,assassin_arghgility,ranged_rangershivers,necromancer_ectoplosion,ranged_strangergloves,blob_ectoplasmic,barbarian_spiritconversion,healer_arrogantmedium,epic_wickedaspirations,general_ghoulsprint,melee_hollowup",
-        "nextNodeType": "dungeons_haunted_forest"
-    },
-    {
         "dungeonRunId": "170953",
         "completedLevels": "31",
         "twitchDisplayName": "ThaTrueBeast",
@@ -34,6 +25,15 @@
         "endTime": "2024-10-24 21:48:09",
         "captainBoons": "common_classic_comeback,melee_spikedbones,leader_undyingconscription,armored_tartarusguard,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,tank_boneyardwarden,blob_flesheater,phantom_thehaunting,armored_undyingdefense,melee_cursedassimilation,general_ghoulsprint,vampire_lordofthedead,vampire_swarmcoffin,warrior_silveredblades,melee_hollowup,barbarian_spiritconversion,rogue_nighthunter,warrior_dragonslayers,epic_assassin_serialkiller,ranged_strangergloves,blob_ectoplasmic,rogue_2,archer_silveredarrows,rogue_momentum,frogue_1,general_ghoulhide,armored_sanctifiedbones",
         "nextNodeType": "dungeons_cult_square"
+    },
+    {
+        "dungeonRunId": "171028",
+        "completedLevels": "31",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-10-25 02:49:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,vampire_lordofthedead,art_1,warrior_silveredblades,saint_surgeofconfidence,melee_cursedassimilation,archer_silveredarrows,assassin_undeathmark,saint_skeletondance,melee_spikedbones,flagbearer_hauntingflags,epic_assassin_serialkiller,armored_undyingdefense,archer_enchantedammo,necromancer_bombasticbones,tank_boneyardwarden,paladin_skeletalsquire,ranged_etherealwounds,assassin_arghgility,ranged_rangershivers,necromancer_ectoplosion,ranged_strangergloves,blob_ectoplasmic,barbarian_spiritconversion,healer_arrogantmedium,epic_wickedaspirations,general_ghoulsprint,melee_hollowup",
+        "nextNodeType": "dungeons_haunted_forest"
     },
     {
         "dungeonRunId": "170943",
