@@ -72,6 +72,15 @@
         "nextNodeType": "hauntedboss"
     },
     {
+        "dungeonRunId": "171169",
+        "completedLevels": "31",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-10-25 16:17:16",
+        "endTime": "2024-10-25 20:21:27",
+        "captainBoons": "common_classic_comeback,archer_silveredarrows,warrior_dragonslayers,ranged_etherealwounds,warrior_silveredblades,ranged_rangershivers,melee_cursedassimilation,support_dyingsong,rogue_momentum,archer_soulpenetration,assassin_arghgility,vampire_feastofessence,saint_skeletondance,tank_boneyardwarden,vampire_lordofthedead,necromancer_ectoplosion,ranged_strangergloves,blob_flesheater,paladin_holyforce,rogue_nighthunter,archer_enchantedammo,epic_assassin_serialkiller,epic_monstersblessing,berserker_killing_spree,epic_monstersbrew,paladin_skeletalsquire,support_rarecandy,melee_spikedbones,melee_hollowup",
+        "nextNodeType": "dungeons_haunted_circle"
+    },
+    {
         "dungeonRunId": "171085",
         "completedLevels": "31",
         "twitchDisplayName": "crock2020",
@@ -79,14 +88,5 @@
         "endTime": "2024-10-25 14:29:16",
         "captainBoons": "common_classic_comeback,assassin_arghgility,general_wailrounded,amazon_vineclone,archer_silveredarrows,support_rarecandy,rogue_nighthunter,vampire_lordofthedead,archer_soulpenetration,ranged_strangergloves,paladin_skeletalsquire,warbeast_underworldbeast,tank_boneyardwarden,general_armyofdarkness,rogue_2,flagbearer_flagbearerswill,blob_flesheater,saint_skeletondance,armored_undyingdefense,melee_hollowup,warrior_falltodarkness,melee_spikedbones,leader_undyingconscription,armored_tartarusguard,general_ghoulhide,blob_ectoplasmic,art_1,warrior_silveredblades,support_funeralrites",
         "nextNodeType": "dungeons_haunted_town"
-    },
-    {
-        "dungeonRunId": "170953",
-        "completedLevels": "31",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-10-24 18:24:23",
-        "endTime": "2024-10-24 21:48:09",
-        "captainBoons": "common_classic_comeback,melee_spikedbones,leader_undyingconscription,armored_tartarusguard,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,tank_boneyardwarden,blob_flesheater,phantom_thehaunting,armored_undyingdefense,melee_cursedassimilation,general_ghoulsprint,vampire_lordofthedead,vampire_swarmcoffin,warrior_silveredblades,melee_hollowup,barbarian_spiritconversion,rogue_nighthunter,warrior_dragonslayers,epic_assassin_serialkiller,ranged_strangergloves,blob_ectoplasmic,rogue_2,archer_silveredarrows,rogue_momentum,frogue_1,general_ghoulhide,armored_sanctifiedbones",
-        "nextNodeType": "dungeons_cult_square"
     }
 ]
