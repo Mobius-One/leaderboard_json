@@ -27,13 +27,13 @@
         "nextNodeType": "dungeons_haunted_town"
     },
     {
-        "dungeonRunId": "170963",
-        "completedLevels": "24",
+        "dungeonRunId": "170984",
+        "completedLevels": "25",
         "twitchDisplayName": "Angel",
-        "startTime": "2024-10-24 19:55:58",
-        "endTime": "2024-10-24 22:09:59",
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,rogue_momentum,rogue_2,tank_boneyardwarden,blob_ectoplasmic,warbeast_underworldbeast,ranged_strangergloves,warrior_dragonslayers,lancer_firststrike,melee_spikedbones,melee_hollowup,art_1,support_dyingsong,armored_sanctifiedbones,paladin_holyforce,assassin_arghgility,ranged_rangershivers,berserker_killing_spree,warrior_silveredblades,paladin_skeletalsquire,tank_hoarfrost_armor,armored_undyingdefense,bomber_ricochet,mage_clone",
-        "nextNodeType": "dungeons_polterheist_swamp"
+        "startTime": "2024-10-24 22:10:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_ghoulagility,bomber_ricochet,archer_soulpenetration,warrior_silveredblades,ranged_rangershivers,necromancer_bombasticbones,flagbearer_flagbearerswill,general_armyofdarkness,rogue_2,support_dyingsong,archer_enchantedammo,ranged_etherealwounds,melee_spikedbones,melee_hollowup,melee_cursedassimilation,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,warbeast_underworldbeast,assassin_arghgility,armored_sanctifiedbones,paladin_holyforce,archer_silveredarrows",
+        "nextNodeType": "dungeons_haunted_town"
     },
     {
         "dungeonRunId": "170944",
