@@ -81,12 +81,12 @@
         "nextNodeType": "polterheistforestboss"
     },
     {
-        "dungeonRunId": "171066",
+        "dungeonRunId": "170940",
         "completedLevels": "22",
-        "twitchDisplayName": "DewInBlack",
-        "startTime": "2024-10-25 07:38:37",
-        "endTime": "2024-10-25 12:46:26",
-        "captainBoons": "common_classic_comeback,assassin_arghgility,bomber_ricochet,rogue_2,armored_undyingdefense,saint_surgeofconfidence,ranged_etherealwounds,rogue_nighthunter,assassin_undeathmark,epic_wickedaspirations,support_dyingsong,archer_enchantedammo,berserker_killing_spree,flagbearer_flagbearerswill,warrior_dragonslayers,tank_hoarfrost_armor,archer_silveredarrows,tank_lastlaugh,archer_soulpenetration,ranged_strangergloves,necromancer_necronomicon,healer_monsterrehab,warrior_silveredblades",
-        "nextNodeType": "dungeons_haunted_ruins"
+        "twitchDisplayName": "Gugaismaelbr",
+        "startTime": "2024-10-24 18:04:06",
+        "endTime": "2024-10-25 12:42:24",
+        "captainBoons": "common_classic_comeback,warrior_silveredblades,bomber_ricochet,warbeast_underworldbeast,support_dyingsong,tank_lastlaugh,templar_soulbinder,flagbearer_flagbearerswill,ranged_rangershivers,epic_wickedaspirations,ranged_strangergloves,paladin_skeletalsquire,saint_skeletondance,archer_silveredarrows,general_armyofdarkness,paladin_holyforce,rogue_nighthunter,warrior_dragonslayers,musk_hunters_mark,melee_spikedbones,support_funeralrites,archer_soulpenetration,armored_undyingdefense",
+        "nextNodeType": "dungeons_haunted_forest"
     }
 ]
