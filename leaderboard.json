@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_cult_street"
     },
     {
-        "dungeonRunId": "170997",
+        "dungeonRunId": "170988",
         "completedLevels": "20",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-10-24 23:45:54",
-        "endTime": "2024-10-25 01:36:30",
-        "captainBoons": "common_classic_comeback,rogue_nighthunter,general_raidofthedead,bomber_avatar_power,support_dyingsong,rogue_momentum,amazon_vineclone,flagbearer_flagbearerswill,flagbearer_hauntingflags,berserker_killing_spree,melee_spikedbones,ranged_rangershivers,fairy_nixiepops,armored_undyingdefense,lancer_impalingstakes,lancer_firststrike,archer_silveredarrows,epic_monstersblessing,gladiator_war_machine,assassin_arghgility,assassin_undeathmark",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-10-24 22:46:38",
+        "endTime": "2024-10-25 01:22:18",
+        "captainBoons": "common_classic_comeback,support_dyingsong,armored_sanctifiedbones,tank_hoarfrost_armor,warrior_silveredblades,ranged_rangershivers,mage_clone,melee_spikedbones,barbarian_possessed,ranged_etherealwounds,general_ghoulsprint,necromancer_necronomicon,phantom_thehaunting,rogue_nighthunter,warrior_dragonslayers,saint_skeletondance,tank_boneyardwarden,assassin_undeathmark,art_1,general_ghoulhide,archer_enchantedammo",
         "nextNodeType": "polterheistforestboss"
     }
 ]
