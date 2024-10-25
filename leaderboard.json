@@ -81,12 +81,12 @@
         "nextNodeType": "polterheistforestboss"
     },
     {
-        "dungeonRunId": "171066",
+        "dungeonRunId": "170952",
         "completedLevels": "22",
-        "twitchDisplayName": "DewInBlack",
-        "startTime": "2024-10-25 07:38:37",
-        "endTime": "2024-10-25 12:46:26",
-        "captainBoons": "common_classic_comeback,assassin_arghgility,bomber_ricochet,rogue_2,armored_undyingdefense,saint_surgeofconfidence,ranged_etherealwounds,rogue_nighthunter,assassin_undeathmark,epic_wickedaspirations,support_dyingsong,archer_enchantedammo,berserker_killing_spree,flagbearer_flagbearerswill,warrior_dragonslayers,tank_hoarfrost_armor,archer_silveredarrows,tank_lastlaugh,archer_soulpenetration,ranged_strangergloves,necromancer_necronomicon,healer_monsterrehab,warrior_silveredblades",
-        "nextNodeType": "dungeons_haunted_ruins"
+        "twitchDisplayName": "redspecter23",
+        "startTime": "2024-10-24 18:22:37",
+        "endTime": "2024-10-24 21:47:38",
+        "captainBoons": "common_classic_comeback,melee_spikedbones,healer_arrogantmedium,barbarian_spiritconversion,warrior_silveredblades,armored_sanctifiedbones,ranged_etherealwounds,armored_undyingdefense,vampire_lordofthedead,berserker_killing_spree,rogue_nighthunter,saint_surgeofconfidence,archer_soulpenetration,support_dyingsong,bomber_ricochet,saint_skeletondance,ranged_strangergloves,assassin_undeathmark,gladiator_war_machine,flagbearer_flagbearerswill,vampire_feastofessence,shinobi_lastninja,general_ghoulsprint",
+        "nextNodeType": "dungeons_polterheist_forest"
     }
 ]
