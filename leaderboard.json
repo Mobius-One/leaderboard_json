@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_cult_street"
     },
     {
-        "dungeonRunId": "170946",
+        "dungeonRunId": "170997",
         "completedLevels": "20",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2024-10-24 18:09:56",
-        "endTime": "2024-10-24 22:27:09",
-        "captainBoons": "common_classic_comeback,armored_undyingdefense,paladin_skeletalsquire,paladin_holyforce,archer_silveredarrows,buster_ghostbuster,rogue_2,ranged_strangergloves,ranged_rangershivers,orcs_guardian_of_the_dead,assassin_arghgility,general_raidofthedead,necromancer_ectoplosion,general_ghoulhide,blob_flesheater,melee_cursedassimilation,epic_monstersbrew,vampire_feastofessence,fairy_nixiepops,general_ghoulsprint,bomber_ricochet",
-        "nextNodeType": "polterheisttownboss"
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-10-24 23:45:54",
+        "endTime": "2024-10-25 01:36:30",
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,general_raidofthedead,bomber_avatar_power,support_dyingsong,rogue_momentum,amazon_vineclone,flagbearer_flagbearerswill,flagbearer_hauntingflags,berserker_killing_spree,melee_spikedbones,ranged_rangershivers,fairy_nixiepops,armored_undyingdefense,lancer_impalingstakes,lancer_firststrike,archer_silveredarrows,epic_monstersblessing,gladiator_war_machine,assassin_arghgility,assassin_undeathmark",
+        "nextNodeType": "polterheistforestboss"
     }
 ]
