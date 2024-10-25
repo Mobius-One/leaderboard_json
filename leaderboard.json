@@ -27,6 +27,15 @@
         "nextNodeType": "hauntedboss"
     },
     {
+        "dungeonRunId": "171085",
+        "completedLevels": "31",
+        "twitchDisplayName": "crock2020",
+        "startTime": "2024-10-25 09:55:54",
+        "endTime": "2024-10-25 14:29:16",
+        "captainBoons": "common_classic_comeback,assassin_arghgility,general_wailrounded,amazon_vineclone,archer_silveredarrows,support_rarecandy,rogue_nighthunter,vampire_lordofthedead,archer_soulpenetration,ranged_strangergloves,paladin_skeletalsquire,warbeast_underworldbeast,tank_boneyardwarden,general_armyofdarkness,rogue_2,flagbearer_flagbearerswill,blob_flesheater,saint_skeletondance,armored_undyingdefense,melee_hollowup,warrior_falltodarkness,melee_spikedbones,leader_undyingconscription,armored_tartarusguard,general_ghoulhide,blob_ectoplasmic,art_1,warrior_silveredblades,support_funeralrites",
+        "nextNodeType": "dungeons_haunted_town"
+    },
+    {
         "dungeonRunId": "171070",
         "completedLevels": "31",
         "twitchDisplayName": "komugisui",
@@ -43,15 +52,6 @@
         "endTime": "2024-10-24 21:48:09",
         "captainBoons": "common_classic_comeback,melee_spikedbones,leader_undyingconscription,armored_tartarusguard,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,tank_boneyardwarden,blob_flesheater,phantom_thehaunting,armored_undyingdefense,melee_cursedassimilation,general_ghoulsprint,vampire_lordofthedead,vampire_swarmcoffin,warrior_silveredblades,melee_hollowup,barbarian_spiritconversion,rogue_nighthunter,warrior_dragonslayers,epic_assassin_serialkiller,ranged_strangergloves,blob_ectoplasmic,rogue_2,archer_silveredarrows,rogue_momentum,frogue_1,general_ghoulhide,armored_sanctifiedbones",
         "nextNodeType": "dungeons_cult_square"
-    },
-    {
-        "dungeonRunId": "171085",
-        "completedLevels": "31",
-        "twitchDisplayName": "crock2020",
-        "startTime": "2024-10-25 09:55:54",
-        "endTime": "2024-10-25 14:29:16",
-        "captainBoons": "common_classic_comeback,assassin_arghgility,general_wailrounded,amazon_vineclone,archer_silveredarrows,support_rarecandy,rogue_nighthunter,vampire_lordofthedead,archer_soulpenetration,ranged_strangergloves,paladin_skeletalsquire,warbeast_underworldbeast,tank_boneyardwarden,general_armyofdarkness,rogue_2,flagbearer_flagbearerswill,blob_flesheater,saint_skeletondance,armored_undyingdefense,melee_hollowup,warrior_falltodarkness,melee_spikedbones,leader_undyingconscription,armored_tartarusguard,general_ghoulhide,blob_ectoplasmic,art_1,warrior_silveredblades,support_funeralrites",
-        "nextNodeType": "dungeons_haunted_town"
     },
     {
         "dungeonRunId": "170943",
@@ -81,12 +81,12 @@
         "nextNodeType": "polterheistforestboss"
     },
     {
-        "dungeonRunId": "171066",
+        "dungeonRunId": "170944",
         "completedLevels": "22",
-        "twitchDisplayName": "DewInBlack",
-        "startTime": "2024-10-25 07:38:37",
-        "endTime": "2024-10-25 12:46:26",
-        "captainBoons": "common_classic_comeback,assassin_arghgility,bomber_ricochet,rogue_2,armored_undyingdefense,saint_surgeofconfidence,ranged_etherealwounds,rogue_nighthunter,assassin_undeathmark,epic_wickedaspirations,support_dyingsong,archer_enchantedammo,berserker_killing_spree,flagbearer_flagbearerswill,warrior_dragonslayers,tank_hoarfrost_armor,archer_silveredarrows,tank_lastlaugh,archer_soulpenetration,ranged_strangergloves,necromancer_necronomicon,healer_monsterrehab,warrior_silveredblades",
-        "nextNodeType": "dungeons_haunted_ruins"
+        "twitchDisplayName": "RoseGaminDiva",
+        "startTime": "2024-10-24 18:07:00",
+        "endTime": "2024-10-24 20:05:20",
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,blob_flesheater,mage_clone,melee_spikedbones,warrior_dragonslayers,warbeast_underworldbeast,warrior_silveredblades,ranged_rangershivers,archer_soulpenetration,tank_boneyardwarden,saint_surgeofconfidence,amazon_vineclone,ranged_strangergloves,rogue_momentum,support_rarecandy,epic_monstersbrew,epic_monstersblessing,necromancer_ectoplosion,archer_silveredarrows,archer_enchantedammo,tank_hoarfrost_armor,support_dyingsong",
+        "nextNodeType": "dungeons_haunted_town"
     }
 ]
