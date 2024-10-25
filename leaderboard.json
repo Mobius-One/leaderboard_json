@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "171157",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-10-25 15:36:19",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_silveredarrows,melee_hollowup,support_rarecandy,general_ghoulresilience,epic_monstersblessing,paladin_holyforce,melee_spikedbones,armored_sanctifiedbones,rogue_2,epic_monstersbrew,lancer_impalingstakes,necromancer_bombasticbones,rogue_nighthunter,bomber_ricochet,fairy_nixiepops,warrior_silveredblades,blob_ectoplasmic,frogue_1,assassin_arghgility,blob_flesheater,phantom_thehaunting,general_ghoulhide,warrior_dragonslayers,necromancer_ectoplosion,ranged_strangergloves,barbarian_possessed,epic_assassin_serialkiller,general_ghoulclaws,vampire_lordofthedead",
-        "nextNodeType": "dungeons_jerry"
+        "nextNodeType": "dungeons_polterheist_clearing"
     },
     {
         "dungeonRunId": "170993",
