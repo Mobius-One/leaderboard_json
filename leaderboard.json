@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "171185",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "komugisui",
         "startTime": "2024-10-25 17:20:39",
         "endTime": null,
         "captainBoons": "common_classic_comeback,tank_boneyardwarden,leader_undyingconscription,berserker_killing_spree,warrior_silveredblades,general_wailrounded,art_1,archer_silveredarrows,assassin_undeathmark,rogue_2,rogue_nighthunter,epic_monstersblessing,warrior_falltodarkness,armored_undyingdefense,vampire_feastofessence,archer_soulpenetration,ranged_strangergloves,vampire_lordofthedead,mage_clone,flagbearer_flagbearerswill,warrior_dragonslayers,saint_skeletondance,paladin_skeletalsquire,necromancer_bombasticbones,melee_spikedbones,epic_assassin_serialkiller,general_ghoulclaws,bomber_ricochet",
-        "nextNodeType": "dungeons_boss_headlesshorseman"
+        "nextNodeType": "dungeons_polterheist_forest"
     },
     {
         "dungeonRunId": "170993",
@@ -63,15 +63,6 @@
         "nextNodeType": "hauntedboss"
     },
     {
-        "dungeonRunId": "171169",
-        "completedLevels": "31",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-10-25 16:17:16",
-        "endTime": "2024-10-25 20:21:27",
-        "captainBoons": "common_classic_comeback,archer_silveredarrows,warrior_dragonslayers,ranged_etherealwounds,warrior_silveredblades,ranged_rangershivers,melee_cursedassimilation,support_dyingsong,rogue_momentum,archer_soulpenetration,assassin_arghgility,vampire_feastofessence,saint_skeletondance,tank_boneyardwarden,vampire_lordofthedead,necromancer_ectoplosion,ranged_strangergloves,blob_flesheater,paladin_holyforce,rogue_nighthunter,archer_enchantedammo,epic_assassin_serialkiller,epic_monstersblessing,berserker_killing_spree,epic_monstersbrew,paladin_skeletalsquire,support_rarecandy,melee_spikedbones,melee_hollowup",
-        "nextNodeType": "dungeons_haunted_circle"
-    },
-    {
         "dungeonRunId": "171085",
         "completedLevels": "31",
         "twitchDisplayName": "crock2020",
@@ -88,5 +79,14 @@
         "endTime": "2024-10-24 21:48:09",
         "captainBoons": "common_classic_comeback,melee_spikedbones,leader_undyingconscription,armored_tartarusguard,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,tank_boneyardwarden,blob_flesheater,phantom_thehaunting,armored_undyingdefense,melee_cursedassimilation,general_ghoulsprint,vampire_lordofthedead,vampire_swarmcoffin,warrior_silveredblades,melee_hollowup,barbarian_spiritconversion,rogue_nighthunter,warrior_dragonslayers,epic_assassin_serialkiller,ranged_strangergloves,blob_ectoplasmic,rogue_2,archer_silveredarrows,rogue_momentum,frogue_1,general_ghoulhide,armored_sanctifiedbones",
         "nextNodeType": "dungeons_cult_square"
+    },
+    {
+        "dungeonRunId": "171169",
+        "completedLevels": "31",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-10-25 16:17:16",
+        "endTime": "2024-10-25 20:21:27",
+        "captainBoons": "common_classic_comeback,archer_silveredarrows,warrior_dragonslayers,ranged_etherealwounds,warrior_silveredblades,ranged_rangershivers,melee_cursedassimilation,support_dyingsong,rogue_momentum,archer_soulpenetration,assassin_arghgility,vampire_feastofessence,saint_skeletondance,tank_boneyardwarden,vampire_lordofthedead,necromancer_ectoplosion,ranged_strangergloves,blob_flesheater,paladin_holyforce,rogue_nighthunter,archer_enchantedammo,epic_assassin_serialkiller,epic_monstersblessing,berserker_killing_spree,epic_monstersbrew,paladin_skeletalsquire,support_rarecandy,melee_spikedbones,melee_hollowup",
+        "nextNodeType": "dungeons_haunted_circle"
     }
 ]
