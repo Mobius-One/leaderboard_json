@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "170984",
-        "completedLevels": "31",
+        "completedLevels": "32",
         "twitchDisplayName": "Angel",
         "startTime": "2024-10-24 22:10:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_ghoulagility,bomber_ricochet,archer_soulpenetration,warrior_silveredblades,ranged_rangershivers,necromancer_bombasticbones,general_armyofdarkness,rogue_2,support_dyingsong,archer_enchantedammo,ranged_etherealwounds,melee_spikedbones,melee_hollowup,melee_cursedassimilation,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,warbeast_underworldbeast,assassin_arghgility,armored_sanctifiedbones,paladin_holyforce,archer_silveredarrows,saint_surgeofconfidence,gladiator_war_machine,general_ghoulresilience,lancer_impalingstakes",
-        "nextNodeType": "dungeons_polterheist_town"
+        "captainBoons": "common_classic_comeback,general_ghoulagility,bomber_ricochet,archer_soulpenetration,warrior_silveredblades,ranged_rangershivers,necromancer_bombasticbones,general_armyofdarkness,rogue_2,support_dyingsong,archer_enchantedammo,ranged_etherealwounds,melee_spikedbones,melee_hollowup,melee_cursedassimilation,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,warbeast_underworldbeast,assassin_arghgility,paladin_holyforce,archer_silveredarrows,saint_surgeofconfidence,gladiator_war_machine,general_ghoulresilience,lancer_impalingstakes",
+        "nextNodeType": "polterheistforestboss"
     },
     {
         "dungeonRunId": "170953",
@@ -86,7 +86,7 @@
         "twitchDisplayName": "chiquik",
         "startTime": "2024-10-24 22:46:38",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_dyingsong,armored_sanctifiedbones,tank_hoarfrost_armor,warrior_silveredblades,ranged_rangershivers,mage_clone,melee_spikedbones,barbarian_possessed,ranged_etherealwounds,general_ghoulsprint,necromancer_necronomicon,phantom_thehaunting,rogue_nighthunter,warrior_dragonslayers,saint_skeletondance,tank_boneyardwarden,assassin_undeathmark",
+        "captainBoons": "common_classic_comeback,support_dyingsong,armored_sanctifiedbones,tank_hoarfrost_armor,warrior_silveredblades,ranged_rangershivers,mage_clone,melee_spikedbones,barbarian_possessed,ranged_etherealwounds,general_ghoulsprint,necromancer_necronomicon,phantom_thehaunting,rogue_nighthunter,warrior_dragonslayers,saint_skeletondance,tank_boneyardwarden,assassin_undeathmark,art_1",
         "nextNodeType": "dungeons_polterheist_forest"
     }
 ]
