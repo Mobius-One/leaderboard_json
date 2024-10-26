@@ -81,12 +81,12 @@
         "nextNodeType": "polterheistforestboss"
     },
     {
-        "dungeonRunId": "171169",
+        "dungeonRunId": "171223",
         "completedLevels": "31",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-10-25 16:17:16",
-        "endTime": "2024-10-25 20:21:27",
-        "captainBoons": "common_classic_comeback,archer_silveredarrows,warrior_dragonslayers,ranged_etherealwounds,warrior_silveredblades,ranged_rangershivers,melee_cursedassimilation,support_dyingsong,rogue_momentum,archer_soulpenetration,assassin_arghgility,vampire_feastofessence,saint_skeletondance,tank_boneyardwarden,vampire_lordofthedead,necromancer_ectoplosion,ranged_strangergloves,blob_flesheater,paladin_holyforce,rogue_nighthunter,archer_enchantedammo,epic_assassin_serialkiller,epic_monstersblessing,berserker_killing_spree,epic_monstersbrew,paladin_skeletalsquire,support_rarecandy,melee_spikedbones,melee_hollowup",
-        "nextNodeType": "dungeons_haunted_circle"
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-10-25 20:00:08",
+        "endTime": "2024-10-26 00:29:29",
+        "captainBoons": "common_classic_comeback,archer_silveredarrows,support_funeralrites,rogue_2,ranged_strangergloves,ranged_rangershivers,warbeast_underworldbeast,assassin_arghgility,assassin_undeathmark,epic_wickedaspirations,flagbearer_flagbearerswill,necromancer_necronomicon,mage_clone,warrior_silveredblades,rogue_momentum,art_1,archer_enchantedammo,melee_cursedassimilation,rogue_nighthunter,blob_ectoplasmic,archer_soulpenetration,tank_boneyardwarden,paladin_skeletalsquire,gladiator_war_machine,armored_undyingdefense,tank_lastlaugh,phantom_thehaunting,general_ghoulresilience,melee_hollowup",
+        "nextNodeType": "dungeons_haunted_town"
     }
 ]
