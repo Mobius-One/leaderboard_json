@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "171215",
-        "completedLevels": "43",
+        "completedLevels": "44",
         "twitchDisplayName": "JojoGeeker",
         "startTime": "2024-10-25 19:35:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_silveredblades,melee_hollowup,rogue_2,assassin_undeathmark,warbeast_underworldbeast,flagbearer_flagbearerswill,ranged_rangershivers,necromancer_ectoplosion,armored_undyingdefense,monk_spiritstrike,necromancer_necronomicon,mage_clone,epic_assassin_serialkiller,ranged_strangergloves,leader_undyingconscription,vampire_swarmcoffin,general_ghoulsprint,general_armyofdarkness,archer_silveredarrows,vampire_feastofessence,ranged_etherealwounds,saint_surgeofconfidence",
-        "nextNodeType": "dungeons_cult_fields"
+        "captainBoons": "common_classic_comeback,melee_hollowup,rogue_2,assassin_undeathmark,warbeast_underworldbeast,flagbearer_flagbearerswill,ranged_rangershivers,necromancer_ectoplosion,armored_undyingdefense,monk_spiritstrike,necromancer_necronomicon,mage_clone,epic_assassin_serialkiller,ranged_strangergloves,leader_undyingconscription,vampire_swarmcoffin,general_ghoulsprint,general_armyofdarkness,archer_silveredarrows,vampire_feastofessence,ranged_etherealwounds,saint_surgeofconfidence",
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "170933",
