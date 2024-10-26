@@ -54,13 +54,13 @@
         "nextNodeType": "polterheistforestboss"
     },
     {
-        "dungeonRunId": "171221",
-        "completedLevels": "32",
+        "dungeonRunId": "171370",
+        "completedLevels": "33",
         "twitchDisplayName": "chiquik",
-        "startTime": "2024-10-25 19:57:20",
-        "endTime": "2024-10-25 23:23:28",
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,bomber_ricochet,warbeast_underworldbeast,melee_spikedbones,blob_flesheater,barbarian_spiritconversion,ranged_strangergloves,saint_surgeofconfidence,mage_clone,warrior_silveredblades,support_funeralrites,epic_assassin_serialkiller,tank_boneyardwarden,flagbearer_hauntingflags,saint_skeletondance,warrior_dragonslayers,ranged_etherealwounds,support_dyingsong,leader_undyingconscription,art_1,rogue_nighthunter,rogue_momentum,melee_cursedassimilation,general_ghoulhide,flagbearer_deathbegetslife,assassin_arghgility,archer_enchantedammo",
-        "nextNodeType": "polterheistforestboss"
+        "startTime": "2024-10-26 17:02:40",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,blob_ectoplasmic,barbarian_spiritconversion,warrior_silveredblades,bomber_ricochet,phantom_thehaunting,general_ghoulsprint,archer_enchantedammo,saint_skeletondance,flagbearer_flagbearerswill,blob_flesheater,art_1,ranged_strangergloves,flagbearer_hauntingflags,archer_soulpenetration,melee_spikedbones,saint_surgeofconfidence,orcs_guardian_of_the_dead,melee_hollowup,tank_hoarfrost_armor,epic_monstersbrew,ranged_rangershivers,paladin_holyforce,warrior_dragonslayers,armored_tartarusguard,general_ghoulagility,barbarian_possessed",
+        "nextNodeType": "dungeons_polterheist_clearing"
     },
     {
         "dungeonRunId": "171028",
