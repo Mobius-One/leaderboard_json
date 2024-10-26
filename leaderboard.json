@@ -27,6 +27,15 @@
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
+        "dungeonRunId": "171388",
+        "completedLevels": "37",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-10-26 18:40:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_strangergloves,lancer_firststrike,warrior_silveredblades,bomber_ricochet,saint_skeletondance,armored_undyingdefense,epic_monstersblessing,epic_assassin_serialkiller,flagbearer_hauntingflags,gladiator_war_machine,archer_silveredarrows,saint_surgeofconfidence,leader_undyingconscription,healer_monsterrehab,epic_monstersbrew,assassin_undeathmark,phantom_thehaunting,melee_spikedbones,necromancer_necronomicon,art_1,general_ghoulhide,ranged_rangershivers,necromancer_bombasticbones,rogue_nighthunter,blob_ectoplasmic",
+        "nextNodeType": "dungeons_cult_alley"
+    },
+    {
         "dungeonRunId": "170933",
         "completedLevels": "37",
         "twitchDisplayName": "JayEmDee",
@@ -43,15 +52,6 @@
         "endTime": "2024-10-25 20:17:08",
         "captainBoons": "common_classic_comeback,melee_spikedbones,archer_enchantedammo,gladiator_war_machine,warrior_silveredblades,armored_sanctifiedbones,phantom_thehaunting,blob_flesheater,epic_assassin_serialkiller,tank_boneyardwarden,necromancer_necronomicon,armored_tartarusguard,paladin_skeletalsquire,necromancer_bombasticbones,armored_undyingdefense,general_armyofdarkness,centurion_shieldofbones,vampire_lordofthedead,archer_soulpenetration,assassin_arghgility,vampire_feastofessence,epic_monstersbrew,bomber_ricochet,barbarian_spiritconversion,ranged_strangergloves,saint_surgeofconfidence",
         "nextNodeType": "dungeons_haunted_circle"
-    },
-    {
-        "dungeonRunId": "171388",
-        "completedLevels": "36",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-10-26 18:40:27",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_strangergloves,lancer_firststrike,warrior_silveredblades,bomber_ricochet,saint_skeletondance,armored_undyingdefense,epic_monstersblessing,epic_assassin_serialkiller,flagbearer_hauntingflags,gladiator_war_machine,archer_silveredarrows,saint_surgeofconfidence,leader_undyingconscription,healer_monsterrehab,epic_monstersbrew,assassin_undeathmark,phantom_thehaunting,melee_spikedbones,necromancer_necronomicon,art_1,general_ghoulhide,ranged_rangershivers,necromancer_bombasticbones,rogue_nighthunter,blob_ectoplasmic",
-        "nextNodeType": "dungeons_cult_docks"
     },
     {
         "dungeonRunId": "171185",
