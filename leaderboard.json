@@ -54,15 +54,6 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
-        "dungeonRunId": "171580",
-        "completedLevels": "35",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-10-27 19:24:45",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_spikedbones,blob_flesheater,warbeast_underworldbeast,warrior_silveredblades,ranged_etherealwounds,archer_silveredarrows,vampire_lordofthedead,musk_hunters_mark,flagbearer_flagbearerswill,ranged_rangershivers,centurion_shieldofbones,tank_boneyardwarden,melee_hollowup,armored_tartarusguard,necromancer_necronomicon,barbarian_spiritconversion,general_ghoulsprint,healer_monsterrehab,ranged_strangergloves,vampire_feastofessence,paladin_holyforce,support_dyingsong,flagbearer_hauntingflags,fairy_nixiepops,general_ghoulresilience,armored_sanctifiedbones",
-        "nextNodeType": "dungeons_boss_mansion"
-    },
-    {
         "dungeonRunId": "171157",
         "completedLevels": "35",
         "twitchDisplayName": "Meistar",
@@ -79,6 +70,15 @@
         "endTime": "2024-10-25 22:45:02",
         "captainBoons": "common_classic_comeback,tank_boneyardwarden,leader_undyingconscription,berserker_killing_spree,warrior_silveredblades,general_wailrounded,art_1,archer_silveredarrows,assassin_undeathmark,rogue_2,rogue_nighthunter,epic_monstersblessing,warrior_falltodarkness,armored_undyingdefense,archer_soulpenetration,ranged_strangergloves,vampire_lordofthedead,mage_clone,flagbearer_flagbearerswill,warrior_dragonslayers,saint_skeletondance,paladin_skeletalsquire,necromancer_bombasticbones,melee_spikedbones,epic_assassin_serialkiller,general_ghoulclaws,bomber_ricochet",
         "nextNodeType": "polterheistforestboss"
+    },
+    {
+        "dungeonRunId": "171580",
+        "completedLevels": "35",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-10-27 19:24:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_spikedbones,blob_flesheater,warbeast_underworldbeast,warrior_silveredblades,ranged_etherealwounds,archer_silveredarrows,vampire_lordofthedead,musk_hunters_mark,flagbearer_flagbearerswill,ranged_rangershivers,centurion_shieldofbones,tank_boneyardwarden,melee_hollowup,armored_tartarusguard,necromancer_necronomicon,barbarian_spiritconversion,general_ghoulsprint,healer_monsterrehab,ranged_strangergloves,vampire_feastofessence,paladin_holyforce,support_dyingsong,flagbearer_hauntingflags,fairy_nixiepops,general_ghoulresilience,armored_sanctifiedbones",
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "171387",
