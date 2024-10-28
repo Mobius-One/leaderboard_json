@@ -81,12 +81,12 @@
         "nextNodeType": "polterheistforestboss"
     },
     {
-        "dungeonRunId": "171601",
-        "completedLevels": "32",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-10-27 21:05:28",
-        "endTime": "2024-10-28 01:39:42",
-        "captainBoons": "common_classic_comeback,warrior_silveredblades,melee_hollowup,support_rarecandy,tank_boneyardwarden,tank_lastlaugh,fairy_nixiepops,archer_silveredarrows,archer_enchantedammo,necromancer_ectoplosion,rogue_nighthunter,vampire_feastofessence,phantom_thehaunting,assassin_arghgility,necromancer_necronomicon,mage_clone,ranged_strangergloves,leader_undyingconscription,rogue_2,rogue_momentum,melee_cursedassimilation,support_funeralrites,templar_soulbinder,melee_spikedbones,ranged_rangershivers,amazon_vineclone,armored_undyingdefense,assassin_undeathmark",
-        "nextNodeType": "polterheistforestboss"
+        "dungeonRunId": "171655",
+        "completedLevels": "33",
+        "twitchDisplayName": "YxelTV",
+        "startTime": "2024-10-28 04:35:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_rangershivers,shinobi_lastninja,rogue_nighthunter,rogue_momentum,warlock_inferno,ranged_strangergloves,warrior_dragonslayers,paladin_holyforce,support_dyingsong,flagbearer_deathbegetslife,assassin_arghgility,bomber_ricochet,epic_wickedaspirations,archer_silveredarrows,vampire_feastofessence,epic_assassin_serialkiller,melee_spikedbones,assassin_undeathmark,frogue_1,warrior_silveredblades,tank_lastlaugh,armored_tartarusguard,flagbearer_flagbearerswill,flagbearer_hauntingflags,archer_soulpenetration,armored_undyingdefense,general_armyofdarkness",
+        "nextNodeType": "dungeons_cult_fields"
     }
 ]
