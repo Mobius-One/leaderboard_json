@@ -36,6 +36,15 @@
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
+        "dungeonRunId": "171580",
+        "completedLevels": "37",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-10-27 19:24:45",
+        "endTime": "2024-10-27 23:57:13",
+        "captainBoons": "common_classic_comeback,melee_spikedbones,blob_flesheater,warrior_silveredblades,ranged_etherealwounds,archer_silveredarrows,vampire_lordofthedead,musk_hunters_mark,flagbearer_flagbearerswill,ranged_rangershivers,centurion_shieldofbones,tank_boneyardwarden,melee_hollowup,armored_tartarusguard,necromancer_necronomicon,barbarian_spiritconversion,general_ghoulsprint,healer_monsterrehab,ranged_strangergloves,vampire_feastofessence,paladin_holyforce,support_dyingsong,flagbearer_hauntingflags,fairy_nixiepops,general_ghoulresilience,armored_sanctifiedbones",
+        "nextNodeType": "dungeons_haunted_field"
+    },
+    {
         "dungeonRunId": "171182",
         "completedLevels": "37",
         "twitchDisplayName": "Hairtrigger83",
@@ -52,15 +61,6 @@
         "endTime": "2024-10-24 23:22:29",
         "captainBoons": "common_classic_comeback,support_dyingsong,ranged_rangershivers,balloonbuster_pinata,melee_spikedbones,archer_enchantedammo,berserker_killing_spree,warrior_silveredblades,warrior_dragonslayers,armored_tartarusguard,archer_silveredarrows,leader_undyingconscription,archer_soulpenetration,assassin_undeathmark,barbarian_spiritconversion,armored_undyingdefense,lancer_impalingstakes,gladiator_war_machine,flagbearer_flagbearerswill,healer_monsterrehab,ranged_strangergloves,bomber_ricochet,monk_spiritstrike,armored_sanctifiedbones,paladin_holyforce,flagbearer_hauntingflags",
         "nextNodeType": "dungeons_polterheist_panic"
-    },
-    {
-        "dungeonRunId": "171580",
-        "completedLevels": "37",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-10-27 19:24:45",
-        "endTime": "2024-10-27 23:57:13",
-        "captainBoons": "common_classic_comeback,melee_spikedbones,blob_flesheater,warrior_silveredblades,ranged_etherealwounds,archer_silveredarrows,vampire_lordofthedead,musk_hunters_mark,flagbearer_flagbearerswill,ranged_rangershivers,centurion_shieldofbones,tank_boneyardwarden,melee_hollowup,armored_tartarusguard,necromancer_necronomicon,barbarian_spiritconversion,general_ghoulsprint,healer_monsterrehab,ranged_strangergloves,vampire_feastofessence,paladin_holyforce,support_dyingsong,flagbearer_hauntingflags,fairy_nixiepops,general_ghoulresilience,armored_sanctifiedbones",
-        "nextNodeType": "dungeons_haunted_field"
     },
     {
         "dungeonRunId": "171157",
@@ -81,12 +81,12 @@
         "nextNodeType": "polterheistforestboss"
     },
     {
-        "dungeonRunId": "171655",
-        "completedLevels": "33",
+        "dungeonRunId": "171348",
+        "completedLevels": "34",
         "twitchDisplayName": "YxelTV",
-        "startTime": "2024-10-28 04:35:59",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_rangershivers,shinobi_lastninja,rogue_nighthunter,rogue_momentum,warlock_inferno,ranged_strangergloves,warrior_dragonslayers,paladin_holyforce,support_dyingsong,flagbearer_deathbegetslife,assassin_arghgility,bomber_ricochet,epic_wickedaspirations,archer_silveredarrows,vampire_feastofessence,epic_assassin_serialkiller,melee_spikedbones,assassin_undeathmark,frogue_1,warrior_silveredblades,tank_lastlaugh,armored_tartarusguard,flagbearer_flagbearerswill,flagbearer_hauntingflags,archer_soulpenetration,armored_undyingdefense,general_armyofdarkness",
-        "nextNodeType": "dungeons_cult_fields"
+        "startTime": "2024-10-26 14:50:02",
+        "endTime": "2024-10-26 18:08:03",
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,blob_flesheater,epic_wickedaspirations,melee_spikedbones,support_funeralrites,saint_skeletondance,ranged_strangergloves,necromancer_necronomicon,archer_soulpenetration,general_ghoulagility,rogue_momentum,necromancer_bombasticbones,archer_silveredarrows,melee_hollowup,general_ghoulclaws,general_wailrounded,warrior_falltodarkness,general_ghoulsprint,warrior_dragonslayers,phantom_thehaunting,general_ghoulhide,frogue_1,tank_boneyardwarden,vampire_lordofthedead,balloonbuster_pinata,assassin_arghgility",
+        "nextNodeType": "dungeons_polterheist_forest"
     }
 ]
