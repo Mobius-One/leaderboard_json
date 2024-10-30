@@ -54,15 +54,6 @@
         "nextNodeType": "hauntedboss"
     },
     {
-        "dungeonRunId": "171666",
-        "completedLevels": "38",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-10-28 09:17:19",
-        "endTime": "2024-10-29 10:11:21",
-        "captainBoons": "common_classic_comeback,assassin_arghgility,bomber_ricochet,paladin_holyforce,melee_spikedbones,necromancer_necronomicon,barbarian_spiritconversion,ranged_strangergloves,vampire_lordofthedead,musk_hunters_mark,rogue_2,general_ghoulsprint,assassin_undeathmark,mage_clone,archer_silveredarrows,armored_sanctifiedbones,general_armyofdarkness,archer_soulpenetration,armored_undyingdefense,ranged_rangershivers,art_1,buster_ghostbuster,armored_tartarusguard,general_ghoulresilience,melee_hollowup",
-        "nextNodeType": "hauntedboss"
-    },
-    {
         "dungeonRunId": "171370",
         "completedLevels": "38",
         "twitchDisplayName": "chiquik",
@@ -70,6 +61,15 @@
         "endTime": "2024-10-26 21:43:06",
         "captainBoons": "common_classic_comeback,rogue_nighthunter,blob_ectoplasmic,barbarian_spiritconversion,warrior_silveredblades,bomber_ricochet,phantom_thehaunting,archer_enchantedammo,saint_skeletondance,flagbearer_flagbearerswill,blob_flesheater,art_1,ranged_strangergloves,flagbearer_hauntingflags,archer_soulpenetration,saint_surgeofconfidence,orcs_guardian_of_the_dead,melee_hollowup,tank_hoarfrost_armor,epic_monstersbrew,ranged_rangershivers,paladin_holyforce,warrior_dragonslayers,general_ghoulagility,barbarian_possessed",
         "nextNodeType": "dungeons_boss_mansion"
+    },
+    {
+        "dungeonRunId": "171666",
+        "completedLevels": "38",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-10-28 09:17:19",
+        "endTime": "2024-10-29 10:11:21",
+        "captainBoons": "common_classic_comeback,assassin_arghgility,bomber_ricochet,paladin_holyforce,melee_spikedbones,necromancer_necronomicon,barbarian_spiritconversion,ranged_strangergloves,vampire_lordofthedead,musk_hunters_mark,rogue_2,general_ghoulsprint,assassin_undeathmark,mage_clone,archer_silveredarrows,armored_sanctifiedbones,general_armyofdarkness,archer_soulpenetration,armored_undyingdefense,ranged_rangershivers,art_1,buster_ghostbuster,armored_tartarusguard,general_ghoulresilience,melee_hollowup",
+        "nextNodeType": "hauntedboss"
     },
     {
         "dungeonRunId": "170933",
