@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "172173",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-10-31 19:04:14",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_spikedbones,saint_surgeofconfidence,melee_cursedassimilation,phantom_thehaunting,tank_boneyardwarden,blob_ectoplasmic,support_rarecandy,rogue_nighthunter,armored_sanctifiedbones,art_1,assassin_arghgility,archer_enchantedammo,mage_clone,flagbearer_hauntingflags,general_ghoulresilience,warrior_dragonslayers,saint_skeletondance,support_funeralrites,epic_assassin_serialkiller,melee_hollowup,general_ghoulsprint",
-        "nextNodeType": "dungeons_cult_alley"
+        "captainBoons": "common_classic_comeback,melee_spikedbones,saint_surgeofconfidence,melee_cursedassimilation,phantom_thehaunting,tank_boneyardwarden,blob_ectoplasmic,rogue_nighthunter,armored_sanctifiedbones,art_1,assassin_arghgility,archer_enchantedammo,mage_clone,flagbearer_hauntingflags,general_ghoulresilience,warrior_dragonslayers,saint_skeletondance,support_funeralrites,epic_assassin_serialkiller,melee_hollowup,general_ghoulsprint",
+        "nextNodeType": "dungeons_cult_docks"
     },
     {
         "dungeonRunId": "171743",
