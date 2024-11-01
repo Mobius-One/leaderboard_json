@@ -13,7 +13,7 @@
         "completedLevels": "51",
         "twitchDisplayName": "Angel",
         "startTime": "2024-10-31 04:58:09",
-        "endTime": null,
+        "endTime": "2024-11-01 02:14:22",
         "captainBoons": "common_classic_comeback,melee_hollowup,archer_silveredarrows,leader_undyingconscription,rogue_2,tank_boneyardwarden,bomber_ricochet,barbarian_spiritconversion,ranged_strangergloves,epic_wickedaspirations,armored_undyingdefense,general_armyofdarkness,archer_soulpenetration,gladiator_war_machine,vampire_lordofthedead,warlock_inferno,warrior_silveredblades,melee_cursedassimilation,necromancer_necronomicon",
         "nextNodeType": "dungeons_polterheist_forest"
     },
@@ -81,12 +81,12 @@
         "nextNodeType": "hauntedboss"
     },
     {
-        "dungeonRunId": "171182",
+        "dungeonRunId": "170933",
         "completedLevels": "37",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-10-25 17:06:10",
-        "endTime": "2024-10-25 20:17:08",
-        "captainBoons": "common_classic_comeback,melee_spikedbones,archer_enchantedammo,gladiator_war_machine,warrior_silveredblades,armored_sanctifiedbones,phantom_thehaunting,blob_flesheater,epic_assassin_serialkiller,tank_boneyardwarden,necromancer_necronomicon,armored_tartarusguard,paladin_skeletalsquire,necromancer_bombasticbones,armored_undyingdefense,general_armyofdarkness,centurion_shieldofbones,vampire_lordofthedead,archer_soulpenetration,assassin_arghgility,vampire_feastofessence,epic_monstersbrew,bomber_ricochet,barbarian_spiritconversion,ranged_strangergloves,saint_surgeofconfidence",
-        "nextNodeType": "dungeons_haunted_circle"
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-10-24 18:00:45",
+        "endTime": "2024-10-24 23:22:29",
+        "captainBoons": "common_classic_comeback,support_dyingsong,ranged_rangershivers,balloonbuster_pinata,melee_spikedbones,archer_enchantedammo,berserker_killing_spree,warrior_silveredblades,warrior_dragonslayers,armored_tartarusguard,archer_silveredarrows,leader_undyingconscription,archer_soulpenetration,assassin_undeathmark,barbarian_spiritconversion,armored_undyingdefense,lancer_impalingstakes,gladiator_war_machine,flagbearer_flagbearerswill,healer_monsterrehab,ranged_strangergloves,bomber_ricochet,monk_spiritstrike,armored_sanctifiedbones,paladin_holyforce,flagbearer_hauntingflags",
+        "nextNodeType": "dungeons_polterheist_panic"
     }
 ]
