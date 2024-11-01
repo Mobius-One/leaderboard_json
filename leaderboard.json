@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "172212",
+        "completedLevels": "53",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-11-01 02:15:59",
+        "endTime": null,
+        "captainBoons": "melee_spikedbones,necromancer_necronomicon,epic_assassin_serialkiller,bomber_ricochet,tank_hoarfrost_armor,paladin_holyforce,warrior_silveredblades,rogue_2,melee_hollowup,tank_boneyardwarden,lancer_impalingstakes,epic_wickedaspirations,assassin_arghgility,vampire_feastofessence,art_1,epic_monstersblessing,barbarian_spiritconversion,epic_monstersbrew",
+        "nextNodeType": "hauntedboss"
+    },
+    {
         "dungeonRunId": "171215",
         "completedLevels": "53",
         "twitchDisplayName": "JojoGeeker",
@@ -7,15 +16,6 @@
         "endTime": "2024-10-26 01:44:08",
         "captainBoons": "common_classic_comeback,melee_hollowup,rogue_2,assassin_undeathmark,warbeast_underworldbeast,ranged_rangershivers,necromancer_ectoplosion,monk_spiritstrike,necromancer_necronomicon,mage_clone,epic_assassin_serialkiller,ranged_strangergloves,leader_undyingconscription,vampire_swarmcoffin,general_armyofdarkness,archer_silveredarrows,ranged_etherealwounds,saint_surgeofconfidence",
         "nextNodeType": "polterheistforestboss"
-    },
-    {
-        "dungeonRunId": "172212",
-        "completedLevels": "52",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-11-01 02:15:59",
-        "endTime": null,
-        "captainBoons": "melee_spikedbones,necromancer_necronomicon,epic_assassin_serialkiller,bomber_ricochet,tank_hoarfrost_armor,paladin_holyforce,warrior_silveredblades,rogue_2,melee_hollowup,tank_boneyardwarden,lancer_impalingstakes,epic_wickedaspirations,assassin_arghgility,vampire_feastofessence,art_1,epic_monstersblessing,barbarian_spiritconversion,epic_monstersbrew",
-        "nextNodeType": "dungeons_polterheist_panic"
     },
     {
         "dungeonRunId": "171388",
@@ -63,15 +63,6 @@
         "nextNodeType": "dungeons_polterheist_forest"
     },
     {
-        "dungeonRunId": "171655",
-        "completedLevels": "38",
-        "twitchDisplayName": "YxelTV",
-        "startTime": "2024-10-28 04:35:59",
-        "endTime": "2024-10-28 09:37:05",
-        "captainBoons": "common_classic_comeback,ranged_rangershivers,shinobi_lastninja,rogue_nighthunter,rogue_momentum,warlock_inferno,ranged_strangergloves,warrior_dragonslayers,paladin_holyforce,flagbearer_deathbegetslife,assassin_arghgility,bomber_ricochet,epic_wickedaspirations,archer_silveredarrows,vampire_feastofessence,epic_assassin_serialkiller,melee_spikedbones,frogue_1,warrior_silveredblades,tank_lastlaugh,armored_tartarusguard,flagbearer_flagbearerswill,archer_soulpenetration,armored_undyingdefense,general_armyofdarkness",
-        "nextNodeType": "hauntedboss"
-    },
-    {
         "dungeonRunId": "171370",
         "completedLevels": "38",
         "twitchDisplayName": "chiquik",
@@ -79,6 +70,15 @@
         "endTime": "2024-10-26 21:43:06",
         "captainBoons": "common_classic_comeback,rogue_nighthunter,blob_ectoplasmic,barbarian_spiritconversion,warrior_silveredblades,bomber_ricochet,phantom_thehaunting,archer_enchantedammo,saint_skeletondance,flagbearer_flagbearerswill,blob_flesheater,art_1,ranged_strangergloves,flagbearer_hauntingflags,archer_soulpenetration,saint_surgeofconfidence,orcs_guardian_of_the_dead,melee_hollowup,tank_hoarfrost_armor,epic_monstersbrew,ranged_rangershivers,paladin_holyforce,warrior_dragonslayers,general_ghoulagility,barbarian_possessed",
         "nextNodeType": "dungeons_boss_mansion"
+    },
+    {
+        "dungeonRunId": "171655",
+        "completedLevels": "38",
+        "twitchDisplayName": "YxelTV",
+        "startTime": "2024-10-28 04:35:59",
+        "endTime": "2024-10-28 09:37:05",
+        "captainBoons": "common_classic_comeback,ranged_rangershivers,shinobi_lastninja,rogue_nighthunter,rogue_momentum,warlock_inferno,ranged_strangergloves,warrior_dragonslayers,paladin_holyforce,flagbearer_deathbegetslife,assassin_arghgility,bomber_ricochet,epic_wickedaspirations,archer_silveredarrows,vampire_feastofessence,epic_assassin_serialkiller,melee_spikedbones,frogue_1,warrior_silveredblades,tank_lastlaugh,armored_tartarusguard,flagbearer_flagbearerswill,archer_soulpenetration,armored_undyingdefense,general_armyofdarkness",
+        "nextNodeType": "hauntedboss"
     },
     {
         "dungeonRunId": "171666",
