@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172212",
-        "completedLevels": "56",
+        "completedLevels": "57",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-01 02:15:59",
         "endTime": null,
         "captainBoons": "melee_spikedbones,necromancer_necronomicon,epic_assassin_serialkiller,bomber_ricochet,tank_hoarfrost_armor,paladin_holyforce,warrior_silveredblades,rogue_2,melee_hollowup,tank_boneyardwarden,lancer_impalingstakes,epic_wickedaspirations,assassin_arghgility,vampire_feastofessence,epic_monstersblessing,barbarian_spiritconversion",
-        "nextNodeType": "dungeons_boss_mansion"
+        "nextNodeType": "dungeons_haunted_fountain"
     },
     {
         "dungeonRunId": "171215",
