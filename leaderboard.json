@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "172197",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-10-31 23:05:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_nighthunter,assassin_undeathmark,support_rarecandy,vampire_feastofessence,assassin_arghgility,lancer_impalingstakes,ranged_strangergloves,melee_hollowup,epic_wickedaspirations,support_dyingsong,warrior_dragonslayers,phantom_thehaunting,archer_silveredarrows,bomber_ricochet,archer_soulpenetration,general_ghoulagility,saint_surgeofconfidence,gladiator_war_machine,tank_boneyardwarden,blob_ectoplasmic,armored_tartarusguard,warrior_silveredblades,berserker_killing_spree,melee_spikedbones",
-        "nextNodeType": "dungeons_haunted_fountain"
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,assassin_undeathmark,support_rarecandy,vampire_feastofessence,assassin_arghgility,lancer_impalingstakes,melee_hollowup,epic_wickedaspirations,support_dyingsong,warrior_dragonslayers,phantom_thehaunting,archer_silveredarrows,bomber_ricochet,archer_soulpenetration,general_ghoulagility,saint_surgeofconfidence,gladiator_war_machine,tank_boneyardwarden,blob_ectoplasmic,armored_tartarusguard,warrior_silveredblades,berserker_killing_spree,melee_spikedbones",
+        "nextNodeType": "dungeons_haunted_ruins"
     },
     {
         "dungeonRunId": "171655",
