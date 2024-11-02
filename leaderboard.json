@@ -54,21 +54,21 @@
         "nextNodeType": "polterheisttownboss"
     },
     {
-        "dungeonRunId": "171937",
-        "completedLevels": "43",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-10-30 01:48:55",
-        "endTime": "2024-10-31 02:05:47",
-        "captainBoons": "common_classic_comeback,melee_spikedbones,saint_surgeofconfidence,tank_boneyardwarden,vampire_lordofthedead,support_rarecandy,armored_undyingdefense,paladin_skeletalsquire,necromancer_ectoplosion,ranged_strangergloves,assassin_undeathmark,orcs_guardian_of_the_dead,archer_silveredarrows,lancer_impalingstakes,archer_soulpenetration,warrior_dragonslayers,vampire_swarmcoffin,blob_flesheater,general_ghoulagility,epic_monstersblessing,gladiator_war_machine,armored_tartarusguard,warrior_silveredblades",
-        "nextNodeType": "dungeons_haunted_town"
-    },
-    {
         "dungeonRunId": "172197",
         "completedLevels": "43",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-10-31 23:05:04",
         "endTime": "2024-11-01 04:25:06",
         "captainBoons": "common_classic_comeback,rogue_nighthunter,assassin_undeathmark,support_rarecandy,vampire_feastofessence,assassin_arghgility,melee_hollowup,epic_wickedaspirations,support_dyingsong,warrior_dragonslayers,phantom_thehaunting,archer_silveredarrows,bomber_ricochet,archer_soulpenetration,general_ghoulagility,saint_surgeofconfidence,gladiator_war_machine,tank_boneyardwarden,blob_ectoplasmic,armored_tartarusguard,warrior_silveredblades,berserker_killing_spree,melee_spikedbones",
+        "nextNodeType": "dungeons_haunted_town"
+    },
+    {
+        "dungeonRunId": "171937",
+        "completedLevels": "43",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-10-30 01:48:55",
+        "endTime": "2024-10-31 02:05:47",
+        "captainBoons": "common_classic_comeback,melee_spikedbones,saint_surgeofconfidence,tank_boneyardwarden,vampire_lordofthedead,support_rarecandy,armored_undyingdefense,paladin_skeletalsquire,necromancer_ectoplosion,ranged_strangergloves,assassin_undeathmark,orcs_guardian_of_the_dead,archer_silveredarrows,lancer_impalingstakes,archer_soulpenetration,warrior_dragonslayers,vampire_swarmcoffin,blob_flesheater,general_ghoulagility,epic_monstersblessing,gladiator_war_machine,armored_tartarusguard,warrior_silveredblades",
         "nextNodeType": "dungeons_haunted_town"
     },
     {
