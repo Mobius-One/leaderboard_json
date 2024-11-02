@@ -72,6 +72,15 @@
         "nextNodeType": "dungeons_polterheist_forest"
     },
     {
+        "dungeonRunId": "172322",
+        "completedLevels": "39",
+        "twitchDisplayName": "La_Ferme_de_Karpe",
+        "startTime": "2024-11-01 23:28:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_monstersbrew,melee_hollowup,phantom_thehaunting,rogue_nighthunter,paladin_holyforce,healer_monsterrehab,ranged_strangergloves,art_1,melee_spikedbones,general_wailrounded,rogue_2,general_ghoulagility,epic_monstersblessing,ranged_etherealwounds,assassin_arghgility,warrior_dragonslayers,archer_soulpenetration,flagbearer_flagbearerswill,saint_surgeofconfidence,necromancer_ectoplosion,general_ghoulsprint,armored_sanctifiedbones,barbarian_spiritconversion,rogue_momentum",
+        "nextNodeType": "dungeons_cult_alley"
+    },
+    {
         "dungeonRunId": "171666",
         "completedLevels": "38",
         "twitchDisplayName": "CoilGun",
@@ -79,14 +88,5 @@
         "endTime": "2024-10-29 10:11:21",
         "captainBoons": "common_classic_comeback,assassin_arghgility,bomber_ricochet,paladin_holyforce,melee_spikedbones,necromancer_necronomicon,barbarian_spiritconversion,ranged_strangergloves,vampire_lordofthedead,musk_hunters_mark,rogue_2,general_ghoulsprint,assassin_undeathmark,mage_clone,archer_silveredarrows,armored_sanctifiedbones,general_armyofdarkness,archer_soulpenetration,armored_undyingdefense,ranged_rangershivers,art_1,buster_ghostbuster,armored_tartarusguard,general_ghoulresilience,melee_hollowup",
         "nextNodeType": "hauntedboss"
-    },
-    {
-        "dungeonRunId": "172322",
-        "completedLevels": "38",
-        "twitchDisplayName": "La_Ferme_de_Karpe",
-        "startTime": "2024-11-01 23:28:15",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_monstersbrew,melee_hollowup,phantom_thehaunting,rogue_nighthunter,paladin_holyforce,healer_monsterrehab,ranged_strangergloves,art_1,melee_spikedbones,general_wailrounded,rogue_2,general_ghoulagility,epic_monstersblessing,ranged_etherealwounds,assassin_arghgility,warrior_dragonslayers,archer_soulpenetration,flagbearer_flagbearerswill,saint_surgeofconfidence,necromancer_ectoplosion,general_ghoulsprint,armored_sanctifiedbones,barbarian_spiritconversion,rogue_momentum",
-        "nextNodeType": "polterheisttownboss"
     }
 ]
