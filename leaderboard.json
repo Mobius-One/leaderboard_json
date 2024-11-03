@@ -36,15 +36,6 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
-        "dungeonRunId": "171743",
-        "completedLevels": "45",
-        "twitchDisplayName": "NutshellinChains",
-        "startTime": "2024-10-28 19:23:43",
-        "endTime": "2024-10-28 23:57:52",
-        "captainBoons": "common_classic_comeback,warrior_silveredblades,epic_wickedaspirations,armored_undyingdefense,saint_surgeofconfidence,art_1,general_ghoulsprint,barbarian_spiritconversion,vampire_lordofthedead,epic_assassin_serialkiller,archer_enchantedammo,warbeast_underworldbeast,melee_hollowup,mage_clone,tank_boneyardwarden,assassin_undeathmark,paladin_holyforce,assassin_arghgility,blob_flesheater,ranged_etherealwounds,general_ghoulhide,bomber_ricochet",
-        "nextNodeType": "dungeons_cult_docks"
-    },
-    {
         "dungeonRunId": "172486",
         "completedLevels": "45",
         "twitchDisplayName": "RealAlize",
@@ -52,6 +43,15 @@
         "endTime": "2024-11-03 10:30:06",
         "captainBoons": "rogue_nighthunter,bomber_ricochet,fairy_nixiepops,tank_boneyardwarden,warrior_dragonslayers,mage_clone,warrior_silveredblades,blob_flesheater,necromancer_bombasticbones,flagbearer_flagbearerswill,flagbearer_hauntingflags,saint_surgeofconfidence,necromancer_ectoplosion,musk_hunters_mark,support_rarecandy,armored_undyingdefense,armored_sanctifiedbones,archer_soulpenetration,assassin_arghgility,rogue_momentum,epic_assassin_serialkiller,ranged_rangershivers",
         "nextNodeType": "dungeons_haunted_field"
+    },
+    {
+        "dungeonRunId": "171743",
+        "completedLevels": "45",
+        "twitchDisplayName": "NutshellinChains",
+        "startTime": "2024-10-28 19:23:43",
+        "endTime": "2024-10-28 23:57:52",
+        "captainBoons": "common_classic_comeback,warrior_silveredblades,epic_wickedaspirations,armored_undyingdefense,saint_surgeofconfidence,art_1,general_ghoulsprint,barbarian_spiritconversion,vampire_lordofthedead,epic_assassin_serialkiller,archer_enchantedammo,warbeast_underworldbeast,melee_hollowup,mage_clone,tank_boneyardwarden,assassin_undeathmark,paladin_holyforce,assassin_arghgility,blob_flesheater,ranged_etherealwounds,general_ghoulhide,bomber_ricochet",
+        "nextNodeType": "dungeons_cult_docks"
     },
     {
         "dungeonRunId": "172322",
