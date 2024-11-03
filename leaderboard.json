@@ -54,15 +54,6 @@
         "nextNodeType": "dungeons_haunted_field"
     },
     {
-        "dungeonRunId": "172303",
-        "completedLevels": "44",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-11-01 19:13:50",
-        "endTime": "2024-11-03 03:47:55",
-        "captainBoons": "common_classic_comeback,saint_surgeofconfidence,warrior_silveredblades,bomber_ricochet,tank_lastlaugh,melee_cursedassimilation,tank_boneyardwarden,blob_ectoplasmic,phantom_thehaunting,assassin_arghgility,ranged_rangershivers,ranged_etherealwounds,support_dyingsong,general_armyofdarkness,assassin_undeathmark,archer_soulpenetration,rogue_momentum,epic_assassin_serialkiller,ranged_strangergloves,musk_hunters_mark,rogue_nighthunter,leader_undyingconscription",
-        "nextNodeType": "hauntedboss"
-    },
-    {
         "dungeonRunId": "172322",
         "completedLevels": "44",
         "twitchDisplayName": "La_Ferme_de_Karpe",
@@ -70,6 +61,15 @@
         "endTime": "2024-11-02 05:22:13",
         "captainBoons": "epic_monstersbrew,melee_hollowup,phantom_thehaunting,paladin_holyforce,healer_monsterrehab,ranged_strangergloves,art_1,melee_spikedbones,general_wailrounded,rogue_2,general_ghoulagility,epic_monstersblessing,ranged_etherealwounds,assassin_arghgility,warrior_dragonslayers,archer_soulpenetration,flagbearer_flagbearerswill,saint_surgeofconfidence,general_ghoulsprint,armored_sanctifiedbones,barbarian_spiritconversion,rogue_momentum",
         "nextNodeType": "polterheisttownboss"
+    },
+    {
+        "dungeonRunId": "172303",
+        "completedLevels": "44",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-11-01 19:13:50",
+        "endTime": "2024-11-03 03:47:55",
+        "captainBoons": "common_classic_comeback,saint_surgeofconfidence,warrior_silveredblades,bomber_ricochet,tank_lastlaugh,melee_cursedassimilation,tank_boneyardwarden,blob_ectoplasmic,phantom_thehaunting,assassin_arghgility,ranged_rangershivers,ranged_etherealwounds,support_dyingsong,general_armyofdarkness,assassin_undeathmark,archer_soulpenetration,rogue_momentum,epic_assassin_serialkiller,ranged_strangergloves,musk_hunters_mark,rogue_nighthunter,leader_undyingconscription",
+        "nextNodeType": "hauntedboss"
     },
     {
         "dungeonRunId": "171937",
