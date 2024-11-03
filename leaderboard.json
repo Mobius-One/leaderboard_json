@@ -63,6 +63,15 @@
         "nextNodeType": "hauntedboss"
     },
     {
+        "dungeonRunId": "172486",
+        "completedLevels": "44",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-11-03 05:05:08",
+        "endTime": null,
+        "captainBoons": "rogue_nighthunter,bomber_ricochet,fairy_nixiepops,tank_boneyardwarden,warrior_dragonslayers,mage_clone,warrior_silveredblades,blob_flesheater,necromancer_bombasticbones,flagbearer_flagbearerswill,flagbearer_hauntingflags,saint_surgeofconfidence,necromancer_ectoplosion,musk_hunters_mark,support_rarecandy,armored_undyingdefense,armored_sanctifiedbones,archer_soulpenetration,assassin_arghgility,rogue_momentum,epic_assassin_serialkiller,ranged_rangershivers",
+        "nextNodeType": "polterheisttownboss"
+    },
+    {
         "dungeonRunId": "171937",
         "completedLevels": "43",
         "twitchDisplayName": "elcanadiano",
@@ -70,15 +79,6 @@
         "endTime": "2024-10-31 02:05:47",
         "captainBoons": "common_classic_comeback,melee_spikedbones,saint_surgeofconfidence,tank_boneyardwarden,vampire_lordofthedead,support_rarecandy,armored_undyingdefense,paladin_skeletalsquire,necromancer_ectoplosion,ranged_strangergloves,assassin_undeathmark,orcs_guardian_of_the_dead,archer_silveredarrows,lancer_impalingstakes,archer_soulpenetration,warrior_dragonslayers,vampire_swarmcoffin,blob_flesheater,general_ghoulagility,epic_monstersblessing,gladiator_war_machine,armored_tartarusguard,warrior_silveredblades",
         "nextNodeType": "dungeons_haunted_town"
-    },
-    {
-        "dungeonRunId": "172486",
-        "completedLevels": "43",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-11-03 05:05:08",
-        "endTime": null,
-        "captainBoons": "rogue_nighthunter,bomber_ricochet,fairy_nixiepops,tank_boneyardwarden,warrior_dragonslayers,mage_clone,warrior_silveredblades,blob_flesheater,necromancer_bombasticbones,flagbearer_flagbearerswill,flagbearer_hauntingflags,archer_silveredarrows,saint_surgeofconfidence,necromancer_ectoplosion,musk_hunters_mark,support_rarecandy,armored_undyingdefense,armored_sanctifiedbones,archer_soulpenetration,assassin_arghgility,rogue_momentum,epic_assassin_serialkiller,ranged_rangershivers",
-        "nextNodeType": "dungeons_cult_docks"
     },
     {
         "dungeonRunId": "171831",
