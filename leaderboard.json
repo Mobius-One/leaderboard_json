@@ -63,6 +63,15 @@
         "nextNodeType": "hauntedboss"
     },
     {
+        "dungeonRunId": "172486",
+        "completedLevels": "43",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-11-03 05:05:08",
+        "endTime": null,
+        "captainBoons": "rogue_nighthunter,bomber_ricochet,fairy_nixiepops,tank_boneyardwarden,warrior_dragonslayers,mage_clone,warrior_silveredblades,blob_flesheater,necromancer_bombasticbones,flagbearer_flagbearerswill,flagbearer_hauntingflags,archer_silveredarrows,saint_surgeofconfidence,necromancer_ectoplosion,musk_hunters_mark,support_rarecandy,armored_undyingdefense,armored_sanctifiedbones,archer_soulpenetration,assassin_arghgility,rogue_momentum,epic_assassin_serialkiller,ranged_rangershivers",
+        "nextNodeType": "dungeons_cult_docks"
+    },
+    {
         "dungeonRunId": "171937",
         "completedLevels": "43",
         "twitchDisplayName": "elcanadiano",
@@ -79,14 +88,5 @@
         "endTime": "2024-10-29 16:32:49",
         "captainBoons": "common_classic_comeback,support_dyingsong,saint_surgeofconfidence,armored_sanctifiedbones,vampire_lordofthedead,necromancer_bombasticbones,armored_undyingdefense,bomber_ricochet,phantom_thehaunting,general_ghoulsprint,blob_flesheater,armored_tartarusguard,melee_spikedbones,blob_ectoplasmic,fairy_nixiepops,flagbearer_flagbearerswill,melee_hollowup,amazon_vineclone,warrior_silveredblades,warrior_dragonslayers,healer_monsterrehab,tank_boneyardwarden,necromancer_necronomicon",
         "nextNodeType": "dungeons_polterheist_forest"
-    },
-    {
-        "dungeonRunId": "172486",
-        "completedLevels": "42",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-11-03 05:05:08",
-        "endTime": null,
-        "captainBoons": "rogue_nighthunter,bomber_ricochet,fairy_nixiepops,tank_boneyardwarden,warrior_dragonslayers,mage_clone,warrior_silveredblades,blob_flesheater,necromancer_bombasticbones,flagbearer_flagbearerswill,flagbearer_hauntingflags,archer_silveredarrows,saint_surgeofconfidence,necromancer_ectoplosion,musk_hunters_mark,support_rarecandy,armored_undyingdefense,armored_sanctifiedbones,archer_soulpenetration,assassin_arghgility,rogue_momentum,epic_assassin_serialkiller,ranged_rangershivers",
-        "nextNodeType": "dungeons_polterheist_swamp"
     }
 ]
