@@ -18,6 +18,15 @@
         "nextNodeType": "polterheistforestboss"
     },
     {
+        "dungeonRunId": "172510",
+        "completedLevels": "47",
+        "twitchDisplayName": "La_Ferme_de_Karpe",
+        "startTime": "2024-11-03 13:08:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,saint_skeletondance,general_ghoulclaws,gladiator_war_machine,ranged_strangergloves,flagbearer_hauntingflags,epic_wickedaspirations,epic_monstersbrew,epic_monstersblessing,flagbearer_flagbearerswill,warrior_dragonslayers,warrior_silveredblades,saint_surgeofconfidence,melee_spikedbones,healer_arrogantmedium,necromancer_ectoplosion,assassin_arghgility,ranged_rangershivers,archer_soulpenetration,epic_assassin_serialkiller",
+        "nextNodeType": "dungeons_boss_mansion"
+    },
+    {
         "dungeonRunId": "171388",
         "completedLevels": "47",
         "twitchDisplayName": "Rafipi",
@@ -25,15 +34,6 @@
         "endTime": "2024-10-27 00:36:44",
         "captainBoons": "common_classic_comeback,ranged_strangergloves,lancer_firststrike,warrior_silveredblades,bomber_ricochet,saint_skeletondance,armored_undyingdefense,epic_monstersblessing,epic_assassin_serialkiller,flagbearer_hauntingflags,gladiator_war_machine,archer_silveredarrows,saint_surgeofconfidence,leader_undyingconscription,epic_monstersbrew,assassin_undeathmark,phantom_thehaunting,melee_spikedbones,necromancer_necronomicon,necromancer_bombasticbones,blob_ectoplasmic",
         "nextNodeType": "polterheisttownboss"
-    },
-    {
-        "dungeonRunId": "172510",
-        "completedLevels": "46",
-        "twitchDisplayName": "La_Ferme_de_Karpe",
-        "startTime": "2024-11-03 13:08:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_nighthunter,saint_skeletondance,general_ghoulclaws,gladiator_war_machine,ranged_strangergloves,flagbearer_hauntingflags,epic_wickedaspirations,epic_monstersbrew,epic_monstersblessing,flagbearer_flagbearerswill,warrior_dragonslayers,warrior_silveredblades,saint_surgeofconfidence,melee_spikedbones,healer_arrogantmedium,necromancer_ectoplosion,assassin_arghgility,ranged_rangershivers,archer_soulpenetration,epic_assassin_serialkiller",
-        "nextNodeType": "dungeons_polterheist_town"
     },
     {
         "dungeonRunId": "172173",
