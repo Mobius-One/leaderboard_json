@@ -27,15 +27,6 @@
         "nextNodeType": "polterheisttownboss"
     },
     {
-        "dungeonRunId": "172173",
-        "completedLevels": "46",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-10-31 19:04:14",
-        "endTime": "2024-11-01 20:12:55",
-        "captainBoons": "common_classic_comeback,melee_spikedbones,saint_surgeofconfidence,melee_cursedassimilation,phantom_thehaunting,tank_boneyardwarden,blob_ectoplasmic,rogue_nighthunter,armored_sanctifiedbones,art_1,assassin_arghgility,archer_enchantedammo,mage_clone,flagbearer_hauntingflags,general_ghoulresilience,warrior_dragonslayers,saint_skeletondance,support_funeralrites,epic_assassin_serialkiller,melee_hollowup,general_ghoulsprint",
-        "nextNodeType": "dungeons_cult_docks"
-    },
-    {
         "dungeonRunId": "172510",
         "completedLevels": "46",
         "twitchDisplayName": "La_Ferme_de_Karpe",
@@ -43,6 +34,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,rogue_nighthunter,saint_skeletondance,general_ghoulclaws,gladiator_war_machine,ranged_strangergloves,flagbearer_hauntingflags,epic_wickedaspirations,epic_monstersbrew,epic_monstersblessing,flagbearer_flagbearerswill,warrior_dragonslayers,warrior_silveredblades,saint_surgeofconfidence,melee_spikedbones,healer_arrogantmedium,necromancer_ectoplosion,assassin_arghgility,ranged_rangershivers,archer_soulpenetration,epic_assassin_serialkiller",
         "nextNodeType": "dungeons_polterheist_town"
+    },
+    {
+        "dungeonRunId": "172173",
+        "completedLevels": "46",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-10-31 19:04:14",
+        "endTime": "2024-11-01 20:12:55",
+        "captainBoons": "common_classic_comeback,melee_spikedbones,saint_surgeofconfidence,melee_cursedassimilation,phantom_thehaunting,tank_boneyardwarden,blob_ectoplasmic,rogue_nighthunter,armored_sanctifiedbones,art_1,assassin_arghgility,archer_enchantedammo,mage_clone,flagbearer_hauntingflags,general_ghoulresilience,warrior_dragonslayers,saint_skeletondance,support_funeralrites,epic_assassin_serialkiller,melee_hollowup,general_ghoulsprint",
+        "nextNodeType": "dungeons_cult_docks"
     },
     {
         "dungeonRunId": "171743",
