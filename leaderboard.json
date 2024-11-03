@@ -36,21 +36,21 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
+        "dungeonRunId": "172510",
+        "completedLevels": "46",
+        "twitchDisplayName": "La_Ferme_de_Karpe",
+        "startTime": "2024-11-03 13:08:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,saint_skeletondance,general_ghoulclaws,gladiator_war_machine,ranged_strangergloves,flagbearer_hauntingflags,epic_wickedaspirations,epic_monstersbrew,epic_monstersblessing,flagbearer_flagbearerswill,warrior_dragonslayers,warrior_silveredblades,saint_surgeofconfidence,melee_spikedbones,healer_arrogantmedium,necromancer_ectoplosion,assassin_arghgility,ranged_rangershivers,archer_soulpenetration,epic_assassin_serialkiller",
+        "nextNodeType": "dungeons_polterheist_town"
+    },
+    {
         "dungeonRunId": "171743",
         "completedLevels": "45",
         "twitchDisplayName": "NutshellinChains",
         "startTime": "2024-10-28 19:23:43",
         "endTime": "2024-10-28 23:57:52",
         "captainBoons": "common_classic_comeback,warrior_silveredblades,epic_wickedaspirations,armored_undyingdefense,saint_surgeofconfidence,art_1,general_ghoulsprint,barbarian_spiritconversion,vampire_lordofthedead,epic_assassin_serialkiller,archer_enchantedammo,warbeast_underworldbeast,melee_hollowup,mage_clone,tank_boneyardwarden,assassin_undeathmark,paladin_holyforce,assassin_arghgility,blob_flesheater,ranged_etherealwounds,general_ghoulhide,bomber_ricochet",
-        "nextNodeType": "dungeons_cult_docks"
-    },
-    {
-        "dungeonRunId": "172510",
-        "completedLevels": "45",
-        "twitchDisplayName": "La_Ferme_de_Karpe",
-        "startTime": "2024-11-03 13:08:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_nighthunter,saint_skeletondance,general_ghoulclaws,gladiator_war_machine,ranged_strangergloves,flagbearer_hauntingflags,epic_wickedaspirations,epic_monstersbrew,epic_monstersblessing,flagbearer_flagbearerswill,warrior_dragonslayers,warrior_silveredblades,saint_surgeofconfidence,melee_spikedbones,healer_arrogantmedium,necromancer_ectoplosion,assassin_arghgility,ranged_rangershivers,archer_soulpenetration,armored_undyingdefense,epic_assassin_serialkiller",
         "nextNodeType": "dungeons_cult_docks"
     },
     {
