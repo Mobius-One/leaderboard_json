@@ -36,15 +36,6 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
-        "dungeonRunId": "172486",
-        "completedLevels": "45",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-11-03 05:05:08",
-        "endTime": "2024-11-03 10:30:06",
-        "captainBoons": "rogue_nighthunter,bomber_ricochet,fairy_nixiepops,tank_boneyardwarden,warrior_dragonslayers,mage_clone,warrior_silveredblades,blob_flesheater,necromancer_bombasticbones,flagbearer_flagbearerswill,flagbearer_hauntingflags,saint_surgeofconfidence,necromancer_ectoplosion,musk_hunters_mark,support_rarecandy,armored_undyingdefense,armored_sanctifiedbones,archer_soulpenetration,assassin_arghgility,rogue_momentum,epic_assassin_serialkiller,ranged_rangershivers",
-        "nextNodeType": "dungeons_haunted_field"
-    },
-    {
         "dungeonRunId": "171743",
         "completedLevels": "45",
         "twitchDisplayName": "NutshellinChains",
@@ -54,13 +45,22 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
-        "dungeonRunId": "172322",
-        "completedLevels": "44",
+        "dungeonRunId": "172510",
+        "completedLevels": "45",
         "twitchDisplayName": "La_Ferme_de_Karpe",
-        "startTime": "2024-11-01 23:28:15",
-        "endTime": "2024-11-02 05:22:13",
-        "captainBoons": "epic_monstersbrew,melee_hollowup,phantom_thehaunting,paladin_holyforce,healer_monsterrehab,ranged_strangergloves,art_1,melee_spikedbones,general_wailrounded,rogue_2,general_ghoulagility,epic_monstersblessing,ranged_etherealwounds,assassin_arghgility,warrior_dragonslayers,archer_soulpenetration,flagbearer_flagbearerswill,saint_surgeofconfidence,general_ghoulsprint,armored_sanctifiedbones,barbarian_spiritconversion,rogue_momentum",
-        "nextNodeType": "polterheisttownboss"
+        "startTime": "2024-11-03 13:08:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,saint_skeletondance,general_ghoulclaws,gladiator_war_machine,ranged_strangergloves,flagbearer_hauntingflags,epic_wickedaspirations,epic_monstersbrew,epic_monstersblessing,flagbearer_flagbearerswill,warrior_dragonslayers,warrior_silveredblades,saint_surgeofconfidence,melee_spikedbones,healer_arrogantmedium,necromancer_ectoplosion,assassin_arghgility,ranged_rangershivers,archer_soulpenetration,armored_undyingdefense,epic_assassin_serialkiller",
+        "nextNodeType": "dungeons_cult_docks"
+    },
+    {
+        "dungeonRunId": "172486",
+        "completedLevels": "45",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-11-03 05:05:08",
+        "endTime": "2024-11-03 10:30:06",
+        "captainBoons": "rogue_nighthunter,bomber_ricochet,fairy_nixiepops,tank_boneyardwarden,warrior_dragonslayers,mage_clone,warrior_silveredblades,blob_flesheater,necromancer_bombasticbones,flagbearer_flagbearerswill,flagbearer_hauntingflags,saint_surgeofconfidence,necromancer_ectoplosion,musk_hunters_mark,support_rarecandy,armored_undyingdefense,armored_sanctifiedbones,archer_soulpenetration,assassin_arghgility,rogue_momentum,epic_assassin_serialkiller,ranged_rangershivers",
+        "nextNodeType": "dungeons_haunted_field"
     },
     {
         "dungeonRunId": "172303",
