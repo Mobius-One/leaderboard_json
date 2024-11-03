@@ -45,15 +45,6 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
-        "dungeonRunId": "172322",
-        "completedLevels": "44",
-        "twitchDisplayName": "La_Ferme_de_Karpe",
-        "startTime": "2024-11-01 23:28:15",
-        "endTime": "2024-11-02 05:22:13",
-        "captainBoons": "epic_monstersbrew,melee_hollowup,phantom_thehaunting,paladin_holyforce,healer_monsterrehab,ranged_strangergloves,art_1,melee_spikedbones,general_wailrounded,rogue_2,general_ghoulagility,epic_monstersblessing,ranged_etherealwounds,assassin_arghgility,warrior_dragonslayers,archer_soulpenetration,flagbearer_flagbearerswill,saint_surgeofconfidence,general_ghoulsprint,armored_sanctifiedbones,barbarian_spiritconversion,rogue_momentum",
-        "nextNodeType": "polterheisttownboss"
-    },
-    {
         "dungeonRunId": "172303",
         "completedLevels": "44",
         "twitchDisplayName": "bakodemeester",
@@ -61,6 +52,15 @@
         "endTime": "2024-11-03 03:47:55",
         "captainBoons": "common_classic_comeback,saint_surgeofconfidence,warrior_silveredblades,bomber_ricochet,tank_lastlaugh,melee_cursedassimilation,tank_boneyardwarden,blob_ectoplasmic,phantom_thehaunting,assassin_arghgility,ranged_rangershivers,ranged_etherealwounds,support_dyingsong,general_armyofdarkness,assassin_undeathmark,archer_soulpenetration,rogue_momentum,epic_assassin_serialkiller,ranged_strangergloves,musk_hunters_mark,rogue_nighthunter,leader_undyingconscription",
         "nextNodeType": "hauntedboss"
+    },
+    {
+        "dungeonRunId": "172322",
+        "completedLevels": "44",
+        "twitchDisplayName": "La_Ferme_de_Karpe",
+        "startTime": "2024-11-01 23:28:15",
+        "endTime": "2024-11-02 05:22:13",
+        "captainBoons": "epic_monstersbrew,melee_hollowup,phantom_thehaunting,paladin_holyforce,healer_monsterrehab,ranged_strangergloves,art_1,melee_spikedbones,general_wailrounded,rogue_2,general_ghoulagility,epic_monstersblessing,ranged_etherealwounds,assassin_arghgility,warrior_dragonslayers,archer_soulpenetration,flagbearer_flagbearerswill,saint_surgeofconfidence,general_ghoulsprint,armored_sanctifiedbones,barbarian_spiritconversion,rogue_momentum",
+        "nextNodeType": "polterheisttownboss"
     },
     {
         "dungeonRunId": "171937",
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_polterheist_forest"
     },
     {
-        "dungeonRunId": "171655",
+        "dungeonRunId": "171666",
         "completedLevels": "38",
-        "twitchDisplayName": "YxelTV",
-        "startTime": "2024-10-28 04:35:59",
-        "endTime": "2024-10-28 09:37:05",
-        "captainBoons": "common_classic_comeback,ranged_rangershivers,shinobi_lastninja,rogue_nighthunter,rogue_momentum,warlock_inferno,ranged_strangergloves,warrior_dragonslayers,paladin_holyforce,flagbearer_deathbegetslife,assassin_arghgility,bomber_ricochet,epic_wickedaspirations,archer_silveredarrows,vampire_feastofessence,epic_assassin_serialkiller,melee_spikedbones,frogue_1,warrior_silveredblades,tank_lastlaugh,armored_tartarusguard,flagbearer_flagbearerswill,archer_soulpenetration,armored_undyingdefense,general_armyofdarkness",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-10-28 09:17:19",
+        "endTime": "2024-10-29 10:11:21",
+        "captainBoons": "common_classic_comeback,assassin_arghgility,bomber_ricochet,paladin_holyforce,melee_spikedbones,necromancer_necronomicon,barbarian_spiritconversion,ranged_strangergloves,vampire_lordofthedead,musk_hunters_mark,rogue_2,general_ghoulsprint,assassin_undeathmark,mage_clone,archer_silveredarrows,armored_sanctifiedbones,general_armyofdarkness,archer_soulpenetration,armored_undyingdefense,ranged_rangershivers,art_1,buster_ghostbuster,armored_tartarusguard,general_ghoulresilience,melee_hollowup",
         "nextNodeType": "hauntedboss"
     }
 ]
