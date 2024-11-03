@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "172486",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "RealAlize",
         "startTime": "2024-11-03 05:05:08",
         "endTime": null,
         "captainBoons": "rogue_nighthunter,bomber_ricochet,fairy_nixiepops,tank_boneyardwarden,warrior_dragonslayers,mage_clone,warrior_silveredblades,blob_flesheater,necromancer_bombasticbones,flagbearer_flagbearerswill,flagbearer_hauntingflags,archer_silveredarrows,saint_surgeofconfidence,necromancer_ectoplosion,musk_hunters_mark,ranged_strangergloves,support_rarecandy,armored_undyingdefense,armored_sanctifiedbones,archer_soulpenetration,assassin_arghgility,rogue_momentum,epic_assassin_serialkiller,ranged_rangershivers",
-        "nextNodeType": "dungeons_polterheist_panic"
+        "nextNodeType": "dungeons_boss_mansion"
     }
 ]
