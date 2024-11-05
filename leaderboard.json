@@ -45,6 +45,15 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
+        "dungeonRunId": "172813",
+        "completedLevels": "45",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-11-05 11:36:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_strangergloves,flagbearer_hauntingflags,melee_spikedbones,phantom_thehaunting,tank_boneyardwarden,barbarian_possessed,archer_soulpenetration,armored_undyingdefense,melee_cursedassimilation,melee_hollowup,berserker_killing_spree,epic_monstersbrew,epic_monstersblessing,warrior_falltodarkness,general_ghoulagility,blob_flesheater,ranged_etherealwounds,archer_silveredarrows,rogue_nighthunter,rogue_2,warrior_silveredblades",
+        "nextNodeType": "dungeons_haunted_fountain"
+    },
+    {
         "dungeonRunId": "172486",
         "completedLevels": "45",
         "twitchDisplayName": "RealAlize",
@@ -63,15 +72,6 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
-        "dungeonRunId": "172716",
-        "completedLevels": "44",
-        "twitchDisplayName": "Cornl3read",
-        "startTime": "2024-11-04 20:36:11",
-        "endTime": "2024-11-05 16:29:03",
-        "captainBoons": "general_ghoulresilience,melee_hollowup,barbarian_spiritconversion,armored_sanctifiedbones,ranged_etherealwounds,warrior_silveredblades,melee_cursedassimilation,lancer_impalingstakes,archer_soulpenetration,melee_spikedbones,bomber_ricochet,balloonbuster_pinata,ranged_strangergloves,warrior_dragonslayers,assassin_undeathmark,gladiator_war_machine,support_dyingsong,monk_spiritstrike,epic_monstersbrew,paladin_skeletalsquire,epic_wickedaspirations,general_armyofdarkness",
-        "nextNodeType": "dungeons_boss_mansion"
-    },
-    {
         "dungeonRunId": "172303",
         "completedLevels": "44",
         "twitchDisplayName": "bakodemeester",
@@ -81,12 +81,12 @@
         "nextNodeType": "hauntedboss"
     },
     {
-        "dungeonRunId": "172813",
+        "dungeonRunId": "172716",
         "completedLevels": "44",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-11-05 11:36:46",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_strangergloves,flagbearer_hauntingflags,melee_spikedbones,phantom_thehaunting,tank_boneyardwarden,barbarian_possessed,archer_soulpenetration,armored_undyingdefense,melee_cursedassimilation,melee_hollowup,berserker_killing_spree,epic_monstersbrew,epic_monstersblessing,warrior_falltodarkness,general_ghoulagility,blob_flesheater,ranged_etherealwounds,archer_silveredarrows,rogue_nighthunter,rogue_2,warrior_silveredblades",
-        "nextNodeType": "dungeons_boss_headlesshorseman"
+        "twitchDisplayName": "Cornl3read",
+        "startTime": "2024-11-04 20:36:11",
+        "endTime": "2024-11-05 16:29:03",
+        "captainBoons": "general_ghoulresilience,melee_hollowup,barbarian_spiritconversion,armored_sanctifiedbones,ranged_etherealwounds,warrior_silveredblades,melee_cursedassimilation,lancer_impalingstakes,archer_soulpenetration,melee_spikedbones,bomber_ricochet,balloonbuster_pinata,ranged_strangergloves,warrior_dragonslayers,assassin_undeathmark,gladiator_war_machine,support_dyingsong,monk_spiritstrike,epic_monstersbrew,paladin_skeletalsquire,epic_wickedaspirations,general_armyofdarkness",
+        "nextNodeType": "dungeons_boss_mansion"
     }
 ]
