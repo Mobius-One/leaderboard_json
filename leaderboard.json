@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "172716",
-        "completedLevels": "43",
+        "completedLevels": "44",
         "twitchDisplayName": "Cornl3read",
         "startTime": "2024-11-04 20:36:11",
         "endTime": null,
-        "captainBoons": "general_ghoulresilience,melee_hollowup,barbarian_spiritconversion,armored_sanctifiedbones,ranged_etherealwounds,warrior_silveredblades,melee_cursedassimilation,lancer_impalingstakes,archer_soulpenetration,melee_spikedbones,bomber_ricochet,balloonbuster_pinata,ranged_strangergloves,warrior_dragonslayers,flagbearer_flagbearerswill,assassin_undeathmark,gladiator_war_machine,support_dyingsong,monk_spiritstrike,epic_monstersbrew,paladin_skeletalsquire,epic_wickedaspirations,general_armyofdarkness",
-        "nextNodeType": "dungeons_cult_street"
+        "captainBoons": "general_ghoulresilience,melee_hollowup,barbarian_spiritconversion,armored_sanctifiedbones,ranged_etherealwounds,warrior_silveredblades,melee_cursedassimilation,lancer_impalingstakes,archer_soulpenetration,melee_spikedbones,bomber_ricochet,balloonbuster_pinata,ranged_strangergloves,warrior_dragonslayers,assassin_undeathmark,gladiator_war_machine,support_dyingsong,monk_spiritstrike,epic_monstersbrew,paladin_skeletalsquire,epic_wickedaspirations,general_armyofdarkness",
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "171937",
