@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "172869",
-        "completedLevels": "55",
+        "completedLevels": "56",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-11-05 17:29:28",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_undyingdefense,archer_soulpenetration,archer_silveredarrows,berserker_killing_spree,melee_spikedbones,tank_boneyardwarden,assassin_undeathmark,general_ghoulhide,leader_undyingconscription,armored_tartarusguard,gladiator_war_machine,saint_surgeofconfidence,warlock_inferno,flagbearer_hauntingflags,epic_monstersbrew,epic_monstersblessing",
-        "nextNodeType": "dungeons_cult_street"
+        "captainBoons": "common_classic_comeback,armored_undyingdefense,archer_soulpenetration,archer_silveredarrows,berserker_killing_spree,melee_spikedbones,tank_boneyardwarden,assassin_undeathmark,general_ghoulhide,leader_undyingconscription,armored_tartarusguard,gladiator_war_machine,saint_surgeofconfidence,flagbearer_hauntingflags,epic_monstersbrew,epic_monstersblessing",
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "171215",
@@ -54,15 +54,6 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
-        "dungeonRunId": "171743",
-        "completedLevels": "45",
-        "twitchDisplayName": "NutshellinChains",
-        "startTime": "2024-10-28 19:23:43",
-        "endTime": "2024-10-28 23:57:52",
-        "captainBoons": "common_classic_comeback,warrior_silveredblades,epic_wickedaspirations,armored_undyingdefense,saint_surgeofconfidence,art_1,general_ghoulsprint,barbarian_spiritconversion,vampire_lordofthedead,epic_assassin_serialkiller,archer_enchantedammo,warbeast_underworldbeast,melee_hollowup,mage_clone,tank_boneyardwarden,assassin_undeathmark,paladin_holyforce,assassin_arghgility,blob_flesheater,ranged_etherealwounds,general_ghoulhide,bomber_ricochet",
-        "nextNodeType": "dungeons_cult_docks"
-    },
-    {
         "dungeonRunId": "172486",
         "completedLevels": "45",
         "twitchDisplayName": "RealAlize",
@@ -72,13 +63,13 @@
         "nextNodeType": "dungeons_haunted_field"
     },
     {
-        "dungeonRunId": "172716",
-        "completedLevels": "44",
-        "twitchDisplayName": "Cornl3read",
-        "startTime": "2024-11-04 20:36:11",
-        "endTime": "2024-11-05 16:29:03",
-        "captainBoons": "general_ghoulresilience,melee_hollowup,barbarian_spiritconversion,armored_sanctifiedbones,ranged_etherealwounds,warrior_silveredblades,melee_cursedassimilation,lancer_impalingstakes,archer_soulpenetration,melee_spikedbones,bomber_ricochet,balloonbuster_pinata,ranged_strangergloves,warrior_dragonslayers,assassin_undeathmark,gladiator_war_machine,support_dyingsong,monk_spiritstrike,epic_monstersbrew,paladin_skeletalsquire,epic_wickedaspirations,general_armyofdarkness",
-        "nextNodeType": "dungeons_boss_mansion"
+        "dungeonRunId": "171743",
+        "completedLevels": "45",
+        "twitchDisplayName": "NutshellinChains",
+        "startTime": "2024-10-28 19:23:43",
+        "endTime": "2024-10-28 23:57:52",
+        "captainBoons": "common_classic_comeback,warrior_silveredblades,epic_wickedaspirations,armored_undyingdefense,saint_surgeofconfidence,art_1,general_ghoulsprint,barbarian_spiritconversion,vampire_lordofthedead,epic_assassin_serialkiller,archer_enchantedammo,warbeast_underworldbeast,melee_hollowup,mage_clone,tank_boneyardwarden,assassin_undeathmark,paladin_holyforce,assassin_arghgility,blob_flesheater,ranged_etherealwounds,general_ghoulhide,bomber_ricochet",
+        "nextNodeType": "dungeons_cult_docks"
     },
     {
         "dungeonRunId": "172303",
@@ -88,5 +79,14 @@
         "endTime": "2024-11-03 03:47:55",
         "captainBoons": "common_classic_comeback,saint_surgeofconfidence,warrior_silveredblades,bomber_ricochet,tank_lastlaugh,melee_cursedassimilation,tank_boneyardwarden,blob_ectoplasmic,phantom_thehaunting,assassin_arghgility,ranged_rangershivers,ranged_etherealwounds,support_dyingsong,general_armyofdarkness,assassin_undeathmark,archer_soulpenetration,rogue_momentum,epic_assassin_serialkiller,ranged_strangergloves,musk_hunters_mark,rogue_nighthunter,leader_undyingconscription",
         "nextNodeType": "hauntedboss"
+    },
+    {
+        "dungeonRunId": "172716",
+        "completedLevels": "44",
+        "twitchDisplayName": "Cornl3read",
+        "startTime": "2024-11-04 20:36:11",
+        "endTime": "2024-11-05 16:29:03",
+        "captainBoons": "general_ghoulresilience,melee_hollowup,barbarian_spiritconversion,armored_sanctifiedbones,ranged_etherealwounds,warrior_silveredblades,melee_cursedassimilation,lancer_impalingstakes,archer_soulpenetration,melee_spikedbones,bomber_ricochet,balloonbuster_pinata,ranged_strangergloves,warrior_dragonslayers,assassin_undeathmark,gladiator_war_machine,support_dyingsong,monk_spiritstrike,epic_monstersbrew,paladin_skeletalsquire,epic_wickedaspirations,general_armyofdarkness",
+        "nextNodeType": "dungeons_boss_mansion"
     }
 ]
