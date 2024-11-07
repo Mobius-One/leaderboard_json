@@ -9,6 +9,15 @@
         "nextNodeType": "dungeons_cult_alley"
     },
     {
+        "dungeonRunId": "172869",
+        "completedLevels": "53",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-11-05 17:29:28",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_undyingdefense,archer_soulpenetration,archer_silveredarrows,berserker_killing_spree,melee_spikedbones,tank_boneyardwarden,assassin_undeathmark,general_ghoulhide,leader_undyingconscription,armored_tartarusguard,armored_sanctifiedbones,gladiator_war_machine,saint_surgeofconfidence,warlock_inferno,flagbearer_hauntingflags,epic_monstersbrew,epic_monstersblessing",
+        "nextNodeType": "polterheisttownboss"
+    },
+    {
         "dungeonRunId": "171215",
         "completedLevels": "53",
         "twitchDisplayName": "JojoGeeker",
@@ -16,15 +25,6 @@
         "endTime": "2024-10-26 01:44:08",
         "captainBoons": "common_classic_comeback,melee_hollowup,rogue_2,assassin_undeathmark,warbeast_underworldbeast,ranged_rangershivers,necromancer_ectoplosion,monk_spiritstrike,necromancer_necronomicon,mage_clone,epic_assassin_serialkiller,ranged_strangergloves,leader_undyingconscription,vampire_swarmcoffin,general_armyofdarkness,archer_silveredarrows,ranged_etherealwounds,saint_surgeofconfidence",
         "nextNodeType": "polterheistforestboss"
-    },
-    {
-        "dungeonRunId": "172869",
-        "completedLevels": "52",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-11-05 17:29:28",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_undyingdefense,archer_soulpenetration,archer_silveredarrows,berserker_killing_spree,melee_spikedbones,tank_boneyardwarden,assassin_undeathmark,general_ghoulhide,leader_undyingconscription,armored_tartarusguard,armored_sanctifiedbones,gladiator_war_machine,saint_surgeofconfidence,warlock_inferno,flagbearer_hauntingflags,epic_monstersbrew,epic_monstersblessing",
-        "nextNodeType": "dungeons_cult_square"
     },
     {
         "dungeonRunId": "172510",
