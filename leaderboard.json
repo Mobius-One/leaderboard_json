@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "172869",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-11-05 17:29:28",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_undyingdefense,archer_soulpenetration,archer_silveredarrows,berserker_killing_spree,melee_spikedbones,general_wailrounded,tank_boneyardwarden,general_ghoulclaws,assassin_undeathmark,general_ghoulhide,leader_undyingconscription,armored_tartarusguard,armored_sanctifiedbones,gladiator_war_machine,saint_surgeofconfidence,warlock_inferno,flagbearer_hauntingflags,epic_monstersbrew,epic_monstersblessing",
-        "nextNodeType": "dungeons_haunted_forest"
+        "captainBoons": "common_classic_comeback,armored_undyingdefense,archer_soulpenetration,archer_silveredarrows,berserker_killing_spree,melee_spikedbones,general_wailrounded,tank_boneyardwarden,assassin_undeathmark,general_ghoulhide,leader_undyingconscription,armored_tartarusguard,armored_sanctifiedbones,gladiator_war_machine,saint_surgeofconfidence,warlock_inferno,flagbearer_hauntingflags,epic_monstersbrew,epic_monstersblessing",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     },
     {
         "dungeonRunId": "172510",
