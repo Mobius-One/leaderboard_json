@@ -27,21 +27,21 @@
         "nextNodeType": "polterheistforestboss"
     },
     {
-        "dungeonRunId": "172510",
-        "completedLevels": "48",
-        "twitchDisplayName": "La_Ferme_de_Karpe",
-        "startTime": "2024-11-03 13:08:25",
-        "endTime": "2024-11-03 19:43:01",
-        "captainBoons": "common_classic_comeback,rogue_nighthunter,saint_skeletondance,general_ghoulclaws,gladiator_war_machine,flagbearer_hauntingflags,epic_wickedaspirations,epic_monstersbrew,epic_monstersblessing,flagbearer_flagbearerswill,warrior_dragonslayers,warrior_silveredblades,saint_surgeofconfidence,melee_spikedbones,healer_arrogantmedium,necromancer_ectoplosion,assassin_arghgility,ranged_rangershivers,archer_soulpenetration,epic_assassin_serialkiller",
-        "nextNodeType": "dungeons_haunted_circle"
-    },
-    {
         "dungeonRunId": "172808",
         "completedLevels": "48",
         "twitchDisplayName": "lont123",
         "startTime": "2024-11-05 10:01:22",
         "endTime": null,
         "captainBoons": "common_classic_comeback,rogue_nighthunter,epic_assassin_serialkiller,armored_undyingdefense,leader_undyingconscription,armored_tartarusguard,warrior_silveredblades,flagbearer_hauntingflags,art_1,blob_flesheater,orcs_guardian_of_the_dead,tank_boneyardwarden,armored_sanctifiedbones,epic_wickedaspirations,melee_spikedbones,paladin_holyforce,melee_cursedassimilation,archer_silveredarrows,barbarian_spiritconversion,saint_surgeofconfidence",
+        "nextNodeType": "dungeons_haunted_circle"
+    },
+    {
+        "dungeonRunId": "172510",
+        "completedLevels": "48",
+        "twitchDisplayName": "La_Ferme_de_Karpe",
+        "startTime": "2024-11-03 13:08:25",
+        "endTime": "2024-11-03 19:43:01",
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,saint_skeletondance,general_ghoulclaws,gladiator_war_machine,flagbearer_hauntingflags,epic_wickedaspirations,epic_monstersbrew,epic_monstersblessing,flagbearer_flagbearerswill,warrior_dragonslayers,warrior_silveredblades,saint_surgeofconfidence,melee_spikedbones,healer_arrogantmedium,necromancer_ectoplosion,assassin_arghgility,ranged_rangershivers,archer_soulpenetration,epic_assassin_serialkiller",
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
