@@ -36,6 +36,15 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
+        "dungeonRunId": "172808",
+        "completedLevels": "47",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-11-05 10:01:22",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_nighthunter,epic_assassin_serialkiller,armored_undyingdefense,leader_undyingconscription,armored_tartarusguard,warrior_silveredblades,flagbearer_hauntingflags,art_1,blob_flesheater,orcs_guardian_of_the_dead,tank_boneyardwarden,armored_sanctifiedbones,epic_wickedaspirations,melee_spikedbones,paladin_holyforce,melee_cursedassimilation,archer_silveredarrows,melee_hollowup,barbarian_spiritconversion,saint_surgeofconfidence",
+        "nextNodeType": "hauntedboss"
+    },
+    {
         "dungeonRunId": "171388",
         "completedLevels": "47",
         "twitchDisplayName": "Rafipi",
@@ -52,15 +61,6 @@
         "endTime": "2024-11-01 20:12:55",
         "captainBoons": "common_classic_comeback,melee_spikedbones,saint_surgeofconfidence,melee_cursedassimilation,phantom_thehaunting,tank_boneyardwarden,blob_ectoplasmic,rogue_nighthunter,armored_sanctifiedbones,art_1,assassin_arghgility,archer_enchantedammo,mage_clone,flagbearer_hauntingflags,general_ghoulresilience,warrior_dragonslayers,saint_skeletondance,support_funeralrites,epic_assassin_serialkiller,melee_hollowup,general_ghoulsprint",
         "nextNodeType": "dungeons_cult_docks"
-    },
-    {
-        "dungeonRunId": "172808",
-        "completedLevels": "46",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-11-05 10:01:22",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_nighthunter,epic_assassin_serialkiller,armored_undyingdefense,leader_undyingconscription,armored_tartarusguard,warrior_silveredblades,flagbearer_hauntingflags,art_1,blob_flesheater,orcs_guardian_of_the_dead,tank_boneyardwarden,armored_sanctifiedbones,epic_wickedaspirations,melee_spikedbones,paladin_holyforce,melee_cursedassimilation,archer_silveredarrows,melee_hollowup,barbarian_spiritconversion,saint_surgeofconfidence",
-        "nextNodeType": "dungeons_haunted_ruins"
     },
     {
         "dungeonRunId": "172486",
