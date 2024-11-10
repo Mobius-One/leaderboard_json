@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "172808",
-        "completedLevels": "54",
+        "completedLevels": "55",
         "twitchDisplayName": "lont123",
         "startTime": "2024-11-05 10:01:22",
         "endTime": null,
         "captainBoons": "common_classic_comeback,rogue_nighthunter,epic_assassin_serialkiller,leader_undyingconscription,armored_tartarusguard,warrior_silveredblades,art_1,blob_flesheater,orcs_guardian_of_the_dead,tank_boneyardwarden,armored_sanctifiedbones,epic_wickedaspirations,melee_spikedbones,paladin_holyforce,melee_cursedassimilation,barbarian_spiritconversion,saint_surgeofconfidence",
-        "nextNodeType": "dungeons_cult_fields"
+        "nextNodeType": "dungeons_haunted_forest"
     },
     {
         "dungeonRunId": "171215",
