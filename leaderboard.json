@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "172565",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "IAmSandri",
         "startTime": "2024-11-03 21:58:20",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_spikedbones,bomber_ricochet,armored_undyingdefense,ranged_rangershivers,epic_wickedaspirations,warrior_silveredblades,epic_monstersblessing,saint_surgeofconfidence,archer_silveredarrows,vampire_feastofessence,art_1,tank_boneyardwarden,flagbearer_hauntingflags,epic_assassin_serialkiller,assassin_undeathmark,rogue_2,warrior_dragonslayers,rogue_nighthunter,necromancer_necronomicon,necromancer_bombasticbones,assassin_arghgility",
-        "nextNodeType": "dungeons_boss_headlesshorseman"
+        "nextNodeType": "dungeons_cult_street"
     }
 ]
