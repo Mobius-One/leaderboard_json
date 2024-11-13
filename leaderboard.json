@@ -54,6 +54,15 @@
         "nextNodeType": "polterheisttownboss"
     },
     {
+        "dungeonRunId": "172565",
+        "completedLevels": "46",
+        "twitchDisplayName": "IAmSandri",
+        "startTime": "2024-11-03 21:58:20",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_spikedbones,bomber_ricochet,armored_undyingdefense,ranged_rangershivers,warrior_silveredblades,epic_monstersblessing,saint_surgeofconfidence,archer_silveredarrows,vampire_feastofessence,art_1,tank_boneyardwarden,flagbearer_hauntingflags,epic_assassin_serialkiller,assassin_undeathmark,rogue_2,warrior_dragonslayers,rogue_nighthunter,necromancer_necronomicon,necromancer_bombasticbones,assassin_arghgility",
+        "nextNodeType": "dungeons_polterheist_swamp"
+    },
+    {
         "dungeonRunId": "172173",
         "completedLevels": "46",
         "twitchDisplayName": "chiquik",
@@ -70,15 +79,6 @@
         "endTime": "2024-10-28 23:57:52",
         "captainBoons": "common_classic_comeback,warrior_silveredblades,epic_wickedaspirations,armored_undyingdefense,saint_surgeofconfidence,art_1,general_ghoulsprint,barbarian_spiritconversion,vampire_lordofthedead,epic_assassin_serialkiller,archer_enchantedammo,warbeast_underworldbeast,melee_hollowup,mage_clone,tank_boneyardwarden,assassin_undeathmark,paladin_holyforce,assassin_arghgility,blob_flesheater,ranged_etherealwounds,general_ghoulhide,bomber_ricochet",
         "nextNodeType": "dungeons_cult_docks"
-    },
-    {
-        "dungeonRunId": "172565",
-        "completedLevels": "45",
-        "twitchDisplayName": "IAmSandri",
-        "startTime": "2024-11-03 21:58:20",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_spikedbones,bomber_ricochet,armored_undyingdefense,ranged_rangershivers,epic_wickedaspirations,warrior_silveredblades,epic_monstersblessing,saint_surgeofconfidence,archer_silveredarrows,vampire_feastofessence,art_1,tank_boneyardwarden,flagbearer_hauntingflags,epic_assassin_serialkiller,assassin_undeathmark,rogue_2,warrior_dragonslayers,rogue_nighthunter,necromancer_necronomicon,necromancer_bombasticbones,assassin_arghgility",
-        "nextNodeType": "dungeons_cult_street"
     },
     {
         "dungeonRunId": "172486",
