@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
-        "dungeonRunId": "172716",
+        "dungeonRunId": "172565",
         "completedLevels": "44",
-        "twitchDisplayName": "Cornl3read",
-        "startTime": "2024-11-04 20:36:11",
-        "endTime": "2024-11-05 16:29:03",
-        "captainBoons": "general_ghoulresilience,melee_hollowup,barbarian_spiritconversion,armored_sanctifiedbones,ranged_etherealwounds,warrior_silveredblades,melee_cursedassimilation,lancer_impalingstakes,archer_soulpenetration,melee_spikedbones,bomber_ricochet,balloonbuster_pinata,ranged_strangergloves,warrior_dragonslayers,assassin_undeathmark,gladiator_war_machine,support_dyingsong,monk_spiritstrike,epic_monstersbrew,paladin_skeletalsquire,epic_wickedaspirations,general_armyofdarkness",
-        "nextNodeType": "dungeons_boss_mansion"
+        "twitchDisplayName": "IAmSandri",
+        "startTime": "2024-11-03 21:58:20",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_spikedbones,bomber_ricochet,armored_undyingdefense,ranged_rangershivers,epic_wickedaspirations,warrior_silveredblades,epic_monstersblessing,saint_surgeofconfidence,archer_silveredarrows,vampire_feastofessence,art_1,tank_boneyardwarden,flagbearer_hauntingflags,epic_assassin_serialkiller,assassin_undeathmark,rogue_2,warrior_dragonslayers,rogue_nighthunter,necromancer_necronomicon,necromancer_bombasticbones,assassin_arghgility",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     }
 ]
