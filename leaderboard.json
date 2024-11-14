@@ -1,39 +1,30 @@
 [
     {
         "dungeonRunId": "172884",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 19:05:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup,spell_empower_highground,lancer_sarissaspears,undead_undeadresilience,necromancer_bombasticbones,epic_elixirofarchery,ranged_damage_2,warrior_swordofruin,musketeer_rapidreload,flying_evasivemaneuvers,monk_spiritstrike,warrior_soldieroffortune,epic_giantsblessing,barbarian_immortal",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup,spell_empower_highground,lancer_sarissaspears,undead_undeadresilience,necromancer_bombasticbones,epic_elixirofarchery,ranged_damage_2,warrior_swordofruin,musketeer_rapidreload,flying_evasivemaneuvers,monk_spiritstrike,warrior_soldieroffortune,epic_giantsblessing,barbarian_immortal,epic_elixirofrage",
+        "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
         "dungeonRunId": "172887",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-14 19:07:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,support_enchantedstaves,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows",
-        "nextNodeType": "beastlandsbug03"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,support_enchantedstaves,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,bomber_dangerzone",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "172895",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2024-11-14 19:27:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,assassin_agility,ranged_damage_2,epic_melee_gloryofvictory,warrior_soldieroffortune,elf_elvenimmortality,epic_epicaspirations,epic_elixirofrage,support_enchantedstaves,epic_ranged_dragonarrows,epic_elixirofdeath,epic_giantsblessing,warbeast_terrifying_presence,epic_elixirofarchery",
-        "nextNodeType": "spaceairlock"
-    },
-    {
-        "dungeonRunId": "172882",
-        "completedLevels": "11",
-        "twitchDisplayName": "ghoulbagel",
-        "startTime": "2024-11-14 19:02:30",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus,spell_empower_highground,epic_elixirofhealth,general_dawnofvictory,epic_armored_armoredgiants,centurion_tactician,undead_undeadresilience,human_humandestiny,epic_elixirofarchery,support_enchantedstaves",
-        "nextNodeType": "crystalcavethrone"
+        "captainBoons": "common_classic_comeback,assassin_agility,ranged_damage_2,epic_melee_gloryofvictory,warrior_soldieroffortune,elf_elvenimmortality,epic_epicaspirations,epic_elixirofrage,support_enchantedstaves,epic_ranged_dragonarrows,epic_elixirofdeath,epic_giantsblessing,warbeast_terrifying_presence,epic_elixirofarchery,general_dawnofvictory",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "172880",
@@ -43,6 +34,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits",
         "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
+        "dungeonRunId": "172882",
+        "completedLevels": "11",
+        "twitchDisplayName": "ghoulbagel",
+        "startTime": "2024-11-14 19:02:30",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus,spell_empower_highground,epic_elixirofhealth,general_dawnofvictory,epic_armored_armoredgiants,centurion_tactician,undead_undeadresilience,human_humandestiny,epic_elixirofarchery,support_enchantedstaves",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "172886",
@@ -58,7 +58,7 @@
         "completedLevels": "8",
         "twitchDisplayName": "JojoGeeker",
         "startTime": "2024-11-14 19:48:06",
-        "endTime": null,
+        "endTime": "2024-11-14 20:46:48",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,ranged_damage_2,tank_guardian,fairy_fireflyconjuration,robot_robotauthority,buster_nanobusters,paladin_layonhands,armored_shieldbash",
         "nextNodeType": "dungeons_boss_toadraiders"
     },
