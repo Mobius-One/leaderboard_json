@@ -5,44 +5,53 @@
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 19:05:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup",
         "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "172886",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "IAmSandri",
         "startTime": "2024-11-14 19:06:11",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_elixirofdeath,support_enchantedstaves,warlock_inferno,saint_exalt",
-        "nextNodeType": "oasisvalley"
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "172887",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-14 19:07:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "172883",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "redspecter23",
         "startTime": "2024-11-14 19:03:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,assassin_agility,gladiator_sonofthunder,epic_ranged_dragonarrows",
-        "nextNodeType": "wildorcs"
+        "captainBoons": "common_classic_comeback,assassin_agility,gladiator_sonofthunder,epic_ranged_dragonarrows,epic_giantsbrewzero",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "172880",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-14 19:01:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory",
-        "nextNodeType": "moboohm"
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage",
+        "nextNodeType": "winterdinos"
+    },
+    {
+        "dungeonRunId": "172888",
+        "completedLevels": "3",
+        "twitchDisplayName": "RedSerious",
+        "startTime": "2024-11-14 19:09:20",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,shinobi_firetechinique,common_specialists",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "172882",
@@ -54,12 +63,21 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "172888",
-        "completedLevels": "2",
-        "twitchDisplayName": "RedSerious",
-        "startTime": "2024-11-14 19:09:20",
+        "dungeonRunId": "172895",
+        "completedLevels": "1",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-11-14 19:27:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,shinobi_firetechinique",
-        "nextNodeType": "crystalcavethrone"
+        "captainBoons": "common_classic_comeback,assassin_agility",
+        "nextNodeType": "wildorcs"
+    },
+    {
+        "dungeonRunId": "172896",
+        "completedLevels": "1",
+        "twitchDisplayName": "Valkyria_d1",
+        "startTime": "2024-11-14 19:27:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback",
+        "nextNodeType": "wildorcs"
     }
 ]
