@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "172880",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-14 19:01:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,spell_empower_highground,bomber_dangerzone",
-        "nextNodeType": "newjunglespore"
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,spell_empower_highground,bomber_dangerzone,epic_giantsblessing",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "172882",
@@ -46,21 +46,21 @@
     },
     {
         "dungeonRunId": "172909",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "kingjerry_4ever",
         "startTime": "2024-11-14 20:47:40",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield,epic_elixirofarchery,ensouled_enragedspirits,archer_soulpenetration,flagbearer_bannerofluck",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield,epic_elixirofarchery,ensouled_enragedspirits,archer_soulpenetration,flagbearer_bannerofluck,epic_giantsblessing",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "172904",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "FleaOnaLeaf",
         "startTime": "2024-11-14 20:20:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment,centurion_tactician,general_dawnofvictory,tank_guardian",
-        "nextNodeType": "moboohm"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment,centurion_tactician,general_dawnofvictory,tank_guardian,epic_elixirofarchery",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "172886",
