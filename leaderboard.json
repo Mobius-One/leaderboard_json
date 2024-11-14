@@ -1,21 +1,21 @@
 [
     {
-        "dungeonRunId": "172887",
-        "completedLevels": "10",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-11-14 19:07:09",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,support_enchantedstaves,spell_empower_highground,epic_elixirofdeath",
-        "nextNodeType": "winterdinos"
-    },
-    {
         "dungeonRunId": "172884",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 19:05:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup,spell_empower_highground,lancer_sarissaspears,undead_undeadresilience,necromancer_bombasticbones,epic_elixirofarchery",
-        "nextNodeType": "beastlandsbug03"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup,spell_empower_highground,lancer_sarissaspears,undead_undeadresilience,necromancer_bombasticbones,epic_elixirofarchery,ranged_damage_2",
+        "nextNodeType": "crucibleboss"
+    },
+    {
+        "dungeonRunId": "172887",
+        "completedLevels": "11",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-11-14 19:07:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,support_enchantedstaves,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "172886",
@@ -23,7 +23,7 @@
         "twitchDisplayName": "IAmSandri",
         "startTime": "2024-11-14 19:06:11",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofdeath,support_enchantedstaves,warlock_inferno,saint_exalt,elf_elvenimmortality,warrior_swordofruin,epic_giantsbrewzero",
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath,support_enchantedstaves,warlock_inferno,saint_exalt,elf_elvenimmortality,warrior_swordofruin,epic_giantsbrewzero,ranged_damage_2",
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
@@ -32,7 +32,7 @@
         "twitchDisplayName": "ghoulbagel",
         "startTime": "2024-11-14 19:02:30",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus,spell_empower_highground,epic_elixirofhealth,general_dawnofvictory,epic_armored_armoredgiants",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus,spell_empower_highground,epic_elixirofhealth,general_dawnofvictory,epic_armored_armoredgiants,centurion_tactician",
         "nextNodeType": "shogunateAmbush"
     },
     {
@@ -41,7 +41,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-14 19:01:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance",
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot",
         "nextNodeType": "spaceairlock"
     },
     {
@@ -77,7 +77,7 @@
         "twitchDisplayName": "Valkyria_d1",
         "startTime": "2024-11-14 19:27:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_tungstenswords,fairy_hocuspocus,lancer_firststrike",
+        "captainBoons": "common_classic_comeback,tank_tungstenswords,fairy_hocuspocus,lancer_firststrike,epic_elixirofhealth",
         "nextNodeType": "moboohm"
     },
     {
@@ -86,7 +86,7 @@
         "twitchDisplayName": "JojoGeeker",
         "startTime": "2024-11-14 19:48:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,ranged_damage_2",
         "nextNodeType": "crystalcavethrone"
     }
 ]
