@@ -4,18 +4,18 @@
         "completedLevels": "25",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 19:05:02",
-        "endTime": null,
+        "endTime": "2024-11-14 21:37:53",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup,spell_empower_highground,lancer_sarissaspears,undead_undeadresilience,necromancer_bombasticbones,epic_elixirofarchery,ranged_damage_2,warrior_swordofruin,musketeer_rapidreload,flying_evasivemaneuvers,monk_spiritstrike,warrior_soldieroffortune,epic_giantsblessing,barbarian_immortal,epic_elixirofrage,ensouled_enragedspirits,ensouled_bravespirits,shinobi_shadowstrike,general_dawnofvictory,amazon_vineclone,epic_elixirofdeath",
         "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "172887",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-14 19:07:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,support_enchantedstaves,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,melee_followup,spell_empower_stronghold",
-        "nextNodeType": "newjunglespore"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,support_enchantedstaves,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,melee_followup,spell_empower_stronghold,flagbearer_bannerofluck",
+        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "172882",
@@ -64,21 +64,21 @@
     },
     {
         "dungeonRunId": "172904",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "FleaOnaLeaf",
         "startTime": "2024-11-14 20:20:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "172909",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "kingjerry_4ever",
         "startTime": "2024-11-14 20:47:40",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno",
-        "nextNodeType": "sportiabasket"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "172896",
