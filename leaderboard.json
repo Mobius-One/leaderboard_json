@@ -1,12 +1,48 @@
 [
     {
         "dungeonRunId": "172884",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 19:05:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality",
-        "nextNodeType": "spaceairlock"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment",
+        "nextNodeType": "elementalwaterstream"
+    },
+    {
+        "dungeonRunId": "172886",
+        "completedLevels": "3",
+        "twitchDisplayName": "IAmSandri",
+        "startTime": "2024-11-14 19:06:11",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath,support_enchantedstaves,warlock_inferno",
+        "nextNodeType": "elementalwaterstream"
+    },
+    {
+        "dungeonRunId": "172887",
+        "completedLevels": "3",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-11-14 19:07:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment",
+        "nextNodeType": "newjunglespore"
+    },
+    {
+        "dungeonRunId": "172883",
+        "completedLevels": "2",
+        "twitchDisplayName": "redspecter23",
+        "startTime": "2024-11-14 19:03:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,assassin_agility,gladiator_sonofthunder",
+        "nextNodeType": "crystalcavethrone"
+    },
+    {
+        "dungeonRunId": "172888",
+        "completedLevels": "2",
+        "twitchDisplayName": "RedSerious",
+        "startTime": "2024-11-14 19:09:20",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,shinobi_firetechinique",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "172880",
@@ -25,41 +61,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "172887",
-        "completedLevels": "2",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-11-14 19:07:09",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "172883",
-        "completedLevels": "2",
-        "twitchDisplayName": "redspecter23",
-        "startTime": "2024-11-14 19:03:52",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,assassin_agility,gladiator_sonofthunder",
-        "nextNodeType": "crystalcavethrone"
-    },
-    {
-        "dungeonRunId": "172886",
-        "completedLevels": "2",
-        "twitchDisplayName": "IAmSandri",
-        "startTime": "2024-11-14 19:06:11",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofdeath,support_enchantedstaves",
-        "nextNodeType": "crystalcavethrone"
-    },
-    {
-        "dungeonRunId": "172888",
-        "completedLevels": "1",
-        "twitchDisplayName": "RedSerious",
-        "startTime": "2024-11-14 19:09:20",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck",
-        "nextNodeType": "spaceairlock"
     }
 ]
