@@ -5,7 +5,7 @@
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-14 19:07:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,support_enchantedstaves,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,melee_followup,spell_empower_stronghold,flagbearer_bannerofluck,captain_fragile_commander,blob_parasite,epic_elixirofarchery,fairy_hocuspocus",
+        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,melee_followup,spell_empower_stronghold,flagbearer_bannerofluck,captain_fragile_commander,blob_parasite,epic_elixirofarchery,fairy_hocuspocus",
         "nextNodeType": "moboohm"
     },
     {
@@ -23,7 +23,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-14 19:01:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,spell_empower_highground",
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,spell_empower_highground,bomber_dangerzone",
         "nextNodeType": "newjunglespore"
     },
     {
@@ -46,21 +46,21 @@
     },
     {
         "dungeonRunId": "172909",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "kingjerry_4ever",
         "startTime": "2024-11-14 20:47:40",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield,epic_elixirofarchery,ensouled_enragedspirits,archer_soulpenetration",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield,epic_elixirofarchery,ensouled_enragedspirits,archer_soulpenetration,flagbearer_bannerofluck",
+        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "172904",
-        "completedLevels": "11",
+        "completedLevels": "12",
         "twitchDisplayName": "FleaOnaLeaf",
         "startTime": "2024-11-14 20:20:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment,centurion_tactician,general_dawnofvictory",
-        "nextNodeType": "crystalcavethrone"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment,centurion_tactician,general_dawnofvictory,tank_guardian",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "172886",
@@ -72,21 +72,21 @@
         "nextNodeType": "sportiabasket"
     },
     {
-        "dungeonRunId": "172901",
-        "completedLevels": "8",
+        "dungeonRunId": "172915",
+        "completedLevels": "9",
         "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-11-14 19:48:06",
-        "endTime": "2024-11-14 20:46:48",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,ranged_damage_2,tank_guardian,fairy_fireflyconjuration,robot_robotauthority,buster_nanobusters,paladin_layonhands,armored_shieldbash",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "startTime": "2024-11-14 21:21:11",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain,ensouled_fatedspirits,blob_parasite,ranged_rangergloves,robot_robotauthority,epic_melee_gloryofvictory,musketeer_rapidreload,ensouled_enragedspirits,buster_nanobusters",
+        "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "172914",
+        "dungeonRunId": "172912",
         "completedLevels": "6",
-        "twitchDisplayName": "SquishyMamaBear",
-        "startTime": "2024-11-14 21:13:11",
+        "twitchDisplayName": "Valkyria_d1",
+        "startTime": "2024-11-14 21:01:07",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofarchery,flying_evasivemaneuvers,artillery_machine_gun,paladin_layonhands,frogue_preparation,epic_melee_gloryofvictory",
-        "nextNodeType": "sportiabasket"
+        "captainBoons": "common_classic_comeback,melee_charge,robot_robotauthority,berserker_killing_spree,epic_elixirofrage,frogue_preparation,archer_soulpenetration",
+        "nextNodeType": "oasisvalley"
     }
 ]
