@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172884",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 19:05:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup,spell_empower_highground,lancer_sarissaspears,undead_undeadresilience,necromancer_bombasticbones,epic_elixirofarchery,ranged_damage_2,warrior_swordofruin,musketeer_rapidreload,flying_evasivemaneuvers,monk_spiritstrike,warrior_soldieroffortune,epic_giantsblessing,barbarian_immortal,epic_elixirofrage,ensouled_enragedspirits,ensouled_bravespirits",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup,spell_empower_highground,lancer_sarissaspears,undead_undeadresilience,necromancer_bombasticbones,epic_elixirofarchery,ranged_damage_2,warrior_swordofruin,musketeer_rapidreload,flying_evasivemaneuvers,monk_spiritstrike,warrior_soldieroffortune,epic_giantsblessing,barbarian_immortal,epic_elixirofrage,ensouled_enragedspirits,ensouled_bravespirits,shinobi_shadowstrike",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "172887",
@@ -27,22 +27,22 @@
         "nextNodeType": "skyportals"
     },
     {
-        "dungeonRunId": "172882",
-        "completedLevels": "13",
-        "twitchDisplayName": "ghoulbagel",
-        "startTime": "2024-11-14 19:02:30",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus,spell_empower_highground,epic_elixirofhealth,general_dawnofvictory,epic_armored_armoredgiants,centurion_tactician,undead_undeadresilience,human_humandestiny,epic_elixirofarchery,support_enchantedstaves,warlock_inferno,healer_combatmedic",
-        "nextNodeType": "beastlandsbug03"
-    },
-    {
         "dungeonRunId": "172880",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-14 19:01:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat",
-        "nextNodeType": "wildorcs"
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
+        "dungeonRunId": "172882",
+        "completedLevels": "14",
+        "twitchDisplayName": "ghoulbagel",
+        "startTime": "2024-11-14 19:02:30",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus,spell_empower_highground,epic_elixirofhealth,general_dawnofvictory,epic_armored_armoredgiants,centurion_tactician,undead_undeadresilience,human_humandestiny,epic_elixirofarchery,support_enchantedstaves,warlock_inferno,healer_combatmedic,ranged_damage_2",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "172886",
@@ -72,15 +72,6 @@
         "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
-        "dungeonRunId": "172888",
-        "completedLevels": "4",
-        "twitchDisplayName": "RedSerious",
-        "startTime": "2024-11-14 19:09:20",
-        "endTime": "2024-11-14 19:45:31",
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,shinobi_firetechinique,common_specialists,melee_charge",
-        "nextNodeType": "elementalwaterstream"
-    },
-    {
         "dungeonRunId": "172904",
         "completedLevels": "4",
         "twitchDisplayName": "FleaOnaLeaf",
@@ -88,5 +79,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic",
         "nextNodeType": "winterdinos"
+    },
+    {
+        "dungeonRunId": "172888",
+        "completedLevels": "4",
+        "twitchDisplayName": "RedSerious",
+        "startTime": "2024-11-14 19:09:20",
+        "endTime": "2024-11-14 19:45:31",
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,shinobi_firetechinique,common_specialists,melee_charge",
+        "nextNodeType": "elementalwaterstream"
     }
 ]
