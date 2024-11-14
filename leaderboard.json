@@ -1,39 +1,57 @@
 [
     {
         "dungeonRunId": "172884",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 19:05:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment",
-        "nextNodeType": "elementalwaterstream"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "172886",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "IAmSandri",
         "startTime": "2024-11-14 19:06:11",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofdeath,support_enchantedstaves,warlock_inferno",
-        "nextNodeType": "elementalwaterstream"
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath,support_enchantedstaves,warlock_inferno,saint_exalt",
+        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "172887",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-14 19:07:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment",
-        "nextNodeType": "newjunglespore"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt",
+        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "172883",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "redspecter23",
         "startTime": "2024-11-14 19:03:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,assassin_agility,gladiator_sonofthunder",
-        "nextNodeType": "crystalcavethrone"
+        "captainBoons": "common_classic_comeback,assassin_agility,gladiator_sonofthunder,epic_ranged_dragonarrows",
+        "nextNodeType": "wildorcs"
+    },
+    {
+        "dungeonRunId": "172880",
+        "completedLevels": "3",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-11-14 19:01:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory",
+        "nextNodeType": "moboohm"
+    },
+    {
+        "dungeonRunId": "172882",
+        "completedLevels": "3",
+        "twitchDisplayName": "ghoulbagel",
+        "startTime": "2024-11-14 19:02:30",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus,spell_empower_highground",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "172888",
@@ -43,23 +61,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,shinobi_firetechinique",
         "nextNodeType": "crystalcavethrone"
-    },
-    {
-        "dungeonRunId": "172880",
-        "completedLevels": "2",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-11-14 19:01:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder",
-        "nextNodeType": "dungeons_boss_toadraiders"
-    },
-    {
-        "dungeonRunId": "172882",
-        "completedLevels": "2",
-        "twitchDisplayName": "ghoulbagel",
-        "startTime": "2024-11-14 19:02:30",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus",
-        "nextNodeType": "dungeons_boss_firerocks"
     }
 ]
