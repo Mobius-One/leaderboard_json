@@ -45,21 +45,21 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
-        "dungeonRunId": "172565",
-        "completedLevels": "47",
-        "twitchDisplayName": "IAmSandri",
-        "startTime": "2024-11-03 21:58:20",
-        "endTime": "2024-11-13 01:19:12",
-        "captainBoons": "common_classic_comeback,melee_spikedbones,bomber_ricochet,armored_undyingdefense,ranged_rangershivers,warrior_silveredblades,epic_monstersblessing,saint_surgeofconfidence,archer_silveredarrows,vampire_feastofessence,art_1,tank_boneyardwarden,flagbearer_hauntingflags,epic_assassin_serialkiller,assassin_undeathmark,rogue_2,warrior_dragonslayers,rogue_nighthunter,necromancer_necronomicon,necromancer_bombasticbones,assassin_arghgility",
-        "nextNodeType": "polterheisttownboss"
-    },
-    {
         "dungeonRunId": "171388",
         "completedLevels": "47",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-10-26 18:40:27",
         "endTime": "2024-10-27 00:36:44",
         "captainBoons": "common_classic_comeback,ranged_strangergloves,lancer_firststrike,warrior_silveredblades,bomber_ricochet,saint_skeletondance,armored_undyingdefense,epic_monstersblessing,epic_assassin_serialkiller,flagbearer_hauntingflags,gladiator_war_machine,archer_silveredarrows,saint_surgeofconfidence,leader_undyingconscription,epic_monstersbrew,assassin_undeathmark,phantom_thehaunting,melee_spikedbones,necromancer_necronomicon,necromancer_bombasticbones,blob_ectoplasmic",
+        "nextNodeType": "polterheisttownboss"
+    },
+    {
+        "dungeonRunId": "172565",
+        "completedLevels": "47",
+        "twitchDisplayName": "IAmSandri",
+        "startTime": "2024-11-03 21:58:20",
+        "endTime": "2024-11-13 01:19:12",
+        "captainBoons": "common_classic_comeback,melee_spikedbones,bomber_ricochet,armored_undyingdefense,ranged_rangershivers,warrior_silveredblades,epic_monstersblessing,saint_surgeofconfidence,archer_silveredarrows,vampire_feastofessence,art_1,tank_boneyardwarden,flagbearer_hauntingflags,epic_assassin_serialkiller,assassin_undeathmark,rogue_2,warrior_dragonslayers,rogue_nighthunter,necromancer_necronomicon,necromancer_bombasticbones,assassin_arghgility",
         "nextNodeType": "polterheisttownboss"
     },
     {
