@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172887",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-14 19:07:09",
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,melee_followup,spell_empower_stronghold,flagbearer_bannerofluck,captain_fragile_commander,blob_parasite,epic_elixirofarchery,fairy_hocuspocus",
-        "nextNodeType": "moboohm"
+        "nextNodeType": "elementalwaterstream"
     },
     {
         "dungeonRunId": "172884",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "172912",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "Valkyria_d1",
         "startTime": "2024-11-14 21:01:07",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_charge,robot_robotauthority,berserker_killing_spree,epic_elixirofrage,frogue_preparation,archer_soulpenetration",
-        "nextNodeType": "oasisvalley"
+        "nextNodeType": "wildorcs"
     }
 ]
