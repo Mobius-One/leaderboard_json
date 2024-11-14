@@ -23,7 +23,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-14 19:01:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,spell_empower_highground,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin",
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,spell_empower_highground,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin,musketeer_rapidreload",
         "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
@@ -45,6 +45,15 @@
         "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
+        "dungeonRunId": "172904",
+        "completedLevels": "16",
+        "twitchDisplayName": "FleaOnaLeaf",
+        "startTime": "2024-11-14 20:20:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment,centurion_tactician,general_dawnofvictory,tank_guardian,epic_elixirofarchery,shinobi_firetechinique,rogue_shadowcloak,warrior_soldieroffortune",
+        "nextNodeType": "oasisvalley"
+    },
+    {
         "dungeonRunId": "172895",
         "completedLevels": "15",
         "twitchDisplayName": "Panthergal2018",
@@ -52,15 +61,6 @@
         "endTime": "2024-11-14 20:57:34",
         "captainBoons": "common_classic_comeback,assassin_agility,ranged_damage_2,epic_melee_gloryofvictory,warrior_soldieroffortune,elf_elvenimmortality,epic_epicaspirations,epic_elixirofrage,support_enchantedstaves,epic_ranged_dragonarrows,epic_elixirofdeath,epic_giantsblessing,warbeast_terrifying_presence,epic_elixirofarchery,general_dawnofvictory,tank_guardian",
         "nextNodeType": "skyportals"
-    },
-    {
-        "dungeonRunId": "172904",
-        "completedLevels": "15",
-        "twitchDisplayName": "FleaOnaLeaf",
-        "startTime": "2024-11-14 20:20:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment,centurion_tactician,general_dawnofvictory,tank_guardian,epic_elixirofarchery,shinobi_firetechinique,rogue_shadowcloak",
-        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "172886",
@@ -81,12 +81,12 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "172923",
-        "completedLevels": "7",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-11-14 22:08:20",
+        "dungeonRunId": "172912",
+        "completedLevels": "8",
+        "twitchDisplayName": "Valkyria_d1",
+        "startTime": "2024-11-14 21:01:07",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_doomingsong,epic_giantsblessing,epic_ranged_dragonarrows,epic_giantsbrewzero,robot_robotauthority,bomber_bombardment,berserker_rancor",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,melee_charge,robot_robotauthority,berserker_killing_spree,epic_elixirofrage,frogue_preparation,archer_soulpenetration,lancer_sarissaspears",
+        "nextNodeType": "dungeons_boss_toadraiders"
     }
 ]
