@@ -1,12 +1,30 @@
 [
     {
         "dungeonRunId": "172884",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 19:05:02",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone",
-        "nextNodeType": "newjunglespore"
+        "nextNodeType": "crystalcavethrone"
+    },
+    {
+        "dungeonRunId": "172883",
+        "completedLevels": "1",
+        "twitchDisplayName": "redspecter23",
+        "startTime": "2024-11-14 19:03:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,assassin_agility",
+        "nextNodeType": "plaguegrotto"
+    },
+    {
+        "dungeonRunId": "172886",
+        "completedLevels": "1",
+        "twitchDisplayName": "IAmSandri",
+        "startTime": "2024-11-14 19:06:11",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "172880",
@@ -14,7 +32,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-14 19:01:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback",
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth",
         "nextNodeType": "sportiabasket"
     },
     {
@@ -23,7 +41,16 @@
         "twitchDisplayName": "ghoulbagel",
         "startTime": "2024-11-14 19:02:30",
         "endTime": null,
-        "captainBoons": "common_classic_comeback",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune",
         "nextNodeType": "spaceairlock"
+    },
+    {
+        "dungeonRunId": "172887",
+        "completedLevels": "1",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-11-14 19:07:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_ignorepain",
+        "nextNodeType": "frontiercavalry"
     }
 ]
