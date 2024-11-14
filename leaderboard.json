@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "172880",
-        "completedLevels": "26",
+        "completedLevels": "27",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-14 19:01:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,spell_empower_highground,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin,musketeer_rapidreload,frogue_preparation",
-        "nextNodeType": "crucibleboss"
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,spell_empower_highground,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin,musketeer_rapidreload,frogue_preparation,epic_epicaspirations",
+        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "172884",
@@ -86,7 +86,7 @@
         "twitchDisplayName": "Valkyria_d1",
         "startTime": "2024-11-14 21:01:07",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,robot_robotauthority,berserker_killing_spree,epic_elixirofrage,frogue_preparation,archer_soulpenetration,lancer_sarissaspears",
+        "captainBoons": "common_classic_comeback,melee_charge,robot_robotauthority,berserker_killing_spree,epic_elixirofrage,frogue_preparation,archer_soulpenetration,lancer_sarissaspears,ensouled_fatedspirits",
         "nextNodeType": "dungeons_boss_toadraiders"
     }
 ]
