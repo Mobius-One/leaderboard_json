@@ -45,6 +45,24 @@
         "nextNodeType": "skyportals"
     },
     {
+        "dungeonRunId": "172904",
+        "completedLevels": "10",
+        "twitchDisplayName": "FleaOnaLeaf",
+        "startTime": "2024-11-14 20:20:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment,centurion_tactician",
+        "nextNodeType": "olympiadgodgroupFullEF"
+    },
+    {
+        "dungeonRunId": "172909",
+        "completedLevels": "10",
+        "twitchDisplayName": "kingjerry_4ever",
+        "startTime": "2024-11-14 20:47:40",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield",
+        "nextNodeType": "skyportals"
+    },
+    {
         "dungeonRunId": "172886",
         "completedLevels": "10",
         "twitchDisplayName": "IAmSandri",
@@ -52,24 +70,6 @@
         "endTime": "2024-11-14 20:33:36",
         "captainBoons": "common_classic_comeback,epic_elixirofdeath,support_enchantedstaves,warlock_inferno,saint_exalt,elf_elvenimmortality,warrior_swordofruin,epic_giantsbrewzero,ranged_damage_2,blob_parasite,lancer_sarissaspears",
         "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "172904",
-        "completedLevels": "9",
-        "twitchDisplayName": "FleaOnaLeaf",
-        "startTime": "2024-11-14 20:20:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment",
-        "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "172909",
-        "completedLevels": "9",
-        "twitchDisplayName": "kingjerry_4ever",
-        "startTime": "2024-11-14 20:47:40",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield",
-        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "172901",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "172914",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "SquishyMamaBear",
         "startTime": "2024-11-14 21:13:11",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofarchery,flying_evasivemaneuvers,artillery_machine_gun,paladin_layonhands,frogue_preparation",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "captainBoons": "common_classic_comeback,epic_elixirofarchery,flying_evasivemaneuvers,artillery_machine_gun,paladin_layonhands,frogue_preparation,epic_melee_gloryofvictory",
+        "nextNodeType": "sportiabasket"
     }
 ]
