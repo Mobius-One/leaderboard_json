@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172884",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 19:05:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup,spell_empower_highground,lancer_sarissaspears,undead_undeadresilience,necromancer_bombasticbones,epic_elixirofarchery,ranged_damage_2,warrior_swordofruin,musketeer_rapidreload,flying_evasivemaneuvers,monk_spiritstrike",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,berserker_rancor,melee_followup,spell_empower_highground,lancer_sarissaspears,undead_undeadresilience,necromancer_bombasticbones,epic_elixirofarchery,ranged_damage_2,warrior_swordofruin,musketeer_rapidreload,flying_evasivemaneuvers,monk_spiritstrike,warrior_soldieroffortune",
+        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "172887",
@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "172895",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2024-11-14 19:27:17",
         "endTime": null,
         "captainBoons": "common_classic_comeback,assassin_agility,ranged_damage_2,epic_melee_gloryofvictory,warrior_soldieroffortune,elf_elvenimmortality,epic_epicaspirations,epic_elixirofrage,support_enchantedstaves,epic_ranged_dragonarrows,epic_elixirofdeath",
-        "nextNodeType": "oasisvalley"
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "172883",
@@ -45,6 +45,15 @@
         "nextNodeType": "sportiabasket"
     },
     {
+        "dungeonRunId": "172880",
+        "completedLevels": "10",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-11-14 19:01:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration",
+        "nextNodeType": "beastlandsbug03"
+    },
+    {
         "dungeonRunId": "172882",
         "completedLevels": "9",
         "twitchDisplayName": "ghoulbagel",
@@ -54,13 +63,13 @@
         "nextNodeType": "raidhallapath"
     },
     {
-        "dungeonRunId": "172880",
-        "completedLevels": "9",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-11-14 19:01:58",
+        "dungeonRunId": "172901",
+        "completedLevels": "6",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-11-14 19:48:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration",
-        "nextNodeType": "olympiadgodgroupFullEF"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,ranged_damage_2,tank_guardian,fairy_fireflyconjuration,robot_robotauthority,buster_nanobusters",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "172896",
@@ -68,17 +77,8 @@
         "twitchDisplayName": "Valkyria_d1",
         "startTime": "2024-11-14 19:27:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_tungstenswords,fairy_hocuspocus,lancer_firststrike,epic_elixirofhealth",
+        "captainBoons": "common_classic_comeback,tank_tungstenswords,fairy_hocuspocus,lancer_firststrike,epic_elixirofhealth,armored_shieldbash",
         "nextNodeType": "dungeons_boss_toadraiders"
-    },
-    {
-        "dungeonRunId": "172901",
-        "completedLevels": "5",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-11-14 19:48:06",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,ranged_damage_2,tank_guardian,fairy_fireflyconjuration,robot_robotauthority",
-        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "172888",
