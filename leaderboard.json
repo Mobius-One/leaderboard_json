@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172887",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-14 19:07:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,support_enchantedstaves,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,melee_followup,spell_empower_stronghold,flagbearer_bannerofluck,captain_fragile_commander,blob_parasite",
-        "nextNodeType": "sportiabasket"
+        "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,epic_giantsblessing,templar_beaconofhope,warrior_soldieroffortune,support_enchantedstaves,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,melee_followup,spell_empower_stronghold,flagbearer_bannerofluck,captain_fragile_commander,blob_parasite,epic_elixirofarchery",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "172884",
@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "172880",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-14 19:01:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,ensouled_fatedspirits,common_specialists,gladiator_browbeat,musketeer_grapeshot,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "172882",
@@ -59,7 +59,7 @@
         "twitchDisplayName": "kingjerry_4ever",
         "startTime": "2024-11-14 20:47:40",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield",
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield,epic_elixirofarchery",
         "nextNodeType": "skyportals"
     },
     {
