@@ -27,6 +27,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "173001",
+        "completedLevels": "47",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-11-15 11:56:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,vampire_aerial_fiend,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,centurion_tactician,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone,spell_empower_aegis",
+        "nextNodeType": "dungeons_boss_toadraiders"
+    },
+    {
         "dungeonRunId": "172990",
         "completedLevels": "46",
         "twitchDisplayName": "ImmerBock",
@@ -34,15 +43,6 @@
         "endTime": "2024-11-15 14:58:53",
         "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,epic_armored_armoredgiants,epic_elixirofresistance,rogue_shadowcloak,epic_giantsbrewzero,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,epic_elixirofarchery",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "173001",
-        "completedLevels": "46",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-11-15 11:56:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,vampire_aerial_fiend,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,centurion_tactician,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone,spell_empower_aegis",
-        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "173002",
