@@ -27,6 +27,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "172990",
+        "completedLevels": "39",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-11-15 08:56:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,healer_combatmedic,epic_elixirofarchery",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "172917",
         "completedLevels": "38",
         "twitchDisplayName": "ThaTrueBeast",
@@ -34,15 +43,6 @@
         "endTime": "2024-11-15 02:06:48",
         "captainBoons": "common_classic_comeback,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,mage_darkmagic,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "172990",
-        "completedLevels": "38",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-11-15 08:56:06",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,healer_combatmedic,epic_elixirofarchery",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "172880",
