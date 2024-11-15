@@ -54,6 +54,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "173026",
+        "completedLevels": "45",
+        "twitchDisplayName": "hyros_",
+        "startTime": "2024-11-15 16:22:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_giantsblessing,necromancer_bombasticbones,musketeer_grapeshot,amazon_vineclone,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,assassin_disappearingact,berserker_killing_spree,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone",
+        "nextNodeType": "frontiercavalry"
+    },
+    {
         "dungeonRunId": "173002",
         "completedLevels": "45",
         "twitchDisplayName": "Carlos_235",
@@ -61,15 +70,6 @@
         "endTime": "2024-11-15 17:51:40",
         "captainBoons": "epic_elixirofdeath,assassin_disappearingact,ensouled_heroicspirits,musketeer_rapidreload,ranged_damage_2,ensouled_bravespirits,armored_ignorepain,epic_giantsbrewzero,ensouled_enragedspirits,epic_melee_gloryofvictory,phantom_thehaunting,common_specialists,general_dawnofvictory,epic_armored_armoredgiants,warrior_soldieroffortune,melee_followup,orcs_building_rage,epic_elixirofrage,epic_giantsblessing,monk_spiritstrike,lancer_sarissaspears,gladiator_sonofthunder",
         "nextNodeType": "frontiercavalry"
-    },
-    {
-        "dungeonRunId": "173026",
-        "completedLevels": "44",
-        "twitchDisplayName": "hyros_",
-        "startTime": "2024-11-15 16:22:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_giantsblessing,necromancer_bombasticbones,musketeer_grapeshot,amazon_vineclone,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,assassin_disappearingact,berserker_killing_spree,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone",
-        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "173036",
