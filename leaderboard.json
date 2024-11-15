@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
-        "dungeonRunId": "172971",
-        "completedLevels": "26",
-        "twitchDisplayName": "5mokeGhost",
-        "startTime": "2024-11-15 03:59:58",
-        "endTime": "2024-11-15 07:24:43",
-        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike,epic_elixirofrage,frogue_preparation,archer_soulpenetration,musketeer_rapidreload,ensouled_enragedspirits",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "dungeonRunId": "173011",
+        "completedLevels": "27",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-11-15 14:52:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_sneakattack,ensouled_enragedspirits,necromancer_bombasticbones,lancer_sarissaspears,musketeer_grapeshot,healer_dreamy_wardens,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,elf_elvenimmortality,archer_soulpenetration,gladiator_browbeat,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,ensouled_fatedspirits,epic_armored_armoredgiants,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,barbarian_immortal",
+        "nextNodeType": "raidhallapath"
     }
 ]
