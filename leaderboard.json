@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172928",
-        "completedLevels": "50",
+        "completedLevels": "51",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-14 22:41:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_grapeshot,bomber_bombardment,artillery_machine_gun,armored_ignorepain,berserker_rancor,berserker_killing_spree,epic_giantsbrewzero,epic_melee_gloryofvictory,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,shinobi_firetechinique,archer_soulpenetration,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "172887",
@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "172930",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-11-14 22:56:37",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,melee_followup,amazon_vineclone,epic_elixirofrage,robot_robotauthority,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,fairy_fireflyconjuration,elf_elvenimmortality,spell_empower_highground,saint_exalt,general_dawnofvictory,buster_nanobusters,epic_giantsbrewzero,fairy_hocuspocus,bomber_bombardment,melee_charge,epic_armored_armoredgiants,bomber_dangerzone,ensouled_fatedspirits,warrior_soldieroffortune,armored_shieldbash",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "172909",
@@ -63,15 +63,6 @@
         "nextNodeType": "beastlandsbug03"
     },
     {
-        "dungeonRunId": "172936",
-        "completedLevels": "20",
-        "twitchDisplayName": "Valkyria_d1",
-        "startTime": "2024-11-14 23:25:57",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,support_doomingsong,ensouled_fatedspirits,epic_melee_gloryofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_bombardment,epic_elixirofarchery,flying_evasivemaneuvers,warbeast_terrifying_presence,flyingrogue_aggravate,ensouled_enragedspirits,human_humandestiny,lancer_sarissaspears,shinobi_firetechinique,healer_dreamy_wardens,epic_giantsbrewzero,frogue_preparation,shinobi_lastninja,paladin_layonhands,undead_undeadresilience",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
         "dungeonRunId": "172904",
         "completedLevels": "20",
         "twitchDisplayName": "FleaOnaLeaf",
@@ -79,6 +70,15 @@
         "endTime": "2024-11-14 23:56:25",
         "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment,centurion_tactician,general_dawnofvictory,tank_guardian,epic_elixirofarchery,shinobi_firetechinique,rogue_shadowcloak,warrior_soldieroffortune,epic_giantsblessing,archer_soulpenetration,fairy_fireflyconjuration,undead_undeadresilience",
         "nextNodeType": "crystalcavethrone"
+    },
+    {
+        "dungeonRunId": "172936",
+        "completedLevels": "20",
+        "twitchDisplayName": "Valkyria_d1",
+        "startTime": "2024-11-14 23:25:57",
+        "endTime": "2024-11-15 03:00:23",
+        "captainBoons": "common_classic_comeback,support_doomingsong,ensouled_fatedspirits,epic_melee_gloryofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_bombardment,epic_elixirofarchery,flying_evasivemaneuvers,warbeast_terrifying_presence,flyingrogue_aggravate,ensouled_enragedspirits,human_humandestiny,lancer_sarissaspears,shinobi_firetechinique,healer_dreamy_wardens,epic_giantsbrewzero,frogue_preparation,shinobi_lastninja,paladin_layonhands,undead_undeadresilience",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "172882",
