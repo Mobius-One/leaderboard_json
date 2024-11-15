@@ -54,6 +54,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "172993",
+        "completedLevels": "32",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-11-15 10:34:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,captain_fragile_commander,bomber_dangerzone,assassin_disappearingact,barbarian_immortal,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,centurion_tactician,robot_robotauthority,berserker_rancor,ensouled_enragedspirits,ensouled_heroicspirits,saint_exalt,elf_elvenimmortality,shinobi_lastninja,shinobi_shadowstrike,musketeer_grapeshot,common_specialists,healer_combatmedic,ensouled_fatedspirits,monk_spiritstrike,armored_ignorepain,epic_giantsblessing,spell_empower_highground,fairy_fireflyconjuration,melee_followup",
+        "nextNodeType": "crucibleboss"
+    },
+    {
         "dungeonRunId": "172909",
         "completedLevels": "31",
         "twitchDisplayName": "kingjerry_4ever",
@@ -61,15 +70,6 @@
         "endTime": "2024-11-15 00:58:01",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield,epic_elixirofarchery,ensouled_enragedspirits,archer_soulpenetration,flagbearer_bannerofluck,epic_giantsblessing,buster_nanobusters,warrior_soldieroffortune,captain_fragile_commander,fairy_fireflyconjuration,frogue_preparation,ensouled_heroicspirits,lancer_sarissaspears,melee_followup,ensouled_bravespirits,centurion_tactician,shinobi_firetechinique,phantom_thehaunting,flyingrogue_aggravate,fairy_hocuspocus",
         "nextNodeType": "olympiadgodgroupFullEF"
-    },
-    {
-        "dungeonRunId": "172993",
-        "completedLevels": "31",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-11-15 10:34:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,captain_fragile_commander,templar_beaconofhope,bomber_dangerzone,assassin_disappearingact,barbarian_immortal,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,centurion_tactician,robot_robotauthority,berserker_rancor,ensouled_enragedspirits,ensouled_heroicspirits,saint_exalt,elf_elvenimmortality,shinobi_lastninja,shinobi_shadowstrike,musketeer_grapeshot,common_specialists,healer_combatmedic,ensouled_fatedspirits,monk_spiritstrike,armored_ignorepain,epic_giantsblessing,spell_empower_highground,fairy_fireflyconjuration,melee_followup",
-        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "172971",
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "172992",
+        "dungeonRunId": "172939",
         "completedLevels": "22",
-        "twitchDisplayName": "hyros_",
-        "startTime": "2024-11-15 10:08:18",
-        "endTime": "2024-11-15 12:48:34",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,spell_empower_aegis,monk_spiritstrike,armored_ignorepain,gladiator_sonofthunder,templar_beaconofhope,saint_exalt,general_dawnofvictory,archer_soulpenetration,lancer_sarissaspears,ranged_damage_2,saint_skeletondance,bomber_dangerzone,ensouled_fatedspirits,barbarian_immortal,ranged_rangergloves,musketeer_grapeshot,healer_dreamy_wardens,shinobi_shadowstrike,epic_giantsblessing,warbeast_terrifying_presence,epic_giantsbrewzero",
-        "nextNodeType": "sportiabasket"
+        "twitchDisplayName": "FleaOnaLeaf",
+        "startTime": "2024-11-14 23:57:11",
+        "endTime": "2024-11-15 03:40:12",
+        "captainBoons": "common_classic_comeback,rogue_sneakattack,shinobi_firetechinique,epic_armored_armoredgiants,monk_stoptheflow,gladiator_sonofthunder,berserker_killing_spree,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,elf_elvenimmortality,tank_guardian,epic_elixirofarchery,musketeer_grapeshot,human_humandestiny,vampire_darkwings,robot_robotauthority,flag_1,epic_giantsbrewzero,assassin_disappearingact,common_specialists,healer_combatmedic",
+        "nextNodeType": "shogunateAmbush"
     }
 ]
