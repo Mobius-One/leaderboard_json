@@ -45,6 +45,15 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
+        "dungeonRunId": "173026",
+        "completedLevels": "46",
+        "twitchDisplayName": "hyros_",
+        "startTime": "2024-11-15 16:22:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_giantsblessing,necromancer_bombasticbones,musketeer_grapeshot,amazon_vineclone,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,assassin_disappearingact,berserker_killing_spree,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone",
+        "nextNodeType": "plaguegrotto"
+    },
+    {
         "dungeonRunId": "172990",
         "completedLevels": "46",
         "twitchDisplayName": "ImmerBock",
@@ -52,15 +61,6 @@
         "endTime": "2024-11-15 14:58:53",
         "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,epic_armored_armoredgiants,epic_elixirofresistance,rogue_shadowcloak,epic_giantsbrewzero,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,epic_elixirofarchery",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "173026",
-        "completedLevels": "45",
-        "twitchDisplayName": "hyros_",
-        "startTime": "2024-11-15 16:22:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_giantsblessing,necromancer_bombasticbones,musketeer_grapeshot,amazon_vineclone,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,assassin_disappearingact,berserker_killing_spree,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone",
-        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "173002",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "173036",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "JojoGeeker",
         "startTime": "2024-11-15 17:01:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,assassin_disappearingact,epic_ranged_dragonarrows,musketeer_grapeshot,ensouled_bravespirits,armored_ignorepain,epic_giantsblessing,human_humandestiny,general_dawnofvictory,warrior_swordofruin,saint_exalt,ensouled_enragedspirits,blob_parasite,epic_elixirofhealth,ensouled_fatedspirits,berserker_rancor,undead_undeadresilience,epic_epicaspirations,epic_elixirofdeath,ranged_damage_2,mage_darkmagic,epic_armored_armoredgiants,epic_elixirofarchery",
-        "nextNodeType": "crucibleboss"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,assassin_disappearingact,epic_ranged_dragonarrows,musketeer_grapeshot,ensouled_bravespirits,armored_ignorepain,epic_giantsblessing,human_humandestiny,general_dawnofvictory,warrior_swordofruin,saint_exalt,ensouled_enragedspirits,blob_parasite,epic_elixirofhealth,ensouled_fatedspirits,undead_undeadresilience,epic_epicaspirations,epic_elixirofdeath,ranged_damage_2,mage_darkmagic,epic_armored_armoredgiants,epic_elixirofarchery",
+        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "172917",
