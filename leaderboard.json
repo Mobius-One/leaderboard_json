@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "172971",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "5mokeGhost",
         "startTime": "2024-11-15 03:59:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike,epic_elixirofrage,frogue_preparation,archer_soulpenetration",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike,epic_elixirofrage,frogue_preparation,archer_soulpenetration,musketeer_rapidreload",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "172969",
