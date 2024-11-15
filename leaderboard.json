@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "172928",
-        "completedLevels": "42",
+        "completedLevels": "43",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-14 22:41:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_grapeshot,bomber_bombardment,artillery_machine_gun,armored_ignorepain,berserker_rancor,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
-        "nextNodeType": "winterdinos"
+        "nextNodeType": "elementalwaterstream"
     },
     {
         "dungeonRunId": "172917",
@@ -72,6 +72,15 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
+        "dungeonRunId": "172936",
+        "completedLevels": "18",
+        "twitchDisplayName": "Valkyria_d1",
+        "startTime": "2024-11-14 23:25:57",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_doomingsong,ensouled_fatedspirits,epic_melee_gloryofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_bombardment,epic_elixirofarchery,flying_evasivemaneuvers,warbeast_terrifying_presence,flyingrogue_aggravate,ensouled_enragedspirits,human_humandestiny,lancer_sarissaspears,shinobi_firetechinique,healer_dreamy_wardens,epic_giantsbrewzero,frogue_preparation",
+        "nextNodeType": "plaguegrotto"
+    },
+    {
         "dungeonRunId": "172882",
         "completedLevels": "18",
         "twitchDisplayName": "ghoulbagel",
@@ -79,14 +88,5 @@
         "endTime": "2024-11-14 21:52:11",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,fairy_hocuspocus,spell_empower_highground,epic_elixirofhealth,general_dawnofvictory,epic_armored_armoredgiants,centurion_tactician,undead_undeadresilience,human_humandestiny,epic_elixirofarchery,support_enchantedstaves,warlock_inferno,healer_combatmedic,ranged_damage_2,buster_nanobusters,vampire_darkwings,captain_fragile_commander,monk_spiritstrike",
         "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "172936",
-        "completedLevels": "17",
-        "twitchDisplayName": "Valkyria_d1",
-        "startTime": "2024-11-14 23:25:57",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,support_doomingsong,ensouled_fatedspirits,epic_melee_gloryofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_bombardment,epic_elixirofarchery,flying_evasivemaneuvers,warbeast_terrifying_presence,flyingrogue_aggravate,ensouled_enragedspirits,human_humandestiny,lancer_sarissaspears,shinobi_firetechinique,healer_dreamy_wardens,epic_giantsbrewzero,frogue_preparation",
-        "nextNodeType": "crystalcavethrone"
     }
 ]
