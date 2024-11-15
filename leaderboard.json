@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "173001",
-        "completedLevels": "53",
+        "completedLevels": "54",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-15 11:56:19",
         "endTime": null,
-        "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,centurion_tactician,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone",
-        "nextNodeType": "crystalcavethrone"
+        "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone",
+        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "172930",
@@ -63,6 +63,15 @@
         "nextNodeType": "frontiercavalry"
     },
     {
+        "dungeonRunId": "173026",
+        "completedLevels": "39",
+        "twitchDisplayName": "hyros_",
+        "startTime": "2024-11-15 16:22:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_giantsblessing,necromancer_bombasticbones,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,gladiator_browbeat,assassin_disappearingact,berserker_killing_spree,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,support_enchantedstaves,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone",
+        "nextNodeType": "frontiercavalry"
+    },
+    {
         "dungeonRunId": "172917",
         "completedLevels": "38",
         "twitchDisplayName": "ThaTrueBeast",
@@ -70,15 +79,6 @@
         "endTime": "2024-11-15 02:06:48",
         "captainBoons": "common_classic_comeback,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,mage_darkmagic,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "173026",
-        "completedLevels": "38",
-        "twitchDisplayName": "hyros_",
-        "startTime": "2024-11-15 16:22:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_giantsblessing,necromancer_bombasticbones,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,gladiator_browbeat,assassin_disappearingact,berserker_killing_spree,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,support_enchantedstaves,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone",
-        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "172911",
