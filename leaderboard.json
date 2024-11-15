@@ -31,7 +31,7 @@
         "completedLevels": "46",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-11-15 08:56:06",
-        "endTime": null,
+        "endTime": "2024-11-15 14:58:53",
         "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,epic_armored_armoredgiants,epic_elixirofresistance,rogue_shadowcloak,epic_giantsbrewzero,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,epic_elixirofarchery",
         "nextNodeType": "newjunglespore"
     },
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "172993",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2024-11-15 10:34:05",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,captain_fragile_commander,bomber_dangerzone,assassin_disappearingact,barbarian_immortal,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,centurion_tactician,robot_robotauthority,berserker_rancor,ensouled_enragedspirits,ensouled_heroicspirits,saint_exalt,elf_elvenimmortality,shinobi_lastninja,shinobi_shadowstrike,musketeer_grapeshot,common_specialists,healer_combatmedic,ensouled_fatedspirits,monk_spiritstrike,armored_ignorepain,epic_giantsblessing,spell_empower_highground,fairy_fireflyconjuration,melee_followup",
-        "nextNodeType": "crucibleboss"
+        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "172909",
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "172992",
+        "dungeonRunId": "172941",
         "completedLevels": "22",
-        "twitchDisplayName": "hyros_",
-        "startTime": "2024-11-15 10:08:18",
-        "endTime": "2024-11-15 12:48:34",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,spell_empower_aegis,monk_spiritstrike,armored_ignorepain,gladiator_sonofthunder,templar_beaconofhope,saint_exalt,general_dawnofvictory,archer_soulpenetration,lancer_sarissaspears,ranged_damage_2,saint_skeletondance,bomber_dangerzone,ensouled_fatedspirits,barbarian_immortal,ranged_rangergloves,musketeer_grapeshot,healer_dreamy_wardens,shinobi_shadowstrike,epic_giantsblessing,warbeast_terrifying_presence,epic_giantsbrewzero",
-        "nextNodeType": "sportiabasket"
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-11-15 00:23:55",
+        "endTime": "2024-11-15 03:59:31",
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_enragedspirits,ensouled_heroicspirits,epic_giantsbrewzero,ranged_damage_2,common_specialists,epic_elixirofarchery,captain_fragile_commander,phantom_thehaunting,ranged_rangergloves,melee_followup,bomber_bombardment,monk_stoptheflow,epic_giantsblessing,artillery_machine_gun,support_doomingsong,musketeer_grapeshot,ensouled_bravespirits,paladin_layonhands,support_enchantedstaves,buster_nanobusters,epic_elixirofrage",
+        "nextNodeType": "beastlandsbug03"
     }
 ]
