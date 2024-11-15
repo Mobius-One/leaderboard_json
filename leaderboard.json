@@ -45,6 +45,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "172990",
+        "completedLevels": "32",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-11-15 08:56:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,healer_combatmedic,captain_fragile_commander,epic_ranged_dragonarrows,epic_elixirofarchery,support_enchantedstaves",
+        "nextNodeType": "dungeons_boss_toadraiders"
+    },
+    {
         "dungeonRunId": "172909",
         "completedLevels": "31",
         "twitchDisplayName": "kingjerry_4ever",
@@ -52,15 +61,6 @@
         "endTime": "2024-11-15 00:58:01",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield,epic_elixirofarchery,ensouled_enragedspirits,archer_soulpenetration,flagbearer_bannerofluck,epic_giantsblessing,buster_nanobusters,warrior_soldieroffortune,captain_fragile_commander,fairy_fireflyconjuration,frogue_preparation,ensouled_heroicspirits,lancer_sarissaspears,melee_followup,ensouled_bravespirits,centurion_tactician,shinobi_firetechinique,phantom_thehaunting,flyingrogue_aggravate,fairy_hocuspocus",
         "nextNodeType": "olympiadgodgroupFullEF"
-    },
-    {
-        "dungeonRunId": "172990",
-        "completedLevels": "31",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-11-15 08:56:06",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,epic_elixirofdeath,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,healer_combatmedic,captain_fragile_commander,epic_ranged_dragonarrows,epic_elixirofarchery,support_enchantedstaves",
-        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "172971",
