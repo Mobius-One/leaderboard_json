@@ -13,7 +13,7 @@
         "completedLevels": "54",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-15 11:56:19",
-        "endTime": null,
+        "endTime": "2024-11-15 21:52:40",
         "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone",
         "nextNodeType": "spaceairlock"
     },
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "172911",
+        "dungeonRunId": "173036",
         "completedLevels": "37",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-11-14 20:57:52",
-        "endTime": "2024-11-15 19:48:54",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,epic_giantsblessing,epic_armored_armoredgiants,epic_elixirofresistance,lancer_firststrike,fairy_fireflyconjuration,general_dawnofvictory,epic_ranged_dragonarrows,ranged_rangergloves,gladiator_sonofthunder,saint_exalt,flying_evasivemaneuvers,paladin_2,ranged_damage_2,necromancer_bombasticbones,epic_elixirofrage,musketeer_grapeshot,epic_epicaspirations,bomber_dangerzone,bomber_bombardment,berserker_rancor,frogue_preparation,epic_melee_gloryofvictory,centurion_tactician,shinobi_firetechinique",
-        "nextNodeType": "moboohm"
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-11-15 17:01:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,assassin_disappearingact,epic_ranged_dragonarrows,musketeer_grapeshot,ensouled_bravespirits,armored_ignorepain,epic_giantsblessing,human_humandestiny,general_dawnofvictory,warrior_swordofruin,saint_exalt,ensouled_enragedspirits,blob_parasite,epic_elixirofhealth,ensouled_fatedspirits,vampire_aerial_fiend,berserker_rancor,undead_undeadresilience,epic_epicaspirations,epic_elixirofdeath,ranged_damage_2,mage_darkmagic,melee_followup,epic_armored_armoredgiants,epic_elixirofarchery",
+        "nextNodeType": "oasisvalley"
     }
 ]
