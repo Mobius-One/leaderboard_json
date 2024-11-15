@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "172992",
+        "dungeonRunId": "173002",
         "completedLevels": "22",
-        "twitchDisplayName": "hyros_",
-        "startTime": "2024-11-15 10:08:18",
-        "endTime": "2024-11-15 12:48:34",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,spell_empower_aegis,monk_spiritstrike,armored_ignorepain,gladiator_sonofthunder,templar_beaconofhope,saint_exalt,general_dawnofvictory,archer_soulpenetration,lancer_sarissaspears,ranged_damage_2,saint_skeletondance,bomber_dangerzone,ensouled_fatedspirits,barbarian_immortal,ranged_rangergloves,musketeer_grapeshot,healer_dreamy_wardens,shinobi_shadowstrike,epic_giantsblessing,warbeast_terrifying_presence,epic_giantsbrewzero",
-        "nextNodeType": "sportiabasket"
+        "twitchDisplayName": "Carlos_235",
+        "startTime": "2024-11-15 12:09:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath,assassin_disappearingact,ensouled_heroicspirits,musketeer_rapidreload,ranged_damage_2,ensouled_bravespirits,armored_ignorepain,support_enchantedstaves,blob_parasite,epic_giantsbrewzero,ensouled_enragedspirits,epic_melee_gloryofvictory,shinobi_shadowstrike,musketeer_grapeshot,phantom_thehaunting,assassin_agility,shinobi_firetechinique,common_specialists,melee_charge,general_dawnofvictory,epic_armored_armoredgiants,warrior_soldieroffortune",
+        "nextNodeType": "elementalwaterstream"
     }
 ]
