@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "173002",
-        "completedLevels": "43",
+        "completedLevels": "44",
         "twitchDisplayName": "Carlos_235",
         "startTime": "2024-11-15 12:09:58",
         "endTime": null,
-        "captainBoons": "epic_elixirofdeath,assassin_disappearingact,ensouled_heroicspirits,musketeer_rapidreload,ranged_damage_2,ensouled_bravespirits,armored_ignorepain,epic_giantsbrewzero,ensouled_enragedspirits,epic_melee_gloryofvictory,musketeer_grapeshot,phantom_thehaunting,common_specialists,general_dawnofvictory,epic_armored_armoredgiants,warrior_soldieroffortune,melee_followup,orcs_building_rage,epic_elixirofrage,epic_giantsblessing,monk_spiritstrike,lancer_sarissaspears,gladiator_sonofthunder",
-        "nextNodeType": "newjunglespore"
+        "captainBoons": "epic_elixirofdeath,assassin_disappearingact,ensouled_heroicspirits,musketeer_rapidreload,ranged_damage_2,ensouled_bravespirits,armored_ignorepain,epic_giantsbrewzero,ensouled_enragedspirits,epic_melee_gloryofvictory,phantom_thehaunting,common_specialists,general_dawnofvictory,epic_armored_armoredgiants,warrior_soldieroffortune,melee_followup,orcs_building_rage,epic_elixirofrage,epic_giantsblessing,monk_spiritstrike,lancer_sarissaspears,gladiator_sonofthunder",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "172917",
