@@ -36,15 +36,6 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "173002",
-        "completedLevels": "45",
-        "twitchDisplayName": "Carlos_235",
-        "startTime": "2024-11-15 12:09:58",
-        "endTime": "2024-11-15 17:51:40",
-        "captainBoons": "epic_elixirofdeath,assassin_disappearingact,ensouled_heroicspirits,musketeer_rapidreload,ranged_damage_2,ensouled_bravespirits,armored_ignorepain,epic_giantsbrewzero,ensouled_enragedspirits,epic_melee_gloryofvictory,phantom_thehaunting,common_specialists,general_dawnofvictory,epic_armored_armoredgiants,warrior_soldieroffortune,melee_followup,orcs_building_rage,epic_elixirofrage,epic_giantsblessing,monk_spiritstrike,lancer_sarissaspears,gladiator_sonofthunder",
-        "nextNodeType": "frontiercavalry"
-    },
-    {
         "dungeonRunId": "173001",
         "completedLevels": "45",
         "twitchDisplayName": "Rafipi",
@@ -54,13 +45,22 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "173002",
+        "completedLevels": "45",
+        "twitchDisplayName": "Carlos_235",
+        "startTime": "2024-11-15 12:09:58",
+        "endTime": "2024-11-15 17:51:40",
+        "captainBoons": "epic_elixirofdeath,assassin_disappearingact,ensouled_heroicspirits,musketeer_rapidreload,ranged_damage_2,ensouled_bravespirits,armored_ignorepain,epic_giantsbrewzero,ensouled_enragedspirits,epic_melee_gloryofvictory,phantom_thehaunting,common_specialists,general_dawnofvictory,epic_armored_armoredgiants,warrior_soldieroffortune,melee_followup,orcs_building_rage,epic_elixirofrage,epic_giantsblessing,monk_spiritstrike,lancer_sarissaspears,gladiator_sonofthunder",
+        "nextNodeType": "frontiercavalry"
+    },
+    {
         "dungeonRunId": "173011",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-11-15 14:52:05",
         "endTime": null,
         "captainBoons": "common_classic_comeback,rogue_sneakattack,ensouled_enragedspirits,necromancer_bombasticbones,musketeer_grapeshot,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,elf_elvenimmortality,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
-        "nextNodeType": "moboohm"
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "172917",
