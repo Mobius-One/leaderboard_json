@@ -55,21 +55,21 @@
     },
     {
         "dungeonRunId": "172971",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "5mokeGhost",
         "startTime": "2024-11-15 03:59:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike,epic_elixirofrage,frogue_preparation,archer_soulpenetration,musketeer_rapidreload",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike,epic_elixirofrage,frogue_preparation,archer_soulpenetration,musketeer_rapidreload,ensouled_enragedspirits",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "172969",
-        "completedLevels": "23",
+        "completedLevels": "24",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2024-11-15 03:48:50",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofrage,musketeer_grapeshot,berserker_killing_spree,bomber_dangerzone,melee_followup,artillery_machine_gun,rogue_sneakattack,assassin_disappearingact,tank_guardian,epic_elixirofresistance,gladiator_sonofthunder,barbarian_immortal,shinobi_shadowstrike,robot_robotauthority,epic_melee_gloryofvictory,paladin_layonhands,epic_giantsblessing,spell_empower_highground,healer_combatmedic,fairy_hocuspocus,epic_ranged_dragonarrows,epic_giantsbrewzero,captain_fragile_commander",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "captainBoons": "common_classic_comeback,epic_elixirofrage,musketeer_grapeshot,berserker_killing_spree,bomber_dangerzone,melee_followup,artillery_machine_gun,rogue_sneakattack,assassin_disappearingact,tank_guardian,epic_elixirofresistance,gladiator_sonofthunder,barbarian_immortal,shinobi_shadowstrike,robot_robotauthority,epic_melee_gloryofvictory,paladin_layonhands,epic_giantsblessing,spell_empower_highground,healer_combatmedic,fairy_hocuspocus,epic_ranged_dragonarrows,epic_giantsbrewzero,captain_fragile_commander,ensouled_bravespirits",
+        "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
         "dungeonRunId": "172939",
