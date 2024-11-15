@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "173036",
-        "completedLevels": "37",
+        "completedLevels": "38",
         "twitchDisplayName": "JojoGeeker",
         "startTime": "2024-11-15 17:01:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,assassin_disappearingact,epic_ranged_dragonarrows,musketeer_grapeshot,ensouled_bravespirits,armored_ignorepain,epic_giantsblessing,human_humandestiny,general_dawnofvictory,warrior_swordofruin,saint_exalt,ensouled_enragedspirits,blob_parasite,epic_elixirofhealth,ensouled_fatedspirits,vampire_aerial_fiend,berserker_rancor,undead_undeadresilience,epic_epicaspirations,epic_elixirofdeath,ranged_damage_2,mage_darkmagic,melee_followup,epic_armored_armoredgiants,epic_elixirofarchery",
-        "nextNodeType": "oasisvalley"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,assassin_disappearingact,epic_ranged_dragonarrows,musketeer_grapeshot,ensouled_bravespirits,armored_ignorepain,epic_giantsblessing,human_humandestiny,general_dawnofvictory,warrior_swordofruin,saint_exalt,ensouled_enragedspirits,blob_parasite,epic_elixirofhealth,ensouled_fatedspirits,vampire_aerial_fiend,berserker_rancor,undead_undeadresilience,epic_epicaspirations,epic_elixirofdeath,ranged_damage_2,mage_darkmagic,epic_armored_armoredgiants,epic_elixirofarchery",
+        "nextNodeType": "crystalcavethrone"
     }
 ]
