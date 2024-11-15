@@ -54,6 +54,15 @@
         "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
+        "dungeonRunId": "172990",
+        "completedLevels": "27",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-11-15 08:56:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,epic_elixirofdeath,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,ensouled_enragedspirits,warrior_swordofruin,healer_combatmedic,captain_fragile_commander,epic_ranged_dragonarrows",
+        "nextNodeType": "sportiabasket"
+    },
+    {
         "dungeonRunId": "172971",
         "completedLevels": "26",
         "twitchDisplayName": "5mokeGhost",
@@ -61,15 +70,6 @@
         "endTime": "2024-11-15 07:24:43",
         "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike,epic_elixirofrage,frogue_preparation,archer_soulpenetration,musketeer_rapidreload,ensouled_enragedspirits",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "172990",
-        "completedLevels": "26",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-11-15 08:56:06",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,epic_elixirofdeath,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,ensouled_enragedspirits,warrior_swordofruin,healer_combatmedic,captain_fragile_commander",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "172969",
@@ -81,12 +81,12 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
-        "dungeonRunId": "172941",
+        "dungeonRunId": "172939",
         "completedLevels": "22",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-11-15 00:23:55",
-        "endTime": "2024-11-15 03:59:31",
-        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_enragedspirits,ensouled_heroicspirits,epic_giantsbrewzero,ranged_damage_2,common_specialists,epic_elixirofarchery,captain_fragile_commander,phantom_thehaunting,ranged_rangergloves,melee_followup,bomber_bombardment,monk_stoptheflow,epic_giantsblessing,artillery_machine_gun,support_doomingsong,musketeer_grapeshot,ensouled_bravespirits,paladin_layonhands,support_enchantedstaves,buster_nanobusters,epic_elixirofrage",
-        "nextNodeType": "beastlandsbug03"
+        "twitchDisplayName": "FleaOnaLeaf",
+        "startTime": "2024-11-14 23:57:11",
+        "endTime": "2024-11-15 03:40:12",
+        "captainBoons": "common_classic_comeback,rogue_sneakattack,shinobi_firetechinique,epic_armored_armoredgiants,monk_stoptheflow,gladiator_sonofthunder,berserker_killing_spree,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,elf_elvenimmortality,tank_guardian,epic_elixirofarchery,musketeer_grapeshot,human_humandestiny,vampire_darkwings,robot_robotauthority,flag_1,epic_giantsbrewzero,assassin_disappearingact,common_specialists,healer_combatmedic",
+        "nextNodeType": "shogunateAmbush"
     }
 ]
