@@ -72,6 +72,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "172990",
+        "completedLevels": "23",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-11-15 08:56:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,epic_elixirofdeath,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,ensouled_enragedspirits",
+        "nextNodeType": "crucibleboss"
+    },
+    {
         "dungeonRunId": "172941",
         "completedLevels": "22",
         "twitchDisplayName": "ohitsneb",
@@ -79,14 +88,5 @@
         "endTime": "2024-11-15 03:59:31",
         "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_enragedspirits,ensouled_heroicspirits,epic_giantsbrewzero,ranged_damage_2,common_specialists,epic_elixirofarchery,captain_fragile_commander,phantom_thehaunting,ranged_rangergloves,melee_followup,bomber_bombardment,monk_stoptheflow,epic_giantsblessing,artillery_machine_gun,support_doomingsong,musketeer_grapeshot,ensouled_bravespirits,paladin_layonhands,support_enchantedstaves,buster_nanobusters,epic_elixirofrage",
         "nextNodeType": "beastlandsbug03"
-    },
-    {
-        "dungeonRunId": "172990",
-        "completedLevels": "22",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-11-15 08:56:06",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,epic_elixirofdeath,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone",
-        "nextNodeType": "spaceairlock"
     }
 ]
