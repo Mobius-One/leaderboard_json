@@ -9,6 +9,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "172928",
+        "completedLevels": "39",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-11-14 22:41:32",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,artillery_machine_gun,armored_ignorepain,berserker_rancor,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,warrior_soldieroffortune,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
+        "nextNodeType": "moboohm"
+    },
+    {
         "dungeonRunId": "172917",
         "completedLevels": "38",
         "twitchDisplayName": "ThaTrueBeast",
@@ -16,15 +25,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,mage_darkmagic,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "172928",
-        "completedLevels": "38",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-11-14 22:41:32",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,artillery_machine_gun,armored_ignorepain,berserker_rancor,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,warrior_soldieroffortune,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
-        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "172880",
@@ -81,12 +81,12 @@
         "nextNodeType": "sportiabasket"
     },
     {
-        "dungeonRunId": "172895",
-        "completedLevels": "15",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-11-14 19:27:17",
-        "endTime": "2024-11-14 20:57:34",
-        "captainBoons": "common_classic_comeback,assassin_agility,ranged_damage_2,epic_melee_gloryofvictory,warrior_soldieroffortune,elf_elvenimmortality,epic_epicaspirations,epic_elixirofrage,support_enchantedstaves,epic_ranged_dragonarrows,epic_elixirofdeath,epic_giantsblessing,warbeast_terrifying_presence,epic_elixirofarchery,general_dawnofvictory,tank_guardian",
-        "nextNodeType": "skyportals"
+        "dungeonRunId": "172936",
+        "completedLevels": "16",
+        "twitchDisplayName": "Valkyria_d1",
+        "startTime": "2024-11-14 23:25:57",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_doomingsong,ensouled_fatedspirits,epic_melee_gloryofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_bombardment,epic_elixirofarchery,flying_evasivemaneuvers,warbeast_terrifying_presence,flyingrogue_aggravate,ensouled_enragedspirits,human_humandestiny,lancer_sarissaspears,shinobi_firetechinique,healer_dreamy_wardens",
+        "nextNodeType": "shogunateAmbush"
     }
 ]
