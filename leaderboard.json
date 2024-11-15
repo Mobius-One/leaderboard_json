@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "172990",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-11-15 08:56:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,healer_combatmedic,captain_fragile_commander,epic_elixirofarchery,support_enchantedstaves",
-        "nextNodeType": "crystalcavethrone"
+        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,healer_combatmedic,epic_elixirofarchery,support_enchantedstaves",
+        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "172909",
