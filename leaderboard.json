@@ -9,6 +9,24 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "172917",
+        "completedLevels": "38",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-11-14 21:40:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,mage_darkmagic,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
+        "dungeonRunId": "172928",
+        "completedLevels": "38",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-11-14 22:41:32",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,artillery_machine_gun,armored_ignorepain,berserker_rancor,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,warrior_soldieroffortune,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
+        "nextNodeType": "crystalcavethrone"
+    },
+    {
         "dungeonRunId": "172880",
         "completedLevels": "37",
         "twitchDisplayName": "Rafipi",
@@ -16,24 +34,6 @@
         "endTime": "2024-11-15 00:45:30",
         "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,common_specialists,gladiator_browbeat,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin,musketeer_rapidreload,frogue_preparation,lancer_sarissaspears,ensouled_enragedspirits",
         "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "172917",
-        "completedLevels": "37",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-11-14 21:40:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,spell_empower_highground,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,mage_darkmagic,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
-        "nextNodeType": "skyportals"
-    },
-    {
-        "dungeonRunId": "172928",
-        "completedLevels": "37",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-11-14 22:41:32",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,artillery_machine_gun,armored_ignorepain,epic_epicaspirations,berserker_rancor,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,warrior_soldieroffortune,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
-        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "172909",
