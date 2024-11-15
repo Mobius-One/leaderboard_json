@@ -81,12 +81,12 @@
         "nextNodeType": "beastlandsbug03"
     },
     {
-        "dungeonRunId": "172936",
+        "dungeonRunId": "172961",
         "completedLevels": "20",
-        "twitchDisplayName": "Valkyria_d1",
-        "startTime": "2024-11-14 23:25:57",
-        "endTime": "2024-11-15 03:00:23",
-        "captainBoons": "common_classic_comeback,support_doomingsong,ensouled_fatedspirits,epic_melee_gloryofvictory,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_bombardment,epic_elixirofarchery,flying_evasivemaneuvers,warbeast_terrifying_presence,flyingrogue_aggravate,ensouled_enragedspirits,human_humandestiny,lancer_sarissaspears,shinobi_firetechinique,healer_dreamy_wardens,epic_giantsbrewzero,frogue_preparation,shinobi_lastninja,paladin_layonhands,undead_undeadresilience",
+        "twitchDisplayName": "tobasco24",
+        "startTime": "2024-11-15 02:38:51",
+        "endTime": "2024-11-15 05:29:37",
+        "captainBoons": "common_classic_comeback,epic_elixirofarchery,shinobi_firetechinique,common_specialists,flagbearer_bannerofluck,support_enchantedstaves,epic_melee_gloryofvictory,epic_elixirofrage,captain_fragile_commander,saint_skeletondance,paladin_layonhands,musketeer_grapeshot,epic_ranged_dragonarrows,musketeer_rapidreload,melee_followup,spell_empower_killingfield,support_doomingsong,frogue_preparation,healer_dreamy_wardens,assassin_agility,robot_robotauthority",
         "nextNodeType": "dungeons_boss_firerocks"
     }
 ]
