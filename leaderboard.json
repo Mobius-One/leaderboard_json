@@ -54,13 +54,13 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "172880",
-        "completedLevels": "37",
+        "dungeonRunId": "173001",
+        "completedLevels": "38",
         "twitchDisplayName": "Rafipi",
-        "startTime": "2024-11-14 19:01:58",
-        "endTime": "2024-11-15 00:45:30",
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,gladiator_sonofthunder,epic_melee_gloryofvictory,epic_elixirofrage,ranged_damage_2,saint_skeletondance,archer_rapidshot,assassin_disappearingact,archer_soulpenetration,epic_elixirofresistance,common_specialists,gladiator_browbeat,tank_guardian,epic_giantsbrewzero,elf_elvenimmortality,bomber_bombardment,saint_exalt,melee_followup,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin,musketeer_rapidreload,frogue_preparation,lancer_sarissaspears,ensouled_enragedspirits",
-        "nextNodeType": "shogunateAmbush"
+        "startTime": "2024-11-15 11:56:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_firststrike,epic_giantsbrewzero,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,vampire_aerial_fiend,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,assassin_disappearingact,berserker_killing_spree,fairy_fireflyconjuration,general_dawnofvictory,centurion_tactician,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone,spell_empower_aegis",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "172993",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "173011",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-11-15 14:52:05",
         "endTime": null,
         "captainBoons": "common_classic_comeback,rogue_sneakattack,ensouled_enragedspirits,necromancer_bombasticbones,lancer_sarissaspears,musketeer_grapeshot,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,elf_elvenimmortality,archer_soulpenetration,gladiator_browbeat,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,ensouled_fatedspirits,epic_armored_armoredgiants,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,barbarian_immortal,tank_tungstenswords,support_enchantedstaves",
-        "nextNodeType": "olympiadgodgroupFullEF"
+        "nextNodeType": "winterdinos"
     }
 ]
