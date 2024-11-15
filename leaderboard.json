@@ -36,6 +36,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "173011",
+        "completedLevels": "46",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-11-15 14:52:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ensouled_enragedspirits,necromancer_bombasticbones,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
+        "nextNodeType": "elementalwaterstream"
+    },
+    {
         "dungeonRunId": "172990",
         "completedLevels": "46",
         "twitchDisplayName": "ImmerBock",
@@ -43,15 +52,6 @@
         "endTime": "2024-11-15 14:58:53",
         "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,epic_armored_armoredgiants,epic_elixirofresistance,rogue_shadowcloak,epic_giantsbrewzero,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,epic_elixirofarchery",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "173011",
-        "completedLevels": "45",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-11-15 14:52:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ensouled_enragedspirits,necromancer_bombasticbones,musketeer_grapeshot,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
-        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "173002",
