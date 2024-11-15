@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172887",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-14 19:07:09",
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_ignorepain,elf_elvenimmortality,bomber_bombardment,saint_exalt,warrior_soldieroffortune,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,bomber_dangerzone,ranged_damage_2,epic_elixirofresistance,melee_followup,spell_empower_stronghold,flagbearer_bannerofluck,blob_parasite,epic_elixirofarchery,fairy_hocuspocus",
-        "nextNodeType": "beastlandsbug03"
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "172880",
@@ -64,12 +64,21 @@
     },
     {
         "dungeonRunId": "172928",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-14 22:41:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,ranged_damage_2,artillery_machine_gun,armored_ignorepain,general_dawnofvictory,epic_epicaspirations,berserker_rancor,gladiator_sonofthunder,berserker_killing_spree,epic_giantsbrewzero",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,ranged_damage_2,artillery_machine_gun,armored_ignorepain,general_dawnofvictory,epic_epicaspirations,berserker_rancor,gladiator_sonofthunder,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
+        "dungeonRunId": "172926",
+        "completedLevels": "10",
+        "twitchDisplayName": "LilithSM",
+        "startTime": "2024-11-14 22:36:38",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_charge,ensouled_fatedspirits,common_specialists,epic_elixirofarchery,ranged_damage_2,ensouled_bravespirits,gladiator_browbeat,gladiator_sonofthunder,archer_soulpenetration,lancer_sarissaspears",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "172886",
@@ -79,14 +88,5 @@
         "endTime": "2024-11-14 20:33:36",
         "captainBoons": "common_classic_comeback,epic_elixirofdeath,support_enchantedstaves,warlock_inferno,saint_exalt,elf_elvenimmortality,warrior_swordofruin,epic_giantsbrewzero,ranged_damage_2,blob_parasite,lancer_sarissaspears",
         "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "172930",
-        "completedLevels": "10",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-11-14 22:56:37",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,melee_followup,amazon_vineclone,epic_elixirofrage,robot_robotauthority,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery",
-        "nextNodeType": "newjunglespore"
     }
 ]
