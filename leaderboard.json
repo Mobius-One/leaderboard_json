@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172928",
-        "completedLevels": "60",
+        "completedLevels": "61",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-14 22:41:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_grapeshot,bomber_bombardment,artillery_machine_gun,armored_ignorepain,epic_giantsbrewzero,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,shinobi_firetechinique,archer_soulpenetration,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
-        "nextNodeType": "elementalwaterstream"
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "172887",
@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "172930",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-11-14 22:56:37",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,melee_followup,amazon_vineclone,epic_elixirofrage,robot_robotauthority,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,fairy_fireflyconjuration,elf_elvenimmortality,spell_empower_highground,saint_exalt,general_dawnofvictory,epic_giantsbrewzero,bomber_bombardment,melee_charge,epic_armored_armoredgiants,bomber_dangerzone,ensouled_fatedspirits,armored_shieldbash",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "172917",
@@ -54,15 +54,6 @@
         "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
-        "dungeonRunId": "172941",
-        "completedLevels": "22",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2024-11-15 00:23:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_enragedspirits,ensouled_heroicspirits,epic_giantsbrewzero,ranged_damage_2,common_specialists,epic_elixirofarchery,captain_fragile_commander,phantom_thehaunting,ranged_rangergloves,melee_followup,bomber_bombardment,monk_stoptheflow,epic_giantsblessing,artillery_machine_gun,support_doomingsong,musketeer_grapeshot,ensouled_bravespirits,paladin_layonhands,support_enchantedstaves,buster_nanobusters,epic_elixirofrage",
-        "nextNodeType": "beastlandsbug03"
-    },
-    {
         "dungeonRunId": "172939",
         "completedLevels": "22",
         "twitchDisplayName": "FleaOnaLeaf",
@@ -70,6 +61,15 @@
         "endTime": "2024-11-15 03:40:12",
         "captainBoons": "common_classic_comeback,rogue_sneakattack,shinobi_firetechinique,epic_armored_armoredgiants,monk_stoptheflow,gladiator_sonofthunder,berserker_killing_spree,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,elf_elvenimmortality,tank_guardian,epic_elixirofarchery,musketeer_grapeshot,human_humandestiny,vampire_darkwings,robot_robotauthority,flag_1,epic_giantsbrewzero,assassin_disappearingact,common_specialists,healer_combatmedic",
         "nextNodeType": "shogunateAmbush"
+    },
+    {
+        "dungeonRunId": "172941",
+        "completedLevels": "22",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2024-11-15 00:23:55",
+        "endTime": "2024-11-15 03:59:31",
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_enragedspirits,ensouled_heroicspirits,epic_giantsbrewzero,ranged_damage_2,common_specialists,epic_elixirofarchery,captain_fragile_commander,phantom_thehaunting,ranged_rangergloves,melee_followup,bomber_bombardment,monk_stoptheflow,epic_giantsblessing,artillery_machine_gun,support_doomingsong,musketeer_grapeshot,ensouled_bravespirits,paladin_layonhands,support_enchantedstaves,buster_nanobusters,epic_elixirofrage",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "172926",
