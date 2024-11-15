@@ -4,7 +4,7 @@
         "completedLevels": "49",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-14 19:07:09",
-        "endTime": null,
+        "endTime": "2024-11-15 01:05:38",
         "captainBoons": "common_classic_comeback,elf_elvenimmortality,bomber_bombardment,saint_exalt,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,bomber_dangerzone,ranged_damage_2,epic_elixirofresistance,melee_followup,flagbearer_bannerofluck,blob_parasite,epic_elixirofarchery",
         "nextNodeType": "shogunateAmbush"
     },
@@ -18,6 +18,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "172917",
+        "completedLevels": "32",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-11-14 21:40:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,spell_empower_highground,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,fairy_hocuspocus,mage_darkmagic,vampire_darkwings,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
         "dungeonRunId": "172909",
         "completedLevels": "31",
         "twitchDisplayName": "kingjerry_4ever",
@@ -27,22 +36,13 @@
         "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
-        "dungeonRunId": "172917",
-        "completedLevels": "31",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-11-14 21:40:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,spell_empower_highground,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,fairy_hocuspocus,mage_darkmagic,vampire_darkwings,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
-        "nextNodeType": "oasisvalley"
-    },
-    {
         "dungeonRunId": "172928",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-14 22:41:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,ranged_damage_2,artillery_machine_gun,armored_ignorepain,general_dawnofvictory,epic_epicaspirations,berserker_rancor,gladiator_sonofthunder,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,warrior_soldieroffortune,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones",
-        "nextNodeType": "sportiabasket"
+        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,ranged_damage_2,artillery_machine_gun,armored_ignorepain,general_dawnofvictory,epic_epicaspirations,berserker_rancor,gladiator_sonofthunder,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,warrior_soldieroffortune,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike",
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "172930",
