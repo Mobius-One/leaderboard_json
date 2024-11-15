@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "173026",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "hyros_",
         "startTime": "2024-11-15 16:22:48",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_giantsblessing,necromancer_bombasticbones,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,assassin_disappearingact,berserker_killing_spree,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,support_enchantedstaves,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone",
-        "nextNodeType": "winterdinos"
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "172917",
