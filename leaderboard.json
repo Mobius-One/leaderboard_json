@@ -18,6 +18,15 @@
         "nextNodeType": "spaceairlock"
     },
     {
+        "dungeonRunId": "173026",
+        "completedLevels": "51",
+        "twitchDisplayName": "hyros_",
+        "startTime": "2024-11-15 16:22:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsblessing,necromancer_bombasticbones,musketeer_grapeshot,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,assassin_disappearingact,berserker_killing_spree,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,epic_ranged_dragonarrows,bomber_dangerzone",
+        "nextNodeType": "shogunateAmbush"
+    },
+    {
         "dungeonRunId": "172930",
         "completedLevels": "50",
         "twitchDisplayName": "bakodemeester",
@@ -25,15 +34,6 @@
         "endTime": "2024-11-15 05:43:29",
         "captainBoons": "common_classic_comeback,amazon_vineclone,epic_elixirofrage,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,elf_elvenimmortality,spell_empower_highground,saint_exalt,epic_giantsbrewzero,bomber_bombardment,melee_charge,epic_armored_armoredgiants,bomber_dangerzone,ensouled_fatedspirits,armored_shieldbash",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "173026",
-        "completedLevels": "50",
-        "twitchDisplayName": "hyros_",
-        "startTime": "2024-11-15 16:22:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsblessing,necromancer_bombasticbones,musketeer_grapeshot,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,assassin_disappearingact,berserker_killing_spree,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,epic_ranged_dragonarrows,bomber_dangerzone",
-        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "172887",
