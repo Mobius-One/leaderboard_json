@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "172971",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "5mokeGhost",
         "startTime": "2024-11-15 03:59:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike,epic_elixirofrage",
-        "nextNodeType": "wildorcs"
+        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike,epic_elixirofrage,frogue_preparation",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "172939",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "172969",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2024-11-15 03:48:50",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_elixirofrage,musketeer_grapeshot,berserker_killing_spree,bomber_dangerzone,melee_followup,artillery_machine_gun,rogue_sneakattack,assassin_disappearingact,tank_guardian,epic_elixirofresistance,gladiator_sonofthunder,barbarian_immortal,shinobi_shadowstrike,robot_robotauthority,epic_melee_gloryofvictory,paladin_layonhands,epic_giantsblessing,spell_empower_highground,healer_combatmedic,fairy_hocuspocus,epic_ranged_dragonarrows",
-        "nextNodeType": "moboohm"
+        "nextNodeType": "plaguegrotto"
     }
 ]
