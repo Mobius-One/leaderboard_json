@@ -81,12 +81,12 @@
         "nextNodeType": "beastlandsbug03"
     },
     {
-        "dungeonRunId": "172961",
+        "dungeonRunId": "172971",
         "completedLevels": "20",
-        "twitchDisplayName": "tobasco24",
-        "startTime": "2024-11-15 02:38:51",
-        "endTime": "2024-11-15 05:29:37",
-        "captainBoons": "common_classic_comeback,epic_elixirofarchery,shinobi_firetechinique,common_specialists,flagbearer_bannerofluck,support_enchantedstaves,epic_melee_gloryofvictory,epic_elixirofrage,captain_fragile_commander,saint_skeletondance,paladin_layonhands,musketeer_grapeshot,epic_ranged_dragonarrows,musketeer_rapidreload,melee_followup,spell_empower_killingfield,support_doomingsong,frogue_preparation,healer_dreamy_wardens,assassin_agility,robot_robotauthority",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "twitchDisplayName": "5mokeGhost",
+        "startTime": "2024-11-15 03:59:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder",
+        "nextNodeType": "dungeons_boss_toadraiders"
     }
 ]
