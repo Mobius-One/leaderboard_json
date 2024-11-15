@@ -36,6 +36,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "173001",
+        "completedLevels": "45",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-11-15 11:56:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,vampire_aerial_fiend,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,assassin_disappearingact,berserker_killing_spree,centurion_tactician,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone,spell_empower_aegis",
+        "nextNodeType": "shogunateAmbush"
+    },
+    {
         "dungeonRunId": "173002",
         "completedLevels": "45",
         "twitchDisplayName": "Carlos_235",
@@ -45,22 +54,13 @@
         "nextNodeType": "frontiercavalry"
     },
     {
-        "dungeonRunId": "173001",
-        "completedLevels": "44",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-11-15 11:56:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,vampire_aerial_fiend,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,assassin_disappearingact,berserker_killing_spree,centurion_tactician,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone,spell_empower_aegis",
-        "nextNodeType": "crucibleboss"
-    },
-    {
         "dungeonRunId": "173011",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-11-15 14:52:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_sneakattack,ensouled_enragedspirits,necromancer_bombasticbones,musketeer_grapeshot,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,elf_elvenimmortality,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,epic_armored_armoredgiants,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
-        "nextNodeType": "spaceairlock"
+        "captainBoons": "common_classic_comeback,rogue_sneakattack,ensouled_enragedspirits,necromancer_bombasticbones,musketeer_grapeshot,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,elf_elvenimmortality,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "172917",
