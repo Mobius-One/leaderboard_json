@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "172993",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2024-11-15 10:34:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,captain_fragile_commander,templar_beaconofhope,bomber_dangerzone,assassin_disappearingact,barbarian_immortal,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,centurion_tactician,robot_robotauthority,warbeast_terrifying_presence,berserker_rancor,ensouled_enragedspirits,ensouled_heroicspirits,saint_exalt,elf_elvenimmortality,shinobi_lastninja,shinobi_shadowstrike,musketeer_grapeshot,common_specialists,healer_combatmedic,ensouled_fatedspirits,monk_spiritstrike,armored_ignorepain,epic_giantsblessing,spell_empower_highground,fairy_fireflyconjuration",
-        "nextNodeType": "moboohm"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,captain_fragile_commander,templar_beaconofhope,bomber_dangerzone,assassin_disappearingact,barbarian_immortal,lancer_sarissaspears,gladiator_sonofthunder,epic_ranged_dragonarrows,centurion_tactician,robot_robotauthority,warbeast_terrifying_presence,berserker_rancor,ensouled_enragedspirits,ensouled_heroicspirits,saint_exalt,elf_elvenimmortality,shinobi_lastninja,shinobi_shadowstrike,musketeer_grapeshot,common_specialists,healer_combatmedic,ensouled_fatedspirits,monk_spiritstrike,armored_ignorepain,epic_giantsblessing,spell_empower_highground,fairy_fireflyconjuration,melee_followup",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "172971",
