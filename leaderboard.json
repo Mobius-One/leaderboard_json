@@ -73,20 +73,20 @@
     },
     {
         "dungeonRunId": "173011",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-11-15 14:52:05",
         "endTime": null,
         "captainBoons": "common_classic_comeback,rogue_sneakattack,ensouled_enragedspirits,necromancer_bombasticbones,lancer_sarissaspears,musketeer_grapeshot,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,elf_elvenimmortality,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,ensouled_fatedspirits,epic_armored_armoredgiants,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,barbarian_immortal,tank_tungstenswords,support_enchantedstaves",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "172909",
+        "dungeonRunId": "172911",
         "completedLevels": "31",
-        "twitchDisplayName": "kingjerry_4ever",
-        "startTime": "2024-11-14 20:47:40",
-        "endTime": "2024-11-15 00:58:01",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,gladiator_sonofthunder,warbeast_terrifying_presence,berserker_rancor,musketeer_grapeshot,warlock_inferno,ranged_rangergloves,ranged_damage_2,spell_empower_killingfield,epic_elixirofarchery,ensouled_enragedspirits,archer_soulpenetration,flagbearer_bannerofluck,epic_giantsblessing,buster_nanobusters,warrior_soldieroffortune,captain_fragile_commander,fairy_fireflyconjuration,frogue_preparation,ensouled_heroicspirits,lancer_sarissaspears,melee_followup,ensouled_bravespirits,centurion_tactician,shinobi_firetechinique,phantom_thehaunting,flyingrogue_aggravate,fairy_hocuspocus",
-        "nextNodeType": "olympiadgodgroupFullEF"
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-11-14 20:57:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,epic_giantsblessing,epic_armored_armoredgiants,epic_elixirofresistance,ensouled_enragedspirits,lancer_firststrike,fairy_fireflyconjuration,general_dawnofvictory,epic_ranged_dragonarrows,ranged_rangergloves,gladiator_sonofthunder,phantom_thehaunting,saint_exalt,flying_evasivemaneuvers,paladin_2,epic_elixirofdeath,ranged_damage_2,necromancer_bombasticbones,epic_elixirofrage,musketeer_grapeshot,epic_epicaspirations,bomber_dangerzone,bomber_bombardment,berserker_rancor,frogue_preparation,epic_melee_gloryofvictory,centurion_tactician,shinobi_firetechinique",
+        "nextNodeType": "shogunateAmbush"
     }
 ]
