@@ -81,12 +81,12 @@
         "nextNodeType": "beastlandsbug03"
     },
     {
-        "dungeonRunId": "172926",
+        "dungeonRunId": "172969",
         "completedLevels": "21",
-        "twitchDisplayName": "LilithSM",
-        "startTime": "2024-11-14 22:36:38",
-        "endTime": "2024-11-15 01:28:56",
-        "captainBoons": "common_classic_comeback,melee_charge,ensouled_fatedspirits,common_specialists,epic_elixirofarchery,ranged_damage_2,ensouled_bravespirits,gladiator_browbeat,gladiator_sonofthunder,archer_soulpenetration,lancer_sarissaspears,undead_undeadresilience,tank_guardian,berserker_rancor,assassin_disappearingact,amazon_vineclone,vampire_darkwings,shinobi_firetechinique,berserker_killing_spree,warrior_soldieroffortune,ensouled_enragedspirits,vampire_aerial_fiend",
-        "nextNodeType": "beastlandsbug03"
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-11-15 03:48:50",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_elixirofrage,musketeer_grapeshot,berserker_killing_spree,bomber_dangerzone,melee_followup,artillery_machine_gun,rogue_sneakattack,assassin_disappearingact,tank_guardian,epic_elixirofresistance,gladiator_sonofthunder,barbarian_immortal,shinobi_shadowstrike,robot_robotauthority,epic_melee_gloryofvictory,paladin_layonhands,epic_giantsblessing,spell_empower_highground,healer_combatmedic,fairy_hocuspocus,epic_ranged_dragonarrows",
+        "nextNodeType": "moboohm"
     }
 ]
