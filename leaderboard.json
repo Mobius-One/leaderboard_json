@@ -37,21 +37,30 @@
     },
     {
         "dungeonRunId": "172928",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-14 22:41:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,ranged_damage_2,artillery_machine_gun,armored_ignorepain,general_dawnofvictory,epic_epicaspirations,berserker_rancor,gladiator_sonofthunder,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,warrior_soldieroffortune,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,ranged_damage_2,artillery_machine_gun,armored_ignorepain,general_dawnofvictory,epic_epicaspirations,berserker_rancor,gladiator_sonofthunder,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,warrior_soldieroffortune,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "172930",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-11-14 22:56:37",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,melee_followup,amazon_vineclone,epic_elixirofrage,robot_robotauthority,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,fairy_fireflyconjuration,elf_elvenimmortality,spell_empower_highground,saint_exalt,general_dawnofvictory,buster_nanobusters,epic_giantsbrewzero,fairy_hocuspocus,bomber_bombardment",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,berserker_rancor,melee_followup,amazon_vineclone,epic_elixirofrage,robot_robotauthority,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,fairy_fireflyconjuration,elf_elvenimmortality,spell_empower_highground,saint_exalt,general_dawnofvictory,buster_nanobusters,epic_giantsbrewzero,fairy_hocuspocus,bomber_bombardment,melee_charge",
+        "nextNodeType": "raidhallapath"
+    },
+    {
+        "dungeonRunId": "172926",
+        "completedLevels": "20",
+        "twitchDisplayName": "LilithSM",
+        "startTime": "2024-11-14 22:36:38",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_charge,ensouled_fatedspirits,common_specialists,epic_elixirofarchery,ranged_damage_2,ensouled_bravespirits,gladiator_browbeat,gladiator_sonofthunder,archer_soulpenetration,lancer_sarissaspears,undead_undeadresilience,tank_guardian,berserker_rancor,assassin_disappearingact,amazon_vineclone,vampire_darkwings,shinobi_firetechinique,berserker_killing_spree,warrior_soldieroffortune,ensouled_enragedspirits",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "172904",
@@ -61,15 +70,6 @@
         "endTime": "2024-11-14 23:56:25",
         "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,elf_elvenimmortality,barbarian_immortal,healer_combatmedic,spell_empower_aegis,spell_empower_highground,melee_charge,melee_followup,bomber_bombardment,centurion_tactician,general_dawnofvictory,tank_guardian,epic_elixirofarchery,shinobi_firetechinique,rogue_shadowcloak,warrior_soldieroffortune,epic_giantsblessing,archer_soulpenetration,fairy_fireflyconjuration,undead_undeadresilience",
         "nextNodeType": "crystalcavethrone"
-    },
-    {
-        "dungeonRunId": "172926",
-        "completedLevels": "19",
-        "twitchDisplayName": "LilithSM",
-        "startTime": "2024-11-14 22:36:38",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,ensouled_fatedspirits,common_specialists,epic_elixirofarchery,ranged_damage_2,ensouled_bravespirits,gladiator_browbeat,gladiator_sonofthunder,archer_soulpenetration,lancer_sarissaspears,undead_undeadresilience,tank_guardian,berserker_rancor,assassin_disappearingact,amazon_vineclone,vampire_darkwings,shinobi_firetechinique,berserker_killing_spree,warrior_soldieroffortune",
-        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "172882",
