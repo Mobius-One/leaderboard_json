@@ -41,7 +41,7 @@
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-11-15 08:56:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,healer_combatmedic,epic_elixirofarchery,support_enchantedstaves",
+        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,spell_empower_aegis,epic_armored_armoredgiants,epic_elixirofresistance,fairy_hocuspocus,rogue_shadowcloak,epic_giantsbrewzero,ranged_damage_2,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,healer_combatmedic,epic_elixirofarchery",
         "nextNodeType": "orctotem"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
-        "dungeonRunId": "172992",
+        "dungeonRunId": "172939",
         "completedLevels": "22",
-        "twitchDisplayName": "hyros_",
-        "startTime": "2024-11-15 10:08:18",
-        "endTime": "2024-11-15 12:48:34",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,spell_empower_aegis,monk_spiritstrike,armored_ignorepain,gladiator_sonofthunder,templar_beaconofhope,saint_exalt,general_dawnofvictory,archer_soulpenetration,lancer_sarissaspears,ranged_damage_2,saint_skeletondance,bomber_dangerzone,ensouled_fatedspirits,barbarian_immortal,ranged_rangergloves,musketeer_grapeshot,healer_dreamy_wardens,shinobi_shadowstrike,epic_giantsblessing,warbeast_terrifying_presence,epic_giantsbrewzero",
-        "nextNodeType": "sportiabasket"
+        "twitchDisplayName": "FleaOnaLeaf",
+        "startTime": "2024-11-14 23:57:11",
+        "endTime": "2024-11-15 03:40:12",
+        "captainBoons": "common_classic_comeback,rogue_sneakattack,shinobi_firetechinique,epic_armored_armoredgiants,monk_stoptheflow,gladiator_sonofthunder,berserker_killing_spree,bomber_dangerzone,ranged_damage_2,epic_epicaspirations,epic_elixirofresistance,elf_elvenimmortality,tank_guardian,epic_elixirofarchery,musketeer_grapeshot,human_humandestiny,vampire_darkwings,robot_robotauthority,flag_1,epic_giantsbrewzero,assassin_disappearingact,common_specialists,healer_combatmedic",
+        "nextNodeType": "shogunateAmbush"
     }
 ]
