@@ -72,21 +72,21 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "172911",
-        "completedLevels": "37",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-11-14 20:57:52",
-        "endTime": "2024-11-15 19:48:54",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,epic_giantsblessing,epic_armored_armoredgiants,epic_elixirofresistance,lancer_firststrike,fairy_fireflyconjuration,general_dawnofvictory,epic_ranged_dragonarrows,ranged_rangergloves,gladiator_sonofthunder,saint_exalt,flying_evasivemaneuvers,paladin_2,ranged_damage_2,necromancer_bombasticbones,epic_elixirofrage,musketeer_grapeshot,epic_epicaspirations,bomber_dangerzone,bomber_bombardment,berserker_rancor,frogue_preparation,epic_melee_gloryofvictory,centurion_tactician,shinobi_firetechinique",
-        "nextNodeType": "moboohm"
-    },
-    {
         "dungeonRunId": "173026",
         "completedLevels": "37",
         "twitchDisplayName": "hyros_",
         "startTime": "2024-11-15 16:22:48",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_giantsblessing,necromancer_bombasticbones,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,gladiator_browbeat,assassin_disappearingact,berserker_killing_spree,flagbearer_bannerofluck,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,support_enchantedstaves,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone",
+        "nextNodeType": "moboohm"
+    },
+    {
+        "dungeonRunId": "172911",
+        "completedLevels": "37",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-11-14 20:57:52",
+        "endTime": "2024-11-15 19:48:54",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,epic_giantsblessing,epic_armored_armoredgiants,epic_elixirofresistance,lancer_firststrike,fairy_fireflyconjuration,general_dawnofvictory,epic_ranged_dragonarrows,ranged_rangergloves,gladiator_sonofthunder,saint_exalt,flying_evasivemaneuvers,paladin_2,ranged_damage_2,necromancer_bombasticbones,epic_elixirofrage,musketeer_grapeshot,epic_epicaspirations,bomber_dangerzone,bomber_bombardment,berserker_rancor,frogue_preparation,epic_melee_gloryofvictory,centurion_tactician,shinobi_firetechinique",
         "nextNodeType": "moboohm"
     }
 ]
