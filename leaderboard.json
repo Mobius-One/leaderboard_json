@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "173001",
-        "completedLevels": "51",
+        "completedLevels": "52",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-15 11:56:19",
         "endTime": null,
-        "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,centurion_tactician,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone,spell_empower_aegis",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,centurion_tactician,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone",
+        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "172930",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "173026",
-        "completedLevels": "36",
+        "completedLevels": "37",
         "twitchDisplayName": "hyros_",
         "startTime": "2024-11-15 16:22:48",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,epic_giantsblessing,necromancer_bombasticbones,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,gladiator_browbeat,assassin_disappearingact,berserker_killing_spree,flagbearer_bannerofluck,ensouled_heroicspirits,gladiator_sonofthunder,common_specialists,saint_exalt,support_enchantedstaves,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone",
-        "nextNodeType": "oasisvalley"
+        "nextNodeType": "moboohm"
     }
 ]
