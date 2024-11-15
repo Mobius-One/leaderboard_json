@@ -54,6 +54,15 @@
         "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
+        "dungeonRunId": "172971",
+        "completedLevels": "22",
+        "twitchDisplayName": "5mokeGhost",
+        "startTime": "2024-11-15 03:59:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike,epic_elixirofrage",
+        "nextNodeType": "wildorcs"
+    },
+    {
         "dungeonRunId": "172939",
         "completedLevels": "22",
         "twitchDisplayName": "FleaOnaLeaf",
@@ -70,15 +79,6 @@
         "endTime": "2024-11-15 03:59:31",
         "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_enragedspirits,ensouled_heroicspirits,epic_giantsbrewzero,ranged_damage_2,common_specialists,epic_elixirofarchery,captain_fragile_commander,phantom_thehaunting,ranged_rangergloves,melee_followup,bomber_bombardment,monk_stoptheflow,epic_giantsblessing,artillery_machine_gun,support_doomingsong,musketeer_grapeshot,ensouled_bravespirits,paladin_layonhands,support_enchantedstaves,buster_nanobusters,epic_elixirofrage",
         "nextNodeType": "beastlandsbug03"
-    },
-    {
-        "dungeonRunId": "172971",
-        "completedLevels": "21",
-        "twitchDisplayName": "5mokeGhost",
-        "startTime": "2024-11-15 03:59:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,support_doomingsong,musketeer_grapeshot,tank_guardian,vampire_darkwings,support_enchantedstaves,epic_ranged_dragonarrows,centurion_tactician,epic_giantsblessing,common_specialists,ranged_rangergloves,ranged_damage_2,berserker_killing_spree,epic_elixirofresistance,undead_undeadresilience,necromancer_bombasticbones,healer_combatmedic,shinobi_firetechinique,spy_fromcaptainwithlove,monk_stoptheflow,gladiator_sonofthunder,lancer_firststrike",
-        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "172926",
