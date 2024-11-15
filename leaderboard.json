@@ -19,21 +19,21 @@
     },
     {
         "dungeonRunId": "172917",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-14 21:40:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,spell_empower_highground,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,fairy_hocuspocus,mage_darkmagic,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
-        "nextNodeType": "crucibleboss"
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,spell_empower_highground,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,mage_darkmagic,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "172928",
-        "completedLevels": "34",
+        "completedLevels": "35",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-14 22:41:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,artillery_machine_gun,armored_ignorepain,epic_epicaspirations,berserker_rancor,berserker_killing_spree,epic_giantsbrewzero,assassin_disappearingact,epic_melee_gloryofvictory,epic_elixirofarchery,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,epic_armored_armoredgiants,warrior_soldieroffortune,shinobi_firetechinique,archer_soulpenetration,epic_elixirofdeath,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
-        "nextNodeType": "newjunglespore"
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "172909",
