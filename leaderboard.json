@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172928",
-        "completedLevels": "66",
+        "completedLevels": "67",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-14 22:41:32",
         "endTime": null,
         "captainBoons": "musketeer_grapeshot,bomber_bombardment,artillery_machine_gun,armored_ignorepain,epic_giantsbrewzero,frogue_preparation,shinobi_firetechinique,archer_soulpenetration,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
-        "nextNodeType": "winterdinos"
+        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "172887",
