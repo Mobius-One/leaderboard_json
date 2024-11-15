@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "172928",
-        "completedLevels": "51",
+        "completedLevels": "52",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-14 22:41:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,bomber_bombardment,artillery_machine_gun,armored_ignorepain,berserker_rancor,berserker_killing_spree,epic_giantsbrewzero,epic_melee_gloryofvictory,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,shinobi_firetechinique,archer_soulpenetration,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,musketeer_grapeshot,bomber_bombardment,artillery_machine_gun,armored_ignorepain,berserker_killing_spree,epic_giantsbrewzero,epic_melee_gloryofvictory,elf_elvenimmortality,warrior_swordofruin,flagbearer_bannerofluck,frogue_preparation,shinobi_firetechinique,archer_soulpenetration,support_enchantedstaves,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
+        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "172887",
@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "172930",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-11-14 22:56:37",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,melee_followup,amazon_vineclone,epic_elixirofrage,robot_robotauthority,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,fairy_fireflyconjuration,elf_elvenimmortality,spell_empower_highground,saint_exalt,general_dawnofvictory,buster_nanobusters,epic_giantsbrewzero,fairy_hocuspocus,bomber_bombardment,melee_charge,epic_armored_armoredgiants,bomber_dangerzone,ensouled_fatedspirits,warrior_soldieroffortune,armored_shieldbash",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,berserker_rancor,melee_followup,amazon_vineclone,epic_elixirofrage,robot_robotauthority,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,fairy_fireflyconjuration,elf_elvenimmortality,spell_empower_highground,saint_exalt,general_dawnofvictory,epic_giantsbrewzero,fairy_hocuspocus,bomber_bombardment,melee_charge,epic_armored_armoredgiants,bomber_dangerzone,ensouled_fatedspirits,warrior_soldieroffortune,armored_shieldbash",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "172909",
