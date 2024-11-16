@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "172917",
+        "dungeonRunId": "173073",
         "completedLevels": "38",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-11-14 21:40:05",
-        "endTime": "2024-11-15 02:06:48",
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,spell_empower_stronghold,warrior_soldieroffortune,elf_elvenimmortality,barbarian_immortal,monk_stoptheflow,epic_giantsblessing,common_specialists,saint_exalt,armored_ignorepain,ensouled_fatedspirits,epic_epicaspirations,epic_elixirofhealth,mage_darkmagic,general_dawnofvictory,archer_soulpenetration,epic_elixirofdeath,melee_followup,phantom_thehaunting,epic_elixirofarchery,assassin_disappearingact,healer_dreamy_wardens,ranged_rangergloves,flying_evasivemaneuvers",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "twitchDisplayName": "Kenku",
+        "startTime": "2024-11-15 23:25:47",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_damage_2,spell_empower_highground,archer_rapidshot,armored_shieldbash,epic_epicaspirations,musketeer_rapidreload,fairy_hocuspocus,barbarian_immortal,bomber_dangerzone,captain_fragile_commander,archer_soulpenetration,musketeer_grapeshot,ranged_rangergloves,berserker_killing_spree,epic_elixirofarchery,general_dawnofvictory,warlock_inferno,tank_tungstenswords,melee_followup,healer_dreamy_wardens,armored_ignorepain,elf_elvenimmortality,tank_guardian,gladiator_sonofthunder",
+        "nextNodeType": "orctotem"
     }
 ]
