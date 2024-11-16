@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "173073",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "Kenku",
         "startTime": "2024-11-15 23:25:47",
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_damage_2,spell_empower_highground,archer_rapidshot,armored_shieldbash,epic_epicaspirations,musketeer_rapidreload,fairy_hocuspocus,barbarian_immortal,bomber_dangerzone,captain_fragile_commander,archer_soulpenetration,musketeer_grapeshot,ranged_rangergloves,berserker_killing_spree,epic_elixirofarchery,general_dawnofvictory,warlock_inferno,tank_tungstenswords,melee_followup,healer_dreamy_wardens,armored_ignorepain,elf_elvenimmortality,tank_guardian,gladiator_sonofthunder",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "frontiercavalry"
     }
 ]
