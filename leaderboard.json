@@ -63,6 +63,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "173112",
+        "completedLevels": "46",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-11-16 06:49:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,spell_empower_highground,musketeer_grapeshot,bomber_bombardment,armored_ignorepain,elf_elvenimmortality,lancer_firststrike,musketeer_rapidreload,robot_robotauthority,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,bomber_dangerzone,shinobi_firetechinique,epic_giantsblessing,epic_melee_gloryofvictory,warrior_soldieroffortune,ensouled_heroicspirits,epic_elixirofdeath,ensouled_enragedspirits,captain_fragile_commander",
+        "nextNodeType": "newjunglespore"
+    },
+    {
         "dungeonRunId": "173002",
         "completedLevels": "45",
         "twitchDisplayName": "Carlos_235",
@@ -70,15 +79,6 @@
         "endTime": "2024-11-15 17:51:40",
         "captainBoons": "epic_elixirofdeath,assassin_disappearingact,ensouled_heroicspirits,musketeer_rapidreload,ranged_damage_2,ensouled_bravespirits,armored_ignorepain,epic_giantsbrewzero,ensouled_enragedspirits,epic_melee_gloryofvictory,phantom_thehaunting,common_specialists,general_dawnofvictory,epic_armored_armoredgiants,warrior_soldieroffortune,melee_followup,orcs_building_rage,epic_elixirofrage,epic_giantsblessing,monk_spiritstrike,lancer_sarissaspears,gladiator_sonofthunder",
         "nextNodeType": "frontiercavalry"
-    },
-    {
-        "dungeonRunId": "173112",
-        "completedLevels": "45",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-11-16 06:49:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,spell_empower_highground,saint_exalt,musketeer_grapeshot,bomber_bombardment,armored_ignorepain,elf_elvenimmortality,lancer_firststrike,musketeer_rapidreload,robot_robotauthority,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,bomber_dangerzone,shinobi_firetechinique,epic_giantsblessing,epic_melee_gloryofvictory,warrior_soldieroffortune,ensouled_heroicspirits,epic_elixirofdeath,ensouled_enragedspirits,captain_fragile_commander",
-        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "173036",
