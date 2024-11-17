@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "173232",
-        "completedLevels": "46",
+        "completedLevels": "47",
         "twitchDisplayName": "3aglesdwm",
         "startTime": "2024-11-17 03:04:35",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_elixirofrage,epic_giantsblessing,archer_soulpenetration,ensouled_enragedspirits,warrior_swordofruin,berserker_rancor,ranged_damage_2,epic_elixirofarchery,melee_followup,epic_melee_gloryofvictory,warrior_soldieroffortune,general_dawnofvictory,healer_dreamy_wardens,epic_giantsbrewzero,flying_evasivemaneuvers,ensouled_bravespirits,musketeer_rapidreload,barbarian_immortal,bomber_dangerzone,support_enchantedstaves",
-        "nextNodeType": "olympiadgodgroupFullEF"
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "172990",
