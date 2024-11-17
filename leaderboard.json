@@ -1,12 +1,12 @@
 [
     {
-        "dungeonRunId": "172928",
-        "completedLevels": "68",
+        "dungeonRunId": "173204",
+        "completedLevels": "69",
         "twitchDisplayName": "Angel",
-        "startTime": "2024-11-14 22:41:32",
-        "endTime": "2024-11-15 04:40:43",
-        "captainBoons": "musketeer_grapeshot,bomber_bombardment,artillery_machine_gun,armored_ignorepain,frogue_preparation,shinobi_firetechinique,archer_soulpenetration,necromancer_bombasticbones,shinobi_shadowstrike,ensouled_enragedspirits",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "startTime": "2024-11-16 22:31:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_bombardment,musketeer_rapidreload,healer_dreamy_wardens,barbarian_immortal,epic_elixirofarchery,elf_elvenimmortality,epic_elixirofrage,archer_soulpenetration",
+        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "173026",
