@@ -54,6 +54,15 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
+        "dungeonRunId": "173351",
+        "completedLevels": "47",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-11-17 20:32:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,epic_giantsblessing,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,necromancer_bombasticbones,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
+        "nextNodeType": "crystalcavethrone"
+    },
+    {
         "dungeonRunId": "173112",
         "completedLevels": "47",
         "twitchDisplayName": "JayEmDee",
@@ -70,15 +79,6 @@
         "endTime": "2024-11-15 20:59:58",
         "captainBoons": "common_classic_comeback,ensouled_enragedspirits,necromancer_bombasticbones,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
         "nextNodeType": "crystalcavethrone"
-    },
-    {
-        "dungeonRunId": "173351",
-        "completedLevels": "46",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-11-17 20:32:15",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,epic_giantsblessing,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,necromancer_bombasticbones,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
-        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "173354",
