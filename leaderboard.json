@@ -36,6 +36,15 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
+        "dungeonRunId": "173330",
+        "completedLevels": "50",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-11-17 18:08:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_sneakattack,general_dawnofvictory,berserker_killing_spree,ranged_damage_2,flag_1,gladiator_browbeat,melee_followup,spell_empower_highground,ensouled_bravespirits,bomber_bombardment,armored_ignorepain,musketeer_grapeshot,warbeast_terrifying_presence,saint_exalt,elf_elvenimmortality,common_specialists,epic_elixirofarchery,blob_parasite",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
         "dungeonRunId": "173232",
         "completedLevels": "49",
         "twitchDisplayName": "3aglesdwm",
@@ -43,15 +52,6 @@
         "endTime": "2024-11-17 08:18:05",
         "captainBoons": "common_classic_comeback,epic_elixirofrage,epic_giantsblessing,archer_soulpenetration,ensouled_enragedspirits,warrior_swordofruin,berserker_rancor,ranged_damage_2,epic_elixirofarchery,epic_melee_gloryofvictory,warrior_soldieroffortune,general_dawnofvictory,healer_dreamy_wardens,epic_giantsbrewzero,flying_evasivemaneuvers,ensouled_bravespirits,musketeer_rapidreload,barbarian_immortal,bomber_dangerzone,support_enchantedstaves",
         "nextNodeType": "elementalwaterstream"
-    },
-    {
-        "dungeonRunId": "172887",
-        "completedLevels": "49",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-11-14 19:07:09",
-        "endTime": "2024-11-15 01:05:38",
-        "captainBoons": "common_classic_comeback,elf_elvenimmortality,bomber_bombardment,saint_exalt,spell_empower_highground,epic_elixirofdeath,general_dawnofvictory,flag_1,epic_elixirofrage,musketeer_grapeshot,necromancer_bombasticbones,lancer_sarissaspears,gladiator_sonofthunder,bomber_dangerzone,ranged_damage_2,epic_elixirofresistance,melee_followup,flagbearer_bannerofluck,blob_parasite,epic_elixirofarchery",
-        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "173112",
