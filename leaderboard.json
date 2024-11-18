@@ -54,15 +54,6 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
-        "dungeonRunId": "173442",
-        "completedLevels": "51",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-11-18 16:12:13",
-        "endTime": "2024-11-18 23:11:30",
-        "captainBoons": "common_classic_comeback,ensouled_bravespirits,bomber_dangerzone,general_dawnofvictory,fairy_fireflyconjuration,ensouled_enragedspirits,ensouled_heroicspirits,epic_elixirofrage,melee_followup,epic_giantsblessing,common_specialists,musketeer_rapidreload,epic_elixirofresistance,bomber_bombardment,ensouled_fatedspirits,archer_soulpenetration,epic_elixirofarchery,berserker_killing_spree,barbarian_gloriousdeath",
-        "nextNodeType": "skyportals"
-    },
-    {
         "dungeonRunId": "173351",
         "completedLevels": "51",
         "twitchDisplayName": "lont123",
@@ -70,6 +61,15 @@
         "endTime": "2024-11-18 03:14:09",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
         "nextNodeType": "plaguegrotto"
+    },
+    {
+        "dungeonRunId": "173442",
+        "completedLevels": "51",
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-11-18 16:12:13",
+        "endTime": "2024-11-18 23:11:30",
+        "captainBoons": "common_classic_comeback,ensouled_bravespirits,bomber_dangerzone,general_dawnofvictory,fairy_fireflyconjuration,ensouled_enragedspirits,ensouled_heroicspirits,epic_elixirofrage,melee_followup,epic_giantsblessing,common_specialists,musketeer_rapidreload,epic_elixirofresistance,bomber_bombardment,ensouled_fatedspirits,archer_soulpenetration,epic_elixirofarchery,berserker_killing_spree,barbarian_gloriousdeath",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "172930",
