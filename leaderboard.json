@@ -36,6 +36,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "173387",
+        "completedLevels": "51",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-11-18 02:01:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,support_doomingsong,gladiator_sonofthunder,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,paladin_2,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
+        "nextNodeType": "sportiabasket"
+    },
+    {
         "dungeonRunId": "173351",
         "completedLevels": "51",
         "twitchDisplayName": "lont123",
@@ -43,15 +52,6 @@
         "endTime": "2024-11-18 03:14:09",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
         "nextNodeType": "plaguegrotto"
-    },
-    {
-        "dungeonRunId": "173387",
-        "completedLevels": "50",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-11-18 02:01:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,support_doomingsong,gladiator_sonofthunder,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,paladin_2,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
-        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "172930",
