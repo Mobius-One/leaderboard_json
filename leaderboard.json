@@ -72,12 +72,12 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "173433",
-        "completedLevels": "48",
+        "dungeonRunId": "173158",
+        "completedLevels": "49",
         "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-11-18 13:05:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_fatedspirits,blob_parasite,epic_elixirofrage,epic_giantsblessing,ranged_damage_2,fairy_fireflyconjuration,elf_elvenimmortality,epic_epicaspirations,saint_skeletondance,epic_elixirofarchery,assassin_disappearingact,support_doomingsong,ensouled_heroicspirits,archer_soulpenetration,epic_elixirofresistance,tank_guardian,flagbearer_bannerofluck,gladiator_sonofthunder",
+        "startTime": "2024-11-16 16:05:18",
+        "endTime": "2024-11-16 21:52:02",
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,flagbearer_bannerofluck,bomber_bombardment,bomber_dangerzone,ranged_damage_2,epic_giantsbrewzero,human_humandestiny,ensouled_fatedspirits,berserker_rancor,gladiator_sonofthunder,saint_skeletondance,epic_elixirofresistance,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,armored_shieldbash",
         "nextNodeType": "winterdinos"
     },
     {
