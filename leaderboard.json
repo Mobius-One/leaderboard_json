@@ -9,6 +9,15 @@
         "nextNodeType": "crucibleboss"
     },
     {
+        "dungeonRunId": "173387",
+        "completedLevels": "58",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-11-18 02:01:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,support_doomingsong,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
+        "nextNodeType": "moboohm"
+    },
+    {
         "dungeonRunId": "173026",
         "completedLevels": "58",
         "twitchDisplayName": "hyros_",
@@ -16,15 +25,6 @@
         "endTime": "2024-11-16 00:32:45",
         "captainBoons": "common_classic_comeback,epic_giantsblessing,necromancer_bombasticbones,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,berserker_killing_spree,ensouled_heroicspirits,common_specialists,saint_exalt,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,bomber_dangerzone",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "173387",
-        "completedLevels": "57",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-11-18 02:01:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,support_doomingsong,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
-        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "173001",
@@ -72,15 +72,6 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "173112",
-        "completedLevels": "47",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-11-16 06:49:58",
-        "endTime": "2024-11-16 13:10:57",
-        "captainBoons": "common_classic_comeback,spell_empower_highground,musketeer_grapeshot,bomber_bombardment,armored_ignorepain,elf_elvenimmortality,lancer_firststrike,musketeer_rapidreload,robot_robotauthority,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,bomber_dangerzone,shinobi_firetechinique,epic_giantsblessing,epic_melee_gloryofvictory,warrior_soldieroffortune,ensouled_heroicspirits,epic_elixirofdeath,ensouled_enragedspirits,captain_fragile_commander",
-        "nextNodeType": "crucibleboss"
-    },
-    {
         "dungeonRunId": "173011",
         "completedLevels": "47",
         "twitchDisplayName": "Meistar",
@@ -88,5 +79,14 @@
         "endTime": "2024-11-15 20:59:58",
         "captainBoons": "common_classic_comeback,ensouled_enragedspirits,necromancer_bombasticbones,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
         "nextNodeType": "crystalcavethrone"
+    },
+    {
+        "dungeonRunId": "173112",
+        "completedLevels": "47",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-11-16 06:49:58",
+        "endTime": "2024-11-16 13:10:57",
+        "captainBoons": "common_classic_comeback,spell_empower_highground,musketeer_grapeshot,bomber_bombardment,armored_ignorepain,elf_elvenimmortality,lancer_firststrike,musketeer_rapidreload,robot_robotauthority,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,bomber_dangerzone,shinobi_firetechinique,epic_giantsblessing,epic_melee_gloryofvictory,warrior_soldieroffortune,ensouled_heroicspirits,epic_elixirofdeath,ensouled_enragedspirits,captain_fragile_commander",
+        "nextNodeType": "crucibleboss"
     }
 ]
