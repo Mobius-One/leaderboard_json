@@ -54,6 +54,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "173442",
+        "completedLevels": "51",
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-11-18 16:12:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ensouled_bravespirits,bomber_dangerzone,general_dawnofvictory,fairy_fireflyconjuration,ensouled_enragedspirits,ensouled_heroicspirits,epic_elixirofrage,melee_followup,epic_giantsblessing,common_specialists,musketeer_rapidreload,epic_elixirofresistance,bomber_bombardment,ensouled_fatedspirits,archer_soulpenetration,epic_elixirofarchery,berserker_killing_spree,barbarian_gloriousdeath",
+        "nextNodeType": "skyportals"
+    },
+    {
         "dungeonRunId": "173351",
         "completedLevels": "51",
         "twitchDisplayName": "lont123",
@@ -69,15 +78,6 @@
         "startTime": "2024-11-14 22:56:37",
         "endTime": "2024-11-15 05:43:29",
         "captainBoons": "common_classic_comeback,amazon_vineclone,epic_elixirofrage,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,elf_elvenimmortality,spell_empower_highground,saint_exalt,epic_giantsbrewzero,bomber_bombardment,melee_charge,epic_armored_armoredgiants,bomber_dangerzone,ensouled_fatedspirits,armored_shieldbash",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "173442",
-        "completedLevels": "50",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-11-18 16:12:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ensouled_bravespirits,bomber_dangerzone,general_dawnofvictory,fairy_fireflyconjuration,ensouled_enragedspirits,ensouled_heroicspirits,epic_elixirofrage,melee_followup,epic_giantsblessing,common_specialists,musketeer_rapidreload,epic_elixirofresistance,bomber_bombardment,ensouled_fatedspirits,archer_soulpenetration,epic_elixirofarchery,berserker_killing_spree,barbarian_gloriousdeath",
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
