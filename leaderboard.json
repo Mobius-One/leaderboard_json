@@ -81,12 +81,12 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "173011",
-        "completedLevels": "47",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-11-15 14:52:05",
-        "endTime": "2024-11-15 20:59:58",
-        "captainBoons": "common_classic_comeback,ensouled_enragedspirits,necromancer_bombasticbones,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
-        "nextNodeType": "crystalcavethrone"
+        "dungeonRunId": "173442",
+        "completedLevels": "48",
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-11-18 16:12:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ensouled_bravespirits,bomber_dangerzone,general_dawnofvictory,fairy_fireflyconjuration,ensouled_enragedspirits,ensouled_heroicspirits,epic_elixirofrage,melee_followup,epic_giantsblessing,common_specialists,musketeer_rapidreload,buster_nanobusters,epic_elixirofresistance,bomber_bombardment,ensouled_fatedspirits,archer_soulpenetration,epic_elixirofarchery,berserker_killing_spree,barbarian_gloriousdeath",
+        "nextNodeType": "plaguegrotto"
     }
 ]
