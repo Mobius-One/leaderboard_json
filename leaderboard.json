@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "173387",
-        "completedLevels": "56",
+        "completedLevels": "57",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2024-11-18 02:01:54",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,support_doomingsong,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
-        "nextNodeType": "crystalcavethrone"
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "173001",
