@@ -72,21 +72,21 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "173011",
-        "completedLevels": "47",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-11-15 14:52:05",
-        "endTime": "2024-11-15 20:59:58",
-        "captainBoons": "common_classic_comeback,ensouled_enragedspirits,necromancer_bombasticbones,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
-        "nextNodeType": "crystalcavethrone"
-    },
-    {
         "dungeonRunId": "173410",
         "completedLevels": "47",
         "twitchDisplayName": "RealAlize",
         "startTime": "2024-11-18 06:21:18",
         "endTime": "2024-11-18 11:50:45",
         "captainBoons": "common_classic_comeback,epic_elixirofhealth,ensouled_fatedspirits,bomber_bombardment,musketeer_rapidreload,elf_elvenimmortality,berserker_rancor,musketeer_grapeshot,warrior_swordofruin,warrior_soldieroffortune,ranged_damage_2,epic_armored_armoredgiants,archer_soulpenetration,saint_exalt,assassin_disappearingact,blob_parasite,ranged_rangergloves,epic_melee_gloryofvictory,melee_followup,epic_ranged_dragonarrows,epic_elixirofresistance",
+        "nextNodeType": "crucibleboss"
+    },
+    {
+        "dungeonRunId": "173112",
+        "completedLevels": "47",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-11-16 06:49:58",
+        "endTime": "2024-11-16 13:10:57",
+        "captainBoons": "common_classic_comeback,spell_empower_highground,musketeer_grapeshot,bomber_bombardment,armored_ignorepain,elf_elvenimmortality,lancer_firststrike,musketeer_rapidreload,robot_robotauthority,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,bomber_dangerzone,shinobi_firetechinique,epic_giantsblessing,epic_melee_gloryofvictory,warrior_soldieroffortune,ensouled_heroicspirits,epic_elixirofdeath,ensouled_enragedspirits,captain_fragile_commander",
         "nextNodeType": "crucibleboss"
     }
 ]
