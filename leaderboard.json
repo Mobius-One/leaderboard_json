@@ -72,21 +72,21 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "172990",
+        "dungeonRunId": "173351",
         "completedLevels": "46",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-11-15 08:56:06",
-        "endTime": "2024-11-15 14:58:53",
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,blob_parasite,gladiator_browbeat,general_dawnofvictory,berserker_killing_spree,gladiator_sonofthunder,common_specialists,armored_ignorepain,ensouled_fatedspirits,mage_darkmagic,support_doomingsong,epic_armored_armoredgiants,epic_elixirofresistance,rogue_shadowcloak,epic_giantsbrewzero,orcs_building_rage,bomber_dangerzone,warrior_swordofruin,epic_elixirofarchery",
-        "nextNodeType": "newjunglespore"
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-11-17 20:32:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,epic_giantsblessing,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,necromancer_bombasticbones,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
+        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "173354",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-11-17 20:53:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_rapidshot,artillery_machine_gun,general_dawnofvictory,common_specialists,ranged_rangergloves,musketeer_grapeshot,epic_elixirofdeath,ensouled_enragedspirits,musketeer_rapidreload,epic_giantsblessing,epic_melee_gloryofvictory,armored_shieldbash,barbarian_immortal,fairy_fireflyconjuration,melee_followup,flag_1,gladiator_sonofthunder,bomber_bombardment,armored_ignorepain,epic_elixirofrage,captain_fragile_commander",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,archer_rapidshot,artillery_machine_gun,general_dawnofvictory,common_specialists,ranged_rangergloves,musketeer_grapeshot,epic_elixirofdeath,ensouled_enragedspirits,musketeer_rapidreload,epic_giantsblessing,epic_melee_gloryofvictory,armored_shieldbash,barbarian_immortal,fairy_fireflyconjuration,melee_followup,flag_1,gladiator_sonofthunder,bomber_bombardment,armored_ignorepain,captain_fragile_commander",
+        "nextNodeType": "newjunglespore"
     }
 ]
