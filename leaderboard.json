@@ -45,6 +45,15 @@
         "nextNodeType": "plaguegrotto"
     },
     {
+        "dungeonRunId": "173387",
+        "completedLevels": "50",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-11-18 02:01:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,support_doomingsong,gladiator_sonofthunder,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,paladin_2,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
+        "nextNodeType": "crucibleboss"
+    },
+    {
         "dungeonRunId": "172930",
         "completedLevels": "50",
         "twitchDisplayName": "bakodemeester",
@@ -52,15 +61,6 @@
         "endTime": "2024-11-15 05:43:29",
         "captainBoons": "common_classic_comeback,amazon_vineclone,epic_elixirofrage,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,elf_elvenimmortality,spell_empower_highground,saint_exalt,epic_giantsbrewzero,bomber_bombardment,melee_charge,epic_armored_armoredgiants,bomber_dangerzone,ensouled_fatedspirits,armored_shieldbash",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "173387",
-        "completedLevels": "49",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-11-18 02:01:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,support_doomingsong,gladiator_sonofthunder,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,paladin_2,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,epic_elixirofdeath,melee_followup",
-        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "173232",
