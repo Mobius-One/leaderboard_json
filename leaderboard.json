@@ -81,12 +81,12 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "173410",
+        "dungeonRunId": "173011",
         "completedLevels": "47",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-11-18 06:21:18",
-        "endTime": "2024-11-18 11:50:45",
-        "captainBoons": "common_classic_comeback,epic_elixirofhealth,ensouled_fatedspirits,bomber_bombardment,musketeer_rapidreload,elf_elvenimmortality,berserker_rancor,musketeer_grapeshot,warrior_swordofruin,warrior_soldieroffortune,ranged_damage_2,epic_armored_armoredgiants,archer_soulpenetration,saint_exalt,assassin_disappearingact,blob_parasite,ranged_rangergloves,epic_melee_gloryofvictory,melee_followup,epic_ranged_dragonarrows,epic_elixirofresistance",
-        "nextNodeType": "crucibleboss"
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-11-15 14:52:05",
+        "endTime": "2024-11-15 20:59:58",
+        "captainBoons": "common_classic_comeback,ensouled_enragedspirits,necromancer_bombasticbones,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
+        "nextNodeType": "crystalcavethrone"
     }
 ]
