@@ -54,6 +54,15 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
+        "dungeonRunId": "173351",
+        "completedLevels": "48",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-11-17 20:32:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,necromancer_bombasticbones,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
+        "nextNodeType": "wildorcs"
+    },
+    {
         "dungeonRunId": "173112",
         "completedLevels": "47",
         "twitchDisplayName": "JayEmDee",
@@ -61,15 +70,6 @@
         "endTime": "2024-11-16 13:10:57",
         "captainBoons": "common_classic_comeback,spell_empower_highground,musketeer_grapeshot,bomber_bombardment,armored_ignorepain,elf_elvenimmortality,lancer_firststrike,musketeer_rapidreload,robot_robotauthority,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,bomber_dangerzone,shinobi_firetechinique,epic_giantsblessing,epic_melee_gloryofvictory,warrior_soldieroffortune,ensouled_heroicspirits,epic_elixirofdeath,ensouled_enragedspirits,captain_fragile_commander",
         "nextNodeType": "crucibleboss"
-    },
-    {
-        "dungeonRunId": "173351",
-        "completedLevels": "47",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-11-17 20:32:15",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,epic_giantsblessing,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,necromancer_bombasticbones,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
-        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "173011",
