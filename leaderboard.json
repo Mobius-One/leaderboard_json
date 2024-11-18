@@ -54,15 +54,6 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "173112",
-        "completedLevels": "47",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-11-16 06:49:58",
-        "endTime": "2024-11-16 13:10:57",
-        "captainBoons": "common_classic_comeback,spell_empower_highground,musketeer_grapeshot,bomber_bombardment,armored_ignorepain,elf_elvenimmortality,lancer_firststrike,musketeer_rapidreload,robot_robotauthority,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,bomber_dangerzone,shinobi_firetechinique,epic_giantsblessing,epic_melee_gloryofvictory,warrior_soldieroffortune,ensouled_heroicspirits,epic_elixirofdeath,ensouled_enragedspirits,captain_fragile_commander",
-        "nextNodeType": "crucibleboss"
-    },
-    {
         "dungeonRunId": "173011",
         "completedLevels": "47",
         "twitchDisplayName": "Meistar",
@@ -70,6 +61,15 @@
         "endTime": "2024-11-15 20:59:58",
         "captainBoons": "common_classic_comeback,ensouled_enragedspirits,necromancer_bombasticbones,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
         "nextNodeType": "crystalcavethrone"
+    },
+    {
+        "dungeonRunId": "173112",
+        "completedLevels": "47",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-11-16 06:49:58",
+        "endTime": "2024-11-16 13:10:57",
+        "captainBoons": "common_classic_comeback,spell_empower_highground,musketeer_grapeshot,bomber_bombardment,armored_ignorepain,elf_elvenimmortality,lancer_firststrike,musketeer_rapidreload,robot_robotauthority,epic_elixirofarchery,assassin_disappearingact,epic_epicaspirations,bomber_dangerzone,shinobi_firetechinique,epic_giantsblessing,epic_melee_gloryofvictory,warrior_soldieroffortune,ensouled_heroicspirits,epic_elixirofdeath,ensouled_enragedspirits,captain_fragile_commander",
+        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "172990",
