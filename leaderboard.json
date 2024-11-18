@@ -45,15 +45,6 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "173232",
-        "completedLevels": "49",
-        "twitchDisplayName": "3aglesdwm",
-        "startTime": "2024-11-17 03:04:35",
-        "endTime": "2024-11-17 08:18:05",
-        "captainBoons": "common_classic_comeback,epic_elixirofrage,epic_giantsblessing,archer_soulpenetration,ensouled_enragedspirits,warrior_swordofruin,berserker_rancor,ranged_damage_2,epic_elixirofarchery,epic_melee_gloryofvictory,warrior_soldieroffortune,general_dawnofvictory,healer_dreamy_wardens,epic_giantsbrewzero,flying_evasivemaneuvers,ensouled_bravespirits,musketeer_rapidreload,barbarian_immortal,bomber_dangerzone,support_enchantedstaves",
-        "nextNodeType": "elementalwaterstream"
-    },
-    {
         "dungeonRunId": "173351",
         "completedLevels": "49",
         "twitchDisplayName": "lont123",
@@ -61,6 +52,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,necromancer_bombasticbones,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
         "nextNodeType": "newjunglespore"
+    },
+    {
+        "dungeonRunId": "173232",
+        "completedLevels": "49",
+        "twitchDisplayName": "3aglesdwm",
+        "startTime": "2024-11-17 03:04:35",
+        "endTime": "2024-11-17 08:18:05",
+        "captainBoons": "common_classic_comeback,epic_elixirofrage,epic_giantsblessing,archer_soulpenetration,ensouled_enragedspirits,warrior_swordofruin,berserker_rancor,ranged_damage_2,epic_elixirofarchery,epic_melee_gloryofvictory,warrior_soldieroffortune,general_dawnofvictory,healer_dreamy_wardens,epic_giantsbrewzero,flying_evasivemaneuvers,ensouled_bravespirits,musketeer_rapidreload,barbarian_immortal,bomber_dangerzone,support_enchantedstaves",
+        "nextNodeType": "elementalwaterstream"
     },
     {
         "dungeonRunId": "173112",
