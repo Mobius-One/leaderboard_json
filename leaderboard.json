@@ -63,6 +63,15 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
+        "dungeonRunId": "173387",
+        "completedLevels": "47",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-11-18 02:01:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,support_doomingsong,gladiator_sonofthunder,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,support_enchantedstaves,paladin_2,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,epic_elixirofdeath,melee_followup",
+        "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
         "dungeonRunId": "173112",
         "completedLevels": "47",
         "twitchDisplayName": "JayEmDee",
@@ -79,14 +88,5 @@
         "endTime": "2024-11-15 20:59:58",
         "captainBoons": "common_classic_comeback,ensouled_enragedspirits,necromancer_bombasticbones,epic_elixirofarchery,epic_giantsblessing,common_specialists,epic_elixirofhealth,archer_soulpenetration,general_dawnofvictory,warrior_swordofruin,bomber_dangerzone,musketeer_rapidreload,captain_fragile_commander,blob_parasite,warrior_soldieroffortune,ranged_damage_2,epic_ranged_dragonarrows,armored_ignorepain,gladiator_sonofthunder,tank_tungstenswords,support_enchantedstaves",
         "nextNodeType": "crystalcavethrone"
-    },
-    {
-        "dungeonRunId": "173387",
-        "completedLevels": "47",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-11-18 02:01:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,elf_elvenimmortality,support_doomingsong,gladiator_sonofthunder,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,support_enchantedstaves,paladin_2,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,epic_elixirofdeath,melee_followup",
-        "nextNodeType": "dungeons_boss_firerocks"
     }
 ]
