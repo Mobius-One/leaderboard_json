@@ -18,6 +18,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "173387",
+        "completedLevels": "54",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2024-11-18 02:01:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,support_doomingsong,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,paladin_2,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
+        "nextNodeType": "olympiadgodgroupFullEF"
+    },
+    {
         "dungeonRunId": "173001",
         "completedLevels": "54",
         "twitchDisplayName": "Rafipi",
@@ -25,15 +34,6 @@
         "endTime": "2024-11-15 21:52:40",
         "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone",
         "nextNodeType": "spaceairlock"
-    },
-    {
-        "dungeonRunId": "173387",
-        "completedLevels": "53",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2024-11-18 02:01:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,support_doomingsong,gladiator_sonofthunder,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,paladin_2,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,epic_giantsbrewzero,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "173330",
