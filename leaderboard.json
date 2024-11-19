@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "173543",
-        "completedLevels": "69",
+        "completedLevels": "70",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-11-19 11:16:24",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,archer_soulpenetration,berserker_rancor,epic_elixirofarchery,musketeer_grapeshot,bomber_dangerzone,support_doomingsong,gladiator_browbeat,ensouled_enragedspirits",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,saint_exalt,archer_soulpenetration,berserker_rancor,epic_elixirofarchery,musketeer_grapeshot,bomber_dangerzone,gladiator_browbeat,ensouled_enragedspirits",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "173387",
