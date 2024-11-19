@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "173516",
-        "completedLevels": "55",
+        "completedLevels": "56",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-19 04:09:28",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_enchantedstaves,ensouled_heroicspirits,musketeer_grapeshot,blob_parasite,warrior_soldieroffortune,epic_giantsblessing,warrior_swordofruin,bomber_bombardment,saint_exalt,general_dawnofvictory,bomber_dangerzone,ranged_damage_2,epic_melee_gloryofvictory,common_specialists,epic_elixirofresistance,gladiator_sonofthunder",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "common_classic_comeback,ensouled_heroicspirits,musketeer_grapeshot,blob_parasite,warrior_soldieroffortune,epic_giantsblessing,warrior_swordofruin,bomber_bombardment,saint_exalt,general_dawnofvictory,bomber_dangerzone,ranged_damage_2,epic_melee_gloryofvictory,common_specialists,epic_elixirofresistance,gladiator_sonofthunder",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "173433",
