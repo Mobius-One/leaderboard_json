@@ -9,21 +9,21 @@
         "nextNodeType": "crucibleboss"
     },
     {
+        "dungeonRunId": "173543",
+        "completedLevels": "60",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-11-19 11:16:24",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_elixirofresistance,saint_exalt,mage_darkmagic,archer_soulpenetration,berserker_rancor,epic_elixirofarchery,assassin_disappearingact,musketeer_grapeshot,blob_parasite,bomber_dangerzone,support_doomingsong,gladiator_browbeat,ensouled_enragedspirits",
+        "nextNodeType": "raidhallapath"
+    },
+    {
         "dungeonRunId": "173387",
         "completedLevels": "59",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2024-11-18 02:01:54",
         "endTime": "2024-11-18 08:56:54",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,support_doomingsong,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
-        "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "173543",
-        "completedLevels": "59",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-11-19 11:16:24",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofresistance,saint_exalt,mage_darkmagic,archer_soulpenetration,berserker_rancor,gladiator_sonofthunder,epic_elixirofarchery,assassin_disappearingact,musketeer_grapeshot,blob_parasite,bomber_dangerzone,support_doomingsong,gladiator_browbeat,ensouled_enragedspirits",
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
@@ -45,15 +45,6 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "173001",
-        "completedLevels": "54",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-11-15 11:56:19",
-        "endTime": "2024-11-15 21:52:40",
-        "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone",
-        "nextNodeType": "spaceairlock"
-    },
-    {
         "dungeonRunId": "173433",
         "completedLevels": "54",
         "twitchDisplayName": "OvidiuZ94",
@@ -61,6 +52,15 @@
         "endTime": "2024-11-18 19:54:48",
         "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_fatedspirits,blob_parasite,epic_elixirofrage,fairy_fireflyconjuration,elf_elvenimmortality,epic_epicaspirations,saint_skeletondance,epic_elixirofarchery,assassin_disappearingact,support_doomingsong,ensouled_heroicspirits,archer_soulpenetration,epic_elixirofresistance,flagbearer_bannerofluck,gladiator_sonofthunder",
         "nextNodeType": "shogunateAmbush"
+    },
+    {
+        "dungeonRunId": "173001",
+        "completedLevels": "54",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-11-15 11:56:19",
+        "endTime": "2024-11-15 21:52:40",
+        "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone",
+        "nextNodeType": "spaceairlock"
     },
     {
         "dungeonRunId": "173442",
