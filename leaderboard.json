@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "173543",
-        "completedLevels": "64",
+        "completedLevels": "65",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-11-19 11:16:24",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,mage_darkmagic,archer_soulpenetration,berserker_rancor,epic_elixirofarchery,musketeer_grapeshot,blob_parasite,bomber_dangerzone,support_doomingsong,gladiator_browbeat,ensouled_enragedspirits",
-        "nextNodeType": "winterdinos"
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "173387",
