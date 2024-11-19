@@ -54,13 +54,13 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
-        "dungeonRunId": "173442",
-        "completedLevels": "51",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-11-18 16:12:13",
-        "endTime": "2024-11-18 23:11:30",
-        "captainBoons": "common_classic_comeback,ensouled_bravespirits,bomber_dangerzone,general_dawnofvictory,fairy_fireflyconjuration,ensouled_enragedspirits,ensouled_heroicspirits,epic_elixirofrage,melee_followup,epic_giantsblessing,common_specialists,musketeer_rapidreload,epic_elixirofresistance,bomber_bombardment,ensouled_fatedspirits,archer_soulpenetration,epic_elixirofarchery,berserker_killing_spree,barbarian_gloriousdeath",
-        "nextNodeType": "skyportals"
+        "dungeonRunId": "173543",
+        "completedLevels": "52",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-11-19 11:16:24",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_elixirofresistance,orcs_building_rage,saint_exalt,mage_darkmagic,archer_soulpenetration,berserker_rancor,gladiator_sonofthunder,epic_elixirofarchery,assassin_disappearingact,musketeer_grapeshot,blob_parasite,bomber_dangerzone,common_specialists,support_doomingsong,phantom_thehaunting,gladiator_browbeat,ensouled_enragedspirits",
+        "nextNodeType": "elementalwaterstream"
     },
     {
         "dungeonRunId": "173351",
@@ -72,13 +72,13 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "173543",
+        "dungeonRunId": "173442",
         "completedLevels": "51",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-11-19 11:16:24",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_elixirofresistance,melee_followup,orcs_building_rage,saint_exalt,mage_darkmagic,archer_soulpenetration,berserker_rancor,gladiator_sonofthunder,epic_elixirofarchery,assassin_disappearingact,musketeer_grapeshot,blob_parasite,bomber_dangerzone,common_specialists,support_doomingsong,phantom_thehaunting,gladiator_browbeat,ensouled_enragedspirits",
-        "nextNodeType": "moboohm"
+        "twitchDisplayName": "FinalSun",
+        "startTime": "2024-11-18 16:12:13",
+        "endTime": "2024-11-18 23:11:30",
+        "captainBoons": "common_classic_comeback,ensouled_bravespirits,bomber_dangerzone,general_dawnofvictory,fairy_fireflyconjuration,ensouled_enragedspirits,ensouled_heroicspirits,epic_elixirofrage,melee_followup,epic_giantsblessing,common_specialists,musketeer_rapidreload,epic_elixirofresistance,bomber_bombardment,ensouled_fatedspirits,archer_soulpenetration,epic_elixirofarchery,berserker_killing_spree,barbarian_gloriousdeath",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "172930",
