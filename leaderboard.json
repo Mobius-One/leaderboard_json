@@ -63,15 +63,6 @@
         "nextNodeType": "spaceairlock"
     },
     {
-        "dungeonRunId": "173351",
-        "completedLevels": "51",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-11-17 20:32:15",
-        "endTime": "2024-11-18 03:14:09",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
         "dungeonRunId": "173442",
         "completedLevels": "51",
         "twitchDisplayName": "FinalSun",
@@ -81,12 +72,21 @@
         "nextNodeType": "skyportals"
     },
     {
-        "dungeonRunId": "172930",
-        "completedLevels": "50",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-11-14 22:56:37",
-        "endTime": "2024-11-15 05:43:29",
-        "captainBoons": "common_classic_comeback,amazon_vineclone,epic_elixirofrage,warrior_swordofruin,epic_elixirofhealth,musketeer_grapeshot,necromancer_bombasticbones,epic_elixirofarchery,assassin_disappearingact,elf_elvenimmortality,spell_empower_highground,saint_exalt,epic_giantsbrewzero,bomber_bombardment,melee_charge,epic_armored_armoredgiants,bomber_dangerzone,ensouled_fatedspirits,armored_shieldbash",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "dungeonRunId": "173351",
+        "completedLevels": "51",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-11-17 20:32:15",
+        "endTime": "2024-11-18 03:14:09",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
+        "nextNodeType": "plaguegrotto"
+    },
+    {
+        "dungeonRunId": "173586",
+        "completedLevels": "51",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-11-19 20:00:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,assassin_agility,archer_soulpenetration,ranged_rangergloves,ensouled_enragedspirits,bomber_bombardment,saint_exalt,assassin_disappearingact,fairy_fireflyconjuration,undead_undeadresilience,human_humandestiny,epic_giantsblessing,ensouled_heroicspirits,bomber_dangerzone,epic_ranged_dragonarrows,armored_shieldbash,epic_elixirofarchery,ensouled_fatedspirits,armored_ignorepain",
+        "nextNodeType": "elementalwaterstream"
     }
 ]
