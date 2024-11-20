@@ -27,15 +27,6 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "173516",
-        "completedLevels": "58",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-11-19 04:09:28",
-        "endTime": "2024-11-19 10:23:12",
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,blob_parasite,warrior_soldieroffortune,epic_giantsblessing,warrior_swordofruin,bomber_bombardment,saint_exalt,general_dawnofvictory,bomber_dangerzone,ranged_damage_2,epic_melee_gloryofvictory,common_specialists,epic_elixirofresistance,gladiator_sonofthunder",
-        "nextNodeType": "olympiadgodgroupFullEF"
-    },
-    {
         "dungeonRunId": "173026",
         "completedLevels": "58",
         "twitchDisplayName": "hyros_",
@@ -43,6 +34,15 @@
         "endTime": "2024-11-16 00:32:45",
         "captainBoons": "common_classic_comeback,epic_giantsblessing,necromancer_bombasticbones,lancer_sarissaspears,general_dawnofvictory,artillery_machine_gun,berserker_killing_spree,ensouled_heroicspirits,common_specialists,saint_exalt,barbarian_immortal,epic_elixirofrage,archer_soulpenetration,epic_elixirofarchery,bomber_dangerzone",
         "nextNodeType": "newjunglespore"
+    },
+    {
+        "dungeonRunId": "173516",
+        "completedLevels": "58",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-11-19 04:09:28",
+        "endTime": "2024-11-19 10:23:12",
+        "captainBoons": "common_classic_comeback,musketeer_grapeshot,blob_parasite,warrior_soldieroffortune,epic_giantsblessing,warrior_swordofruin,bomber_bombardment,saint_exalt,general_dawnofvictory,bomber_dangerzone,ranged_damage_2,epic_melee_gloryofvictory,common_specialists,epic_elixirofresistance,gladiator_sonofthunder",
+        "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
         "dungeonRunId": "173433",
