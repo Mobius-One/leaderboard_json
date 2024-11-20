@@ -63,6 +63,15 @@
         "nextNodeType": "spaceairlock"
     },
     {
+        "dungeonRunId": "173586",
+        "completedLevels": "51",
+        "twitchDisplayName": "JojoGeeker",
+        "startTime": "2024-11-19 20:00:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,assassin_agility,archer_soulpenetration,ranged_rangergloves,ensouled_enragedspirits,bomber_bombardment,saint_exalt,assassin_disappearingact,fairy_fireflyconjuration,undead_undeadresilience,human_humandestiny,epic_giantsblessing,ensouled_heroicspirits,bomber_dangerzone,epic_ranged_dragonarrows,armored_shieldbash,epic_elixirofarchery,ensouled_fatedspirits,armored_ignorepain",
+        "nextNodeType": "elementalwaterstream"
+    },
+    {
         "dungeonRunId": "173442",
         "completedLevels": "51",
         "twitchDisplayName": "FinalSun",
@@ -79,14 +88,5 @@
         "endTime": "2024-11-18 03:14:09",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
         "nextNodeType": "plaguegrotto"
-    },
-    {
-        "dungeonRunId": "173586",
-        "completedLevels": "51",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-11-19 20:00:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,assassin_agility,archer_soulpenetration,ranged_rangergloves,ensouled_enragedspirits,bomber_bombardment,saint_exalt,assassin_disappearingact,fairy_fireflyconjuration,undead_undeadresilience,human_humandestiny,epic_giantsblessing,ensouled_heroicspirits,bomber_dangerzone,epic_ranged_dragonarrows,armored_shieldbash,epic_elixirofarchery,ensouled_fatedspirits,armored_ignorepain",
-        "nextNodeType": "elementalwaterstream"
     }
 ]
