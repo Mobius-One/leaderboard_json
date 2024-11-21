@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "173751",
-        "completedLevels": "74",
+        "completedLevels": "75",
         "twitchDisplayName": "Angel",
         "startTime": "2024-11-21 00:09:15",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_elixirofarchery,bomber_dangerzone,bomber_bombardment,healer_dreamy_wardens,epic_giantsblessing,artillery_machine_gun",
-        "nextNodeType": "dungeons_boss_firerocks"
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "173670",
