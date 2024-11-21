@@ -45,15 +45,6 @@
         "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
-        "dungeonRunId": "173433",
-        "completedLevels": "54",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-11-18 13:05:25",
-        "endTime": "2024-11-18 19:54:48",
-        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_fatedspirits,blob_parasite,epic_elixirofrage,fairy_fireflyconjuration,elf_elvenimmortality,epic_epicaspirations,saint_skeletondance,epic_elixirofarchery,assassin_disappearingact,support_doomingsong,ensouled_heroicspirits,archer_soulpenetration,epic_elixirofresistance,flagbearer_bannerofluck,gladiator_sonofthunder",
-        "nextNodeType": "shogunateAmbush"
-    },
-    {
         "dungeonRunId": "173001",
         "completedLevels": "54",
         "twitchDisplayName": "Rafipi",
@@ -61,6 +52,15 @@
         "endTime": "2024-11-15 21:52:40",
         "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone",
         "nextNodeType": "spaceairlock"
+    },
+    {
+        "dungeonRunId": "173433",
+        "completedLevels": "54",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-11-18 13:05:25",
+        "endTime": "2024-11-18 19:54:48",
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_fatedspirits,blob_parasite,epic_elixirofrage,fairy_fireflyconjuration,elf_elvenimmortality,epic_epicaspirations,saint_skeletondance,epic_elixirofarchery,assassin_disappearingact,support_doomingsong,ensouled_heroicspirits,archer_soulpenetration,epic_elixirofresistance,flagbearer_bannerofluck,gladiator_sonofthunder",
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "173586",
@@ -72,15 +72,6 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "173351",
-        "completedLevels": "51",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-11-17 20:32:15",
-        "endTime": "2024-11-18 03:14:09",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
         "dungeonRunId": "173442",
         "completedLevels": "51",
         "twitchDisplayName": "FinalSun",
@@ -88,5 +79,14 @@
         "endTime": "2024-11-18 23:11:30",
         "captainBoons": "common_classic_comeback,ensouled_bravespirits,bomber_dangerzone,general_dawnofvictory,fairy_fireflyconjuration,ensouled_enragedspirits,ensouled_heroicspirits,epic_elixirofrage,melee_followup,epic_giantsblessing,common_specialists,musketeer_rapidreload,epic_elixirofresistance,bomber_bombardment,ensouled_fatedspirits,archer_soulpenetration,epic_elixirofarchery,berserker_killing_spree,barbarian_gloriousdeath",
         "nextNodeType": "skyportals"
+    },
+    {
+        "dungeonRunId": "173351",
+        "completedLevels": "51",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-11-17 20:32:15",
+        "endTime": "2024-11-18 03:14:09",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_soulpenetration,ranged_rangergloves,artillery_machine_gun,assassin_agility,musketeer_rapidreload,undead_undeadresilience,bomber_bombardment,saint_exalt,elf_elvenimmortality,general_dawnofvictory,phantom_thehaunting,berserker_killing_spree,flagbearer_bannerofluck,assassin_disappearingact,warrior_swordofruin,epic_elixirofarchery,ensouled_fatedspirits",
+        "nextNodeType": "plaguegrotto"
     }
 ]
