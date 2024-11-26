@@ -22,7 +22,7 @@
         "completedLevels": "65",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-26 04:26:31",
-        "endTime": null,
+        "endTime": "2024-11-26 17:16:10",
         "captainBoons": "ranged_damage_2,archer_soulpenetration,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin,musketeer_grapeshot,bomber_bombardment,epic_giantsbrewzero,elf_elvenimmortality,epic_elixirofarchery,ensouled_enragedspirits,ensouled_fatedspirits",
         "nextNodeType": "crucibleboss"
     },
@@ -45,15 +45,6 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "173433",
-        "completedLevels": "54",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-11-18 13:05:25",
-        "endTime": "2024-11-18 19:54:48",
-        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_fatedspirits,blob_parasite,epic_elixirofrage,fairy_fireflyconjuration,elf_elvenimmortality,epic_epicaspirations,saint_skeletondance,epic_elixirofarchery,assassin_disappearingact,support_doomingsong,ensouled_heroicspirits,archer_soulpenetration,epic_elixirofresistance,flagbearer_bannerofluck,gladiator_sonofthunder",
-        "nextNodeType": "shogunateAmbush"
-    },
-    {
         "dungeonRunId": "173001",
         "completedLevels": "54",
         "twitchDisplayName": "Rafipi",
@@ -61,6 +52,15 @@
         "endTime": "2024-11-15 21:52:40",
         "captainBoons": "lancer_firststrike,melee_followup,ensouled_heroicspirits,musketeer_grapeshot,epic_giantsblessing,epic_armored_armoredgiants,gladiator_browbeat,berserker_killing_spree,gladiator_sonofthunder,saint_skeletondance,lancer_sarissaspears,ranged_damage_2,barbarian_immortal,musketeer_rapidreload,support_enchantedstaves,ensouled_bravespirits,bomber_dangerzone",
         "nextNodeType": "spaceairlock"
+    },
+    {
+        "dungeonRunId": "173433",
+        "completedLevels": "54",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-11-18 13:05:25",
+        "endTime": "2024-11-18 19:54:48",
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_fatedspirits,blob_parasite,epic_elixirofrage,fairy_fireflyconjuration,elf_elvenimmortality,epic_epicaspirations,saint_skeletondance,epic_elixirofarchery,assassin_disappearingact,support_doomingsong,ensouled_heroicspirits,archer_soulpenetration,epic_elixirofresistance,flagbearer_bannerofluck,gladiator_sonofthunder",
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "173586",
