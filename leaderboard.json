@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "174312",
-        "completedLevels": "61",
+        "completedLevels": "62",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-11-26 04:26:31",
         "endTime": null,
         "captainBoons": "ranged_damage_2,archer_soulpenetration,bomber_dangerzone,gladiator_sonofthunder,epic_giantsblessing,warrior_swordofruin,musketeer_grapeshot,flying_evasivemaneuvers,bomber_bombardment,epic_giantsbrewzero,elf_elvenimmortality,epic_elixirofarchery,ensouled_enragedspirits,ensouled_fatedspirits",
-        "nextNodeType": "olympiadgodgroupFullEF"
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "173387",
