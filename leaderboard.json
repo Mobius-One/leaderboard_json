@@ -81,12 +81,12 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "173442",
+        "dungeonRunId": "174354",
         "completedLevels": "51",
-        "twitchDisplayName": "FinalSun",
-        "startTime": "2024-11-18 16:12:13",
-        "endTime": "2024-11-18 23:11:30",
-        "captainBoons": "common_classic_comeback,ensouled_bravespirits,bomber_dangerzone,general_dawnofvictory,fairy_fireflyconjuration,ensouled_enragedspirits,ensouled_heroicspirits,epic_elixirofrage,melee_followup,epic_giantsblessing,common_specialists,musketeer_rapidreload,epic_elixirofresistance,bomber_bombardment,ensouled_fatedspirits,archer_soulpenetration,epic_elixirofarchery,berserker_killing_spree,barbarian_gloriousdeath",
-        "nextNodeType": "skyportals"
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2024-11-26 17:17:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,rogue_shadowcloak,bomber_dangerzone,epic_giantsblessing,epic_elixirofarchery,assassin_disappearingact,berserker_rancor,elf_elvenimmortality,vampire_aerial_fiend,human_humandestiny,gladiator_browbeat,epic_armored_armoredgiants,support_doomingsong,gladiator_sonofthunder,fairy_fireflyconjuration,ensouled_fatedspirits",
+        "nextNodeType": "spaceairlock"
     }
 ]
