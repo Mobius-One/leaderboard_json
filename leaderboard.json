@@ -72,6 +72,15 @@
         "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
+        "dungeonRunId": "174354",
+        "completedLevels": "52",
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2024-11-26 17:17:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,rogue_shadowcloak,bomber_dangerzone,epic_giantsblessing,epic_elixirofarchery,assassin_disappearingact,elf_elvenimmortality,vampire_aerial_fiend,human_humandestiny,gladiator_browbeat,epic_armored_armoredgiants,support_doomingsong,gladiator_sonofthunder,fairy_fireflyconjuration,ensouled_fatedspirits",
+        "nextNodeType": "frontiercavalry"
+    },
+    {
         "dungeonRunId": "173586",
         "completedLevels": "52",
         "twitchDisplayName": "JojoGeeker",
@@ -79,14 +88,5 @@
         "endTime": "2024-11-20 02:56:07",
         "captainBoons": "common_classic_comeback,assassin_agility,archer_soulpenetration,ranged_rangergloves,ensouled_enragedspirits,bomber_bombardment,saint_exalt,assassin_disappearingact,fairy_fireflyconjuration,human_humandestiny,epic_giantsblessing,ensouled_heroicspirits,bomber_dangerzone,epic_ranged_dragonarrows,armored_shieldbash,epic_elixirofarchery,ensouled_fatedspirits,armored_ignorepain",
         "nextNodeType": "plaguegrotto"
-    },
-    {
-        "dungeonRunId": "174354",
-        "completedLevels": "51",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2024-11-26 17:17:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,rogue_shadowcloak,bomber_dangerzone,epic_giantsblessing,epic_elixirofarchery,assassin_disappearingact,berserker_rancor,elf_elvenimmortality,vampire_aerial_fiend,human_humandestiny,gladiator_browbeat,epic_armored_armoredgiants,support_doomingsong,gladiator_sonofthunder,fairy_fireflyconjuration,ensouled_fatedspirits",
-        "nextNodeType": "spaceairlock"
     }
 ]
