@@ -27,6 +27,15 @@
         "nextNodeType": "crucibleboss"
     },
     {
+        "dungeonRunId": "174675",
+        "completedLevels": "60",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-11-28 16:02:35",
+        "endTime": null,
+        "captainBoons": "epic_giantsbrewzero,mage_darkmagic,saint_exalt,archer_soulpenetration,epic_elixirofarchery,epic_giantsblessing,ensouled_bravespirits,ensouled_fatedspirits,gladiator_sonofthunder,epic_melee_gloryofvictory,armored_ignorepain,support_enchantedstaves,centurion_tactician,warrior_swordofruin,bomber_dangerzone",
+        "nextNodeType": "moboohm"
+    },
+    {
         "dungeonRunId": "173387",
         "completedLevels": "59",
         "twitchDisplayName": "elcanadiano",
@@ -34,15 +43,6 @@
         "endTime": "2024-11-18 08:56:54",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,support_doomingsong,armored_ignorepain,epic_ranged_dragonarrows,lancer_sarissaspears,spell_empower_highground,epic_elixirofrage,epic_elixirofarchery,epic_armored_armoredgiants,epic_giantsblessing,bomber_bombardment,musketeer_grapeshot,healer_dreamy_wardens,melee_followup",
         "nextNodeType": "dungeons_boss_firerocks"
-    },
-    {
-        "dungeonRunId": "174675",
-        "completedLevels": "59",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-11-28 16:02:35",
-        "endTime": null,
-        "captainBoons": "epic_giantsbrewzero,mage_darkmagic,saint_exalt,archer_soulpenetration,epic_elixirofarchery,epic_giantsblessing,ensouled_bravespirits,ensouled_fatedspirits,gladiator_sonofthunder,epic_melee_gloryofvictory,armored_ignorepain,support_enchantedstaves,centurion_tactician,warrior_swordofruin,bomber_dangerzone",
-        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "173026",
