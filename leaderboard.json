@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "174675",
-        "completedLevels": "56",
+        "completedLevels": "57",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-11-28 16:02:35",
         "endTime": null,
         "captainBoons": "epic_giantsbrewzero,mage_darkmagic,saint_exalt,archer_soulpenetration,epic_elixirofarchery,epic_giantsblessing,ensouled_bravespirits,ensouled_fatedspirits,gladiator_sonofthunder,epic_melee_gloryofvictory,armored_ignorepain,ensouled_enragedspirits,support_enchantedstaves,centurion_tactician,warrior_swordofruin,bomber_dangerzone",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "173433",
