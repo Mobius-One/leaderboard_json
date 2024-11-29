@@ -45,13 +45,13 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "174475",
-        "completedLevels": "55",
+        "dungeonRunId": "174675",
+        "completedLevels": "56",
         "twitchDisplayName": "Rafipi",
-        "startTime": "2024-11-27 13:38:58",
-        "endTime": "2024-11-27 23:36:06",
-        "captainBoons": "common_classic_comeback,epic_elixirofrage,epic_giantsblessing,epic_melee_gloryofvictory,saint_exalt,epic_elixirofarchery,ensouled_enragedspirits,berserker_killing_spree,ensouled_bravespirits,epic_armored_armoredgiants,gladiator_sonofthunder,warrior_swordofruin,rogue_sneakattack,spell_empower_highground,lancer_sarissaspears,barbarian_immortal,epic_giantsbrewzero",
-        "nextNodeType": "wildorcs"
+        "startTime": "2024-11-28 16:02:35",
+        "endTime": null,
+        "captainBoons": "epic_giantsbrewzero,mage_darkmagic,saint_exalt,archer_soulpenetration,epic_elixirofarchery,epic_giantsblessing,ensouled_bravespirits,ensouled_fatedspirits,gladiator_sonofthunder,epic_melee_gloryofvictory,armored_ignorepain,ensouled_enragedspirits,support_enchantedstaves,centurion_tactician,warrior_swordofruin,bomber_dangerzone",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "173433",
