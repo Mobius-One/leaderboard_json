@@ -18,15 +18,6 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
-        "dungeonRunId": "174312",
-        "completedLevels": "65",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-11-26 04:26:31",
-        "endTime": "2024-11-26 17:16:10",
-        "captainBoons": "ranged_damage_2,archer_soulpenetration,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin,musketeer_grapeshot,bomber_bombardment,epic_giantsbrewzero,elf_elvenimmortality,epic_elixirofarchery,ensouled_enragedspirits,ensouled_fatedspirits",
-        "nextNodeType": "crucibleboss"
-    },
-    {
         "dungeonRunId": "174675",
         "completedLevels": "65",
         "twitchDisplayName": "Rafipi",
@@ -34,6 +25,15 @@
         "endTime": null,
         "captainBoons": "epic_giantsbrewzero,mage_darkmagic,saint_exalt,archer_soulpenetration,epic_elixirofarchery,epic_giantsblessing,gladiator_sonofthunder,epic_melee_gloryofvictory,armored_ignorepain,centurion_tactician,warrior_swordofruin,bomber_dangerzone",
         "nextNodeType": "dungeons_boss_firerocks"
+    },
+    {
+        "dungeonRunId": "174312",
+        "completedLevels": "65",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-11-26 04:26:31",
+        "endTime": "2024-11-26 17:16:10",
+        "captainBoons": "ranged_damage_2,archer_soulpenetration,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin,musketeer_grapeshot,bomber_bombardment,epic_giantsbrewzero,elf_elvenimmortality,epic_elixirofarchery,ensouled_enragedspirits,ensouled_fatedspirits",
+        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "173387",
