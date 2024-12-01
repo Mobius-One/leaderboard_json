@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "174092",
-        "completedLevels": "54",
+        "completedLevels": "55",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-11-24 03:16:02",
         "endTime": null,
         "captainBoons": "common_classic_comeback,assassin_agility,epic_ranged_dragonarrows,bomber_dangerzone,barbarian_immortal,musketeer_rapidreload,epic_melee_gloryofvictory,warrior_soldieroffortune,rogue_shadowcloak,ranged_rangergloves,epic_giantsbrewzero,warrior_swordofruin,healer_dreamy_wardens,lancer_sarissaspears,musketeer_grapeshot,archer_soulpenetration,assassin_disappearingact",
-        "nextNodeType": "plaguegrotto"
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "173433",
