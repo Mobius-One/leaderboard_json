@@ -72,13 +72,13 @@
         "nextNodeType": "crucibleboss"
     },
     {
-        "dungeonRunId": "173586",
-        "completedLevels": "52",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-11-19 20:00:13",
-        "endTime": "2024-11-20 02:56:07",
-        "captainBoons": "common_classic_comeback,assassin_agility,archer_soulpenetration,ranged_rangergloves,ensouled_enragedspirits,bomber_bombardment,saint_exalt,assassin_disappearingact,fairy_fireflyconjuration,human_humandestiny,epic_giantsblessing,ensouled_heroicspirits,bomber_dangerzone,epic_ranged_dragonarrows,armored_shieldbash,epic_elixirofarchery,ensouled_fatedspirits,armored_ignorepain",
-        "nextNodeType": "plaguegrotto"
+        "dungeonRunId": "174092",
+        "completedLevels": "53",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-11-24 03:16:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,assassin_agility,epic_ranged_dragonarrows,bomber_dangerzone,barbarian_immortal,musketeer_rapidreload,epic_melee_gloryofvictory,warrior_soldieroffortune,captain_fragile_commander,rogue_shadowcloak,ranged_rangergloves,epic_giantsbrewzero,warrior_swordofruin,healer_dreamy_wardens,lancer_sarissaspears,musketeer_grapeshot,archer_soulpenetration,assassin_disappearingact",
+        "nextNodeType": "dungeons_boss_firerocks"
     },
     {
         "dungeonRunId": "173926",
