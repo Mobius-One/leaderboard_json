@@ -27,6 +27,15 @@
         "nextNodeType": "frontiercavalry"
     },
     {
+        "dungeonRunId": "173877",
+        "completedLevels": "66",
+        "twitchDisplayName": "redspecter23",
+        "startTime": "2024-11-22 05:28:53",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,artillery_machine_gun,epic_elixirofarchery,epic_giantsblessing,ensouled_fatedspirits,bomber_bombardment,bomber_dangerzone,archer_soulpenetration,epic_giantsbrewzero,archer_rapidshot",
+        "nextNodeType": "elementalwaterstream"
+    },
+    {
         "dungeonRunId": "174312",
         "completedLevels": "65",
         "twitchDisplayName": "chiquik",
@@ -34,15 +43,6 @@
         "endTime": "2024-11-26 17:16:10",
         "captainBoons": "ranged_damage_2,archer_soulpenetration,bomber_dangerzone,epic_giantsblessing,warrior_swordofruin,musketeer_grapeshot,bomber_bombardment,epic_giantsbrewzero,elf_elvenimmortality,epic_elixirofarchery,ensouled_enragedspirits,ensouled_fatedspirits",
         "nextNodeType": "crucibleboss"
-    },
-    {
-        "dungeonRunId": "173877",
-        "completedLevels": "65",
-        "twitchDisplayName": "redspecter23",
-        "startTime": "2024-11-22 05:28:53",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,epic_elixirofrage,artillery_machine_gun,epic_elixirofarchery,epic_giantsblessing,ensouled_fatedspirits,bomber_bombardment,bomber_dangerzone,archer_soulpenetration,epic_giantsbrewzero,archer_rapidshot",
-        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "173387",
