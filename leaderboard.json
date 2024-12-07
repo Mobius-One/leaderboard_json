@@ -72,15 +72,6 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
-        "dungeonRunId": "173877",
-        "completedLevels": "53",
-        "twitchDisplayName": "redspecter23",
-        "startTime": "2024-11-22 05:28:53",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,epic_ranged_dragonarrows,epic_elixirofrage,common_specialists,artillery_machine_gun,ensouled_bravespirits,epic_elixirofarchery,epic_giantsblessing,lancer_sarissaspears,ensouled_fatedspirits,bomber_bombardment,bomber_dangerzone,archer_soulpenetration,fairy_fireflyconjuration,general_dawnofvictory,epic_giantsbrewzero,archer_rapidshot",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "174354",
         "completedLevels": "53",
         "twitchDisplayName": "CloverBug69",
@@ -88,5 +79,14 @@
         "endTime": "2024-11-26 23:49:51",
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,rogue_shadowcloak,bomber_dangerzone,epic_giantsblessing,epic_elixirofarchery,assassin_disappearingact,elf_elvenimmortality,vampire_aerial_fiend,human_humandestiny,gladiator_browbeat,epic_armored_armoredgiants,support_doomingsong,gladiator_sonofthunder,fairy_fireflyconjuration,ensouled_fatedspirits",
         "nextNodeType": "crucibleboss"
+    },
+    {
+        "dungeonRunId": "173877",
+        "completedLevels": "53",
+        "twitchDisplayName": "redspecter23",
+        "startTime": "2024-11-22 05:28:53",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_sonofthunder,epic_ranged_dragonarrows,epic_elixirofrage,common_specialists,artillery_machine_gun,ensouled_bravespirits,epic_elixirofarchery,epic_giantsblessing,lancer_sarissaspears,ensouled_fatedspirits,bomber_bombardment,bomber_dangerzone,archer_soulpenetration,fairy_fireflyconjuration,general_dawnofvictory,epic_giantsbrewzero,archer_rapidshot",
+        "nextNodeType": "orctotem"
     }
 ]
