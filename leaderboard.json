@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "173877",
-        "completedLevels": "62",
+        "completedLevels": "63",
         "twitchDisplayName": "redspecter23",
         "startTime": "2024-11-22 05:28:53",
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_sonofthunder,epic_ranged_dragonarrows,epic_elixirofrage,artillery_machine_gun,epic_elixirofarchery,epic_giantsblessing,ensouled_fatedspirits,bomber_bombardment,bomber_dangerzone,archer_soulpenetration,epic_giantsbrewzero,archer_rapidshot",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "173387",
