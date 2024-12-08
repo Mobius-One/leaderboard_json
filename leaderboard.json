@@ -81,12 +81,12 @@
         "nextNodeType": "crucibleboss"
     },
     {
-        "dungeonRunId": "173586",
+        "dungeonRunId": "174631",
         "completedLevels": "52",
-        "twitchDisplayName": "JojoGeeker",
-        "startTime": "2024-11-19 20:00:13",
-        "endTime": "2024-11-20 02:56:07",
-        "captainBoons": "common_classic_comeback,assassin_agility,archer_soulpenetration,ranged_rangergloves,ensouled_enragedspirits,bomber_bombardment,saint_exalt,assassin_disappearingact,fairy_fireflyconjuration,human_humandestiny,epic_giantsblessing,ensouled_heroicspirits,bomber_dangerzone,epic_ranged_dragonarrows,armored_shieldbash,epic_elixirofarchery,ensouled_fatedspirits,armored_ignorepain",
-        "nextNodeType": "plaguegrotto"
+        "twitchDisplayName": "LitterboxToast",
+        "startTime": "2024-11-28 12:04:17",
+        "endTime": "2024-12-07 11:36:51",
+        "captainBoons": "elf_elvenimmortality,assassin_disappearingact,saint_exalt,ensouled_fatedspirits,epic_elixirofresistance,gladiator_sonofthunder,healer_dreamy_wardens,epic_giantsbrewzero,melee_followup,bomber_bombardment,melee_charge,blob_parasite,epic_elixirofdeath,epic_giantsblessing,archer_soulpenetration,bomber_dangerzone,phantom_thehaunting,epic_elixirofarchery",
+        "nextNodeType": "newjunglespore"
     }
 ]
