@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "174676",
-        "completedLevels": "62",
+        "completedLevels": "63",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-11-28 16:04:28",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giantsblessing,barbarian_immortal,warrior_soldieroffortune,epic_elixirofarchery,bomber_dangerzone,elf_elvenimmortality,spell_empower_aegis,berserker_killing_spree,epic_elixirofrage,artillery_machine_gun,archer_soulpenetration",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "173387",
