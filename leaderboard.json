@@ -45,13 +45,13 @@
         "nextNodeType": "dungeons_boss_firerocks"
     },
     {
-        "dungeonRunId": "174676",
-        "completedLevels": "58",
+        "dungeonRunId": "173003",
+        "completedLevels": "59",
         "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-11-28 16:04:28",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giantsblessing,barbarian_immortal,warrior_soldieroffortune,epic_elixirofarchery,epic_melee_gloryofvictory,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,spell_empower_aegis,berserker_killing_spree,epic_elixirofrage,artillery_machine_gun,archer_soulpenetration",
-        "nextNodeType": "skyportals"
+        "startTime": "2024-11-15 12:31:15",
+        "endTime": "2024-11-15 22:06:36",
+        "captainBoons": "bomber_dangerzone,general_dawnofvictory,barbarian_immortal,berserker_killing_spree,epic_elixirofarchery,ensouled_fatedspirits,bomber_bombardment,epic_elixirofrage,epic_giantsblessing,archer_soulpenetration,gladiator_browbeat,barbarian_gloriousdeath,assassin_disappearingact,musketeer_rapidreload,musketeer_grapeshot",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "173026",
