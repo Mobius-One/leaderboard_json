@@ -63,15 +63,6 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "173433",
-        "completedLevels": "54",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-11-18 13:05:25",
-        "endTime": "2024-11-18 19:54:48",
-        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_fatedspirits,blob_parasite,epic_elixirofrage,fairy_fireflyconjuration,elf_elvenimmortality,epic_epicaspirations,saint_skeletondance,epic_elixirofarchery,assassin_disappearingact,support_doomingsong,ensouled_heroicspirits,archer_soulpenetration,epic_elixirofresistance,flagbearer_bannerofluck,gladiator_sonofthunder",
-        "nextNodeType": "shogunateAmbush"
-    },
-    {
         "dungeonRunId": "174676",
         "completedLevels": "54",
         "twitchDisplayName": "ThaTrueBeast",
@@ -79,6 +70,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giantsblessing,barbarian_immortal,warrior_soldieroffortune,epic_elixirofarchery,gladiator_sonofthunder,epic_melee_gloryofvictory,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,spell_empower_aegis,berserker_killing_spree,epic_elixirofrage,artillery_machine_gun,fairy_fireflyconjuration,archer_soulpenetration",
         "nextNodeType": "beastlandsbug03"
+    },
+    {
+        "dungeonRunId": "173433",
+        "completedLevels": "54",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-11-18 13:05:25",
+        "endTime": "2024-11-18 19:54:48",
+        "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_fatedspirits,blob_parasite,epic_elixirofrage,fairy_fireflyconjuration,elf_elvenimmortality,epic_epicaspirations,saint_skeletondance,epic_elixirofarchery,assassin_disappearingact,support_doomingsong,ensouled_heroicspirits,archer_soulpenetration,epic_elixirofresistance,flagbearer_bannerofluck,gladiator_sonofthunder",
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "174354",
