@@ -54,6 +54,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "174676",
+        "completedLevels": "55",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-11-28 16:04:28",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giantsblessing,barbarian_immortal,warrior_soldieroffortune,epic_elixirofarchery,gladiator_sonofthunder,epic_melee_gloryofvictory,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,spell_empower_aegis,berserker_killing_spree,epic_elixirofrage,artillery_machine_gun,fairy_fireflyconjuration,archer_soulpenetration",
+        "nextNodeType": "raidhallapath"
+    },
+    {
         "dungeonRunId": "174092",
         "completedLevels": "55",
         "twitchDisplayName": "Hyf1re",
@@ -61,15 +70,6 @@
         "endTime": "2024-12-01 02:41:17",
         "captainBoons": "common_classic_comeback,assassin_agility,epic_ranged_dragonarrows,bomber_dangerzone,barbarian_immortal,musketeer_rapidreload,epic_melee_gloryofvictory,warrior_soldieroffortune,rogue_shadowcloak,ranged_rangergloves,epic_giantsbrewzero,warrior_swordofruin,healer_dreamy_wardens,lancer_sarissaspears,musketeer_grapeshot,archer_soulpenetration,assassin_disappearingact",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "174676",
-        "completedLevels": "54",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-11-28 16:04:28",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giantsblessing,barbarian_immortal,warrior_soldieroffortune,epic_elixirofarchery,gladiator_sonofthunder,epic_melee_gloryofvictory,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,spell_empower_aegis,berserker_killing_spree,epic_elixirofrage,artillery_machine_gun,fairy_fireflyconjuration,archer_soulpenetration",
-        "nextNodeType": "beastlandsbug03"
     },
     {
         "dungeonRunId": "173433",
