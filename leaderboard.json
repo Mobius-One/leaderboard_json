@@ -72,21 +72,21 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "174676",
+        "completedLevels": "54",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-11-28 16:04:28",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giantsblessing,barbarian_immortal,warrior_soldieroffortune,epic_elixirofarchery,gladiator_sonofthunder,epic_melee_gloryofvictory,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,spell_empower_aegis,berserker_killing_spree,epic_elixirofrage,artillery_machine_gun,fairy_fireflyconjuration,archer_soulpenetration",
+        "nextNodeType": "beastlandsbug03"
+    },
+    {
         "dungeonRunId": "174354",
         "completedLevels": "53",
         "twitchDisplayName": "CloverBug69",
         "startTime": "2024-11-26 17:17:58",
         "endTime": "2024-11-26 23:49:51",
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,rogue_shadowcloak,bomber_dangerzone,epic_giantsblessing,epic_elixirofarchery,assassin_disappearingact,elf_elvenimmortality,vampire_aerial_fiend,human_humandestiny,gladiator_browbeat,epic_armored_armoredgiants,support_doomingsong,gladiator_sonofthunder,fairy_fireflyconjuration,ensouled_fatedspirits",
-        "nextNodeType": "crucibleboss"
-    },
-    {
-        "dungeonRunId": "174676",
-        "completedLevels": "53",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-11-28 16:04:28",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giantsblessing,barbarian_immortal,warrior_soldieroffortune,epic_epicaspirations,epic_elixirofarchery,gladiator_sonofthunder,epic_melee_gloryofvictory,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,spell_empower_aegis,berserker_killing_spree,epic_elixirofrage,artillery_machine_gun,fairy_fireflyconjuration,archer_soulpenetration",
         "nextNodeType": "crucibleboss"
     }
 ]
