@@ -81,12 +81,12 @@
         "nextNodeType": "crucibleboss"
     },
     {
-        "dungeonRunId": "173926",
+        "dungeonRunId": "174631",
         "completedLevels": "52",
-        "twitchDisplayName": "HipsuVT",
-        "startTime": "2024-11-22 16:59:10",
-        "endTime": "2024-11-22 23:41:14",
-        "captainBoons": "common_classic_comeback,epic_elixirofrage,elf_elvenimmortality,epic_giantsblessing,rogue_shadowcloak,epic_elixirofarchery,phantom_thehaunting,general_dawnofvictory,artillery_machine_gun,saint_exalt,ensouled_bravespirits,epic_giantsbrewzero,musketeer_grapeshot,spell_empower_haste,melee_followup,assassin_disappearingact,musketeer_rapidreload,fairy_hocuspocus",
-        "nextNodeType": "olympiadgodgroupFullEF"
+        "twitchDisplayName": "LitterboxToast",
+        "startTime": "2024-11-28 12:04:17",
+        "endTime": "2024-12-07 11:36:51",
+        "captainBoons": "elf_elvenimmortality,assassin_disappearingact,saint_exalt,ensouled_fatedspirits,epic_elixirofresistance,gladiator_sonofthunder,healer_dreamy_wardens,epic_giantsbrewzero,melee_followup,bomber_bombardment,melee_charge,blob_parasite,epic_elixirofdeath,epic_giantsblessing,archer_soulpenetration,bomber_dangerzone,phantom_thehaunting,epic_elixirofarchery",
+        "nextNodeType": "newjunglespore"
     }
 ]
