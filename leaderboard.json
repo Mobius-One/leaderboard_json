@@ -54,13 +54,13 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "174676",
-        "completedLevels": "55",
+        "dungeonRunId": "173191",
+        "completedLevels": "56",
         "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-11-28 16:04:28",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,epic_giantsblessing,barbarian_immortal,warrior_soldieroffortune,epic_elixirofarchery,gladiator_sonofthunder,epic_melee_gloryofvictory,bomber_dangerzone,elf_elvenimmortality,bomber_bombardment,spell_empower_aegis,berserker_killing_spree,epic_elixirofrage,artillery_machine_gun,fairy_fireflyconjuration,archer_soulpenetration",
-        "nextNodeType": "raidhallapath"
+        "startTime": "2024-11-16 20:42:55",
+        "endTime": "2024-11-17 14:52:10",
+        "captainBoons": "common_classic_comeback,elf_elvenimmortality,archer_soulpenetration,epic_elixirofrage,barbarian_immortal,spell_empower_aegis,amazon_vineclone,bomber_dangerzone,epic_giantsblessing,berserker_rancor,gladiator_browbeat,ranged_damage_2,lancer_firststrike,gladiator_sonofthunder,buster_nanobusters,epic_giantsbrewzero",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "174092",
