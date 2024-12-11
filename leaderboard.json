@@ -72,6 +72,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "174551",
+        "completedLevels": "54",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-11-28 01:12:31",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,centurion_tactician,elf_elvenimmortality,epic_epicaspirations,epic_elixirofarchery,epic_ranged_dragonarrows,archer_soulpenetration,bomber_dangerzone,general_dawnofvictory,mage_darkmagic,berserker_rancor,orcs_building_rage,epic_elixirofrage,epic_armored_armoredgiants,melee_followup,bomber_bombardment,epic_giantsblessing",
+        "nextNodeType": "moboohm"
+    },
+    {
         "dungeonRunId": "173433",
         "completedLevels": "54",
         "twitchDisplayName": "OvidiuZ94",
@@ -79,14 +88,5 @@
         "endTime": "2024-11-18 19:54:48",
         "captainBoons": "common_classic_comeback,epic_elixirofdeath,ensouled_fatedspirits,blob_parasite,epic_elixirofrage,fairy_fireflyconjuration,elf_elvenimmortality,epic_epicaspirations,saint_skeletondance,epic_elixirofarchery,assassin_disappearingact,support_doomingsong,ensouled_heroicspirits,archer_soulpenetration,epic_elixirofresistance,flagbearer_bannerofluck,gladiator_sonofthunder",
         "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "174354",
-        "completedLevels": "53",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2024-11-26 17:17:58",
-        "endTime": "2024-11-26 23:49:51",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,amazon_vineclone,rogue_shadowcloak,bomber_dangerzone,epic_giantsblessing,epic_elixirofarchery,assassin_disappearingact,elf_elvenimmortality,vampire_aerial_fiend,human_humandestiny,gladiator_browbeat,epic_armored_armoredgiants,support_doomingsong,gladiator_sonofthunder,fairy_fireflyconjuration,ensouled_fatedspirits",
-        "nextNodeType": "crucibleboss"
     }
 ]
