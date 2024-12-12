@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "174713",
+        "completedLevels": "3",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-12-12 19:06:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds",
+        "nextNodeType": "elementaliceroad"
+    },
+    {
         "dungeonRunId": "174709",
         "completedLevels": "3",
         "twitchDisplayName": "ImmerBock",
@@ -9,39 +18,30 @@
         "nextNodeType": "lavachamber"
     },
     {
-        "dungeonRunId": "174713",
-        "completedLevels": "2",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-12-12 19:06:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds",
-        "nextNodeType": "cultbloodycity"
-    },
-    {
         "dungeonRunId": "174712",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-12 19:04:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet",
-        "nextNodeType": "cultbloodycity"
+        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy",
+        "nextNodeType": "elementaliceroad"
     },
     {
         "dungeonRunId": "174720",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-12-12 19:11:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill",
-        "nextNodeType": "earthboss"
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1",
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "174719",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2024-12-12 19:10:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer",
-        "nextNodeType": "moboohm"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater",
+        "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
