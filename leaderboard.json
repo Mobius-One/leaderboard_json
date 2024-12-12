@@ -1,39 +1,39 @@
 [
     {
         "dungeonRunId": "174720",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-12-12 19:11:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon",
-        "nextNodeType": "starboss"
-    },
-    {
-        "dungeonRunId": "174709",
-        "completedLevels": "7",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-12-12 19:01:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat",
-        "nextNodeType": "beastlandsbeast03"
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon,saint_skeletondance",
+        "nextNodeType": "crystaltunnel"
     },
     {
         "dungeonRunId": "174712",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-12 19:04:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath",
-        "nextNodeType": "beastlandsbeast03"
+        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "174713",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,musketeer_rapidreload",
-        "nextNodeType": "crystaltunnel"
+        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,musketeer_rapidreload,orcs_inpenetrable",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "174709",
+        "completedLevels": "8",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-12-12 19:01:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat,warrior_secondwind",
+        "nextNodeType": "earthboss"
     },
     {
         "dungeonRunId": "174719",
