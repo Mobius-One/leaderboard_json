@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,berserker_frenzy,centurion_tactician,lancer_spearwall,spell_empower_highground,warrior_frostguard,healer_giftofregeneration,healer_dreamy_wardens,tank_frostbarbs,berserker_enrage,rogue_shadowcloak,warrior_bladedancer,barb_warcry,blob_parasite,flagbearer_bannerofvitality,orcs_inpenetrable,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,berserker_frenzy,centurion_tactician,lancer_spearwall,spell_empower_highground,warrior_frostguard,healer_giftofregeneration,healer_dreamy_wardens,tank_frostbarbs,berserker_enrage,rogue_shadowcloak,warrior_bladedancer,barb_warcry,flagbearer_bannerofvitality,orcs_inpenetrable,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
+        "nextNodeType": "olympiadgodgroupFullAB"
     },
     {
         "dungeonRunId": "174713",
@@ -18,6 +18,15 @@
         "nextNodeType": "crystaltunnel"
     },
     {
+        "dungeonRunId": "174712",
+        "completedLevels": "25",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-12-12 19:04:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,centurion_juggernaut,common_specialists,gladiator_browbeat,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,rogue_shadowcloak,saint_exalt,warrior_secondwind,epic_melee_gloryofvictory,archer_longbows,paladin_skeletalsquire,warlock_inferno,flagbearer_bannerofvitality",
+        "nextNodeType": "shogunateBasic"
+    },
+    {
         "dungeonRunId": "174719",
         "completedLevels": "24",
         "twitchDisplayName": "Panthergal2018",
@@ -25,15 +34,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,archer_zephyrstride,barb_warcry,human_humandestiny",
         "nextNodeType": "tomblandsorccamp"
-    },
-    {
-        "dungeonRunId": "174712",
-        "completedLevels": "24",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-12-12 19:04:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,centurion_juggernaut,common_specialists,gladiator_browbeat,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,rogue_shadowcloak,saint_exalt,warrior_secondwind,epic_melee_gloryofvictory,archer_longbows,paladin_skeletalsquire,warlock_inferno",
-        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "174722",
