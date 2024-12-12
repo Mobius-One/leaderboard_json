@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "31",
+        "completedLevels": "32",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,berserker_frenzy,centurion_tactician,lancer_spearwall,spell_empower_highground,warrior_frostguard,healer_giftofregeneration,healer_dreamy_wardens,tank_frostbarbs,berserker_enrage,rogue_shadowcloak,warrior_bladedancer,barb_warcry,flagbearer_bannerofvitality,orcs_inpenetrable,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "crystaltunnel"
+        "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,berserker_frenzy,lancer_spearwall,spell_empower_highground,warrior_frostguard,healer_giftofregeneration,healer_dreamy_wardens,tank_frostbarbs,berserker_enrage,rogue_shadowcloak,warrior_bladedancer,barb_warcry,flagbearer_bannerofvitality,orcs_inpenetrable,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
+        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "174713",
@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "174712",
-        "completedLevels": "26",
+        "completedLevels": "27",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-12 19:04:21",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,centurion_juggernaut,common_specialists,gladiator_browbeat,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,rogue_shadowcloak,saint_exalt,warrior_secondwind,epic_melee_gloryofvictory,archer_longbows,paladin_skeletalsquire,warlock_inferno,flagbearer_bannerofvitality,flagbearer_rallydefense",
-        "nextNodeType": "earthboss"
+        "nextNodeType": "tomblandsorccamp"
     },
     {
         "dungeonRunId": "174719",
@@ -36,15 +36,6 @@
         "nextNodeType": "tomblandsorccamp"
     },
     {
-        "dungeonRunId": "174720",
-        "completedLevels": "11",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-12 19:11:10",
-        "endTime": "2024-12-12 20:11:03",
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon,saint_skeletondance,saint_exalt,frogue_cloakingfield",
-        "nextNodeType": "cultbloodycity"
-    },
-    {
         "dungeonRunId": "174722",
         "completedLevels": "11",
         "twitchDisplayName": "the_redlifestyle",
@@ -52,6 +43,15 @@
         "endTime": "2024-12-12 21:36:33",
         "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard,archer_enchantedammo,warrior_swordofruin,tank_battlefieldcontrol,musk_golden_rounds,barbarian_immortal,tank_frostbarbs,barb_warcry",
         "nextNodeType": "olympiadbossMedusa2"
+    },
+    {
+        "dungeonRunId": "174720",
+        "completedLevels": "11",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-12 19:11:10",
+        "endTime": "2024-12-12 20:11:03",
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon,saint_skeletondance,saint_exalt,frogue_cloakingfield",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174738",
