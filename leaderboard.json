@@ -1,20 +1,29 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor",
-        "nextNodeType": "crystaltunnel"
+        "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174712",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-12 19:04:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor",
-        "nextNodeType": "glitchedretrotown"
+        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet",
+        "nextNodeType": "cultbloodycity"
+    },
+    {
+        "dungeonRunId": "174713",
+        "completedLevels": "1",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-12-12 19:06:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_longbows",
+        "nextNodeType": "shogunateBasic"
     }
 ]
