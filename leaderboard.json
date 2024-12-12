@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,berserker_frenzy,centurion_tactician,lancer_spearwall,spell_empower_highground,warrior_frostguard,healer_giftofregeneration,healer_dreamy_wardens,tank_frostbarbs,berserker_enrage,rogue_shadowcloak,warrior_bladedancer,barb_warcry,flagbearer_bannerofvitality,orcs_inpenetrable,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "olympiadgodgroupFullAB"
+        "nextNodeType": "crystaltunnel"
     },
     {
         "dungeonRunId": "174713",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,musketeer_rapidreload,orcs_inpenetrable,frogue_air_snipers,gladiator_browbeat,vampire_dark_pact,gladiator_war_machine,saint_exalt,frogue_cloakingfield,ensouled_bravespirits,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,rogue_veilingcloak,healer_giftofregeneration,berserker_frenzy,warrior_frostguard,fairy_hocuspocus,bomber_bombardment,rogue_flamewalker,warrior_secondwind,common_specialists",
-        "nextNodeType": "crystaltunnel"
+        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,musketeer_rapidreload,orcs_inpenetrable,frogue_air_snipers,gladiator_browbeat,vampire_dark_pact,gladiator_war_machine,saint_exalt,frogue_cloakingfield,ensouled_bravespirits,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,rogue_veilingcloak,healer_giftofregeneration,berserker_frenzy,warrior_frostguard,fairy_hocuspocus,bomber_bombardment,rogue_flamewalker,warrior_secondwind,common_specialists,lancer_sarissaspears",
+        "nextNodeType": "olympiadgodgroupFullAB"
     },
     {
         "dungeonRunId": "174712",
@@ -54,6 +54,15 @@
         "nextNodeType": "cultbloodycity"
     },
     {
+        "dungeonRunId": "174738",
+        "completedLevels": "6",
+        "twitchDisplayName": "K_Doctor",
+        "startTime": "2024-12-12 21:27:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,frogue_cloakingfield,ensouled_heroicspirits,flyingrogue_aggravate,berserker_enrage,epic_armored_armoredgiants",
+        "nextNodeType": "olympiadgodgroupFullAB"
+    },
+    {
         "dungeonRunId": "174734",
         "completedLevels": "5",
         "twitchDisplayName": "chicknglazedpork",
@@ -61,15 +70,6 @@
         "endTime": "2024-12-12 21:35:06",
         "captainBoons": "common_classic_comeback,paladin_layonhands,berserker_enrage,epic_ranged_dragonarrows,warrior_bladedancer,shinobi_firetechinique",
         "nextNodeType": "starboss"
-    },
-    {
-        "dungeonRunId": "174738",
-        "completedLevels": "5",
-        "twitchDisplayName": "K_Doctor",
-        "startTime": "2024-12-12 21:27:59",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,frogue_cloakingfield,ensouled_heroicspirits,flyingrogue_aggravate,berserker_enrage",
-        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174733",
