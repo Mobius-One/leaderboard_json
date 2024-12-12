@@ -1,47 +1,47 @@
 [
     {
+        "dungeonRunId": "174709",
+        "completedLevels": "4",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-12-12 19:01:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun,bomber_dangerzone",
+        "nextNodeType": "moboohm"
+    },
+    {
+        "dungeonRunId": "174712",
+        "completedLevels": "4",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-12-12 19:04:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration",
+        "nextNodeType": "moboohm"
+    },
+    {
+        "dungeonRunId": "174720",
+        "completedLevels": "4",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-12 19:11:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows",
+        "nextNodeType": "moboohm"
+    },
+    {
+        "dungeonRunId": "174719",
+        "completedLevels": "3",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-12-12 19:10:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind",
+        "nextNodeType": "olympiadgodgroupFullAB"
+    },
+    {
         "dungeonRunId": "174713",
         "completedLevels": "3",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds",
+        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds,centurion_2",
         "nextNodeType": "elementaliceroad"
-    },
-    {
-        "dungeonRunId": "174709",
-        "completedLevels": "3",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-12-12 19:01:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun",
-        "nextNodeType": "lavachamber"
-    },
-    {
-        "dungeonRunId": "174712",
-        "completedLevels": "3",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-12-12 19:04:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy",
-        "nextNodeType": "elementaliceroad"
-    },
-    {
-        "dungeonRunId": "174720",
-        "completedLevels": "3",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-12 19:11:10",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1",
-        "nextNodeType": "heartscelestialabyrinth"
-    },
-    {
-        "dungeonRunId": "174719",
-        "completedLevels": "2",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-12-12 19:10:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater",
-        "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
