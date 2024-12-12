@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "42",
+        "completedLevels": "43",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,lancer_spearwall,spell_empower_highground,warrior_frostguard,healer_dreamy_wardens,tank_frostbarbs,berserker_enrage,rogue_shadowcloak,warrior_bladedancer,barb_warcry,orcs_inpenetrable,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "moboohm"
+        "nextNodeType": "shogunateBasic"
     },
     {
         "dungeonRunId": "174713",
@@ -45,6 +45,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "174744",
+        "completedLevels": "13",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-12-12 22:24:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,paladin_skeletalsquire,healer_dreamy_wardens,lancer_sarissaspears,mage_elementalsummoning,warrior_swordofruin",
+        "nextNodeType": "beastlandsbeast05"
+    },
+    {
         "dungeonRunId": "174738",
         "completedLevels": "13",
         "twitchDisplayName": "K_Doctor",
@@ -52,15 +61,6 @@
         "endTime": "2024-12-12 23:10:21",
         "captainBoons": "common_classic_comeback,tank_frostbarbs,frogue_cloakingfield,ensouled_heroicspirits,flyingrogue_aggravate,berserker_enrage,epic_armored_armoredgiants,rogue_flamewalker,templar_commanding_presence,spell_empower_curse,vampire_darkwings,vampire_dark_pact,rogue_shadowcloak,archer_zephyrstride",
         "nextNodeType": "elementaliceroad"
-    },
-    {
-        "dungeonRunId": "174720",
-        "completedLevels": "11",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-12 19:11:10",
-        "endTime": "2024-12-12 20:11:03",
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon,saint_skeletondance,saint_exalt,frogue_cloakingfield",
-        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174722",
@@ -72,21 +72,21 @@
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
-        "dungeonRunId": "174744",
+        "dungeonRunId": "174720",
         "completedLevels": "11",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-12-12 22:24:04",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,paladin_skeletalsquire,healer_dreamy_wardens,lancer_sarissaspears,mage_elementalsummoning",
-        "nextNodeType": "tomblandsbossorcexplorer"
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-12 19:11:10",
+        "endTime": "2024-12-12 20:11:03",
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon,saint_skeletondance,saint_exalt,frogue_cloakingfield",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174748",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2024-12-12 22:52:15",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,artillery_maxpower,spell_empower_curse,flyingrogue_aggravate",
-        "nextNodeType": "beastlandsbeast03"
+        "captainBoons": "common_classic_comeback,saint_exalt,artillery_maxpower,spell_empower_curse,flyingrogue_aggravate,lancer_spearwall",
+        "nextNodeType": "olympiadbossMedusa2"
     }
 ]
