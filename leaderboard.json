@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "174713",
+        "completedLevels": "21",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-12-12 19:06:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,musketeer_rapidreload,orcs_inpenetrable,frogue_air_snipers,gladiator_browbeat,vampire_dark_pact,gladiator_war_machine,saint_exalt,frogue_cloakingfield,ensouled_bravespirits,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,rogue_veilingcloak,healer_giftofregeneration,berserker_frenzy",
+        "nextNodeType": "heartscelestialabyrinth"
+    },
+    {
         "dungeonRunId": "174709",
         "completedLevels": "20",
         "twitchDisplayName": "ImmerBock",
@@ -9,31 +18,22 @@
         "nextNodeType": "starboss"
     },
     {
-        "dungeonRunId": "174713",
-        "completedLevels": "20",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-12-12 19:06:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,musketeer_rapidreload,orcs_inpenetrable,frogue_air_snipers,gladiator_browbeat,vampire_dark_pact,gladiator_war_machine,saint_exalt,frogue_cloakingfield,ensouled_bravespirits,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,rogue_veilingcloak,healer_giftofregeneration",
-        "nextNodeType": "earthboss"
-    },
-    {
         "dungeonRunId": "174712",
-        "completedLevels": "17",
+        "completedLevels": "18",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-12 19:04:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,centurion_juggernaut,common_specialists,gladiator_browbeat,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder",
-        "nextNodeType": "earthboss"
+        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,centurion_juggernaut,common_specialists,gladiator_browbeat,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,rogue_shadowcloak",
+        "nextNodeType": "shrinkeningpuddles"
     },
     {
         "dungeonRunId": "174719",
-        "completedLevels": "17",
+        "completedLevels": "18",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2024-12-12 19:10:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire",
-        "nextNodeType": "earthboss"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin",
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "174720",
@@ -46,20 +46,20 @@
     },
     {
         "dungeonRunId": "174722",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "the_redlifestyle",
         "startTime": "2024-12-12 19:24:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard,archer_enchantedammo,warrior_swordofruin,tank_battlefieldcontrol,musk_golden_rounds,barbarian_immortal",
-        "nextNodeType": "heartscelestialabyrinth"
+        "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard,archer_enchantedammo,warrior_swordofruin,tank_battlefieldcontrol,musk_golden_rounds,barbarian_immortal,tank_frostbarbs",
+        "nextNodeType": "shogunateBasic"
     },
     {
         "dungeonRunId": "174734",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "chicknglazedpork",
         "startTime": "2024-12-12 20:52:00",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,berserker_enrage",
-        "nextNodeType": "cultbloodycity"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,berserker_enrage,epic_ranged_dragonarrows",
+        "nextNodeType": "heartscelestialabyrinth"
     }
 ]
