@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,berserker_frenzy,lancer_spearwall,spell_empower_highground,warrior_frostguard,healer_giftofregeneration,healer_dreamy_wardens,tank_frostbarbs,berserker_enrage,rogue_shadowcloak,warrior_bladedancer,barb_warcry,orcs_inpenetrable,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "earthboss"
+        "nextNodeType": "tomblandsorccamp"
     },
     {
         "dungeonRunId": "174713",
@@ -46,21 +46,12 @@
     },
     {
         "dungeonRunId": "174739",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "chicknglazedpork",
         "startTime": "2024-12-12 21:35:26",
         "endTime": null,
         "captainBoons": "common_classic_comeback,shinobi_shadowstrike,saint_missionary,barbarian_immortal,berserker_rancor,berserker_enrage,berserker_frenzy,saint_exalt,warbeast_1,rogue_shadowcloak,archer_longbows,vampire_dark_pact,tank_guardian",
-        "nextNodeType": "olympiadgodgroupFullCD"
-    },
-    {
-        "dungeonRunId": "174722",
-        "completedLevels": "11",
-        "twitchDisplayName": "the_redlifestyle",
-        "startTime": "2024-12-12 19:24:29",
-        "endTime": "2024-12-12 21:36:33",
-        "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard,archer_enchantedammo,warrior_swordofruin,tank_battlefieldcontrol,musk_golden_rounds,barbarian_immortal,tank_frostbarbs,barb_warcry",
-        "nextNodeType": "olympiadbossMedusa2"
+        "nextNodeType": "tomblandsorcflank"
     },
     {
         "dungeonRunId": "174720",
@@ -72,13 +63,22 @@
         "nextNodeType": "cultbloodycity"
     },
     {
+        "dungeonRunId": "174722",
+        "completedLevels": "11",
+        "twitchDisplayName": "the_redlifestyle",
+        "startTime": "2024-12-12 19:24:29",
+        "endTime": "2024-12-12 21:36:33",
+        "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard,archer_enchantedammo,warrior_swordofruin,tank_battlefieldcontrol,musk_golden_rounds,barbarian_immortal,tank_frostbarbs,barb_warcry",
+        "nextNodeType": "olympiadbossMedusa2"
+    },
+    {
         "dungeonRunId": "174744",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,paladin_skeletalsquire",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "174733",
