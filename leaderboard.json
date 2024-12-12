@@ -1,30 +1,30 @@
 [
     {
-        "dungeonRunId": "174720",
-        "completedLevels": "11",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-12 19:11:10",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon,saint_skeletondance,saint_exalt,frogue_cloakingfield",
-        "nextNodeType": "cultbloodycity"
-    },
-    {
-        "dungeonRunId": "174713",
-        "completedLevels": "11",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-12-12 19:06:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,musketeer_rapidreload,orcs_inpenetrable,frogue_air_snipers,gladiator_browbeat,vampire_dark_pact",
-        "nextNodeType": "olympiadbossMedusa2"
-    },
-    {
         "dungeonRunId": "174709",
-        "completedLevels": "11",
+        "completedLevels": "12",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,blob_flesheater,artillery_machine_gun,bomber_dangerzone,artillery_maxpower,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon",
-        "nextNodeType": "olympiadbossMedusa2"
+        "nextNodeType": "olympiadgodgroupFullCD"
+    },
+    {
+        "dungeonRunId": "174713",
+        "completedLevels": "12",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-12-12 19:06:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_longbows,musk_golden_rounds,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,musketeer_rapidreload,orcs_inpenetrable,frogue_air_snipers,gladiator_browbeat,vampire_dark_pact,gladiator_war_machine",
+        "nextNodeType": "tomblandsorccamp"
+    },
+    {
+        "dungeonRunId": "174720",
+        "completedLevels": "11",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-12 19:11:10",
+        "endTime": "2024-12-12 20:11:03",
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon,saint_skeletondance,saint_exalt,frogue_cloakingfield",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174712",
@@ -46,11 +46,11 @@
     },
     {
         "dungeonRunId": "174722",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "the_redlifestyle",
         "startTime": "2024-12-12 19:24:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard",
-        "nextNodeType": "olympiadgodgroupFullAB"
+        "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard,archer_enchantedammo",
+        "nextNodeType": "cultbloodycity"
     }
 ]
