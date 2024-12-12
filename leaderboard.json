@@ -18,31 +18,22 @@
         "nextNodeType": "moboohm"
     },
     {
-        "dungeonRunId": "174719",
-        "completedLevels": "21",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-12-12 19:10:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory",
-        "nextNodeType": "olympiadgodgroupFullCD"
-    },
-    {
         "dungeonRunId": "174712",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-12 19:04:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,centurion_juggernaut,common_specialists,gladiator_browbeat,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,rogue_shadowcloak,saint_exalt,warrior_secondwind,epic_melee_gloryofvictory",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,centurion_juggernaut,common_specialists,gladiator_browbeat,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,rogue_shadowcloak,saint_exalt,warrior_secondwind,epic_melee_gloryofvictory,archer_longbows",
+        "nextNodeType": "tomblandsorcflank"
     },
     {
-        "dungeonRunId": "174720",
-        "completedLevels": "11",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-12 19:11:10",
-        "endTime": "2024-12-12 20:11:03",
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon,saint_skeletondance,saint_exalt,frogue_cloakingfield",
-        "nextNodeType": "cultbloodycity"
+        "dungeonRunId": "174719",
+        "completedLevels": "22",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-12-12 19:10:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,archer_zephyrstride",
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "174722",
@@ -52,6 +43,15 @@
         "endTime": "2024-12-12 21:36:33",
         "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard,archer_enchantedammo,warrior_swordofruin,tank_battlefieldcontrol,musk_golden_rounds,barbarian_immortal,tank_frostbarbs,barb_warcry",
         "nextNodeType": "olympiadbossMedusa2"
+    },
+    {
+        "dungeonRunId": "174720",
+        "completedLevels": "11",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-12 19:11:10",
+        "endTime": "2024-12-12 20:11:03",
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,warbeast_1,epic_ranged_dragonarrows,bomber_dangerzone,centurion_juggernaut,healer_dreamy_wardens,musketeer_rapidreload,necromancer_necronomicon,saint_skeletondance,saint_exalt,frogue_cloakingfield",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174734",
@@ -73,11 +73,11 @@
     },
     {
         "dungeonRunId": "174738",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "K_Doctor",
         "startTime": "2024-12-12 21:27:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs",
-        "nextNodeType": "heartscelestialabyrinth"
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,frogue_cloakingfield",
+        "nextNodeType": "earthboss"
     }
 ]
