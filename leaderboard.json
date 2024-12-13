@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "174812",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2024-12-13 04:55:53",
         "endTime": null,
         "captainBoons": "archer_longbows,orcs_inpenetrable,artillery_machine_gun,berserker_rancor,flagbearer_rallydefense,warlock_inferno,gladiator_war_machine,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,flagbearer_bannerofvitality,warbeast_1,blob_parasite,bomber_dangerzone,paladin_skeletalsquire,vampire_darkwings,berserker_enrage,centurion_2,flagbearer_flagbearerswill,spell_empower_highground,warrior_frostguard,lancer_spearwall,phantom_thehaunting,warrior_bladedancer,healer_giftofregeneration",
-        "nextNodeType": "tomblandsbossorcexplorer"
+        "nextNodeType": "shogunateBasic"
     },
     {
         "dungeonRunId": "174825",
