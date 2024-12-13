@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "174768",
+        "dungeonRunId": "174816",
         "completedLevels": "19",
-        "twitchDisplayName": "astarian_dawnblade",
-        "startTime": "2024-12-13 00:52:58",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-13 05:10:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,mage_elementalsummoning,spell_empower_haste,archer_longbows,flagbearer_rallydefense,ensouled_heroicspirits,tank_frostbarbs,buster_healing_bomb,blob_parasite,monk_stoptheflow,templar_commanding_presence,common_specialists,epic_giantsbrewzero,paladin_skeletalsquire,barbarian_immortal,rogue_flamewalker,healer_giftofregeneration,warlock_inferno,warrior_bladedancer",
-        "nextNodeType": "moboohm"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,flyingrogue_aggravate,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits",
+        "nextNodeType": "glitchedretrotown"
     }
 ]
