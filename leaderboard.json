@@ -36,6 +36,15 @@
         "nextNodeType": "moboatx"
     },
     {
+        "dungeonRunId": "174767",
+        "completedLevels": "25",
+        "twitchDisplayName": "CwellGaming",
+        "startTime": "2024-12-13 00:48:49",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,paladin_skeletalsquire,spell_empower_killingfield",
+        "nextNodeType": "olympiadgodgroupFullCD"
+    },
+    {
         "dungeonRunId": "174719",
         "completedLevels": "24",
         "twitchDisplayName": "Panthergal2018",
@@ -43,15 +52,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,archer_zephyrstride,barb_warcry,human_humandestiny",
         "nextNodeType": "tomblandsorccamp"
-    },
-    {
-        "dungeonRunId": "174767",
-        "completedLevels": "24",
-        "twitchDisplayName": "CwellGaming",
-        "startTime": "2024-12-13 00:48:49",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,paladin_skeletalsquire,spell_empower_killingfield",
-        "nextNodeType": "shogunateBasic"
     },
     {
         "dungeonRunId": "174786",
