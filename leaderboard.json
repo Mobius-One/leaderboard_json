@@ -5,17 +5,17 @@
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
-        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_sonofthunder,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
+        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
         "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174744",
-        "completedLevels": "70",
+        "completedLevels": "71",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
         "captainBoons": "fairy_fireflyconjuration,bomber_dangerzone,healer_dreamy_wardens,archer_longbows,barbarian_immortal,saint_exalt,bomber_bombardment,blob_flesheater,gladiator_war_machine",
-        "nextNodeType": "shogunateBasic"
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174709",
