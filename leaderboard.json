@@ -4,7 +4,7 @@
         "completedLevels": "74",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
-        "endTime": null,
+        "endTime": "2024-12-13 04:52:50",
         "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
         "nextNodeType": "cultbloodycity"
     },
@@ -13,7 +13,7 @@
         "completedLevels": "71",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
-        "endTime": null,
+        "endTime": "2024-12-13 04:52:23",
         "captainBoons": "fairy_fireflyconjuration,bomber_dangerzone,healer_dreamy_wardens,archer_longbows,barbarian_immortal,saint_exalt,bomber_bombardment,blob_flesheater,gladiator_war_machine",
         "nextNodeType": "cultbloodycity"
     },
@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "174767",
-        "completedLevels": "26",
+        "completedLevels": "27",
         "twitchDisplayName": "CwellGaming",
         "startTime": "2024-12-13 00:48:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,paladin_skeletalsquire,spell_empower_killingfield,bomber_dangerzone,necromancer_necronomicon",
-        "nextNodeType": "starboss"
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,paladin_skeletalsquire,spell_empower_killingfield,bomber_dangerzone,necromancer_necronomicon,ensouled_bravespirits",
+        "nextNodeType": "elementaliceroad"
     },
     {
         "dungeonRunId": "174719",
