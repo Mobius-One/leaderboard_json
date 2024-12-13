@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "60",
+        "completedLevels": "61",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,lancer_spearwall,spell_empower_highground,warrior_frostguard,tank_frostbarbs,barb_warcry,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "heartscelestialabyrinth"
+        "nextNodeType": "elementaliceroad"
     },
     {
         "dungeonRunId": "174713",
@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "174744",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,bomber_dangerzone,healer_dreamy_wardens,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,blob_flesheater,gladiator_war_machine,rogue_flamewalker,gladiator_sonofthunder",
-        "nextNodeType": "starboss"
+        "nextNodeType": "tomblandsorccamp"
     },
     {
         "dungeonRunId": "174719",
