@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "174816",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-12-13 05:10:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,flyingrogue_aggravate,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero,centurion_juggernaut,rogue_shadowcloak,paladin_layonhands,fairy_hocuspocus,gladiator_war_machine,fairy_fireflyconjuration",
-        "nextNodeType": "lavachamber"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,flyingrogue_aggravate,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero,centurion_juggernaut,rogue_shadowcloak,paladin_layonhands,fairy_hocuspocus,gladiator_war_machine,fairy_fireflyconjuration,blob_flesheater",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "174719",
