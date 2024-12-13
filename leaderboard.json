@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "174767",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "CwellGaming",
         "startTime": "2024-12-13 00:48:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,paladin_skeletalsquire,spell_empower_killingfield,bomber_dangerzone,necromancer_necronomicon,ensouled_bravespirits,berserker_rancor,fairy_hocuspocus",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,spell_empower_killingfield,bomber_dangerzone,necromancer_necronomicon,ensouled_bravespirits,berserker_rancor,fairy_hocuspocus",
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "174719",
@@ -72,6 +72,15 @@
         "nextNodeType": "moboohm"
     },
     {
+        "dungeonRunId": "174792",
+        "completedLevels": "18",
+        "twitchDisplayName": "ojangle",
+        "startTime": "2024-12-13 02:50:28",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,healer_giftofregeneration,epic_armored_armoredgiants,vampire_darkwings,gladiator_sonofthunder,musk_hunters_mark,musketeer_rapidreload,buster_healing_bomb,buster_nanobusters,flagbearer_bannerofvitality,archer_enchantedammo,centurion_2,monk_stoptheflow,vampire_dark_pact,archer_soulpenetration,healer_combatmedic,flagbearer_rallydefense,spell_empower_highground",
+        "nextNodeType": "crystaltunnel"
+    },
+    {
         "dungeonRunId": "174769",
         "completedLevels": "17",
         "twitchDisplayName": "KisaRinMoon",
@@ -79,14 +88,5 @@
         "endTime": "2024-12-13 04:03:30",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,berserker_enrage,spell_empower_haste,berserker_rancor,blob_flesheater,saint_skeletondance,shinobi_shadowstrike,tank_lastlaugh,blob_parasite,epic_giantsbrewzero,rogue_momentum,artillery_machine_gun,flagbearer_flagbearerswill,archer_enchantedammo,berserker_frenzy,archer_longbows,necromancer_necronomicon",
         "nextNodeType": "cultbloodycity"
-    },
-    {
-        "dungeonRunId": "174792",
-        "completedLevels": "17",
-        "twitchDisplayName": "ojangle",
-        "startTime": "2024-12-13 02:50:28",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,healer_giftofregeneration,epic_armored_armoredgiants,vampire_darkwings,gladiator_sonofthunder,musk_hunters_mark,musketeer_rapidreload,buster_healing_bomb,buster_nanobusters,flagbearer_bannerofvitality,archer_enchantedammo,centurion_2,monk_stoptheflow,vampire_dark_pact,archer_soulpenetration,healer_combatmedic,flagbearer_rallydefense",
-        "nextNodeType": "olympiadbossMedusa2"
     }
 ]
