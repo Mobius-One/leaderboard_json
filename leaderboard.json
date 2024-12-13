@@ -36,6 +36,15 @@
         "nextNodeType": "earthboss"
     },
     {
+        "dungeonRunId": "174816",
+        "completedLevels": "31",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-13 05:10:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero,centurion_juggernaut,rogue_shadowcloak,paladin_layonhands,fairy_hocuspocus,gladiator_war_machine,fairy_fireflyconjuration,blob_flesheater",
+        "nextNodeType": "moboatx"
+    },
+    {
         "dungeonRunId": "174767",
         "completedLevels": "30",
         "twitchDisplayName": "CwellGaming",
@@ -43,15 +52,6 @@
         "endTime": "2024-12-13 05:25:38",
         "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,spell_empower_killingfield,bomber_dangerzone,necromancer_necronomicon,ensouled_bravespirits,berserker_rancor,fairy_hocuspocus",
         "nextNodeType": "lavachamber"
-    },
-    {
-        "dungeonRunId": "174816",
-        "completedLevels": "30",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-13 05:10:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero,centurion_juggernaut,rogue_shadowcloak,paladin_layonhands,fairy_hocuspocus,gladiator_war_machine,fairy_fireflyconjuration,blob_flesheater",
-        "nextNodeType": "tomblandsorcflank"
     },
     {
         "dungeonRunId": "174792",
@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
-        "dungeonRunId": "174786",
+        "dungeonRunId": "174825",
         "completedLevels": "22",
-        "twitchDisplayName": "Romanedgee",
-        "startTime": "2024-12-13 02:14:43",
-        "endTime": "2024-12-13 04:28:20",
-        "captainBoons": "common_classic_comeback,vampire_darkwings,rogue_momentum,human_humandestiny,flagbearer_bannerofvitality,flagbearer_rallydefense,archer_soulpenetration,bomber_dangerzone,warbeast_1,epic_ranged_dragonarrows,centurion_tactician,vampire_dark_pact,buster_nanobusters,berserker_rancor,lancer_spearwall,spell_empower_curse,musketeer_rapidreload,buster_healing_bomb,ensouled_bravespirits,flagbearer_flagbearerswill,warrior_secondwind,vampire_aerial_fiend,archer_zephyrstride",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-12-13 06:36:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,saint_missionary,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands",
+        "nextNodeType": "elementaliceroad"
     }
 ]
