@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,lancer_spearwall,spell_empower_highground,warrior_frostguard,healer_dreamy_wardens,tank_frostbarbs,berserker_enrage,warrior_bladedancer,barb_warcry,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "crystaltunnel"
+        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,lancer_spearwall,spell_empower_highground,warrior_frostguard,healer_dreamy_wardens,tank_frostbarbs,warrior_bladedancer,barb_warcry,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174713",
@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "174712",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-12 19:04:21",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,gladiator_browbeat,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,saint_exalt,epic_melee_gloryofvictory,paladin_skeletalsquire,warlock_inferno,flagbearer_rallydefense,ensouled_bravespirits,warrior_frostguard,shinobi_firetechinique",
-        "nextNodeType": "shrinkeningpuddles"
+        "nextNodeType": "earthboss"
     },
     {
         "dungeonRunId": "174719",
@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "174744",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,paladin_skeletalsquire,healer_dreamy_wardens,lancer_sarissaspears,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt",
-        "nextNodeType": "beastlandsbeast05"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,paladin_skeletalsquire,healer_dreamy_wardens,lancer_sarissaspears,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174739",
