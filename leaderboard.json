@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "174719",
-        "completedLevels": "51",
+        "completedLevels": "52",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2024-12-12 19:10:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,saint_skeletondance,bomber_ricochet,paladin_skeletalsquire,warrior_swordofruin,artillery_maxpower,epic_melee_gloryofvictory,healer_giftofregeneration,archer_soulpenetration,orcs_inpenetrable",
-        "nextNodeType": "olympiadgodgroupFullAB"
+        "captainBoons": "common_classic_comeback,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,saint_skeletondance,bomber_ricochet,paladin_skeletalsquire,warrior_swordofruin,artillery_maxpower,epic_melee_gloryofvictory,healer_giftofregeneration,archer_soulpenetration,orcs_inpenetrable",
+        "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
         "dungeonRunId": "174816",
