@@ -72,6 +72,15 @@
         "nextNodeType": "tomblandsorccamp"
     },
     {
+        "dungeonRunId": "174825",
+        "completedLevels": "23",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-12-13 06:36:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,saint_missionary,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands,gladiator_sonofthunder",
+        "nextNodeType": "earthboss"
+    },
+    {
         "dungeonRunId": "174798",
         "completedLevels": "23",
         "twitchDisplayName": "5mokeGhost",
@@ -79,14 +88,5 @@
         "endTime": "2024-12-13 06:24:28",
         "captainBoons": "common_classic_comeback,healer_combatmedic,artillery_maxpower,human_humandestiny,musketeer_rapidreload,warbeast_1,berserker_frenzy,archer_zephyrstride,mage_elementalsummoning,tank_guardian,rogue_veilingcloak,saint_missionary,amazon_vineclone,paladin_layonhands,templar_commanding_presence,gladiator_war_machine,saint_exalt,tank_lastlaugh,epic_ranged_dragonarrows,epic_giantsbrewzero,barb_warcry,epic_melee_gloryofvictory,archer_longbows,blob_flesheater",
         "nextNodeType": "olympiadbossMedusa2"
-    },
-    {
-        "dungeonRunId": "174825",
-        "completedLevels": "22",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-12-13 06:36:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,saint_missionary,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands",
-        "nextNodeType": "elementaliceroad"
     }
 ]
