@@ -72,6 +72,15 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
+        "dungeonRunId": "174719",
+        "completedLevels": "32",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-12-12 19:10:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,archer_zephyrstride,barb_warcry,human_humandestiny,paladin_layonhands,healer_giftofregeneration,archer_soulpenetration,orcs_inpenetrable",
+        "nextNodeType": "cultbloodycity"
+    },
+    {
         "dungeonRunId": "174825",
         "completedLevels": "32",
         "twitchDisplayName": "CoilGun",
@@ -79,14 +88,5 @@
         "endTime": "2024-12-13 09:38:40",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands,gladiator_sonofthunder,lancer_firststrike,flagbearer_flagbearerswill,rogue_momentum,epic_melee_gloryofvictory,gladiator_browbeat",
         "nextNodeType": "cultbloodycity"
-    },
-    {
-        "dungeonRunId": "174719",
-        "completedLevels": "31",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2024-12-12 19:10:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,archer_zephyrstride,barb_warcry,human_humandestiny,paladin_layonhands,healer_giftofregeneration,archer_soulpenetration,tank_battlefieldcontrol,orcs_inpenetrable",
-        "nextNodeType": "beastlandsbeast05"
     }
 ]
