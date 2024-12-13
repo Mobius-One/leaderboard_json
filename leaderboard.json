@@ -54,6 +54,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "174816",
+        "completedLevels": "25",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-13 05:10:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,flyingrogue_aggravate,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero,centurion_juggernaut,rogue_shadowcloak,paladin_layonhands",
+        "nextNodeType": "glitchedretrotown"
+    },
+    {
         "dungeonRunId": "174719",
         "completedLevels": "24",
         "twitchDisplayName": "Panthergal2018",
@@ -61,15 +70,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,archer_zephyrstride,barb_warcry,human_humandestiny",
         "nextNodeType": "tomblandsorccamp"
-    },
-    {
-        "dungeonRunId": "174816",
-        "completedLevels": "24",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-13 05:10:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,flyingrogue_aggravate,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero,centurion_juggernaut,rogue_shadowcloak",
-        "nextNodeType": "shrinkeningpuddles"
     },
     {
         "dungeonRunId": "174798",
