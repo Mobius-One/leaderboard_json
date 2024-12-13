@@ -63,6 +63,15 @@
         "nextNodeType": "tomblandsorccamp"
     },
     {
+        "dungeonRunId": "174816",
+        "completedLevels": "24",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-13 05:10:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,flyingrogue_aggravate,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero,centurion_juggernaut,rogue_shadowcloak",
+        "nextNodeType": "shrinkeningpuddles"
+    },
+    {
         "dungeonRunId": "174798",
         "completedLevels": "23",
         "twitchDisplayName": "5mokeGhost",
@@ -70,15 +79,6 @@
         "endTime": "2024-12-13 06:24:28",
         "captainBoons": "common_classic_comeback,healer_combatmedic,artillery_maxpower,human_humandestiny,musketeer_rapidreload,warbeast_1,berserker_frenzy,archer_zephyrstride,mage_elementalsummoning,tank_guardian,rogue_veilingcloak,saint_missionary,amazon_vineclone,paladin_layonhands,templar_commanding_presence,gladiator_war_machine,saint_exalt,tank_lastlaugh,epic_ranged_dragonarrows,epic_giantsbrewzero,barb_warcry,epic_melee_gloryofvictory,archer_longbows,blob_flesheater",
         "nextNodeType": "olympiadbossMedusa2"
-    },
-    {
-        "dungeonRunId": "174816",
-        "completedLevels": "23",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-13 05:10:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,flyingrogue_aggravate,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero,centurion_juggernaut",
-        "nextNodeType": "earthboss"
     },
     {
         "dungeonRunId": "174786",
