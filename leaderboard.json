@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "174836",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "SombraRJ",
         "startTime": "2024-12-13 09:10:19",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,common_specialists,barbarian_gloriousdeath,warrior_secondwind,ensouled_bravespirits,musketeer_rapidreload,flagbearer_rallydefense,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,paladin_skeletalsquire,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,flagbearer_bannerofvitality,fairy_hocuspocus,gladiator_war_machine,archer_longbows",
-        "nextNodeType": "lavachamber"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,common_specialists,barbarian_gloriousdeath,warrior_secondwind,ensouled_bravespirits,musketeer_rapidreload,flagbearer_rallydefense,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,paladin_skeletalsquire,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,flagbearer_bannerofvitality,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage",
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174719",
