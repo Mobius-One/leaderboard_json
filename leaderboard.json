@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "174719",
-        "completedLevels": "42",
+        "completedLevels": "43",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2024-12-12 19:10:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,saint_skeletondance,warrior_frostguard,bomber_ricochet,paladin_skeletalsquire,warrior_swordofruin,artillery_maxpower,epic_melee_gloryofvictory,barb_warcry,human_humandestiny,healer_giftofregeneration,archer_soulpenetration,orcs_inpenetrable",
-        "nextNodeType": "heartscelestialabyrinth"
+        "nextNodeType": "tomblandsorcflank"
     },
     {
         "dungeonRunId": "174836",
@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "174825",
+        "dungeonRunId": "174857",
         "completedLevels": "32",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-12-13 06:36:05",
-        "endTime": "2024-12-13 09:38:40",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands,gladiator_sonofthunder,lancer_firststrike,flagbearer_flagbearerswill,rogue_momentum,epic_melee_gloryofvictory,gladiator_browbeat",
-        "nextNodeType": "cultbloodycity"
+        "twitchDisplayName": "HipsuVT",
+        "startTime": "2024-12-13 15:16:37",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,fairy_gift_of_the_wind,centurion_tactician,fairy_hocuspocus,phantom_thehaunting,rogue_flamewalker,centurion_juggernaut,monk_pure_focus,epic_giantsbrewzero,warbeast_1,archer_soulpenetration,berserker_rancor,healer_giftofregeneration,bomber_bombardment,saint_exalt,templar_commanding_presence,centurion_2,archer_enchantedammo,epic_ranged_dragonarrows,healer_combatmedic,mage_elementalsummoning,ensouled_bravespirits,tank_battlefieldcontrol,saint_missionary,saint_skeletondance,musketeer_rapidreload,shinobi_firetechinique",
+        "nextNodeType": "starboss"
     }
 ]
