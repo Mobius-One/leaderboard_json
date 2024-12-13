@@ -63,6 +63,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "174825",
+        "completedLevels": "25",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-12-13 06:36:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,saint_missionary,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands,gladiator_sonofthunder,lancer_firststrike,flagbearer_flagbearerswill",
+        "nextNodeType": "olympiadgodgroupFullAB"
+    },
+    {
         "dungeonRunId": "174719",
         "completedLevels": "24",
         "twitchDisplayName": "Panthergal2018",
@@ -70,15 +79,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,archer_zephyrstride,barb_warcry,human_humandestiny",
         "nextNodeType": "tomblandsorccamp"
-    },
-    {
-        "dungeonRunId": "174825",
-        "completedLevels": "24",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-12-13 06:36:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,saint_missionary,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands,gladiator_sonofthunder,lancer_firststrike",
-        "nextNodeType": "tomblandsorcflank"
     },
     {
         "dungeonRunId": "174798",
