@@ -72,6 +72,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "174836",
+        "completedLevels": "24",
+        "twitchDisplayName": "SombraRJ",
+        "startTime": "2024-12-13 09:10:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,common_specialists,barbarian_gloriousdeath,warrior_secondwind,ensouled_bravespirits,musketeer_rapidreload,flagbearer_rallydefense,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,paladin_skeletalsquire,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,flagbearer_bannerofvitality,fairy_hocuspocus,gladiator_war_machine",
+        "nextNodeType": "tomblandsorccamp"
+    },
+    {
         "dungeonRunId": "174719",
         "completedLevels": "24",
         "twitchDisplayName": "Panthergal2018",
@@ -79,14 +88,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,archer_zephyrstride,barb_warcry,human_humandestiny",
         "nextNodeType": "tomblandsorccamp"
-    },
-    {
-        "dungeonRunId": "174798",
-        "completedLevels": "23",
-        "twitchDisplayName": "5mokeGhost",
-        "startTime": "2024-12-13 03:20:04",
-        "endTime": "2024-12-13 06:24:28",
-        "captainBoons": "common_classic_comeback,healer_combatmedic,artillery_maxpower,human_humandestiny,musketeer_rapidreload,warbeast_1,berserker_frenzy,archer_zephyrstride,mage_elementalsummoning,tank_guardian,rogue_veilingcloak,saint_missionary,amazon_vineclone,paladin_layonhands,templar_commanding_presence,gladiator_war_machine,saint_exalt,tank_lastlaugh,epic_ranged_dragonarrows,epic_giantsbrewzero,barb_warcry,epic_melee_gloryofvictory,archer_longbows,blob_flesheater",
-        "nextNodeType": "olympiadbossMedusa2"
     }
 ]
