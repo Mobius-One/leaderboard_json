@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "174713",
-        "completedLevels": "46",
+        "completedLevels": "47",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_longbows,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,orcs_inpenetrable,gladiator_browbeat,vampire_dark_pact,gladiator_war_machine,saint_exalt,frogue_cloakingfield,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,healer_giftofregeneration,warrior_frostguard,fairy_hocuspocus,bomber_bombardment,lancer_sarissaspears,necromancer_necronomicon",
-        "nextNodeType": "olympiadgodgroupFullAB"
+        "nextNodeType": "earthboss"
     },
     {
         "dungeonRunId": "174712",
@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "174744",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,paladin_skeletalsquire,healer_dreamy_wardens,lancer_sarissaspears,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,flagbearer_bannerofvitality,blob_flesheater,gladiator_war_machine",
-        "nextNodeType": "moboatx"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,paladin_skeletalsquire,healer_dreamy_wardens,lancer_sarissaspears,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,flagbearer_bannerofvitality,blob_flesheater,gladiator_war_machine,rogue_flamewalker",
+        "nextNodeType": "shogunateBasic"
     },
     {
         "dungeonRunId": "174719",
