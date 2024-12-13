@@ -45,15 +45,6 @@
         "nextNodeType": "shogunateBasic"
     },
     {
-        "dungeonRunId": "174836",
-        "completedLevels": "32",
-        "twitchDisplayName": "SombraRJ",
-        "startTime": "2024-12-13 09:10:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,common_specialists,barbarian_gloriousdeath,warrior_secondwind,ensouled_bravespirits,musketeer_rapidreload,flagbearer_rallydefense,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,paladin_skeletalsquire,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage,centurion_2,healer_combatmedic,gladiator_sonofthunder",
-        "nextNodeType": "earthboss"
-    },
-    {
         "dungeonRunId": "174825",
         "completedLevels": "32",
         "twitchDisplayName": "CoilGun",
@@ -61,6 +52,15 @@
         "endTime": "2024-12-13 09:38:40",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands,gladiator_sonofthunder,lancer_firststrike,flagbearer_flagbearerswill,rogue_momentum,epic_melee_gloryofvictory,gladiator_browbeat",
         "nextNodeType": "cultbloodycity"
+    },
+    {
+        "dungeonRunId": "174836",
+        "completedLevels": "32",
+        "twitchDisplayName": "SombraRJ",
+        "startTime": "2024-12-13 09:10:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,common_specialists,barbarian_gloriousdeath,warrior_secondwind,ensouled_bravespirits,musketeer_rapidreload,flagbearer_rallydefense,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage,centurion_2,healer_combatmedic,gladiator_sonofthunder",
+        "nextNodeType": "earthboss"
     },
     {
         "dungeonRunId": "174767",
