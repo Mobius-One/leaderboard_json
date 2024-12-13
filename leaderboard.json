@@ -23,7 +23,7 @@
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,bomber_dangerzone,healer_dreamy_wardens,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,tank_frostbarbs,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,blob_flesheater,gladiator_war_machine,rogue_flamewalker",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,bomber_dangerzone,healer_dreamy_wardens,warrior_swordofruin,archer_longbows,barb_warcry,tank_frostbarbs,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,blob_flesheater,gladiator_war_machine,rogue_flamewalker",
         "nextNodeType": "lavachamber"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "174764",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2024-12-13 00:36:20",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_veilingcloak,mage_elementalsummoning,vampire_aerial_fiend,flagbearer_flagbearerswill,gladiator_sonofthunder,epic_melee_gloryofvictory,shinobi_shadowstrike,fairy_hocuspocus,barbarian_immortal,epic_giantsbrewzero,rogue_momentum,healer_dreamy_wardens,healer_combatmedic,monk_selfless_prayer,blob_parasite",
-        "nextNodeType": "shogunateBasic"
+        "captainBoons": "common_classic_comeback,rogue_veilingcloak,mage_elementalsummoning,vampire_aerial_fiend,flagbearer_flagbearerswill,gladiator_sonofthunder,epic_melee_gloryofvictory,shinobi_shadowstrike,fairy_hocuspocus,barbarian_immortal,epic_giantsbrewzero,rogue_momentum,healer_dreamy_wardens,healer_combatmedic,monk_selfless_prayer,blob_parasite,lancer_sarissaspears",
+        "nextNodeType": "shrinkeningpuddles"
     },
     {
         "dungeonRunId": "174739",
