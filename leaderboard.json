@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "174792",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "ojangle",
         "startTime": "2024-12-13 02:50:28",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,healer_giftofregeneration,epic_armored_armoredgiants,vampire_darkwings,gladiator_sonofthunder,musk_hunters_mark,musketeer_rapidreload,buster_healing_bomb,buster_nanobusters,flagbearer_bannerofvitality,archer_enchantedammo,centurion_2,monk_stoptheflow,vampire_dark_pact,archer_soulpenetration,healer_combatmedic,flagbearer_rallydefense,spell_empower_highground,rogue_flamewalker,blob_flesheater,flag_1,flagbearer_flagbearerswill,monk_selfless_prayer,warlock_inferno,warrior_bladedancer,fairy_hocuspocus,shinobi_lastninja,paladin_layonhands",
-        "nextNodeType": "lavachamber"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,healer_giftofregeneration,epic_armored_armoredgiants,vampire_darkwings,gladiator_sonofthunder,musk_hunters_mark,musketeer_rapidreload,buster_healing_bomb,buster_nanobusters,flagbearer_bannerofvitality,archer_enchantedammo,centurion_2,monk_stoptheflow,vampire_dark_pact,archer_soulpenetration,healer_combatmedic,flagbearer_rallydefense,spell_empower_highground,rogue_flamewalker,blob_flesheater,flag_1,flagbearer_flagbearerswill,monk_selfless_prayer,warlock_inferno,warrior_bladedancer,fairy_hocuspocus,shinobi_lastninja,paladin_layonhands,warrior_secondwind",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "174719",
