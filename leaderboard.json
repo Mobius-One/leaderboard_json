@@ -36,13 +36,13 @@
         "nextNodeType": "starboss"
     },
     {
-        "dungeonRunId": "174764",
-        "completedLevels": "32",
+        "dungeonRunId": "174812",
+        "completedLevels": "33",
         "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2024-12-13 00:36:20",
-        "endTime": "2024-12-13 04:55:28",
-        "captainBoons": "common_classic_comeback,rogue_veilingcloak,mage_elementalsummoning,vampire_aerial_fiend,flagbearer_flagbearerswill,gladiator_sonofthunder,epic_melee_gloryofvictory,shinobi_shadowstrike,fairy_hocuspocus,barbarian_immortal,epic_giantsbrewzero,rogue_momentum,healer_dreamy_wardens,healer_combatmedic,monk_selfless_prayer,blob_parasite,lancer_sarissaspears,healer_giftofregeneration,necromancer_necronomicon,spell_empower_curse,tank_frostbarbs,musk_golden_rounds,gladiator_war_machine,archer_longbows,warbeast_1,berserker_frenzy,bomber_dangerzone,templar_commanding_presence",
-        "nextNodeType": "earthboss"
+        "startTime": "2024-12-13 04:55:53",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_longbows,orcs_inpenetrable,artillery_machine_gun,berserker_rancor,flagbearer_rallydefense,warlock_inferno,rogue_flamewalker,gladiator_war_machine,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,flagbearer_bannerofvitality,warbeast_1,blob_parasite,bomber_dangerzone,paladin_skeletalsquire,vampire_darkwings,berserker_enrage,centurion_2,flagbearer_flagbearerswill,warrior_secondwind,spell_empower_highground,warrior_frostguard,lancer_spearwall,phantom_thehaunting,warrior_bladedancer,healer_giftofregeneration",
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "174767",
@@ -54,6 +54,15 @@
         "nextNodeType": "lavachamber"
     },
     {
+        "dungeonRunId": "174825",
+        "completedLevels": "29",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2024-12-13 06:36:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,saint_missionary,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands,gladiator_sonofthunder,lancer_firststrike,flagbearer_flagbearerswill,rogue_momentum,epic_melee_gloryofvictory,gladiator_browbeat",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
         "dungeonRunId": "174792",
         "completedLevels": "29",
         "twitchDisplayName": "ojangle",
@@ -61,15 +70,6 @@
         "endTime": "2024-12-13 06:56:02",
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,healer_giftofregeneration,epic_armored_armoredgiants,vampire_darkwings,gladiator_sonofthunder,musk_hunters_mark,musketeer_rapidreload,buster_healing_bomb,buster_nanobusters,flagbearer_bannerofvitality,archer_enchantedammo,centurion_2,monk_stoptheflow,vampire_dark_pact,archer_soulpenetration,healer_combatmedic,flagbearer_rallydefense,spell_empower_highground,rogue_flamewalker,blob_flesheater,flag_1,flagbearer_flagbearerswill,monk_selfless_prayer,warlock_inferno,warrior_bladedancer,fairy_hocuspocus,shinobi_lastninja,paladin_layonhands,warrior_secondwind",
         "nextNodeType": "dungeons_jerry"
-    },
-    {
-        "dungeonRunId": "174825",
-        "completedLevels": "28",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2024-12-13 06:36:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,shinobi_firetechinique,gladiator_war_machine,vampire_darkwings,healer_giftofregeneration,frogue_air_snipers,archer_longbows,frogue_cloakingfield,rogue_shadowcloak,fairy_fireflyconjuration,saint_missionary,blob_parasite,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,epic_giantsbrewzero,orcs_inpenetrable,barbarian_immortal,musketeer_rapidreload,archer_enchantedammo,ensouled_bravespirits,paladin_layonhands,gladiator_sonofthunder,lancer_firststrike,flagbearer_flagbearerswill,rogue_momentum,epic_melee_gloryofvictory,gladiator_browbeat",
-        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "174719",
