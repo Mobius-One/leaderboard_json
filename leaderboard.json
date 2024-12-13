@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "174713",
-        "completedLevels": "70",
+        "completedLevels": "71",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_longbows,bomber_dangerzone,gladiator_sonofthunder,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
-        "nextNodeType": "heartscelestialabyrinth"
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "174744",
@@ -14,7 +14,7 @@
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,bomber_dangerzone,healer_dreamy_wardens,archer_longbows,barbarian_immortal,artillery_maxpower,saint_exalt,bomber_bombardment,blob_flesheater,gladiator_war_machine",
+        "captainBoons": "fairy_fireflyconjuration,fairy_gift_of_the_wind,bomber_dangerzone,healer_dreamy_wardens,archer_longbows,barbarian_immortal,artillery_maxpower,saint_exalt,bomber_bombardment,blob_flesheater,gladiator_war_machine",
         "nextNodeType": "tomblandsorcflank"
     },
     {
@@ -50,17 +50,17 @@
         "twitchDisplayName": "CwellGaming",
         "startTime": "2024-12-13 00:48:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows",
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,paladin_skeletalsquire",
         "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174786",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "Romanedgee",
         "startTime": "2024-12-13 02:14:43",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,vampire_darkwings,rogue_momentum,human_humandestiny,flagbearer_bannerofvitality,flagbearer_rallydefense,archer_soulpenetration,bomber_dangerzone,warbeast_1,epic_ranged_dragonarrows,centurion_tactician,vampire_dark_pact,buster_nanobusters,berserker_rancor,lancer_spearwall,spell_empower_curse,musketeer_rapidreload,buster_healing_bomb,ensouled_bravespirits,flagbearer_flagbearerswill,warrior_secondwind",
-        "nextNodeType": "starboss"
+        "captainBoons": "common_classic_comeback,vampire_darkwings,rogue_momentum,human_humandestiny,flagbearer_bannerofvitality,flagbearer_rallydefense,archer_soulpenetration,bomber_dangerzone,warbeast_1,epic_ranged_dragonarrows,centurion_tactician,vampire_dark_pact,buster_nanobusters,berserker_rancor,lancer_spearwall,spell_empower_curse,musketeer_rapidreload,buster_healing_bomb,ensouled_bravespirits,flagbearer_flagbearerswill,warrior_secondwind,vampire_aerial_fiend",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "174768",
