@@ -1,39 +1,39 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "55",
+        "completedLevels": "56",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,phantom_thehaunting,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,lancer_spearwall,spell_empower_highground,warrior_frostguard,tank_frostbarbs,barb_warcry,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "beastlandsbeast05"
+        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,lancer_spearwall,spell_empower_highground,warrior_frostguard,tank_frostbarbs,barb_warcry,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174713",
-        "completedLevels": "48",
+        "completedLevels": "49",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_longbows,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,orcs_inpenetrable,gladiator_browbeat,vampire_dark_pact,gladiator_war_machine,saint_exalt,frogue_cloakingfield,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,warrior_frostguard,fairy_hocuspocus,bomber_bombardment,lancer_sarissaspears,necromancer_necronomicon",
-        "nextNodeType": "shrinkeningpuddles"
+        "nextNodeType": "moboatx"
     },
     {
         "dungeonRunId": "174712",
-        "completedLevels": "46",
+        "completedLevels": "47",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-12 19:04:21",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,saint_exalt,epic_melee_gloryofvictory,flagbearer_rallydefense,ensouled_bravespirits,warrior_frostguard,shinobi_firetechinique",
-        "nextNodeType": "crystaltunnel"
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174744",
-        "completedLevels": "31",
+        "completedLevels": "32",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,healer_dreamy_wardens,lancer_sarissaspears,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,flagbearer_bannerofvitality,blob_flesheater,gladiator_war_machine,rogue_flamewalker,gladiator_sonofthunder",
-        "nextNodeType": "elementaliceroad"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,healer_dreamy_wardens,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,flagbearer_bannerofvitality,blob_flesheater,gladiator_war_machine,rogue_flamewalker,gladiator_sonofthunder",
+        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "174719",
