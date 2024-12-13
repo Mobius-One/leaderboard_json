@@ -10,30 +10,30 @@
     },
     {
         "dungeonRunId": "174713",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_longbows,centurion_2,bomber_dangerzone,gladiator_sonofthunder,healer_dreamy_wardens,orcs_inpenetrable,gladiator_browbeat,vampire_dark_pact,gladiator_war_machine,saint_exalt,frogue_cloakingfield,ensouled_bravespirits,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,healer_giftofregeneration,warrior_frostguard,fairy_hocuspocus,bomber_bombardment,lancer_sarissaspears,necromancer_necronomicon",
-        "nextNodeType": "starboss"
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "174712",
-        "completedLevels": "42",
+        "completedLevels": "43",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-12 19:04:21",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,gladiator_browbeat,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,saint_exalt,epic_melee_gloryofvictory,paladin_skeletalsquire,flagbearer_rallydefense,ensouled_bravespirits,warrior_frostguard,shinobi_firetechinique",
-        "nextNodeType": "crystaltunnel"
+        "nextNodeType": "olympiadgodgroupFullAB"
     },
     {
         "dungeonRunId": "174744",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,paladin_skeletalsquire,healer_dreamy_wardens,lancer_sarissaspears,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,flagbearer_bannerofvitality",
-        "nextNodeType": "beastlandsbeast03"
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174719",
