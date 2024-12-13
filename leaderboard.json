@@ -72,6 +72,15 @@
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
+        "dungeonRunId": "174816",
+        "completedLevels": "23",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-13 05:10:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,flyingrogue_aggravate,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero,centurion_juggernaut",
+        "nextNodeType": "earthboss"
+    },
+    {
         "dungeonRunId": "174786",
         "completedLevels": "22",
         "twitchDisplayName": "Romanedgee",
@@ -79,14 +88,5 @@
         "endTime": "2024-12-13 04:28:20",
         "captainBoons": "common_classic_comeback,vampire_darkwings,rogue_momentum,human_humandestiny,flagbearer_bannerofvitality,flagbearer_rallydefense,archer_soulpenetration,bomber_dangerzone,warbeast_1,epic_ranged_dragonarrows,centurion_tactician,vampire_dark_pact,buster_nanobusters,berserker_rancor,lancer_spearwall,spell_empower_curse,musketeer_rapidreload,buster_healing_bomb,ensouled_bravespirits,flagbearer_flagbearerswill,warrior_secondwind,vampire_aerial_fiend,archer_zephyrstride",
         "nextNodeType": "olympiadgodgroupFullCD"
-    },
-    {
-        "dungeonRunId": "174816",
-        "completedLevels": "22",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-13 05:10:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,flyingrogue_aggravate,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,mage_elementalsummoning,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,warbeast_1,lancer_firststrike,epic_giantsbrewzero",
-        "nextNodeType": "tomblandsorccamp"
     }
 ]
