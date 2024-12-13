@@ -63,6 +63,15 @@
         "nextNodeType": "cultbloodycity"
     },
     {
+        "dungeonRunId": "174847",
+        "completedLevels": "31",
+        "twitchDisplayName": "Xanifer",
+        "startTime": "2024-12-13 13:16:24",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,rogue_veilingcloak,artillery_maxpower,flag_1,tank_battlefieldcontrol,vampire_dark_pact,musk_hunters_mark,vampire_darkwings,bomber_ricochet,epic_armored_armoredgiants,bomber_dangerzone,frogue_cloakingfield,barbarian_immortal,archer_longbows,rogue_momentum,rogue_shadowcloak,paladin_layonhands,tank_lastlaugh,fairy_gift_of_the_wind,flagbearer_flagbearerswill,fairy_hocuspocus,tank_guardian,musketeer_rapidreload,flagbearer_rallydefense,human_humandestiny,shinobi_shadowstrike,warrior_secondwind,lancer_firststrike,warrior_bladedancer",
+        "nextNodeType": "heartscelestialabyrinth"
+    },
+    {
         "dungeonRunId": "174767",
         "completedLevels": "30",
         "twitchDisplayName": "CwellGaming",
@@ -70,15 +79,6 @@
         "endTime": "2024-12-13 05:25:38",
         "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,spell_empower_killingfield,bomber_dangerzone,necromancer_necronomicon,ensouled_bravespirits,berserker_rancor,fairy_hocuspocus",
         "nextNodeType": "lavachamber"
-    },
-    {
-        "dungeonRunId": "174847",
-        "completedLevels": "30",
-        "twitchDisplayName": "Xanifer",
-        "startTime": "2024-12-13 13:16:24",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_veilingcloak,artillery_maxpower,flag_1,tank_battlefieldcontrol,vampire_dark_pact,musk_hunters_mark,vampire_darkwings,bomber_ricochet,epic_armored_armoredgiants,bomber_dangerzone,frogue_cloakingfield,barbarian_immortal,archer_longbows,rogue_momentum,rogue_shadowcloak,paladin_layonhands,tank_lastlaugh,fairy_gift_of_the_wind,flagbearer_flagbearerswill,fairy_hocuspocus,tank_guardian,musketeer_rapidreload,flagbearer_rallydefense,human_humandestiny,shinobi_shadowstrike,warrior_secondwind,lancer_firststrike,warrior_bladedancer",
-        "nextNodeType": "beastlandsbeast05"
     },
     {
         "dungeonRunId": "174792",
