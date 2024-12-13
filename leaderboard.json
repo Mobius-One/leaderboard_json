@@ -63,21 +63,21 @@
         "nextNodeType": "lavachamber"
     },
     {
-        "dungeonRunId": "174836",
-        "completedLevels": "29",
-        "twitchDisplayName": "SombraRJ",
-        "startTime": "2024-12-13 09:10:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,common_specialists,barbarian_gloriousdeath,warrior_secondwind,ensouled_bravespirits,musketeer_rapidreload,flagbearer_rallydefense,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,paladin_skeletalsquire,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,flagbearer_bannerofvitality,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage,centurion_2,healer_combatmedic,gladiator_sonofthunder",
-        "nextNodeType": "dungeons_jerry"
-    },
-    {
         "dungeonRunId": "174792",
         "completedLevels": "29",
         "twitchDisplayName": "ojangle",
         "startTime": "2024-12-13 02:50:28",
         "endTime": "2024-12-13 06:56:02",
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,healer_giftofregeneration,epic_armored_armoredgiants,vampire_darkwings,gladiator_sonofthunder,musk_hunters_mark,musketeer_rapidreload,buster_healing_bomb,buster_nanobusters,flagbearer_bannerofvitality,archer_enchantedammo,centurion_2,monk_stoptheflow,vampire_dark_pact,archer_soulpenetration,healer_combatmedic,flagbearer_rallydefense,spell_empower_highground,rogue_flamewalker,blob_flesheater,flag_1,flagbearer_flagbearerswill,monk_selfless_prayer,warlock_inferno,warrior_bladedancer,fairy_hocuspocus,shinobi_lastninja,paladin_layonhands,warrior_secondwind",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
+        "dungeonRunId": "174836",
+        "completedLevels": "29",
+        "twitchDisplayName": "SombraRJ",
+        "startTime": "2024-12-13 09:10:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,common_specialists,barbarian_gloriousdeath,warrior_secondwind,ensouled_bravespirits,musketeer_rapidreload,flagbearer_rallydefense,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,paladin_skeletalsquire,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,flagbearer_bannerofvitality,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage,centurion_2,healer_combatmedic,gladiator_sonofthunder",
         "nextNodeType": "dungeons_jerry"
     },
     {
