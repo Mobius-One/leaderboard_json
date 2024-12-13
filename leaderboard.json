@@ -31,18 +31,18 @@
         "completedLevels": "32",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2024-12-13 00:36:20",
-        "endTime": null,
+        "endTime": "2024-12-13 04:55:28",
         "captainBoons": "common_classic_comeback,rogue_veilingcloak,mage_elementalsummoning,vampire_aerial_fiend,flagbearer_flagbearerswill,gladiator_sonofthunder,epic_melee_gloryofvictory,shinobi_shadowstrike,fairy_hocuspocus,barbarian_immortal,epic_giantsbrewzero,rogue_momentum,healer_dreamy_wardens,healer_combatmedic,monk_selfless_prayer,blob_parasite,lancer_sarissaspears,healer_giftofregeneration,necromancer_necronomicon,spell_empower_curse,tank_frostbarbs,musk_golden_rounds,gladiator_war_machine,archer_longbows,warbeast_1,berserker_frenzy,bomber_dangerzone,templar_commanding_presence",
         "nextNodeType": "earthboss"
     },
     {
         "dungeonRunId": "174767",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "CwellGaming",
         "startTime": "2024-12-13 00:48:49",
         "endTime": null,
         "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,paladin_skeletalsquire,spell_empower_killingfield,bomber_dangerzone,necromancer_necronomicon,ensouled_bravespirits",
-        "nextNodeType": "elementaliceroad"
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "174719",
