@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "174847",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "Xanifer",
         "startTime": "2024-12-13 13:16:24",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_veilingcloak,artillery_maxpower,flag_1,tank_battlefieldcontrol,vampire_dark_pact,musk_hunters_mark,vampire_darkwings,bomber_ricochet,epic_armored_armoredgiants,bomber_dangerzone,frogue_cloakingfield,barbarian_immortal,archer_longbows,rogue_momentum,rogue_shadowcloak,paladin_layonhands,tank_lastlaugh,fairy_gift_of_the_wind,flagbearer_flagbearerswill,fairy_hocuspocus,tank_guardian,musketeer_rapidreload,flagbearer_rallydefense,human_humandestiny,shinobi_shadowstrike,warrior_secondwind,lancer_firststrike",
-        "nextNodeType": "elementaliceroad"
+        "captainBoons": "common_classic_comeback,rogue_veilingcloak,artillery_maxpower,flag_1,tank_battlefieldcontrol,vampire_dark_pact,musk_hunters_mark,vampire_darkwings,bomber_ricochet,epic_armored_armoredgiants,bomber_dangerzone,frogue_cloakingfield,barbarian_immortal,archer_longbows,rogue_momentum,rogue_shadowcloak,paladin_layonhands,tank_lastlaugh,fairy_gift_of_the_wind,flagbearer_flagbearerswill,fairy_hocuspocus,tank_guardian,musketeer_rapidreload,flagbearer_rallydefense,human_humandestiny,shinobi_shadowstrike,warrior_secondwind,lancer_firststrike,warrior_bladedancer",
+        "nextNodeType": "moboatx"
     }
 ]
