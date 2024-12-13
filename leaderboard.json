@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "174847",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "Xanifer",
         "startTime": "2024-12-13 13:16:24",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_veilingcloak,artillery_maxpower,flag_1,tank_battlefieldcontrol,vampire_dark_pact,musk_hunters_mark,vampire_darkwings,bomber_ricochet,epic_armored_armoredgiants,bomber_dangerzone,frogue_cloakingfield,barbarian_immortal,archer_longbows,rogue_momentum,rogue_shadowcloak,paladin_layonhands,tank_lastlaugh,fairy_gift_of_the_wind,flagbearer_flagbearerswill,fairy_hocuspocus,tank_guardian,musketeer_rapidreload,flagbearer_rallydefense,human_humandestiny,warrior_secondwind,lancer_firststrike,warrior_bladedancer",
-        "nextNodeType": "glitchedretrotown"
+        "captainBoons": "common_classic_comeback,rogue_veilingcloak,artillery_maxpower,flag_1,tank_battlefieldcontrol,musk_hunters_mark,vampire_darkwings,bomber_ricochet,epic_armored_armoredgiants,bomber_dangerzone,frogue_cloakingfield,barbarian_immortal,archer_longbows,rogue_momentum,rogue_shadowcloak,paladin_layonhands,tank_lastlaugh,fairy_gift_of_the_wind,flagbearer_flagbearerswill,fairy_hocuspocus,tank_guardian,musketeer_rapidreload,flagbearer_rallydefense,human_humandestiny,warrior_secondwind,lancer_firststrike,warrior_bladedancer",
+        "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
         "dungeonRunId": "174825",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "174849",
-        "completedLevels": "31",
+        "completedLevels": "32",
         "twitchDisplayName": "redspecter23",
         "startTime": "2024-12-13 13:21:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,bomber_ricochet,artillery_machine_gun,lancer_sarissaspears,berserker_enrage,bomber_bombardment,archer_longbows,artillery_maxpower,berserker_frenzy,warrior_frostguard,musk_hunters_mark,centurion_tactician,warrior_secondwind,warlock_inferno,archer_zephyrstride,musk_golden_rounds,spell_empower_highground,epic_giantsbrewzero,archer_enchantedammo,warrior_swordofruin,warrior_bladedancer,frogue_cloakingfield,epic_ranged_dragonarrows,berserker_rancor,lancer_spearwall,ensouled_bravespirits,saint_exalt,blob_flesheater",
-        "nextNodeType": "heartscelestialabyrinth"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,bomber_ricochet,artillery_machine_gun,lancer_sarissaspears,berserker_enrage,bomber_bombardment,archer_longbows,artillery_maxpower,berserker_frenzy,warrior_frostguard,musk_hunters_mark,centurion_tactician,warrior_secondwind,warlock_inferno,archer_zephyrstride,musk_golden_rounds,spell_empower_highground,epic_giantsbrewzero,archer_enchantedammo,warrior_swordofruin,warrior_bladedancer,frogue_cloakingfield,epic_ranged_dragonarrows,lancer_spearwall,ensouled_bravespirits,saint_exalt,blob_flesheater",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "174767",
