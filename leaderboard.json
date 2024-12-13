@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "56",
+        "completedLevels": "57",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,lancer_spearwall,spell_empower_highground,warrior_frostguard,tank_frostbarbs,barb_warcry,monk_pure_focus,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "cultbloodycity"
+        "nextNodeType": "beastlandsbeast03"
     },
     {
         "dungeonRunId": "174713",
@@ -18,22 +18,13 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "174712",
-        "completedLevels": "47",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-12-12 19:04:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_ricochet,berserker_frenzy,fairy_fireflyconjuration,blob_flesheater,fairy_gift_of_the_wind,barbarian_gloriousdeath,necromancer_necronomicon,warrior_swordofruin,bomber_dangerzone,lancer_spearwall,archer_soulpenetration,centurion_tactician,gladiator_sonofthunder,saint_exalt,epic_melee_gloryofvictory,flagbearer_rallydefense,ensouled_bravespirits,warrior_frostguard,shinobi_firetechinique",
-        "nextNodeType": "cultbloodycity"
-    },
-    {
         "dungeonRunId": "174744",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,warrior_secondwind,ensouled_bravespirits,bomber_dangerzone,healer_dreamy_wardens,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,flagbearer_bannerofvitality,blob_flesheater,gladiator_war_machine,rogue_flamewalker,gladiator_sonofthunder",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,ensouled_bravespirits,bomber_dangerzone,healer_dreamy_wardens,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,flagbearer_bannerofvitality,blob_flesheater,gladiator_war_machine,rogue_flamewalker,gladiator_sonofthunder",
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "174719",
@@ -54,6 +45,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "174748",
+        "completedLevels": "13",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2024-12-12 22:52:15",
+        "endTime": "2024-12-13 00:36:05",
+        "captainBoons": "common_classic_comeback,saint_exalt,artillery_maxpower,spell_empower_curse,flyingrogue_aggravate,lancer_spearwall,artillery_machine_gun,archer_longbows,warrior_secondwind,shinobi_lastninja,shinobi_shadowstrike,mage_elementalsummoning,human_humandestiny,archer_zephyrstride",
+        "nextNodeType": "lavachamber"
+    },
+    {
         "dungeonRunId": "174738",
         "completedLevels": "13",
         "twitchDisplayName": "K_Doctor",
@@ -63,13 +63,13 @@
         "nextNodeType": "elementaliceroad"
     },
     {
-        "dungeonRunId": "174748",
-        "completedLevels": "13",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2024-12-12 22:52:15",
-        "endTime": "2024-12-13 00:36:05",
-        "captainBoons": "common_classic_comeback,saint_exalt,artillery_maxpower,spell_empower_curse,flyingrogue_aggravate,lancer_spearwall,artillery_machine_gun,archer_longbows,warrior_secondwind,shinobi_lastninja,shinobi_shadowstrike,mage_elementalsummoning,human_humandestiny,archer_zephyrstride",
-        "nextNodeType": "lavachamber"
+        "dungeonRunId": "174722",
+        "completedLevels": "11",
+        "twitchDisplayName": "the_redlifestyle",
+        "startTime": "2024-12-12 19:24:29",
+        "endTime": "2024-12-12 21:36:33",
+        "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard,archer_enchantedammo,warrior_swordofruin,tank_battlefieldcontrol,musk_golden_rounds,barbarian_immortal,tank_frostbarbs,barb_warcry",
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174720",
@@ -81,12 +81,12 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "174722",
-        "completedLevels": "11",
-        "twitchDisplayName": "the_redlifestyle",
-        "startTime": "2024-12-12 19:24:29",
-        "endTime": "2024-12-12 21:36:33",
-        "captainBoons": "common_classic_comeback,rogue_flamewalker,artillery_maxpower,paladin_2,warrior_frostguard,archer_enchantedammo,warrior_swordofruin,tank_battlefieldcontrol,musk_golden_rounds,barbarian_immortal,tank_frostbarbs,barb_warcry",
+        "dungeonRunId": "174754",
+        "completedLevels": "8",
+        "twitchDisplayName": "KisaRinMoon",
+        "startTime": "2024-12-12 23:39:33",
+        "endTime": "2024-12-13 00:56:54",
+        "captainBoons": "common_classic_comeback,warrior_frostguard,archer_enchantedammo,rogue_shadowcloak,centurion_tactician,frogue_cloakingfield,paladin_2,barbarian_gloriousdeath,warrior_secondwind",
         "nextNodeType": "olympiadbossMedusa2"
     }
 ]
