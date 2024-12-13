@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "174792",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "ojangle",
         "startTime": "2024-12-13 02:50:28",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,healer_giftofregeneration,epic_armored_armoredgiants,vampire_darkwings,gladiator_sonofthunder,musk_hunters_mark,musketeer_rapidreload,buster_healing_bomb,buster_nanobusters,flagbearer_bannerofvitality,archer_enchantedammo,centurion_2,monk_stoptheflow,vampire_dark_pact,archer_soulpenetration,healer_combatmedic,flagbearer_rallydefense,spell_empower_highground,rogue_flamewalker,blob_flesheater,flag_1,flagbearer_flagbearerswill,monk_selfless_prayer,warlock_inferno,warrior_bladedancer",
-        "nextNodeType": "beastlandsbeast03"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,healer_giftofregeneration,epic_armored_armoredgiants,vampire_darkwings,gladiator_sonofthunder,musk_hunters_mark,musketeer_rapidreload,buster_healing_bomb,buster_nanobusters,flagbearer_bannerofvitality,archer_enchantedammo,centurion_2,monk_stoptheflow,vampire_dark_pact,archer_soulpenetration,healer_combatmedic,flagbearer_rallydefense,spell_empower_highground,rogue_flamewalker,blob_flesheater,flag_1,flagbearer_flagbearerswill,monk_selfless_prayer,warlock_inferno,warrior_bladedancer,fairy_hocuspocus",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "174719",
@@ -67,7 +67,7 @@
         "completedLevels": "23",
         "twitchDisplayName": "5mokeGhost",
         "startTime": "2024-12-13 03:20:04",
-        "endTime": null,
+        "endTime": "2024-12-13 06:24:28",
         "captainBoons": "common_classic_comeback,healer_combatmedic,artillery_maxpower,human_humandestiny,musketeer_rapidreload,warbeast_1,berserker_frenzy,archer_zephyrstride,mage_elementalsummoning,tank_guardian,rogue_veilingcloak,saint_missionary,amazon_vineclone,paladin_layonhands,templar_commanding_presence,gladiator_war_machine,saint_exalt,tank_lastlaugh,epic_ranged_dragonarrows,epic_giantsbrewzero,barb_warcry,epic_melee_gloryofvictory,archer_longbows,blob_flesheater",
         "nextNodeType": "olympiadbossMedusa2"
     },
