@@ -28,19 +28,19 @@
     },
     {
         "dungeonRunId": "174816",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-12-13 05:10:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,lancer_firststrike,epic_giantsbrewzero,fairy_hocuspocus,gladiator_war_machine,fairy_fireflyconjuration,blob_flesheater",
-        "nextNodeType": "olympiadbossMedusa2"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,artillery_maxpower,epic_melee_gloryofvictory,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,gladiator_browbeat,tank_guardian,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,lancer_firststrike,epic_giantsbrewzero,fairy_hocuspocus,gladiator_war_machine,blob_flesheater",
+        "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
         "dungeonRunId": "174812",
         "completedLevels": "39",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2024-12-13 04:55:53",
-        "endTime": null,
+        "endTime": "2024-12-13 10:08:38",
         "captainBoons": "archer_longbows,orcs_inpenetrable,artillery_machine_gun,berserker_rancor,flagbearer_rallydefense,warlock_inferno,gladiator_war_machine,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,flagbearer_bannerofvitality,warbeast_1,blob_parasite,bomber_dangerzone,paladin_skeletalsquire,vampire_darkwings,berserker_enrage,centurion_2,flagbearer_flagbearerswill,spell_empower_highground,warrior_frostguard,lancer_spearwall,phantom_thehaunting,warrior_bladedancer,healer_giftofregeneration",
         "nextNodeType": "shogunateBasic"
     },
