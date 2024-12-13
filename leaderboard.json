@@ -36,6 +36,15 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
+        "dungeonRunId": "174849",
+        "completedLevels": "41",
+        "twitchDisplayName": "redspecter23",
+        "startTime": "2024-12-13 13:21:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,bomber_ricochet,artillery_machine_gun,lancer_sarissaspears,berserker_enrage,bomber_bombardment,archer_longbows,artillery_maxpower,berserker_frenzy,warrior_frostguard,musk_hunters_mark,centurion_tactician,warrior_secondwind,warlock_inferno,archer_zephyrstride,musk_golden_rounds,spell_empower_highground,epic_giantsbrewzero,warrior_swordofruin,warrior_bladedancer,epic_ranged_dragonarrows,ensouled_bravespirits,blob_flesheater",
+        "nextNodeType": "cultbloodycity"
+    },
+    {
         "dungeonRunId": "174836",
         "completedLevels": "41",
         "twitchDisplayName": "SombraRJ",
@@ -43,15 +52,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,barbarian_gloriousdeath,warrior_secondwind,musketeer_rapidreload,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage,healer_combatmedic,gladiator_sonofthunder",
         "nextNodeType": "earthboss"
-    },
-    {
-        "dungeonRunId": "174849",
-        "completedLevels": "40",
-        "twitchDisplayName": "redspecter23",
-        "startTime": "2024-12-13 13:21:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,bomber_ricochet,artillery_machine_gun,lancer_sarissaspears,berserker_enrage,bomber_bombardment,archer_longbows,artillery_maxpower,berserker_frenzy,warrior_frostguard,musk_hunters_mark,centurion_tactician,warrior_secondwind,warlock_inferno,archer_zephyrstride,musk_golden_rounds,spell_empower_highground,epic_giantsbrewzero,warrior_swordofruin,warrior_bladedancer,epic_ranged_dragonarrows,ensouled_bravespirits,blob_flesheater",
-        "nextNodeType": "crystaltunnel"
     },
     {
         "dungeonRunId": "174812",
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "174719",
-        "completedLevels": "36",
+        "completedLevels": "37",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2024-12-12 19:10:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,barb_warcry,human_humandestiny,healer_giftofregeneration,archer_soulpenetration,orcs_inpenetrable",
-        "nextNodeType": "moboatx"
+        "nextNodeType": "beastlandsbeast03"
     },
     {
         "dungeonRunId": "174847",
