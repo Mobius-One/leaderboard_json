@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "174713",
-        "completedLevels": "56",
+        "completedLevels": "57",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_longbows,bomber_dangerzone,gladiator_sonofthunder,orcs_inpenetrable,gladiator_browbeat,gladiator_war_machine,saint_exalt,frogue_cloakingfield,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,warrior_frostguard,bomber_bombardment,lancer_sarissaspears,necromancer_necronomicon",
-        "nextNodeType": "earthboss"
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "174744",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,bomber_dangerzone,healer_dreamy_wardens,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,blob_flesheater,gladiator_war_machine,rogue_flamewalker",
-        "nextNodeType": "cultbloodycity"
+        "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
         "dungeonRunId": "174719",
