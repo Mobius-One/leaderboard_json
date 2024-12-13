@@ -1,30 +1,30 @@
 [
     {
         "dungeonRunId": "174709",
-        "completedLevels": "58",
+        "completedLevels": "59",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-12 19:01:18",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,gladiator_browbeat,warrior_secondwind,gladiator_war_machine,saint_exalt,necromancer_necronomicon,lancer_spearwall,spell_empower_highground,warrior_frostguard,tank_frostbarbs,barb_warcry,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "shrinkeningpuddles"
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "174713",
-        "completedLevels": "51",
+        "completedLevels": "52",
         "twitchDisplayName": "bakodemeester",
         "startTime": "2024-12-12 19:06:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_longbows,centurion_2,bomber_dangerzone,gladiator_sonofthunder,orcs_inpenetrable,gladiator_browbeat,vampire_dark_pact,gladiator_war_machine,saint_exalt,frogue_cloakingfield,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,warrior_frostguard,fairy_hocuspocus,bomber_bombardment,lancer_sarissaspears,necromancer_necronomicon",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "captainBoons": "common_classic_comeback,archer_longbows,centurion_2,bomber_dangerzone,gladiator_sonofthunder,orcs_inpenetrable,gladiator_browbeat,gladiator_war_machine,saint_exalt,frogue_cloakingfield,tank_battlefieldcontrol,archer_enchantedammo,lancer_firststrike,warrior_frostguard,fairy_hocuspocus,bomber_bombardment,lancer_sarissaspears,necromancer_necronomicon",
+        "nextNodeType": "beastlandsbeast03"
     },
     {
         "dungeonRunId": "174744",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "Angel",
         "startTime": "2024-12-12 22:24:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,ensouled_bravespirits,bomber_dangerzone,healer_dreamy_wardens,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,flagbearer_bannerofvitality,blob_flesheater,gladiator_war_machine,rogue_flamewalker,gladiator_sonofthunder",
-        "nextNodeType": "starboss"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,lancer_spearwall,fairy_gift_of_the_wind,shinobi_shadowstrike,bomber_dangerzone,healer_dreamy_wardens,mage_elementalsummoning,warrior_swordofruin,archer_longbows,barb_warcry,amazon_vineclone,tank_frostbarbs,berserker_enrage,barbarian_immortal,epic_giantsbrewzero,artillery_maxpower,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,bomber_bombardment,flagbearer_bannerofvitality,blob_flesheater,gladiator_war_machine,rogue_flamewalker,gladiator_sonofthunder",
+        "nextNodeType": "crystaltunnel"
     },
     {
         "dungeonRunId": "174719",
