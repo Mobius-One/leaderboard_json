@@ -54,15 +54,6 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "174836",
-        "completedLevels": "30",
-        "twitchDisplayName": "SombraRJ",
-        "startTime": "2024-12-13 09:10:19",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,common_specialists,barbarian_gloriousdeath,warrior_secondwind,ensouled_bravespirits,musketeer_rapidreload,flagbearer_rallydefense,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,paladin_skeletalsquire,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage,centurion_2,healer_combatmedic,gladiator_sonofthunder",
-        "nextNodeType": "glitchedretrotown"
-    },
-    {
         "dungeonRunId": "174767",
         "completedLevels": "30",
         "twitchDisplayName": "CwellGaming",
@@ -70,6 +61,15 @@
         "endTime": "2024-12-13 05:25:38",
         "captainBoons": "common_classic_comeback,tank_frostbarbs,vampire_dark_pact,spy_fromcaptainwithlove,paladin_layonhands,orcs_inpenetrable,healer_dreamy_wardens,shinobi_shadowstrike,saint_missionary,shinobi_lastninja,vampire_darkwings,warrior_secondwind,epic_ranged_dragonarrows,epic_giantsbrewzero,shinobi_firetechinique,warrior_swordofruin,gladiator_browbeat,berserker_enrage,artillery_machine_gun,rogue_flamewalker,blob_flesheater,ensouled_heroicspirits,archer_longbows,spell_empower_killingfield,bomber_dangerzone,necromancer_necronomicon,ensouled_bravespirits,berserker_rancor,fairy_hocuspocus",
         "nextNodeType": "lavachamber"
+    },
+    {
+        "dungeonRunId": "174836",
+        "completedLevels": "30",
+        "twitchDisplayName": "SombraRJ",
+        "startTime": "2024-12-13 09:10:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,common_specialists,barbarian_gloriousdeath,warrior_secondwind,ensouled_bravespirits,musketeer_rapidreload,flagbearer_rallydefense,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,paladin_skeletalsquire,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage,centurion_2,healer_combatmedic,gladiator_sonofthunder",
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "174792",
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
-        "dungeonRunId": "174841",
+        "dungeonRunId": "174719",
         "completedLevels": "24",
-        "twitchDisplayName": "ZockingExtreme",
-        "startTime": "2024-12-13 10:48:47",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2024-12-12 19:10:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flyingrogue_aggravate,musk_golden_rounds,archer_soulpenetration,bomber_dangerzone,shinobi_firetechinique,warrior_swordofruin,musketeer_rapidreload,artillery_maxpower,common_specialists,archer_zephyrstride,bomber_ricochet,bomber_bombardment,tank_battlefieldcontrol,rogue_momentum,epic_ranged_dragonarrows,rogue_veilingcloak,barb_warcry,shinobi_lastninja,shinobi_shadowstrike,berserker_enrage,musk_hunters_mark,lancer_sarissaspears,frogue_cloakingfield,flag_1",
-        "nextNodeType": "beastlandsbeast03"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,centurion_2,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,gladiator_sonofthunder,saint_skeletondance,warrior_frostguard,bomber_ricochet,warlock_inferno,archer_longbows,paladin_skeletalsquire,warrior_swordofruin,saint_exalt,artillery_maxpower,epic_melee_gloryofvictory,archer_zephyrstride,barb_warcry,human_humandestiny",
+        "nextNodeType": "tomblandsorccamp"
     }
 ]
