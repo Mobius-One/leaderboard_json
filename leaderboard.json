@@ -63,6 +63,15 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
+        "dungeonRunId": "174857",
+        "completedLevels": "40",
+        "twitchDisplayName": "HipsuVT",
+        "startTime": "2024-12-13 15:16:37",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,fairy_gift_of_the_wind,centurion_tactician,fairy_hocuspocus,rogue_flamewalker,centurion_juggernaut,epic_giantsbrewzero,warbeast_1,archer_soulpenetration,healer_giftofregeneration,bomber_bombardment,saint_exalt,templar_commanding_presence,centurion_2,archer_enchantedammo,epic_ranged_dragonarrows,healer_combatmedic,mage_elementalsummoning,ensouled_bravespirits,tank_battlefieldcontrol,saint_missionary,saint_skeletondance,musketeer_rapidreload,shinobi_firetechinique",
+        "nextNodeType": "olympiadgodgroupFullCD"
+    },
+    {
         "dungeonRunId": "174812",
         "completedLevels": "39",
         "twitchDisplayName": "MozzyAuzzy",
@@ -70,15 +79,6 @@
         "endTime": "2024-12-13 10:08:38",
         "captainBoons": "archer_longbows,orcs_inpenetrable,artillery_machine_gun,berserker_rancor,flagbearer_rallydefense,warlock_inferno,gladiator_war_machine,tank_battlefieldcontrol,gladiator_sonofthunder,flag_1,flagbearer_bannerofvitality,warbeast_1,blob_parasite,bomber_dangerzone,paladin_skeletalsquire,vampire_darkwings,berserker_enrage,centurion_2,flagbearer_flagbearerswill,spell_empower_highground,warrior_frostguard,lancer_spearwall,phantom_thehaunting,warrior_bladedancer,healer_giftofregeneration",
         "nextNodeType": "shogunateBasic"
-    },
-    {
-        "dungeonRunId": "174857",
-        "completedLevels": "39",
-        "twitchDisplayName": "HipsuVT",
-        "startTime": "2024-12-13 15:16:37",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,fairy_gift_of_the_wind,centurion_tactician,fairy_hocuspocus,rogue_flamewalker,centurion_juggernaut,epic_giantsbrewzero,warbeast_1,archer_soulpenetration,healer_giftofregeneration,bomber_bombardment,saint_exalt,templar_commanding_presence,centurion_2,archer_enchantedammo,epic_ranged_dragonarrows,healer_combatmedic,mage_elementalsummoning,ensouled_bravespirits,tank_battlefieldcontrol,saint_missionary,saint_skeletondance,musketeer_rapidreload,shinobi_firetechinique",
-        "nextNodeType": "moboatx"
     },
     {
         "dungeonRunId": "174847",
