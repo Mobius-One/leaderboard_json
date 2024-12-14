@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "174933",
-        "completedLevels": "75",
+        "completedLevels": "76",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-14 11:41:39",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_rancor,warrior_swordofruin,bomber_bombardment,warrior_frostguard,berserker_enrage",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "captainBoons": "bomber_dangerzone,berserker_rancor,warrior_swordofruin,bomber_bombardment,warrior_frostguard,berserker_enrage",
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "174713",
