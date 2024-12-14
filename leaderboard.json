@@ -72,6 +72,15 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
+        "dungeonRunId": "174942",
+        "completedLevels": "41",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-12-14 12:59:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musk_golden_rounds,epic_armored_armoredgiants,archer_soulpenetration,warrior_frostguard,bomber_ricochet,epic_ranged_dragonarrows,flagbearer_bannerofvitality,mage_elementalsummoning,gladiator_war_machine,berserker_rancor,artillery_maxpower,fairy_gift_of_the_wind,fairy_fireflyconjuration,monk_selfless_prayer,bomber_dangerzone,templar_commanding_presence,flag_1,archer_longbows,flagbearer_rallydefense,artillery_machine_gun,tank_frostbarbs,vampire_dark_pact",
+        "nextNodeType": "olympiadbossMedusa2"
+    },
+    {
         "dungeonRunId": "174857",
         "completedLevels": "40",
         "twitchDisplayName": "HipsuVT",
@@ -79,14 +88,5 @@
         "endTime": "2024-12-13 20:50:33",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,fairy_gift_of_the_wind,centurion_tactician,fairy_hocuspocus,rogue_flamewalker,centurion_juggernaut,epic_giantsbrewzero,warbeast_1,archer_soulpenetration,healer_giftofregeneration,bomber_bombardment,saint_exalt,centurion_2,archer_enchantedammo,epic_ranged_dragonarrows,healer_combatmedic,mage_elementalsummoning,ensouled_bravespirits,tank_battlefieldcontrol,saint_missionary,saint_skeletondance,musketeer_rapidreload,shinobi_firetechinique",
         "nextNodeType": "olympiadgodgroupFullCD"
-    },
-    {
-        "dungeonRunId": "174942",
-        "completedLevels": "40",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-12-14 12:59:12",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musk_golden_rounds,epic_armored_armoredgiants,archer_soulpenetration,warrior_frostguard,bomber_ricochet,epic_ranged_dragonarrows,flagbearer_bannerofvitality,mage_elementalsummoning,gladiator_war_machine,berserker_rancor,artillery_maxpower,fairy_gift_of_the_wind,fairy_fireflyconjuration,monk_selfless_prayer,bomber_dangerzone,templar_commanding_presence,flag_1,archer_longbows,flagbearer_rallydefense,artillery_machine_gun,tank_frostbarbs,vampire_dark_pact",
-        "nextNodeType": "olympiadgodgroupFullAB"
     }
 ]
