@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "174933",
-        "completedLevels": "64",
+        "completedLevels": "65",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2024-12-14 11:41:39",
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_browbeat,bomber_dangerzone,archer_longbows,fairy_gift_of_the_wind,berserker_rancor,warrior_swordofruin,bomber_bombardment,flagbearer_rallydefense,warrior_frostguard,berserker_enrage,bomber_ricochet",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174719",
