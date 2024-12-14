@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "174858",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "Meistar",
         "startTime": "2024-12-13 15:35:27",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,archer_enchantedammo,blob_parasite,archer_longbows,amazon_vineclone,musk_golden_rounds,epic_melee_gloryofvictory,centurion_tactician,artillery_maxpower,common_specialists,saint_exalt,bomber_ricochet,musk_hunters_mark,gladiator_browbeat,barb_warcry,archer_soulpenetration,bomber_dangerzone,gladiator_sonofthunder,artillery_machine_gun,flagbearer_bannerofvitality,gladiator_war_machine,warrior_bladedancer,mage_elementalsummoning,epic_ranged_dragonarrows,berserker_rancor,healer_giftofregeneration",
-        "nextNodeType": "earthboss"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,archer_enchantedammo,blob_parasite,archer_longbows,amazon_vineclone,musk_golden_rounds,epic_melee_gloryofvictory,artillery_maxpower,common_specialists,saint_exalt,bomber_ricochet,musk_hunters_mark,gladiator_browbeat,barb_warcry,archer_soulpenetration,bomber_dangerzone,gladiator_sonofthunder,artillery_machine_gun,flagbearer_bannerofvitality,gladiator_war_machine,warrior_bladedancer,mage_elementalsummoning,epic_ranged_dragonarrows,berserker_rancor,healer_giftofregeneration",
+        "nextNodeType": "beastlandsbeast03"
     }
 ]
