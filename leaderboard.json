@@ -45,15 +45,6 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "174858",
-        "completedLevels": "43",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-12-13 15:35:27",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,archer_enchantedammo,blob_parasite,archer_longbows,musk_golden_rounds,epic_melee_gloryofvictory,artillery_maxpower,common_specialists,saint_exalt,bomber_ricochet,musk_hunters_mark,gladiator_browbeat,barb_warcry,archer_soulpenetration,bomber_dangerzone,gladiator_sonofthunder,flagbearer_bannerofvitality,gladiator_war_machine,warrior_bladedancer,mage_elementalsummoning,epic_ranged_dragonarrows,healer_giftofregeneration",
-        "nextNodeType": "moboohm"
-    },
-    {
         "dungeonRunId": "174849",
         "completedLevels": "43",
         "twitchDisplayName": "redspecter23",
@@ -61,6 +52,15 @@
         "endTime": "2024-12-13 19:10:18",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,bomber_ricochet,artillery_machine_gun,lancer_sarissaspears,berserker_enrage,bomber_bombardment,archer_longbows,artillery_maxpower,berserker_frenzy,warrior_frostguard,musk_hunters_mark,centurion_tactician,warrior_secondwind,archer_zephyrstride,musk_golden_rounds,spell_empower_highground,epic_giantsbrewzero,warrior_swordofruin,warrior_bladedancer,epic_ranged_dragonarrows,ensouled_bravespirits,blob_flesheater",
         "nextNodeType": "olympiadgodgroupFullCD"
+    },
+    {
+        "dungeonRunId": "174858",
+        "completedLevels": "43",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-12-13 15:35:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,archer_enchantedammo,blob_parasite,archer_longbows,musk_golden_rounds,epic_melee_gloryofvictory,artillery_maxpower,common_specialists,saint_exalt,bomber_ricochet,musk_hunters_mark,gladiator_browbeat,barb_warcry,archer_soulpenetration,bomber_dangerzone,gladiator_sonofthunder,flagbearer_bannerofvitality,gladiator_war_machine,warrior_bladedancer,mage_elementalsummoning,epic_ranged_dragonarrows,healer_giftofregeneration",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "174836",
