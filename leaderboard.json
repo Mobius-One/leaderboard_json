@@ -18,13 +18,13 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "174709",
-        "completedLevels": "62",
+        "dungeonRunId": "174933",
+        "completedLevels": "63",
         "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-12-12 19:01:18",
-        "endTime": "2024-12-13 02:05:10",
-        "captainBoons": "common_classic_comeback,berserker_rancor,bomber_dangerzone,gladiator_browbeat,gladiator_war_machine,saint_exalt,lancer_spearwall,spell_empower_highground,warrior_frostguard,tank_frostbarbs,barb_warcry,tank_battlefieldcontrol,gladiator_sonofthunder",
-        "nextNodeType": "tomblandsbossorcexplorer"
+        "startTime": "2024-12-14 11:41:39",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,bomber_dangerzone,archer_longbows,fairy_gift_of_the_wind,berserker_rancor,warrior_swordofruin,gladiator_sonofthunder,bomber_bombardment,flagbearer_rallydefense,warrior_frostguard,berserker_enrage,bomber_ricochet",
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "174719",
