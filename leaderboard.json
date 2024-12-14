@@ -81,12 +81,12 @@
         "nextNodeType": "shogunateBasic"
     },
     {
-        "dungeonRunId": "174847",
+        "dungeonRunId": "174858",
         "completedLevels": "34",
-        "twitchDisplayName": "Xanifer",
-        "startTime": "2024-12-13 13:16:24",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-12-13 15:35:27",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,rogue_veilingcloak,artillery_maxpower,flag_1,tank_battlefieldcontrol,musk_hunters_mark,vampire_darkwings,bomber_ricochet,epic_armored_armoredgiants,bomber_dangerzone,frogue_cloakingfield,barbarian_immortal,archer_longbows,rogue_momentum,rogue_shadowcloak,paladin_layonhands,tank_lastlaugh,fairy_gift_of_the_wind,flagbearer_flagbearerswill,fairy_hocuspocus,tank_guardian,musketeer_rapidreload,flagbearer_rallydefense,human_humandestiny,warrior_secondwind,lancer_firststrike,warrior_bladedancer",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,archer_enchantedammo,blob_parasite,archer_longbows,amazon_vineclone,musk_golden_rounds,epic_melee_gloryofvictory,centurion_tactician,artillery_maxpower,common_specialists,saint_exalt,bomber_ricochet,musk_hunters_mark,gladiator_browbeat,barb_warcry,archer_soulpenetration,bomber_dangerzone,gladiator_sonofthunder,artillery_machine_gun,flagbearer_bannerofvitality,gladiator_war_machine,warrior_bladedancer,mage_elementalsummoning,epic_ranged_dragonarrows,berserker_rancor,healer_giftofregeneration",
+        "nextNodeType": "lavachamber"
     }
 ]
