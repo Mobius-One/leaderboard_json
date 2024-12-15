@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "174942",
-        "completedLevels": "71",
+        "completedLevels": "72",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2024-12-14 12:59:12",
         "endTime": null,
-        "captainBoons": "archer_soulpenetration,warrior_frostguard,bomber_ricochet,gladiator_war_machine,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
-        "nextNodeType": "starboss"
+        "captainBoons": "archer_soulpenetration,warrior_frostguard,bomber_ricochet,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
+        "nextNodeType": "elementaliceroad"
     },
     {
         "dungeonRunId": "174744",
