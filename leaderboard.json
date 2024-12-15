@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "174942",
-        "completedLevels": "54",
+        "completedLevels": "55",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2024-12-14 12:59:12",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musk_golden_rounds,epic_armored_armoredgiants,archer_soulpenetration,warrior_frostguard,bomber_ricochet,epic_ranged_dragonarrows,gladiator_war_machine,berserker_rancor,artillery_maxpower,fairy_gift_of_the_wind,fairy_fireflyconjuration,bomber_dangerzone,templar_commanding_presence,archer_longbows,artillery_machine_gun,tank_frostbarbs",
-        "nextNodeType": "shogunateBasic"
+        "nextNodeType": "shrinkeningpuddles"
     },
     {
         "dungeonRunId": "174719",
