@@ -54,15 +54,6 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "174858",
-        "completedLevels": "49",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2024-12-13 15:35:27",
-        "endTime": "2024-12-14 04:53:18",
-        "captainBoons": "epic_giantsbrewzero,archer_enchantedammo,archer_longbows,musk_golden_rounds,epic_melee_gloryofvictory,artillery_maxpower,common_specialists,saint_exalt,bomber_ricochet,musk_hunters_mark,barb_warcry,archer_soulpenetration,bomber_dangerzone,gladiator_sonofthunder,flagbearer_bannerofvitality,gladiator_war_machine,warrior_bladedancer,mage_elementalsummoning,epic_ranged_dragonarrows,healer_giftofregeneration",
-        "nextNodeType": "beastlandsbeast03"
-    },
-    {
         "dungeonRunId": "174942",
         "completedLevels": "49",
         "twitchDisplayName": "JayEmDee",
@@ -70,6 +61,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musk_golden_rounds,epic_armored_armoredgiants,archer_soulpenetration,warrior_frostguard,bomber_ricochet,epic_ranged_dragonarrows,gladiator_war_machine,berserker_rancor,artillery_maxpower,fairy_gift_of_the_wind,fairy_fireflyconjuration,monk_selfless_prayer,bomber_dangerzone,templar_commanding_presence,archer_longbows,artillery_machine_gun,tank_frostbarbs,vampire_dark_pact",
         "nextNodeType": "olympiadgodgroupFullCD"
+    },
+    {
+        "dungeonRunId": "174858",
+        "completedLevels": "49",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2024-12-13 15:35:27",
+        "endTime": "2024-12-14 04:53:18",
+        "captainBoons": "epic_giantsbrewzero,archer_enchantedammo,archer_longbows,musk_golden_rounds,epic_melee_gloryofvictory,artillery_maxpower,common_specialists,saint_exalt,bomber_ricochet,musk_hunters_mark,barb_warcry,archer_soulpenetration,bomber_dangerzone,gladiator_sonofthunder,flagbearer_bannerofvitality,gladiator_war_machine,warrior_bladedancer,mage_elementalsummoning,epic_ranged_dragonarrows,healer_giftofregeneration",
+        "nextNodeType": "beastlandsbeast03"
     },
     {
         "dungeonRunId": "174849",
