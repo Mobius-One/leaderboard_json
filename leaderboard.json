@@ -54,22 +54,22 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "174816",
-        "completedLevels": "50",
+        "dungeonRunId": "175089",
+        "completedLevels": "51",
         "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-13 05:10:58",
-        "endTime": "2024-12-13 11:27:42",
-        "captainBoons": "common_classic_comeback,healer_combatmedic,warrior_secondwind,epic_ranged_dragonarrows,epic_melee_gloryofvictory,gladiator_sonofthunder,gladiator_browbeat,saint_exalt,barb_warcry,warrior_swordofruin,archer_longbows,archer_enchantedammo,ensouled_heroicspirits,bomber_dangerzone,lancer_firststrike,epic_giantsbrewzero,fairy_hocuspocus,gladiator_war_machine,blob_flesheater",
-        "nextNodeType": "tomblandsbossorcexplorer"
+        "startTime": "2024-12-15 14:33:38",
+        "endTime": null,
+        "captainBoons": "bomber_dangerzone,archer_enchantedammo,flag_1,gladiator_war_machine,blob_parasite,warrior_bladedancer,blob_flesheater,tank_guardian,lancer_sarissaspears,healer_giftofregeneration,lancer_firststrike,gladiator_sonofthunder,spell_empower_highground,bomber_ricochet,flagbearer_bannerofvitality,epic_melee_gloryofvictory,warrior_frostguard,musketeer_rapidreload,centurion_juggernaut",
+        "nextNodeType": "crystaltunnel"
     },
     {
         "dungeonRunId": "175095",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-12-15 15:56:44",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,musk_hunters_mark,warrior_frostguard,gladiator_sonofthunder,archer_longbows,gladiator_browbeat,ensouled_heroicspirits,epic_giantsbrewzero,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,flagbearer_bannerofvitality,barb_warcry,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
-        "nextNodeType": "beastlandsbeast03"
+        "captainBoons": "common_classic_comeback,saint_exalt,musk_hunters_mark,warrior_frostguard,gladiator_sonofthunder,archer_longbows,gladiator_browbeat,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,flagbearer_bannerofvitality,barb_warcry,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "174858",
