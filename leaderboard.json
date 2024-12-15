@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "175095",
-        "completedLevels": "55",
+        "completedLevels": "56",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-12-15 15:56:44",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musk_hunters_mark,warrior_frostguard,gladiator_sonofthunder,archer_longbows,gladiator_browbeat,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,barb_warcry,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
-        "nextNodeType": "shogunateBasic"
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "175089",
