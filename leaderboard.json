@@ -50,17 +50,17 @@
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-12-15 15:56:44",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musk_hunters_mark,warrior_frostguard,gladiator_sonofthunder,archer_longbows,gladiator_browbeat,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,barb_warcry,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
+        "captainBoons": "common_classic_comeback,musk_hunters_mark,warrior_frostguard,gladiator_sonofthunder,archer_longbows,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,barb_warcry,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "175089",
-        "completedLevels": "54",
+        "completedLevels": "55",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-12-15 14:33:38",
         "endTime": null,
         "captainBoons": "bomber_dangerzone,archer_enchantedammo,flag_1,gladiator_war_machine,blob_parasite,warrior_bladedancer,blob_flesheater,lancer_sarissaspears,healer_giftofregeneration,lancer_firststrike,gladiator_sonofthunder,spell_empower_highground,bomber_ricochet,flagbearer_bannerofvitality,epic_melee_gloryofvictory,warrior_frostguard,musketeer_rapidreload",
-        "nextNodeType": "heartscelestialabyrinth"
+        "nextNodeType": "shogunateBasic"
     },
     {
         "dungeonRunId": "174719",
