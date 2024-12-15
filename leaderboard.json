@@ -63,6 +63,15 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
+        "dungeonRunId": "175095",
+        "completedLevels": "49",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-12-15 15:56:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,musk_hunters_mark,warrior_frostguard,gladiator_sonofthunder,archer_longbows,gladiator_browbeat,ensouled_heroicspirits,epic_giantsbrewzero,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,flagbearer_bannerofvitality,barb_warcry,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
+        "nextNodeType": "beastlandsbeast03"
+    },
+    {
         "dungeonRunId": "174858",
         "completedLevels": "49",
         "twitchDisplayName": "Meistar",
@@ -70,15 +79,6 @@
         "endTime": "2024-12-14 04:53:18",
         "captainBoons": "epic_giantsbrewzero,archer_enchantedammo,archer_longbows,musk_golden_rounds,epic_melee_gloryofvictory,artillery_maxpower,common_specialists,saint_exalt,bomber_ricochet,musk_hunters_mark,barb_warcry,archer_soulpenetration,bomber_dangerzone,gladiator_sonofthunder,flagbearer_bannerofvitality,gladiator_war_machine,warrior_bladedancer,mage_elementalsummoning,epic_ranged_dragonarrows,healer_giftofregeneration",
         "nextNodeType": "beastlandsbeast03"
-    },
-    {
-        "dungeonRunId": "175095",
-        "completedLevels": "48",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-12-15 15:56:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,musk_hunters_mark,warrior_frostguard,gladiator_sonofthunder,archer_longbows,gladiator_browbeat,ensouled_heroicspirits,epic_giantsbrewzero,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,flagbearer_bannerofvitality,barb_warcry,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
-        "nextNodeType": "olympiadgodgroupFullAB"
     },
     {
         "dungeonRunId": "174849",
