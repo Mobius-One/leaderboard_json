@@ -63,15 +63,6 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "174942",
-        "completedLevels": "42",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-12-14 12:59:12",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musk_golden_rounds,epic_armored_armoredgiants,archer_soulpenetration,warrior_frostguard,bomber_ricochet,epic_ranged_dragonarrows,flagbearer_bannerofvitality,mage_elementalsummoning,gladiator_war_machine,berserker_rancor,artillery_maxpower,fairy_gift_of_the_wind,fairy_fireflyconjuration,monk_selfless_prayer,bomber_dangerzone,templar_commanding_presence,archer_longbows,flagbearer_rallydefense,artillery_machine_gun,tank_frostbarbs,vampire_dark_pact",
-        "nextNodeType": "moboatx"
-    },
-    {
         "dungeonRunId": "174836",
         "completedLevels": "42",
         "twitchDisplayName": "SombraRJ",
@@ -81,12 +72,21 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "174857",
-        "completedLevels": "40",
-        "twitchDisplayName": "HipsuVT",
-        "startTime": "2024-12-13 15:16:37",
-        "endTime": "2024-12-13 20:50:33",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,fairy_gift_of_the_wind,centurion_tactician,fairy_hocuspocus,rogue_flamewalker,centurion_juggernaut,epic_giantsbrewzero,warbeast_1,archer_soulpenetration,healer_giftofregeneration,bomber_bombardment,saint_exalt,centurion_2,archer_enchantedammo,epic_ranged_dragonarrows,healer_combatmedic,mage_elementalsummoning,ensouled_bravespirits,tank_battlefieldcontrol,saint_missionary,saint_skeletondance,musketeer_rapidreload,shinobi_firetechinique",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "dungeonRunId": "174942",
+        "completedLevels": "42",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-12-14 12:59:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musk_golden_rounds,epic_armored_armoredgiants,archer_soulpenetration,warrior_frostguard,bomber_ricochet,epic_ranged_dragonarrows,flagbearer_bannerofvitality,mage_elementalsummoning,gladiator_war_machine,berserker_rancor,artillery_maxpower,fairy_gift_of_the_wind,fairy_fireflyconjuration,monk_selfless_prayer,bomber_dangerzone,templar_commanding_presence,archer_longbows,flagbearer_rallydefense,artillery_machine_gun,tank_frostbarbs,vampire_dark_pact",
+        "nextNodeType": "moboatx"
+    },
+    {
+        "dungeonRunId": "174977",
+        "completedLevels": "41",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-12-14 21:22:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,warrior_swordofruin,frogue_cloakingfield,spell_empower_highground,berserker_rancor,blob_flesheater,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,rogue_shadowcloak,fairy_fireflyconjuration,musk_golden_rounds,healer_dreamy_wardens,rogue_flamewalker,gladiator_sonofthunder,centurion_2,lancer_sarissaspears,archer_soulpenetration,centurion_juggernaut",
+        "nextNodeType": "starboss"
     }
 ]
