@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "174977",
-        "completedLevels": "66",
+        "completedLevels": "67",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-12-14 21:22:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,frogue_cloakingfield,saint_exalt,gladiator_sonofthunder,archer_soulpenetration,centurion_juggernaut",
-        "nextNodeType": "shogunateBasic"
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "174719",
@@ -72,15 +72,6 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "174942",
-        "completedLevels": "42",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-12-14 12:59:12",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musk_golden_rounds,epic_armored_armoredgiants,archer_soulpenetration,warrior_frostguard,bomber_ricochet,epic_ranged_dragonarrows,flagbearer_bannerofvitality,mage_elementalsummoning,gladiator_war_machine,berserker_rancor,artillery_maxpower,fairy_gift_of_the_wind,fairy_fireflyconjuration,monk_selfless_prayer,bomber_dangerzone,templar_commanding_presence,archer_longbows,flagbearer_rallydefense,artillery_machine_gun,tank_frostbarbs,vampire_dark_pact",
-        "nextNodeType": "moboatx"
-    },
-    {
         "dungeonRunId": "174836",
         "completedLevels": "42",
         "twitchDisplayName": "SombraRJ",
@@ -88,5 +79,14 @@
         "endTime": "2024-12-13 18:58:53",
         "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,barbarian_gloriousdeath,warrior_secondwind,musketeer_rapidreload,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage,gladiator_sonofthunder",
         "nextNodeType": "olympiadgodgroupFullCD"
+    },
+    {
+        "dungeonRunId": "174942",
+        "completedLevels": "42",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-12-14 12:59:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musk_golden_rounds,epic_armored_armoredgiants,archer_soulpenetration,warrior_frostguard,bomber_ricochet,epic_ranged_dragonarrows,flagbearer_bannerofvitality,mage_elementalsummoning,gladiator_war_machine,berserker_rancor,artillery_maxpower,fairy_gift_of_the_wind,fairy_fireflyconjuration,monk_selfless_prayer,bomber_dangerzone,templar_commanding_presence,archer_longbows,flagbearer_rallydefense,artillery_machine_gun,tank_frostbarbs,vampire_dark_pact",
+        "nextNodeType": "moboatx"
     }
 ]
