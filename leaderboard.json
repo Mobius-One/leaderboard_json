@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "174977",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-12-14 21:22:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,frogue_cloakingfield,spell_empower_highground,berserker_rancor,blob_flesheater,ensouled_heroicspirits,saint_exalt,rogue_shadowcloak,fairy_fireflyconjuration,musk_golden_rounds,healer_dreamy_wardens,rogue_flamewalker,gladiator_sonofthunder,centurion_2,lancer_sarissaspears,archer_soulpenetration,centurion_juggernaut",
-        "nextNodeType": "beastlandsbeast03"
+        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,frogue_cloakingfield,spell_empower_highground,berserker_rancor,blob_flesheater,ensouled_heroicspirits,saint_exalt,rogue_shadowcloak,fairy_fireflyconjuration,musk_golden_rounds,healer_dreamy_wardens,gladiator_sonofthunder,centurion_2,lancer_sarissaspears,archer_soulpenetration,centurion_juggernaut",
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "174849",
