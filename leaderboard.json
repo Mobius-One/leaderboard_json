@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "175089",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-12-15 14:33:38",
         "endTime": null,
         "captainBoons": "bomber_dangerzone,archer_enchantedammo,flag_1,gladiator_war_machine,blob_parasite,warrior_bladedancer,blob_flesheater,lancer_sarissaspears,healer_giftofregeneration,lancer_firststrike,gladiator_sonofthunder,bomber_ricochet,flagbearer_bannerofvitality,epic_melee_gloryofvictory,warrior_frostguard,musketeer_rapidreload",
-        "nextNodeType": "elementaliceroad"
+        "nextNodeType": "tomblandsorcflank"
     },
     {
         "dungeonRunId": "174719",
