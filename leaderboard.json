@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "174977",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-12-14 21:22:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,frogue_cloakingfield,spell_empower_highground,berserker_rancor,blob_flesheater,ensouled_heroicspirits,saint_exalt,rogue_shadowcloak,fairy_fireflyconjuration,musk_golden_rounds,healer_dreamy_wardens,gladiator_sonofthunder,lancer_sarissaspears,archer_soulpenetration,centurion_juggernaut",
-        "nextNodeType": "beastlandsbeast05"
+        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,frogue_cloakingfield,spell_empower_highground,berserker_rancor,blob_flesheater,ensouled_heroicspirits,saint_exalt,fairy_fireflyconjuration,musk_golden_rounds,healer_dreamy_wardens,gladiator_sonofthunder,lancer_sarissaspears,archer_soulpenetration,centurion_juggernaut",
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174858",
