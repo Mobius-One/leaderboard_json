@@ -9,6 +9,15 @@
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
+        "dungeonRunId": "174942",
+        "completedLevels": "75",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-12-14 12:59:12",
+        "endTime": null,
+        "captainBoons": "warrior_frostguard,bomber_ricochet,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
+        "nextNodeType": "lavachamber"
+    },
+    {
         "dungeonRunId": "174713",
         "completedLevels": "74",
         "twitchDisplayName": "bakodemeester",
@@ -25,15 +34,6 @@
         "endTime": "2024-12-15 05:19:43",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
         "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
-        "dungeonRunId": "174942",
-        "completedLevels": "74",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-12-14 12:59:12",
-        "endTime": null,
-        "captainBoons": "warrior_frostguard,bomber_ricochet,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
-        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174744",
