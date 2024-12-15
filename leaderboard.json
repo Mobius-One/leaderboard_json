@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "174836",
+        "dungeonRunId": "175095",
         "completedLevels": "42",
-        "twitchDisplayName": "SombraRJ",
-        "startTime": "2024-12-13 09:10:19",
-        "endTime": "2024-12-13 18:58:53",
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,saint_missionary,barbarian_gloriousdeath,warrior_secondwind,musketeer_rapidreload,barbarian_immortal,fairy_fireflyconjuration,vampire_dark_pact,ensouled_heroicspirits,bomber_dangerzone,artillery_maxpower,archer_soulpenetration,warrior_bladedancer,lancer_firststrike,berserker_rancor,necromancer_necronomicon,artillery_machine_gun,fairy_hocuspocus,gladiator_war_machine,archer_longbows,berserker_enrage,gladiator_sonofthunder",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-12-15 15:56:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,archer_enchantedammo,musk_hunters_mark,warrior_frostguard,gladiator_sonofthunder,flag_1,archer_longbows,gladiator_browbeat,saint_missionary,ensouled_heroicspirits,epic_giantsbrewzero,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,flagbearer_bannerofvitality,barb_warcry,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
+        "nextNodeType": "lavachamber"
     }
 ]
