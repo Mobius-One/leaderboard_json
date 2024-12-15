@@ -55,21 +55,21 @@
     },
     {
         "dungeonRunId": "175089",
-        "completedLevels": "51",
+        "completedLevels": "52",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-12-15 14:33:38",
         "endTime": null,
         "captainBoons": "bomber_dangerzone,archer_enchantedammo,flag_1,gladiator_war_machine,blob_parasite,warrior_bladedancer,blob_flesheater,tank_guardian,lancer_sarissaspears,healer_giftofregeneration,lancer_firststrike,gladiator_sonofthunder,spell_empower_highground,bomber_ricochet,flagbearer_bannerofvitality,epic_melee_gloryofvictory,warrior_frostguard,musketeer_rapidreload,centurion_juggernaut",
-        "nextNodeType": "crystaltunnel"
+        "nextNodeType": "moboatx"
     },
     {
         "dungeonRunId": "175095",
-        "completedLevels": "50",
+        "completedLevels": "51",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-12-15 15:56:44",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,musk_hunters_mark,warrior_frostguard,gladiator_sonofthunder,archer_longbows,gladiator_browbeat,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,flagbearer_bannerofvitality,barb_warcry,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
-        "nextNodeType": "starboss"
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "174858",
