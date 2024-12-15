@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "174942",
-        "completedLevels": "73",
+        "completedLevels": "74",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2024-12-14 12:59:12",
         "endTime": null,
-        "captainBoons": "archer_soulpenetration,warrior_frostguard,bomber_ricochet,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
-        "nextNodeType": "beastlandsbeast03"
+        "captainBoons": "warrior_frostguard,bomber_ricochet,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174744",
