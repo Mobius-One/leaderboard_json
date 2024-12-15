@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "174977",
-        "completedLevels": "73",
+        "completedLevels": "74",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-12-14 21:22:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
-        "nextNodeType": "tomblandsorccamp"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
+        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "174744",
