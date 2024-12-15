@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "174977",
-        "completedLevels": "64",
+        "completedLevels": "65",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-12-14 21:22:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,frogue_cloakingfield,ensouled_heroicspirits,saint_exalt,gladiator_sonofthunder,archer_soulpenetration,centurion_juggernaut",
-        "nextNodeType": "tomblandsorcflank"
+        "nextNodeType": "earthboss"
     },
     {
         "dungeonRunId": "174719",
