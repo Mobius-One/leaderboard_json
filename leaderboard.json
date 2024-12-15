@@ -54,6 +54,15 @@
         "nextNodeType": "beastlandsbeast03"
     },
     {
+        "dungeonRunId": "174977",
+        "completedLevels": "44",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-12-14 21:22:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,warrior_swordofruin,frogue_cloakingfield,spell_empower_highground,berserker_rancor,blob_flesheater,ensouled_heroicspirits,saint_exalt,rogue_shadowcloak,fairy_fireflyconjuration,musk_golden_rounds,healer_dreamy_wardens,rogue_flamewalker,gladiator_sonofthunder,centurion_2,lancer_sarissaspears,archer_soulpenetration,centurion_juggernaut",
+        "nextNodeType": "earthboss"
+    },
+    {
         "dungeonRunId": "174849",
         "completedLevels": "43",
         "twitchDisplayName": "redspecter23",
@@ -61,15 +70,6 @@
         "endTime": "2024-12-13 19:10:18",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,bomber_ricochet,artillery_machine_gun,lancer_sarissaspears,berserker_enrage,bomber_bombardment,archer_longbows,artillery_maxpower,berserker_frenzy,warrior_frostguard,musk_hunters_mark,centurion_tactician,warrior_secondwind,archer_zephyrstride,musk_golden_rounds,spell_empower_highground,epic_giantsbrewzero,warrior_swordofruin,warrior_bladedancer,epic_ranged_dragonarrows,ensouled_bravespirits,blob_flesheater",
         "nextNodeType": "olympiadgodgroupFullCD"
-    },
-    {
-        "dungeonRunId": "174977",
-        "completedLevels": "43",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-12-14 21:22:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,warrior_swordofruin,frogue_cloakingfield,spell_empower_highground,berserker_rancor,blob_flesheater,ensouled_heroicspirits,saint_exalt,rogue_shadowcloak,fairy_fireflyconjuration,musk_golden_rounds,healer_dreamy_wardens,rogue_flamewalker,gladiator_sonofthunder,centurion_2,lancer_sarissaspears,archer_soulpenetration,centurion_juggernaut",
-        "nextNodeType": "tomblandsorcflank"
     },
     {
         "dungeonRunId": "174836",
