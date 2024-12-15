@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "174977",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-12-14 21:22:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,warrior_swordofruin,frogue_cloakingfield,spell_empower_highground,berserker_rancor,blob_flesheater,ensouled_heroicspirits,saint_exalt,healer_giftofregeneration,rogue_shadowcloak,fairy_fireflyconjuration,musk_golden_rounds,healer_dreamy_wardens,rogue_flamewalker,gladiator_sonofthunder,centurion_2,lancer_sarissaspears,archer_soulpenetration,centurion_juggernaut",
-        "nextNodeType": "starboss"
+        "captainBoons": "common_classic_comeback,epic_ranged_dragonarrows,bomber_dangerzone,bomber_ricochet,warrior_frostguard,barb_warcry,warrior_swordofruin,frogue_cloakingfield,spell_empower_highground,berserker_rancor,blob_flesheater,ensouled_heroicspirits,saint_exalt,rogue_shadowcloak,fairy_fireflyconjuration,musk_golden_rounds,healer_dreamy_wardens,rogue_flamewalker,gladiator_sonofthunder,centurion_2,lancer_sarissaspears,archer_soulpenetration,centurion_juggernaut",
+        "nextNodeType": "glitchedretrotown"
     }
 ]
