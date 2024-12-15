@@ -27,6 +27,15 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
+        "dungeonRunId": "174942",
+        "completedLevels": "71",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2024-12-14 12:59:12",
+        "endTime": null,
+        "captainBoons": "archer_soulpenetration,warrior_frostguard,bomber_ricochet,gladiator_war_machine,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
+        "nextNodeType": "starboss"
+    },
+    {
         "dungeonRunId": "174744",
         "completedLevels": "71",
         "twitchDisplayName": "Angel",
@@ -34,15 +43,6 @@
         "endTime": "2024-12-13 04:52:23",
         "captainBoons": "fairy_fireflyconjuration,bomber_dangerzone,healer_dreamy_wardens,archer_longbows,barbarian_immortal,saint_exalt,bomber_bombardment,blob_flesheater,gladiator_war_machine",
         "nextNodeType": "cultbloodycity"
-    },
-    {
-        "dungeonRunId": "174942",
-        "completedLevels": "70",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2024-12-14 12:59:12",
-        "endTime": null,
-        "captainBoons": "archer_soulpenetration,warrior_frostguard,bomber_ricochet,gladiator_war_machine,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
-        "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
         "dungeonRunId": "174719",
