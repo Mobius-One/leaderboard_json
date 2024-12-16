@@ -54,6 +54,15 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
+        "dungeonRunId": "175093",
+        "completedLevels": "59",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-12-15 15:51:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,frogue_cloakingfield,warrior_swordofruin,centurion_juggernaut,berserker_frenzy,bomber_dangerzone,blob_flesheater,epic_melee_gloryofvictory,warrior_frostguard,gladiator_sonofthunder,warrior_bladedancer,archer_longbows,spell_empower_highground,epic_giantsbrewzero",
+        "nextNodeType": "starboss"
+    },
+    {
         "dungeonRunId": "175089",
         "completedLevels": "59",
         "twitchDisplayName": "chiquik",
@@ -61,15 +70,6 @@
         "endTime": "2024-12-15 21:32:33",
         "captainBoons": "bomber_dangerzone,archer_enchantedammo,flag_1,gladiator_war_machine,blob_parasite,warrior_bladedancer,blob_flesheater,lancer_sarissaspears,healer_giftofregeneration,lancer_firststrike,bomber_ricochet,flagbearer_bannerofvitality,epic_melee_gloryofvictory,warrior_frostguard,musketeer_rapidreload",
         "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
-        "dungeonRunId": "175093",
-        "completedLevels": "58",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-12-15 15:51:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,frogue_cloakingfield,warrior_swordofruin,centurion_juggernaut,berserker_frenzy,bomber_dangerzone,blob_flesheater,epic_melee_gloryofvictory,warrior_frostguard,gladiator_sonofthunder,warrior_bladedancer,archer_longbows,spell_empower_highground,epic_giantsbrewzero",
-        "nextNodeType": "beastlandsbeast03"
     },
     {
         "dungeonRunId": "174719",
