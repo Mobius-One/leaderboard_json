@@ -18,15 +18,6 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
-        "dungeonRunId": "174977",
-        "completedLevels": "74",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-12-14 21:22:08",
-        "endTime": "2024-12-15 05:19:43",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "174713",
         "completedLevels": "74",
         "twitchDisplayName": "bakodemeester",
@@ -34,6 +25,15 @@
         "endTime": "2024-12-13 04:52:50",
         "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
         "nextNodeType": "cultbloodycity"
+    },
+    {
+        "dungeonRunId": "174977",
+        "completedLevels": "74",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-12-14 21:22:08",
+        "endTime": "2024-12-15 05:19:43",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
+        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "174744",
@@ -45,21 +45,21 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "175095",
-        "completedLevels": "62",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-12-15 15:56:44",
-        "endTime": "2024-12-15 21:26:20",
-        "captainBoons": "common_classic_comeback,warrior_frostguard,archer_longbows,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "175093",
         "completedLevels": "62",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-12-15 15:51:56",
         "endTime": "2024-12-16 04:23:32",
         "captainBoons": "common_classic_comeback,saint_exalt,warrior_swordofruin,centurion_juggernaut,berserker_frenzy,bomber_dangerzone,blob_flesheater,epic_melee_gloryofvictory,warrior_frostguard,gladiator_sonofthunder,warrior_bladedancer,archer_longbows,epic_giantsbrewzero",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175095",
+        "completedLevels": "62",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-12-15 15:56:44",
+        "endTime": "2024-12-15 21:26:20",
+        "captainBoons": "common_classic_comeback,warrior_frostguard,archer_longbows,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
