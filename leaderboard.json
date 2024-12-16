@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "175093",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-12-15 15:51:56",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,frogue_cloakingfield,rogue_veilingcloak,warrior_swordofruin,centurion_tactician,tank_frostbarbs,centurion_juggernaut,berserker_frenzy,bomber_dangerzone,blob_flesheater,epic_melee_gloryofvictory,warrior_frostguard,gladiator_sonofthunder,warrior_bladedancer,necromancer_necronomicon,saint_skeletondance,archer_longbows,ensouled_bravespirits,lancer_spearwall,spell_empower_highground,epic_giantsbrewzero",
-        "nextNodeType": "olympiadbossMedusa2"
+        "nextNodeType": "shrinkeningpuddles"
     }
 ]
