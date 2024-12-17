@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "175136",
-        "completedLevels": "63",
+        "completedLevels": "64",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-12-15 21:52:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,necromancer_necronomicon,bomber_dangerzone,gladiator_sonofthunder,blob_parasite,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,warrior_frostguard,fairy_gift_of_the_wind,warrior_secondwind,archer_longbows",
-        "nextNodeType": "heartscelestialabyrinth"
+        "captainBoons": "common_classic_comeback,centurion_tactician,necromancer_necronomicon,bomber_dangerzone,gladiator_sonofthunder,blob_parasite,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,warrior_frostguard,fairy_gift_of_the_wind,archer_longbows",
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "175095",
