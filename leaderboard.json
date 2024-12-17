@@ -45,15 +45,6 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "175093",
-        "completedLevels": "62",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-12-15 15:51:56",
-        "endTime": "2024-12-16 04:23:32",
-        "captainBoons": "common_classic_comeback,saint_exalt,warrior_swordofruin,centurion_juggernaut,berserker_frenzy,bomber_dangerzone,blob_flesheater,epic_melee_gloryofvictory,warrior_frostguard,gladiator_sonofthunder,warrior_bladedancer,archer_longbows,epic_giantsbrewzero",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "175095",
         "completedLevels": "62",
         "twitchDisplayName": "Hairtrigger83",
@@ -63,13 +54,22 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175089",
-        "completedLevels": "59",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-15 14:33:38",
-        "endTime": "2024-12-15 21:32:33",
-        "captainBoons": "bomber_dangerzone,archer_enchantedammo,flag_1,gladiator_war_machine,blob_parasite,warrior_bladedancer,blob_flesheater,lancer_sarissaspears,healer_giftofregeneration,lancer_firststrike,bomber_ricochet,flagbearer_bannerofvitality,epic_melee_gloryofvictory,warrior_frostguard,musketeer_rapidreload",
+        "dungeonRunId": "175093",
+        "completedLevels": "62",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-12-15 15:51:56",
+        "endTime": "2024-12-16 04:23:32",
+        "captainBoons": "common_classic_comeback,saint_exalt,warrior_swordofruin,centurion_juggernaut,berserker_frenzy,bomber_dangerzone,blob_flesheater,epic_melee_gloryofvictory,warrior_frostguard,gladiator_sonofthunder,warrior_bladedancer,archer_longbows,epic_giantsbrewzero",
         "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175136",
+        "completedLevels": "60",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-15 21:52:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,centurion_tactician,necromancer_necronomicon,bomber_dangerzone,gladiator_sonofthunder,blob_parasite,saint_exalt,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,warrior_frostguard,fairy_gift_of_the_wind,warrior_secondwind,archer_longbows",
+        "nextNodeType": "tomblandsorccamp"
     },
     {
         "dungeonRunId": "174719",
