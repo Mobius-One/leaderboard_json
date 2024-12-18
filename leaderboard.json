@@ -58,8 +58,17 @@
         "completedLevels": "65",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-12-17 15:08:17",
-        "endTime": null,
+        "endTime": "2024-12-18 01:55:43",
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_exalt,warrior_frostguard,ensouled_heroicspirits,artillery_machine_gun,bomber_dangerzone,berserker_frenzy,flagbearer_bannerofvitality,necromancer_necronomicon,archer_soulpenetration,berserker_rancor",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175095",
+        "completedLevels": "62",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2024-12-15 15:56:44",
+        "endTime": "2024-12-15 21:26:20",
+        "captainBoons": "common_classic_comeback,warrior_frostguard,archer_longbows,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
@@ -70,15 +79,6 @@
         "endTime": "2024-12-18 01:51:20",
         "captainBoons": "warrior_swordofruin,archer_longbows,musk_golden_rounds,gladiator_war_machine,amazon_vineclone,bomber_dangerzone,archer_soulpenetration,musketeer_rapidreload,berserker_enrage,bomber_bombardment,lancer_spearwall,healer_combatmedic,spell_empower_haste",
         "nextNodeType": "olympiadbossMedusa2"
-    },
-    {
-        "dungeonRunId": "175095",
-        "completedLevels": "62",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-12-15 15:56:44",
-        "endTime": "2024-12-15 21:26:20",
-        "captainBoons": "common_classic_comeback,warrior_frostguard,archer_longbows,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
-        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "174719",
