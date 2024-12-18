@@ -63,13 +63,13 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175095",
-        "completedLevels": "62",
+        "dungeonRunId": "175431",
+        "completedLevels": "63",
         "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-12-15 15:56:44",
-        "endTime": "2024-12-15 21:26:20",
-        "captainBoons": "common_classic_comeback,warrior_frostguard,archer_longbows,ensouled_heroicspirits,fairy_fireflyconjuration,bomber_ricochet,warrior_swordofruin,barbarian_immortal,lancer_sarissaspears,musk_golden_rounds,spell_empower_stronghold,bomber_dangerzone,blob_flesheater",
-        "nextNodeType": "tomblandsbossorcexplorer"
+        "startTime": "2024-12-18 15:56:24",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,epic_melee_gloryofvictory,musketeer_rapidreload,saint_missionary,warrior_swordofruin,archer_enchantedammo,berserker_frenzy,bomber_bombardment,saint_skeletondance,warrior_frostguard,archer_soulpenetration,warrior_secondwind",
+        "nextNodeType": "shrinkeningpuddles"
     },
     {
         "dungeonRunId": "175333",
