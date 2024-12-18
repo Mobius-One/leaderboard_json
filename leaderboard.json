@@ -18,15 +18,6 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
-        "dungeonRunId": "175136",
-        "completedLevels": "74",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-15 21:52:55",
-        "endTime": "2024-12-17 12:33:43",
-        "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "174713",
         "completedLevels": "74",
         "twitchDisplayName": "bakodemeester",
@@ -42,6 +33,15 @@
         "startTime": "2024-12-14 21:22:08",
         "endTime": "2024-12-15 05:19:43",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175136",
+        "completedLevels": "74",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-15 21:52:55",
+        "endTime": "2024-12-17 12:33:43",
+        "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
