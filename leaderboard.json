@@ -18,6 +18,15 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
+        "dungeonRunId": "174977",
+        "completedLevels": "74",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-12-14 21:22:08",
+        "endTime": "2024-12-15 05:19:43",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
         "dungeonRunId": "174713",
         "completedLevels": "74",
         "twitchDisplayName": "bakodemeester",
@@ -33,15 +42,6 @@
         "startTime": "2024-12-15 21:52:55",
         "endTime": "2024-12-17 12:33:43",
         "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
-        "dungeonRunId": "174977",
-        "completedLevels": "74",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-12-14 21:22:08",
-        "endTime": "2024-12-15 05:19:43",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "175333",
-        "completedLevels": "49",
+        "dungeonRunId": "175246",
+        "completedLevels": "50",
         "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-12-17 19:22:53",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_frostguard,barb_warcry,warrior_swordofruin,archer_longbows,epic_giantsbrewzero,musk_golden_rounds,gladiator_war_machine,amazon_vineclone,bomber_dangerzone,archer_soulpenetration,musketeer_rapidreload,berserker_enrage,phantom_thehaunting,lancer_sarissaspears,bomber_bombardment,warrior_bladedancer,lancer_spearwall,healer_combatmedic,spell_empower_haste",
-        "nextNodeType": "moboatx"
+        "startTime": "2024-12-16 23:52:18",
+        "endTime": "2024-12-17 15:54:43",
+        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,archer_longbows,gladiator_sonofthunder,fairy_fireflyconjuration,artillery_maxpower,warrior_swordofruin,warrior_bladedancer,blob_parasite,musk_golden_rounds,epic_melee_gloryofvictory,epic_giantsbrewzero,fairy_hocuspocus,berserker_frenzy,lancer_sarissaspears,saint_skeletondance,archer_zephyrstride,bomber_ricochet,bomber_dangerzone",
+        "nextNodeType": "earthboss"
     }
 ]
