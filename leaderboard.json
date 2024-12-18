@@ -72,13 +72,13 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175017",
-        "completedLevels": "59",
+        "dungeonRunId": "175333",
+        "completedLevels": "60",
         "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-12-15 01:41:40",
-        "endTime": "2024-12-15 12:17:31",
-        "captainBoons": "musketeer_rapidreload,bomber_bombardment,bomber_dangerzone,warrior_secondwind,epic_melee_gloryofvictory,berserker_enrage,warrior_bladedancer,musk_golden_rounds,warrior_swordofruin,epic_giantsbrewzero,lancer_spearwall,archer_longbows,gladiator_sonofthunder,musk_hunters_mark,barbarian_immortal",
-        "nextNodeType": "starboss"
+        "startTime": "2024-12-17 19:22:53",
+        "endTime": null,
+        "captainBoons": "warrior_frostguard,warrior_swordofruin,archer_longbows,musk_golden_rounds,gladiator_war_machine,amazon_vineclone,bomber_dangerzone,archer_soulpenetration,musketeer_rapidreload,berserker_enrage,bomber_bombardment,lancer_spearwall,healer_combatmedic,spell_empower_haste",
+        "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
         "dungeonRunId": "174719",
