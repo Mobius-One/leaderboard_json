@@ -72,13 +72,13 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175118",
-        "completedLevels": "55",
+        "dungeonRunId": "175333",
+        "completedLevels": "56",
         "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-12-15 19:33:54",
-        "endTime": "2024-12-16 17:11:03",
-        "captainBoons": "common_classic_comeback,berserker_enrage,archer_longbows,warbeast_1,bomber_bombardment,warrior_bladedancer,bomber_ricochet,archer_soulpenetration,healer_combatmedic,warrior_secondwind,lancer_sarissaspears,gladiator_sonofthunder,spell_empower_haste,ensouled_heroicspirits,berserker_rancor,artillery_maxpower,musk_hunters_mark",
-        "nextNodeType": "shogunateBasic"
+        "startTime": "2024-12-17 19:22:53",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_frostguard,warrior_swordofruin,archer_longbows,musk_golden_rounds,gladiator_war_machine,amazon_vineclone,bomber_dangerzone,archer_soulpenetration,musketeer_rapidreload,berserker_enrage,bomber_bombardment,warrior_bladedancer,lancer_spearwall,healer_combatmedic,spell_empower_haste",
+        "nextNodeType": "earthboss"
     },
     {
         "dungeonRunId": "174719",
