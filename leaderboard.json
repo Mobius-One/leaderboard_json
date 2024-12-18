@@ -54,15 +54,6 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "175093",
-        "completedLevels": "62",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-12-15 15:51:56",
-        "endTime": "2024-12-16 04:23:32",
-        "captainBoons": "common_classic_comeback,saint_exalt,warrior_swordofruin,centurion_juggernaut,berserker_frenzy,bomber_dangerzone,blob_flesheater,epic_melee_gloryofvictory,warrior_frostguard,gladiator_sonofthunder,warrior_bladedancer,archer_longbows,epic_giantsbrewzero",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "175095",
         "completedLevels": "62",
         "twitchDisplayName": "Hairtrigger83",
@@ -72,6 +63,24 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
+        "dungeonRunId": "175093",
+        "completedLevels": "62",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-12-15 15:51:56",
+        "endTime": "2024-12-16 04:23:32",
+        "captainBoons": "common_classic_comeback,saint_exalt,warrior_swordofruin,centurion_juggernaut,berserker_frenzy,bomber_dangerzone,blob_flesheater,epic_melee_gloryofvictory,warrior_frostguard,gladiator_sonofthunder,warrior_bladedancer,archer_longbows,epic_giantsbrewzero",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175082",
+        "completedLevels": "53",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2024-12-15 12:17:59",
+        "endTime": "2024-12-15 19:32:17",
+        "captainBoons": "common_classic_comeback,flagbearer_rallydefense,archer_longbows,bomber_ricochet,archer_zephyrstride,berserker_enrage,fairy_gift_of_the_wind,monk_pure_focus,flagbearer_flagbearerswill,warbeast_1,bomber_bombardment,bomber_dangerzone,archer_enchantedammo,epic_giantsbrewzero,warrior_secondwind,gladiator_war_machine,epic_melee_gloryofvictory,warrior_bladedancer",
+        "nextNodeType": "starboss"
+    },
+    {
         "dungeonRunId": "174719",
         "completedLevels": "52",
         "twitchDisplayName": "Panthergal2018",
@@ -79,14 +88,5 @@
         "endTime": "2024-12-13 20:57:13",
         "captainBoons": "common_classic_comeback,blob_flesheater,fairy_gift_of_the_wind,fairy_fireflyconjuration,frogue_cloakingfield,epic_giantsbrewzero,warrior_secondwind,bomber_bombardment,bomber_dangerzone,saint_skeletondance,bomber_ricochet,paladin_skeletalsquire,warrior_swordofruin,artillery_maxpower,epic_melee_gloryofvictory,healer_giftofregeneration,archer_soulpenetration,orcs_inpenetrable",
         "nextNodeType": "olympiadgodgroupFullCD"
-    },
-    {
-        "dungeonRunId": "175333",
-        "completedLevels": "52",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2024-12-17 19:22:53",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_frostguard,barb_warcry,warrior_swordofruin,archer_longbows,epic_giantsbrewzero,musk_golden_rounds,gladiator_war_machine,amazon_vineclone,bomber_dangerzone,archer_soulpenetration,musketeer_rapidreload,berserker_enrage,bomber_bombardment,warrior_bladedancer,lancer_spearwall,healer_combatmedic,spell_empower_haste",
-        "nextNodeType": "shrinkeningpuddles"
     }
 ]
