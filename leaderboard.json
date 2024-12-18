@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "175333",
-        "completedLevels": "61",
+        "completedLevels": "62",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2024-12-17 19:22:53",
         "endTime": null,
         "captainBoons": "warrior_frostguard,warrior_swordofruin,archer_longbows,musk_golden_rounds,gladiator_war_machine,amazon_vineclone,bomber_dangerzone,archer_soulpenetration,musketeer_rapidreload,berserker_enrage,bomber_bombardment,lancer_spearwall,healer_combatmedic,spell_empower_haste",
-        "nextNodeType": "moboohm"
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174719",
