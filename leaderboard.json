@@ -54,13 +54,13 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "175431",
-        "completedLevels": "67",
+        "dungeonRunId": "174981",
+        "completedLevels": "68",
         "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2024-12-18 15:56:24",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,musketeer_rapidreload,saint_missionary,warrior_swordofruin,archer_enchantedammo,berserker_frenzy,bomber_bombardment,warrior_frostguard,archer_soulpenetration,warrior_secondwind",
-        "nextNodeType": "shogunateBasic"
+        "startTime": "2024-12-14 21:36:58",
+        "endTime": "2024-12-15 03:29:01",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_enrage,gladiator_war_machine,warrior_frostguard,warrior_swordofruin,archer_longbows,bomber_ricochet,archer_soulpenetration,epic_melee_gloryofvictory",
+        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "175312",
