@@ -18,6 +18,15 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
+        "dungeonRunId": "175136",
+        "completedLevels": "74",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-15 21:52:55",
+        "endTime": "2024-12-17 12:33:43",
+        "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
         "dungeonRunId": "174977",
         "completedLevels": "74",
         "twitchDisplayName": "Hyf1re",
@@ -36,15 +45,6 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "175136",
-        "completedLevels": "74",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-15 21:52:55",
-        "endTime": "2024-12-17 12:33:43",
-        "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "174744",
         "completedLevels": "71",
         "twitchDisplayName": "Angel",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "175496",
-        "completedLevels": "68",
+        "completedLevels": "69",
         "twitchDisplayName": "RealAlize",
         "startTime": "2024-12-19 06:48:46",
         "endTime": null,
         "captainBoons": "archer_zephyrstride,bomber_ricochet,lancer_sarissaspears,epic_giantsbrewzero,bomber_bombardment,bomber_dangerzone,berserker_enrage,archer_longbows,warrior_frostguard,berserker_frenzy",
-        "nextNodeType": "cultbloodycity"
+        "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
         "dungeonRunId": "174981",
