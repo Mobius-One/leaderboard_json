@@ -1,11 +1,11 @@
 [
     {
-        "dungeonRunId": "175502",
+        "dungeonRunId": "175496",
         "completedLevels": "77",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-19 10:42:12",
-        "endTime": null,
-        "captainBoons": "bomber_ricochet,warrior_frostguard,archer_soulpenetration,bomber_dangerzone,orcs_inpenetrable,archer_longbows",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-12-19 06:48:46",
+        "endTime": "2024-12-19 16:00:25",
+        "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
@@ -18,12 +18,12 @@
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
-        "dungeonRunId": "175496",
+        "dungeonRunId": "175502",
         "completedLevels": "77",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-12-19 06:48:46",
-        "endTime": "2024-12-19 16:00:25",
-        "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-19 10:42:12",
+        "endTime": "2024-12-19 20:35:20",
+        "captainBoons": "bomber_ricochet,warrior_frostguard,archer_soulpenetration,bomber_dangerzone,orcs_inpenetrable,archer_longbows",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
