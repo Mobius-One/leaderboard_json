@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
-        "dungeonRunId": "175427",
-        "completedLevels": "56",
+        "dungeonRunId": "175475",
+        "completedLevels": "57",
         "twitchDisplayName": "lont123",
-        "startTime": "2024-12-18 15:26:53",
-        "endTime": "2024-12-18 21:03:29",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_longbows,berserker_enrage,artillery_machine_gun,lancer_spearwall,blob_parasite,saint_exalt,archer_soulpenetration,warrior_frostguard,frogue_cloakingfield,amazon_vineclone,musk_golden_rounds,barbarian_immortal,warrior_bladedancer",
-        "nextNodeType": "cultbloodycity"
+        "startTime": "2024-12-19 00:10:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,flagbearer_bannerofvitality,bomber_ricochet,bomber_bombardment,gladiator_browbeat,warrior_bladedancer,warrior_frostguard,healer_dreamy_wardens,archer_longbows,spell_empower_killingfield,saint_exalt,archer_soulpenetration,epic_melee_gloryofvictory,epic_giantsbrewzero,artillery_maxpower",
+        "nextNodeType": "tomblandsorcflank"
     }
 ]
