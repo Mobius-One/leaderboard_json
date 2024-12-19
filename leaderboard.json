@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "175475",
-        "completedLevels": "53",
+        "completedLevels": "54",
         "twitchDisplayName": "lont123",
         "startTime": "2024-12-19 00:10:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,flagbearer_bannerofvitality,bomber_ricochet,bomber_bombardment,gladiator_browbeat,barb_warcry,warrior_bladedancer,warrior_frostguard,healer_dreamy_wardens,archer_longbows,spell_empower_killingfield,saint_exalt,archer_soulpenetration,tank_frostbarbs,epic_melee_gloryofvictory,epic_giantsbrewzero,artillery_maxpower",
-        "nextNodeType": "olympiadbossMedusa2"
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,flagbearer_bannerofvitality,bomber_ricochet,bomber_bombardment,gladiator_browbeat,warrior_bladedancer,warrior_frostguard,healer_dreamy_wardens,archer_longbows,spell_empower_killingfield,saint_exalt,archer_soulpenetration,tank_frostbarbs,epic_melee_gloryofvictory,epic_giantsbrewzero,artillery_maxpower",
+        "nextNodeType": "crystaltunnel"
     }
 ]
