@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "175496",
+        "completedLevels": "77",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-12-19 06:48:46",
+        "endTime": "2024-12-19 16:00:25",
+        "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
         "dungeonRunId": "174933",
         "completedLevels": "77",
         "twitchDisplayName": "ImmerBock",
@@ -9,15 +18,6 @@
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
-        "dungeonRunId": "175496",
-        "completedLevels": "77",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-12-19 06:48:46",
-        "endTime": null,
-        "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "174942",
         "completedLevels": "76",
         "twitchDisplayName": "JayEmDee",
@@ -25,15 +25,6 @@
         "endTime": "2024-12-15 17:35:54",
         "captainBoons": "bomber_ricochet,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
         "nextNodeType": "glitchedretrotown"
-    },
-    {
-        "dungeonRunId": "175136",
-        "completedLevels": "74",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-15 21:52:55",
-        "endTime": "2024-12-17 12:33:43",
-        "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
-        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "174977",
@@ -54,6 +45,15 @@
         "nextNodeType": "cultbloodycity"
     },
     {
+        "dungeonRunId": "175136",
+        "completedLevels": "74",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-15 21:52:55",
+        "endTime": "2024-12-17 12:33:43",
+        "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
         "dungeonRunId": "174744",
         "completedLevels": "71",
         "twitchDisplayName": "Angel",
@@ -72,21 +72,21 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175312",
-        "completedLevels": "65",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-12-17 15:08:17",
-        "endTime": "2024-12-18 01:55:43",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_exalt,warrior_frostguard,ensouled_heroicspirits,artillery_machine_gun,bomber_dangerzone,berserker_frenzy,flagbearer_bannerofvitality,necromancer_necronomicon,archer_soulpenetration,berserker_rancor",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "175475",
         "completedLevels": "65",
         "twitchDisplayName": "lont123",
         "startTime": "2024-12-19 00:10:02",
         "endTime": "2024-12-19 08:21:09",
         "captainBoons": "common_classic_comeback,bomber_ricochet,bomber_bombardment,gladiator_browbeat,warrior_bladedancer,warrior_frostguard,healer_dreamy_wardens,archer_longbows,saint_exalt,archer_soulpenetration,epic_melee_gloryofvictory,epic_giantsbrewzero",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175312",
+        "completedLevels": "65",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-12-17 15:08:17",
+        "endTime": "2024-12-18 01:55:43",
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_exalt,warrior_frostguard,ensouled_heroicspirits,artillery_machine_gun,bomber_dangerzone,berserker_frenzy,flagbearer_bannerofvitality,necromancer_necronomicon,archer_soulpenetration,berserker_rancor",
         "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
