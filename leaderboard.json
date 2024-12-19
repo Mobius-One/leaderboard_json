@@ -1,14 +1,5 @@
 [
     {
-        "dungeonRunId": "174933",
-        "completedLevels": "77",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-12-14 11:41:39",
-        "endTime": "2024-12-14 21:35:58",
-        "captainBoons": "bomber_dangerzone,berserker_rancor,warrior_swordofruin,bomber_bombardment,warrior_frostguard,berserker_enrage",
-        "nextNodeType": "olympiadbossMedusa2"
-    },
-    {
         "dungeonRunId": "175496",
         "completedLevels": "77",
         "twitchDisplayName": "RealAlize",
@@ -16,6 +7,15 @@
         "endTime": "2024-12-19 16:00:25",
         "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
         "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "174933",
+        "completedLevels": "77",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-12-14 11:41:39",
+        "endTime": "2024-12-14 21:35:58",
+        "captainBoons": "bomber_dangerzone,berserker_rancor,warrior_swordofruin,bomber_bombardment,warrior_frostguard,berserker_enrage",
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174942",
@@ -36,15 +36,6 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175136",
-        "completedLevels": "74",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-15 21:52:55",
-        "endTime": "2024-12-17 12:33:43",
-        "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "174713",
         "completedLevels": "74",
         "twitchDisplayName": "bakodemeester",
@@ -52,6 +43,15 @@
         "endTime": "2024-12-13 04:52:50",
         "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
         "nextNodeType": "cultbloodycity"
+    },
+    {
+        "dungeonRunId": "175136",
+        "completedLevels": "74",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-15 21:52:55",
+        "endTime": "2024-12-17 12:33:43",
+        "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
+        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "174744",
