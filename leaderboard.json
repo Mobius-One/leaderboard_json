@@ -18,6 +18,15 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
+        "dungeonRunId": "174713",
+        "completedLevels": "74",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-12-12 19:06:33",
+        "endTime": "2024-12-13 04:52:50",
+        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
+        "nextNodeType": "cultbloodycity"
+    },
+    {
         "dungeonRunId": "174977",
         "completedLevels": "74",
         "twitchDisplayName": "Hyf1re",
@@ -34,15 +43,6 @@
         "endTime": "2024-12-17 12:33:43",
         "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
         "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
-        "dungeonRunId": "174713",
-        "completedLevels": "74",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-12-12 19:06:33",
-        "endTime": "2024-12-13 04:52:50",
-        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
-        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174744",
@@ -85,7 +85,7 @@
         "completedLevels": "53",
         "twitchDisplayName": "PamdaRex",
         "startTime": "2024-12-18 22:02:00",
-        "endTime": null,
+        "endTime": "2024-12-19 05:25:00",
         "captainBoons": "common_classic_comeback,warrior_secondwind,warrior_bladedancer,barb_warcry,bomber_bombardment,epic_giantsbrewzero,ensouled_heroicspirits,epic_ranged_dragonarrows,bomber_dangerzone,fairy_fireflyconjuration,necromancer_necronomicon,healer_giftofregeneration,epic_melee_gloryofvictory,musk_golden_rounds,saint_exalt,lancer_spearwall,spell_empower_highground,warrior_frostguard",
         "nextNodeType": "tomblandsbossorcexplorer"
     }
