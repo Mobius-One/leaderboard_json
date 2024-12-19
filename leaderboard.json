@@ -18,6 +18,15 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
+        "dungeonRunId": "175025",
+        "completedLevels": "74",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-12-15 02:54:55",
+        "endTime": "2024-12-15 12:02:26",
+        "captainBoons": "berserker_frenzy,ensouled_heroicspirits,archer_longbows,lancer_spearwall,healer_dreamy_wardens,bomber_dangerzone,epic_melee_gloryofvictory",
+        "nextNodeType": "starboss"
+    },
+    {
         "dungeonRunId": "174977",
         "completedLevels": "74",
         "twitchDisplayName": "Hyf1re",
@@ -43,15 +52,6 @@
         "endTime": "2024-12-13 04:52:50",
         "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
         "nextNodeType": "cultbloodycity"
-    },
-    {
-        "dungeonRunId": "175025",
-        "completedLevels": "74",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-12-15 02:54:55",
-        "endTime": "2024-12-15 12:02:26",
-        "captainBoons": "berserker_frenzy,ensouled_heroicspirits,archer_longbows,lancer_spearwall,healer_dreamy_wardens,bomber_dangerzone,epic_melee_gloryofvictory",
-        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "174744",
