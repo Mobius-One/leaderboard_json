@@ -18,15 +18,6 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
-        "dungeonRunId": "174713",
-        "completedLevels": "74",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-12-12 19:06:33",
-        "endTime": "2024-12-13 04:52:50",
-        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
-        "nextNodeType": "cultbloodycity"
-    },
-    {
         "dungeonRunId": "174977",
         "completedLevels": "74",
         "twitchDisplayName": "Hyf1re",
@@ -43,6 +34,15 @@
         "endTime": "2024-12-17 12:33:43",
         "captainBoons": "necromancer_necronomicon,bomber_dangerzone,epic_giantsbrewzero,bomber_ricochet,spell_empower_highground,fairy_gift_of_the_wind,archer_longbows",
         "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "174713",
+        "completedLevels": "74",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-12-12 19:06:33",
+        "endTime": "2024-12-13 04:52:50",
+        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174744",
@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
-        "dungeonRunId": "175475",
-        "completedLevels": "55",
+        "dungeonRunId": "175427",
+        "completedLevels": "56",
         "twitchDisplayName": "lont123",
-        "startTime": "2024-12-19 00:10:02",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,flagbearer_bannerofvitality,bomber_ricochet,bomber_bombardment,gladiator_browbeat,warrior_bladedancer,warrior_frostguard,healer_dreamy_wardens,archer_longbows,spell_empower_killingfield,saint_exalt,archer_soulpenetration,tank_frostbarbs,epic_melee_gloryofvictory,epic_giantsbrewzero,artillery_maxpower",
-        "nextNodeType": "olympiadgodgroupFullAB"
+        "startTime": "2024-12-18 15:26:53",
+        "endTime": "2024-12-18 21:03:29",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,archer_longbows,berserker_enrage,artillery_machine_gun,lancer_spearwall,blob_parasite,saint_exalt,archer_soulpenetration,warrior_frostguard,frogue_cloakingfield,amazon_vineclone,musk_golden_rounds,barbarian_immortal,warrior_bladedancer",
+        "nextNodeType": "cultbloodycity"
     }
 ]
