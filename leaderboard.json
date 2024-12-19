@@ -63,15 +63,6 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175312",
-        "completedLevels": "65",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-12-17 15:08:17",
-        "endTime": "2024-12-18 01:55:43",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_exalt,warrior_frostguard,ensouled_heroicspirits,artillery_machine_gun,bomber_dangerzone,berserker_frenzy,flagbearer_bannerofvitality,necromancer_necronomicon,archer_soulpenetration,berserker_rancor",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "175475",
         "completedLevels": "65",
         "twitchDisplayName": "lont123",
@@ -81,12 +72,21 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
+        "dungeonRunId": "175312",
+        "completedLevels": "65",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-12-17 15:08:17",
+        "endTime": "2024-12-18 01:55:43",
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_exalt,warrior_frostguard,ensouled_heroicspirits,artillery_machine_gun,bomber_dangerzone,berserker_frenzy,flagbearer_bannerofvitality,necromancer_necronomicon,archer_soulpenetration,berserker_rancor",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
         "dungeonRunId": "175496",
-        "completedLevels": "63",
+        "completedLevels": "64",
         "twitchDisplayName": "RealAlize",
         "startTime": "2024-12-19 06:48:46",
         "endTime": null,
         "captainBoons": "archer_zephyrstride,bomber_ricochet,rogue_shadowcloak,lancer_sarissaspears,epic_giantsbrewzero,bomber_bombardment,barb_warcry,bomber_dangerzone,berserker_enrage,barbarian_immortal,archer_longbows,warrior_frostguard,berserker_frenzy",
-        "nextNodeType": "glitchedretrotown"
+        "nextNodeType": "olympiadgodgroupFullAB"
     }
 ]
