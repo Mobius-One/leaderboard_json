@@ -18,13 +18,13 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
-        "dungeonRunId": "175025",
-        "completedLevels": "74",
+        "dungeonRunId": "175496",
+        "completedLevels": "75",
         "twitchDisplayName": "RealAlize",
-        "startTime": "2024-12-15 02:54:55",
-        "endTime": "2024-12-15 12:02:26",
-        "captainBoons": "berserker_frenzy,ensouled_heroicspirits,archer_longbows,lancer_spearwall,healer_dreamy_wardens,bomber_dangerzone,epic_melee_gloryofvictory",
-        "nextNodeType": "starboss"
+        "startTime": "2024-12-19 06:48:46",
+        "endTime": null,
+        "captainBoons": "archer_zephyrstride,bomber_ricochet,epic_giantsbrewzero,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "174977",
