@@ -1,20 +1,20 @@
 [
     {
-        "dungeonRunId": "175496",
-        "completedLevels": "77",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-12-19 06:48:46",
-        "endTime": "2024-12-19 16:00:25",
-        "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "175502",
         "completedLevels": "77",
         "twitchDisplayName": "chiquik",
         "startTime": "2024-12-19 10:42:12",
         "endTime": "2024-12-19 20:35:20",
         "captainBoons": "bomber_ricochet,warrior_frostguard,archer_soulpenetration,bomber_dangerzone,orcs_inpenetrable,archer_longbows",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175571",
+        "completedLevels": "77",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-12-20 01:39:12",
+        "endTime": null,
+        "captainBoons": "bomber_dangerzone,fairy_fireflyconjuration,archer_soulpenetration,warrior_frostguard,berserker_enrage,bomber_bombardment",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
@@ -27,6 +27,15 @@
         "nextNodeType": "olympiadbossMedusa2"
     },
     {
+        "dungeonRunId": "175496",
+        "completedLevels": "77",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-12-19 06:48:46",
+        "endTime": "2024-12-19 16:00:25",
+        "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
         "dungeonRunId": "174942",
         "completedLevels": "76",
         "twitchDisplayName": "JayEmDee",
@@ -34,15 +43,6 @@
         "endTime": "2024-12-15 17:35:54",
         "captainBoons": "bomber_ricochet,berserker_rancor,fairy_fireflyconjuration,bomber_dangerzone,archer_longbows,artillery_machine_gun",
         "nextNodeType": "glitchedretrotown"
-    },
-    {
-        "dungeonRunId": "175571",
-        "completedLevels": "76",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-12-20 01:39:12",
-        "endTime": null,
-        "captainBoons": "bomber_dangerzone,fairy_fireflyconjuration,archer_soulpenetration,warrior_frostguard,berserker_enrage,bomber_bombardment",
-        "nextNodeType": "elementaliceroad"
     },
     {
         "dungeonRunId": "174977",
@@ -72,21 +72,21 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175312",
-        "completedLevels": "65",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-12-17 15:08:17",
-        "endTime": "2024-12-18 01:55:43",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_exalt,warrior_frostguard,ensouled_heroicspirits,artillery_machine_gun,bomber_dangerzone,berserker_frenzy,flagbearer_bannerofvitality,necromancer_necronomicon,archer_soulpenetration,berserker_rancor",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "175475",
         "completedLevels": "65",
         "twitchDisplayName": "lont123",
         "startTime": "2024-12-19 00:10:02",
         "endTime": "2024-12-19 08:21:09",
         "captainBoons": "common_classic_comeback,bomber_ricochet,bomber_bombardment,gladiator_browbeat,warrior_bladedancer,warrior_frostguard,healer_dreamy_wardens,archer_longbows,saint_exalt,archer_soulpenetration,epic_melee_gloryofvictory,epic_giantsbrewzero",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175312",
+        "completedLevels": "65",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-12-17 15:08:17",
+        "endTime": "2024-12-18 01:55:43",
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_exalt,warrior_frostguard,ensouled_heroicspirits,artillery_machine_gun,bomber_dangerzone,berserker_frenzy,flagbearer_bannerofvitality,necromancer_necronomicon,archer_soulpenetration,berserker_rancor",
         "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
