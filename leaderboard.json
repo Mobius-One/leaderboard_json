@@ -36,6 +36,15 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
+        "dungeonRunId": "175571",
+        "completedLevels": "75",
+        "twitchDisplayName": "Angel",
+        "startTime": "2024-12-20 01:39:12",
+        "endTime": null,
+        "captainBoons": "bomber_dangerzone,fairy_fireflyconjuration,archer_soulpenetration,warrior_frostguard,orcs_inpenetrable,berserker_enrage,bomber_bombardment",
+        "nextNodeType": "beastlandsbeast03"
+    },
+    {
         "dungeonRunId": "174713",
         "completedLevels": "74",
         "twitchDisplayName": "bakodemeester",
@@ -43,15 +52,6 @@
         "endTime": "2024-12-13 04:52:50",
         "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
         "nextNodeType": "cultbloodycity"
-    },
-    {
-        "dungeonRunId": "175571",
-        "completedLevels": "74",
-        "twitchDisplayName": "Angel",
-        "startTime": "2024-12-20 01:39:12",
-        "endTime": null,
-        "captainBoons": "bomber_dangerzone,fairy_fireflyconjuration,archer_soulpenetration,warrior_frostguard,orcs_inpenetrable,berserker_enrage,bomber_bombardment",
-        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "174977",
