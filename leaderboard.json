@@ -9,6 +9,15 @@
         "nextNodeType": "cultbloodycity"
     },
     {
+        "dungeonRunId": "175496",
+        "completedLevels": "77",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2024-12-19 06:48:46",
+        "endTime": "2024-12-19 16:00:25",
+        "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
         "dungeonRunId": "174933",
         "completedLevels": "77",
         "twitchDisplayName": "ImmerBock",
@@ -27,15 +36,6 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175496",
-        "completedLevels": "77",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2024-12-19 06:48:46",
-        "endTime": "2024-12-19 16:00:25",
-        "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "174942",
         "completedLevels": "76",
         "twitchDisplayName": "JayEmDee",
@@ -45,15 +45,6 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
-        "dungeonRunId": "174713",
-        "completedLevels": "74",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-12-12 19:06:33",
-        "endTime": "2024-12-13 04:52:50",
-        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
-        "nextNodeType": "cultbloodycity"
-    },
-    {
         "dungeonRunId": "174977",
         "completedLevels": "74",
         "twitchDisplayName": "Hyf1re",
@@ -61,6 +52,15 @@
         "endTime": "2024-12-15 05:19:43",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
         "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "174713",
+        "completedLevels": "74",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-12-12 19:06:33",
+        "endTime": "2024-12-13 04:52:50",
+        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "174981",
@@ -73,20 +73,20 @@
     },
     {
         "dungeonRunId": "175732",
-        "completedLevels": "66",
+        "completedLevels": "67",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2024-12-21 13:00:48",
         "endTime": null,
         "captainBoons": "flagbearer_bannerofvitality,bomber_bombardment,saint_exalt,warrior_bladedancer,warrior_frostguard,archer_soulpenetration,epic_giantsbrewzero,ensouled_heroicspirits,bomber_dangerzone,barbarian_gloriousdeath,gladiator_sonofthunder",
-        "nextNodeType": "olympiadgodgroupFullAB"
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
-        "dungeonRunId": "175312",
+        "dungeonRunId": "175475",
         "completedLevels": "65",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-12-17 15:08:17",
-        "endTime": "2024-12-18 01:55:43",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_exalt,warrior_frostguard,ensouled_heroicspirits,artillery_machine_gun,bomber_dangerzone,berserker_frenzy,flagbearer_bannerofvitality,necromancer_necronomicon,archer_soulpenetration,berserker_rancor",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-12-19 00:10:02",
+        "endTime": "2024-12-19 08:21:09",
+        "captainBoons": "common_classic_comeback,bomber_ricochet,bomber_bombardment,gladiator_browbeat,warrior_bladedancer,warrior_frostguard,healer_dreamy_wardens,archer_longbows,saint_exalt,archer_soulpenetration,epic_melee_gloryofvictory,epic_giantsbrewzero",
         "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
