@@ -72,6 +72,15 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
+        "dungeonRunId": "175748",
+        "completedLevels": "68",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-12-21 18:01:26",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,warrior_frostguard,blob_flesheater,archer_longbows,warrior_bladedancer,lancer_sarissaspears,saint_missionary,epic_melee_gloryofvictory,berserker_rancor",
+        "nextNodeType": "cultbloodycity"
+    },
+    {
         "dungeonRunId": "174981",
         "completedLevels": "68",
         "twitchDisplayName": "Hairtrigger83",
@@ -79,14 +88,5 @@
         "endTime": "2024-12-15 03:29:01",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_enrage,gladiator_war_machine,warrior_frostguard,warrior_swordofruin,archer_longbows,bomber_ricochet,archer_soulpenetration,epic_melee_gloryofvictory",
         "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
-        "dungeonRunId": "175748",
-        "completedLevels": "67",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-12-21 18:01:26",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,warrior_frostguard,blob_flesheater,archer_longbows,musketeer_rapidreload,warrior_bladedancer,lancer_sarissaspears,saint_missionary,epic_melee_gloryofvictory,berserker_rancor",
-        "nextNodeType": "glitchedretrotown"
     }
 ]
