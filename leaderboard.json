@@ -18,6 +18,15 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
+        "dungeonRunId": "175748",
+        "completedLevels": "77",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-12-21 18:01:26",
+        "endTime": null,
+        "captainBoons": "saint_exalt,warrior_frostguard,archer_longbows,warrior_bladedancer,lancer_sarissaspears,epic_melee_gloryofvictory",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
         "dungeonRunId": "174933",
         "completedLevels": "77",
         "twitchDisplayName": "ImmerBock",
@@ -34,15 +43,6 @@
         "endTime": "2024-12-19 20:35:20",
         "captainBoons": "bomber_ricochet,warrior_frostguard,archer_soulpenetration,bomber_dangerzone,orcs_inpenetrable,archer_longbows",
         "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
-        "dungeonRunId": "175748",
-        "completedLevels": "76",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-12-21 18:01:26",
-        "endTime": null,
-        "captainBoons": "saint_exalt,warrior_frostguard,archer_longbows,warrior_bladedancer,lancer_sarissaspears,epic_melee_gloryofvictory",
-        "nextNodeType": "beastlandsbeast03"
     },
     {
         "dungeonRunId": "174942",
