@@ -68,17 +68,8 @@
         "twitchDisplayName": "lont123",
         "startTime": "2024-12-21 18:01:26",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,warrior_frostguard,blob_flesheater,archer_longbows,warrior_bladedancer,lancer_sarissaspears,saint_missionary,epic_melee_gloryofvictory,berserker_rancor",
+        "captainBoons": "saint_exalt,warrior_frostguard,blob_flesheater,archer_longbows,warrior_bladedancer,lancer_sarissaspears,saint_missionary,epic_melee_gloryofvictory,berserker_rancor",
         "nextNodeType": "moboohm"
-    },
-    {
-        "dungeonRunId": "175315",
-        "completedLevels": "68",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-12-17 15:58:56",
-        "endTime": "2024-12-18 00:14:28",
-        "captainBoons": "lancer_firststrike,warrior_frostguard,archer_soulpenetration,barbarian_gloriousdeath,berserker_enrage,ensouled_heroicspirits,bomber_dangerzone,warrior_swordofruin,epic_melee_gloryofvictory,archer_zephyrstride",
-        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "174981",
@@ -87,6 +78,15 @@
         "startTime": "2024-12-14 21:36:58",
         "endTime": "2024-12-15 03:29:01",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_enrage,gladiator_war_machine,warrior_frostguard,warrior_swordofruin,archer_longbows,bomber_ricochet,archer_soulpenetration,epic_melee_gloryofvictory",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175315",
+        "completedLevels": "68",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-12-17 15:58:56",
+        "endTime": "2024-12-18 00:14:28",
+        "captainBoons": "lancer_firststrike,warrior_frostguard,archer_soulpenetration,barbarian_gloriousdeath,berserker_enrage,ensouled_heroicspirits,bomber_dangerzone,warrior_swordofruin,epic_melee_gloryofvictory,archer_zephyrstride",
         "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
