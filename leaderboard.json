@@ -27,15 +27,6 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "174933",
-        "completedLevels": "77",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-12-14 11:41:39",
-        "endTime": "2024-12-14 21:35:58",
-        "captainBoons": "bomber_dangerzone,berserker_rancor,warrior_swordofruin,bomber_bombardment,warrior_frostguard,berserker_enrage",
-        "nextNodeType": "olympiadbossMedusa2"
-    },
-    {
         "dungeonRunId": "175502",
         "completedLevels": "77",
         "twitchDisplayName": "chiquik",
@@ -43,6 +34,15 @@
         "endTime": "2024-12-19 20:35:20",
         "captainBoons": "bomber_ricochet,warrior_frostguard,archer_soulpenetration,bomber_dangerzone,orcs_inpenetrable,archer_longbows",
         "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "174933",
+        "completedLevels": "77",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-12-14 11:41:39",
+        "endTime": "2024-12-14 21:35:58",
+        "captainBoons": "bomber_dangerzone,berserker_rancor,warrior_swordofruin,bomber_bombardment,warrior_frostguard,berserker_enrage",
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174942",
@@ -72,21 +72,21 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "175315",
-        "completedLevels": "68",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2024-12-17 15:58:56",
-        "endTime": "2024-12-18 00:14:28",
-        "captainBoons": "lancer_firststrike,warrior_frostguard,archer_soulpenetration,barbarian_gloriousdeath,berserker_enrage,ensouled_heroicspirits,bomber_dangerzone,warrior_swordofruin,epic_melee_gloryofvictory,archer_zephyrstride",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "174981",
         "completedLevels": "68",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2024-12-14 21:36:58",
         "endTime": "2024-12-15 03:29:01",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_enrage,gladiator_war_machine,warrior_frostguard,warrior_swordofruin,archer_longbows,bomber_ricochet,archer_soulpenetration,epic_melee_gloryofvictory",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175315",
+        "completedLevels": "68",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2024-12-17 15:58:56",
+        "endTime": "2024-12-18 00:14:28",
+        "captainBoons": "lancer_firststrike,warrior_frostguard,archer_soulpenetration,barbarian_gloriousdeath,berserker_enrage,ensouled_heroicspirits,bomber_dangerzone,warrior_swordofruin,epic_melee_gloryofvictory,archer_zephyrstride",
         "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
