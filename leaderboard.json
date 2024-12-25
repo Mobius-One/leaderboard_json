@@ -27,21 +27,21 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175748",
-        "completedLevels": "77",
-        "twitchDisplayName": "lont123",
-        "startTime": "2024-12-21 18:01:26",
-        "endTime": "2024-12-22 02:42:53",
-        "captainBoons": "saint_exalt,warrior_frostguard,archer_longbows,warrior_bladedancer,lancer_sarissaspears,epic_melee_gloryofvictory",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "175496",
         "completedLevels": "77",
         "twitchDisplayName": "RealAlize",
         "startTime": "2024-12-19 06:48:46",
         "endTime": "2024-12-19 16:00:25",
         "captainBoons": "archer_zephyrstride,bomber_ricochet,bomber_dangerzone,archer_longbows,warrior_frostguard,berserker_frenzy",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175748",
+        "completedLevels": "77",
+        "twitchDisplayName": "lont123",
+        "startTime": "2024-12-21 18:01:26",
+        "endTime": "2024-12-22 02:42:53",
+        "captainBoons": "saint_exalt,warrior_frostguard,archer_longbows,warrior_bladedancer,lancer_sarissaspears,epic_melee_gloryofvictory",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
@@ -54,24 +54,6 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
-        "dungeonRunId": "174713",
-        "completedLevels": "74",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-12-12 19:06:33",
-        "endTime": "2024-12-13 04:52:50",
-        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
-        "nextNodeType": "cultbloodycity"
-    },
-    {
-        "dungeonRunId": "174977",
-        "completedLevels": "74",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-12-14 21:22:08",
-        "endTime": "2024-12-15 05:19:43",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "175762",
         "completedLevels": "74",
         "twitchDisplayName": "PhoenixBard",
@@ -81,12 +63,30 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
+        "dungeonRunId": "174713",
+        "completedLevels": "74",
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-12-12 19:06:33",
+        "endTime": "2024-12-13 04:52:50",
+        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
+        "nextNodeType": "cultbloodycity"
+    },
+    {
         "dungeonRunId": "176085",
         "completedLevels": "74",
         "twitchDisplayName": "Rafipi",
         "startTime": "2024-12-24 17:56:37",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_frostguard,warrior_swordofruin,berserker_enrage,archer_soulpenetration,gladiator_browbeat,saint_exalt,bomber_dangerzone",
+        "captainBoons": "common_classic_comeback,warrior_frostguard,berserker_enrage,archer_soulpenetration,gladiator_browbeat,saint_exalt,bomber_dangerzone",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "174977",
+        "completedLevels": "74",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-12-14 21:22:08",
+        "endTime": "2024-12-15 05:19:43",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
         "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
