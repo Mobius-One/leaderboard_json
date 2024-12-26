@@ -18,13 +18,13 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "174933",
+        "dungeonRunId": "175502",
         "completedLevels": "77",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2024-12-14 11:41:39",
-        "endTime": "2024-12-14 21:35:58",
-        "captainBoons": "bomber_dangerzone,berserker_rancor,warrior_swordofruin,bomber_bombardment,warrior_frostguard,berserker_enrage",
-        "nextNodeType": "olympiadbossMedusa2"
+        "twitchDisplayName": "chiquik",
+        "startTime": "2024-12-19 10:42:12",
+        "endTime": "2024-12-19 20:35:20",
+        "captainBoons": "bomber_ricochet,warrior_frostguard,archer_soulpenetration,bomber_dangerzone,orcs_inpenetrable,archer_longbows",
+        "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
         "dungeonRunId": "175748",
@@ -36,13 +36,13 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "175502",
+        "dungeonRunId": "174933",
         "completedLevels": "77",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2024-12-19 10:42:12",
-        "endTime": "2024-12-19 20:35:20",
-        "captainBoons": "bomber_ricochet,warrior_frostguard,archer_soulpenetration,bomber_dangerzone,orcs_inpenetrable,archer_longbows",
-        "nextNodeType": "tomblandsbossorcexplorer"
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2024-12-14 11:41:39",
+        "endTime": "2024-12-14 21:35:58",
+        "captainBoons": "bomber_dangerzone,berserker_rancor,warrior_swordofruin,bomber_bombardment,warrior_frostguard,berserker_enrage",
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "174942",
@@ -54,21 +54,30 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
-        "dungeonRunId": "176085",
-        "completedLevels": "74",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-12-24 17:56:37",
-        "endTime": "2024-12-25 04:24:36",
-        "captainBoons": "common_classic_comeback,warrior_frostguard,berserker_enrage,archer_soulpenetration,gladiator_browbeat,saint_exalt,bomber_dangerzone",
-        "nextNodeType": "tomblandsbossorcexplorer"
-    },
-    {
         "dungeonRunId": "174977",
         "completedLevels": "74",
         "twitchDisplayName": "Hyf1re",
         "startTime": "2024-12-14 21:22:08",
         "endTime": "2024-12-15 05:19:43",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "175762",
+        "completedLevels": "74",
+        "twitchDisplayName": "PhoenixBard",
+        "startTime": "2024-12-21 19:53:19",
+        "endTime": "2024-12-22 22:13:54",
+        "captainBoons": "warrior_bladedancer,musketeer_rapidreload,warrior_swordofruin,bomber_dangerzone,bomber_ricochet,warrior_frostguard,archer_longbows",
+        "nextNodeType": "tomblandsbossorcexplorer"
+    },
+    {
+        "dungeonRunId": "176085",
+        "completedLevels": "74",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-12-24 17:56:37",
+        "endTime": "2024-12-25 04:24:36",
+        "captainBoons": "common_classic_comeback,warrior_frostguard,berserker_enrage,archer_soulpenetration,gladiator_browbeat,saint_exalt,bomber_dangerzone",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
@@ -79,14 +88,5 @@
         "endTime": "2024-12-13 04:52:50",
         "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
         "nextNodeType": "cultbloodycity"
-    },
-    {
-        "dungeonRunId": "175762",
-        "completedLevels": "74",
-        "twitchDisplayName": "PhoenixBard",
-        "startTime": "2024-12-21 19:53:19",
-        "endTime": "2024-12-22 22:13:54",
-        "captainBoons": "warrior_bladedancer,musketeer_rapidreload,warrior_swordofruin,bomber_dangerzone,bomber_ricochet,warrior_frostguard,archer_longbows",
-        "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
