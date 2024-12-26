@@ -54,12 +54,12 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
-        "dungeonRunId": "174977",
+        "dungeonRunId": "176085",
         "completedLevels": "74",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2024-12-14 21:22:08",
-        "endTime": "2024-12-15 05:19:43",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2024-12-24 17:56:37",
+        "endTime": "2024-12-25 04:24:36",
+        "captainBoons": "common_classic_comeback,warrior_frostguard,berserker_enrage,archer_soulpenetration,gladiator_browbeat,saint_exalt,bomber_dangerzone",
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "cultbloodycity"
     },
     {
-        "dungeonRunId": "176085",
+        "dungeonRunId": "174977",
         "completedLevels": "74",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2024-12-24 17:56:37",
-        "endTime": "2024-12-25 04:24:36",
-        "captainBoons": "common_classic_comeback,warrior_frostguard,berserker_enrage,archer_soulpenetration,gladiator_browbeat,saint_exalt,bomber_dangerzone",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2024-12-14 21:22:08",
+        "endTime": "2024-12-15 05:19:43",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,bomber_ricochet,warrior_frostguard,frogue_cloakingfield,saint_exalt,archer_soulpenetration",
         "nextNodeType": "tomblandsbossorcexplorer"
     }
 ]
