@@ -54,13 +54,13 @@
         "nextNodeType": "glitchedretrotown"
     },
     {
-        "dungeonRunId": "174713",
+        "dungeonRunId": "176303",
         "completedLevels": "74",
-        "twitchDisplayName": "bakodemeester",
-        "startTime": "2024-12-12 19:06:33",
-        "endTime": "2024-12-13 04:52:50",
-        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
-        "nextNodeType": "cultbloodycity"
+        "twitchDisplayName": "YxelTV",
+        "startTime": "2024-12-26 14:18:10",
+        "endTime": "2024-12-30 12:46:17",
+        "captainBoons": "common_classic_comeback,warrior_frostguard,archer_longbows,gladiator_sonofthunder,rogue_veilingcloak,bomber_dangerzone,epic_giantsbrewzero",
+        "nextNodeType": "olympiadbossMedusa2"
     },
     {
         "dungeonRunId": "176085",
@@ -72,13 +72,13 @@
         "nextNodeType": "tomblandsbossorcexplorer"
     },
     {
-        "dungeonRunId": "176303",
+        "dungeonRunId": "174713",
         "completedLevels": "74",
-        "twitchDisplayName": "YxelTV",
-        "startTime": "2024-12-26 14:18:10",
-        "endTime": "2024-12-30 12:46:17",
-        "captainBoons": "common_classic_comeback,warrior_frostguard,archer_longbows,gladiator_sonofthunder,rogue_veilingcloak,bomber_dangerzone,epic_giantsbrewzero",
-        "nextNodeType": "olympiadbossMedusa2"
+        "twitchDisplayName": "bakodemeester",
+        "startTime": "2024-12-12 19:06:33",
+        "endTime": "2024-12-13 04:52:50",
+        "captainBoons": "archer_longbows,bomber_dangerzone,gladiator_browbeat,saint_exalt,frogue_cloakingfield,archer_enchantedammo,warrior_frostguard",
+        "nextNodeType": "cultbloodycity"
     },
     {
         "dungeonRunId": "175762",
