@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "176395",
-        "completedLevels": "34",
+        "completedLevels": "35",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2025-01-16 19:06:27",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero,ranged_damage_2,ensouled_heroicspirits,gladiator_sonofthunder,amazon_vineclone,gladiator_browbeat,fairy_hocuspocus,archer_steadybow,saint_exalt,common_specialists,fairy_fireflyconjuration,melee_followup,warrior_soldieroffortune,saint_surgeofconfidence,barbarian_conqueror,berserker_rancor,warrior_flameslash,bomber_living_bomb,healer_combatmedic,archer_venomarrows,epic_epicaspirations,bomber_dangerzone,bomber_concentrated_burst",
-        "nextNodeType": "heartscelestialabyrinth"
+        "nextNodeType": "wintersnowman"
     },
     {
         "dungeonRunId": "176390",
@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "176387",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2025-01-16 19:00:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones,lancer_sarissaspears,tank_truetank,saint_godspeed,berserker_rancor,healer_shadowword,blob_parasite,bomber_dangerzone,melee_followup,barbarian_conqueror,saint_exalt,bomber_living_bomb,archer_rapidshot,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,rogue_shadowcloak,shinobi_shadowstrike,support_enchantedstaves,monk_heavenskarma,barbarian_gloriousdeath,lancer_spearofvengeance",
-        "nextNodeType": "retroforest"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones,lancer_sarissaspears,tank_truetank,saint_godspeed,berserker_rancor,healer_shadowword,blob_parasite,bomber_dangerzone,melee_followup,barbarian_conqueror,saint_exalt,bomber_living_bomb,archer_rapidshot,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,rogue_shadowcloak,support_enchantedstaves,monk_heavenskarma,barbarian_gloriousdeath,lancer_spearofvengeance",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "176393",
@@ -63,6 +63,15 @@
         "nextNodeType": "raidhallalake"
     },
     {
+        "dungeonRunId": "176413",
+        "completedLevels": "14",
+        "twitchDisplayName": "Angel",
+        "startTime": "2025-01-16 22:01:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,phantom_thehaunting,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,assassin_disappearingact,gladiator_war_machine,musketeer_rapidreload,rogue_skeletonturret,fairy_gift_of_the_wind,saint_exalt,flagbearer_bannerofexaltation",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
         "dungeonRunId": "176401",
         "completedLevels": "13",
         "twitchDisplayName": "Nicka559",
@@ -70,15 +79,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,templar_beaconofhope,fairy_fireflyconjuration,archer_venomarrows,gladiator_war_machine,paladin_layonhands,melee_followup,healer_healing_bloom,archer_rapidshot,ranged_damage_2,phantom_thehaunting",
         "nextNodeType": "oasisruins"
-    },
-    {
-        "dungeonRunId": "176413",
-        "completedLevels": "13",
-        "twitchDisplayName": "Angel",
-        "startTime": "2025-01-16 22:01:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,phantom_thehaunting,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,assassin_disappearingact,gladiator_war_machine,musketeer_rapidreload,rogue_skeletonturret,fairy_gift_of_the_wind,saint_exalt",
-        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "176403",
