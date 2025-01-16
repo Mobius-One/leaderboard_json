@@ -1,21 +1,21 @@
 [
     {
-        "dungeonRunId": "176390",
-        "completedLevels": "24",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2025-01-16 19:03:01",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,tank_truetank,common_specialists,lancer_sarissaspears,melee_followup,warbeast_terrifying_presence,saint_exalt,vampire_spectralpresence,artillery_machine_gun",
-        "nextNodeType": "oasisruins"
-    },
-    {
         "dungeonRunId": "176394",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-01-16 19:04:25",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,epic_giantsbrewzero,berserker_enrage,musk_hunters_mark,saint_exalt,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,barbarian_gloriousdeath,assassin_disappearingact,common_specialists,berserker_rancor,ranged_damage_2,gladiator_war_machine,lancer_sarissaspears,saint_surgeofconfidence,healer_healing_bloom",
-        "nextNodeType": "shrinkeningpuddles"
+        "nextNodeType": "steamplaza"
+    },
+    {
+        "dungeonRunId": "176390",
+        "completedLevels": "25",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-01-16 19:03:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,tank_truetank,common_specialists,lancer_sarissaspears,melee_followup,warbeast_terrifying_presence,saint_exalt,vampire_spectralpresence,artillery_machine_gun,warrior_soldieroffortune",
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "176388",
@@ -32,7 +32,7 @@
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2025-01-16 19:06:27",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero,ranged_damage_2,ensouled_heroicspirits,flagbearer_bannerofluck,gladiator_sonofthunder,amazon_vineclone,gladiator_browbeat,fairy_hocuspocus,archer_steadybow,saint_exalt,armored_shieldbash,common_specialists,fairy_fireflyconjuration,melee_followup,mage_darkmagic,warrior_soldieroffortune,saint_surgeofconfidence,barbarian_conqueror,berserker_rancor",
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero,ranged_damage_2,ensouled_heroicspirits,flagbearer_bannerofluck,gladiator_sonofthunder,amazon_vineclone,gladiator_browbeat,fairy_hocuspocus,archer_steadybow,saint_exalt,armored_shieldbash,common_specialists,fairy_fireflyconjuration,melee_followup,mage_darkmagic,warrior_soldieroffortune,saint_surgeofconfidence,barbarian_conqueror,berserker_rancor,warrior_flameslash",
         "nextNodeType": "glitchedboss"
     },
     {
@@ -63,30 +63,30 @@
         "nextNodeType": "raidhallalake"
     },
     {
+        "dungeonRunId": "176402",
+        "completedLevels": "11",
+        "twitchDisplayName": "buddha2486",
+        "startTime": "2025-01-16 20:10:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,ranged_damage_2,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,saint_godspeed,archer_rapidshot,frogue_cloakingfield,barbarian_conqueror,epic_giantsbrewzero,flagbearer_bannerofexaltation",
+        "nextNodeType": "shogunateBossCastle"
+    },
+    {
         "dungeonRunId": "176401",
         "completedLevels": "10",
         "twitchDisplayName": "Nicka559",
         "startTime": "2025-01-16 19:57:34",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,templar_beaconofhope,fairy_fireflyconjuration,archer_venomarrows,gladiator_war_machine,paladin_layonhands,melee_followup,healer_healing_bloom",
+        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,templar_beaconofhope,fairy_fireflyconjuration,archer_venomarrows,gladiator_war_machine,paladin_layonhands,melee_followup,healer_healing_bloom,archer_rapidshot",
         "nextNodeType": "crystalcavetreasure"
     },
     {
-        "dungeonRunId": "176402",
-        "completedLevels": "10",
-        "twitchDisplayName": "buddha2486",
-        "startTime": "2025-01-16 20:10:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,ranged_damage_2,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,saint_godspeed,archer_rapidshot,frogue_cloakingfield,barbarian_conqueror,epic_giantsbrewzero",
-        "nextNodeType": "crucibleforge"
-    },
-    {
         "dungeonRunId": "176403",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "fizzyaxe5229",
         "startTime": "2025-01-16 20:27:43",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,musketeer_grapeshot,templar_beaconofhope,berserker_rancor,melee_followup,spell_empower_haste,musketeer_rapidreload,gladiator_sonofthunder",
-        "nextNodeType": "glitchedboss"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,musketeer_grapeshot,templar_beaconofhope,berserker_rancor,melee_followup,spell_empower_haste,musketeer_rapidreload,gladiator_sonofthunder,monk_heavenskarma",
+        "nextNodeType": "crucibleforge"
     }
 ]
