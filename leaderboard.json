@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "176388",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2025-01-16 19:01:44",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder,warlock_inferno,fairy_fireflyconjuration,healer_shadowword,bomber_living_bomb,gladiator_browbeat,melee_followup,bomber_dangerzone,frogue_cloakingfield,blob_parasite,barbarian_gloriousdeath,barbarian_bringthepain,musk_hunters_mark,archer_venomarrows,spell_empower_highground,centurion_tactician,warrior_flameslash,saint_godspeed,saint_exalt,musketeer_grapeshot,rogue_shadowcloak,berserker_rancor,saint_surgeofconfidence",
-        "nextNodeType": "wintersnowman"
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "176390",
@@ -23,7 +23,7 @@
         "twitchDisplayName": "Meistar",
         "startTime": "2025-01-16 19:03:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,common_specialists,lancer_sarissaspears,melee_followup,warbeast_terrifying_presence,saint_exalt,vampire_spectralpresence,artillery_machine_gun,warrior_soldieroffortune,fairy_hocuspocus,orcs_building_rage,epic_giantsbrewzero,ranged_damage_2",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,common_specialists,lancer_sarissaspears,melee_followup,warbeast_terrifying_presence,saint_exalt,vampire_spectralpresence,artillery_machine_gun,warrior_soldieroffortune,fairy_hocuspocus,orcs_building_rage,epic_giantsbrewzero,ranged_damage_2",
         "nextNodeType": "shogunateBossCastle"
     },
     {
