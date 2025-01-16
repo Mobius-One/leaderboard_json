@@ -1,11 +1,47 @@
 [
     {
         "dungeonRunId": "176387",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2025-01-16 19:00:13",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload",
+        "nextNodeType": "dungeons_boss_toadraiders"
+    },
+    {
+        "dungeonRunId": "176393",
+        "completedLevels": "1",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-01-16 19:04:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune",
+        "nextNodeType": "dungeonexperiment"
+    },
+    {
+        "dungeonRunId": "176394",
+        "completedLevels": "1",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-01-16 19:04:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone",
+        "nextNodeType": "retroforest"
+    },
+    {
+        "dungeonRunId": "176388",
+        "completedLevels": "1",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2025-01-16 19:01:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune",
+        "nextNodeType": "heartscelestialabyrinth"
+    },
+    {
+        "dungeonRunId": "176390",
+        "completedLevels": "1",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-01-16 19:03:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone",
         "nextNodeType": "beastlandsbug02"
     }
 ]
