@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "176388",
+        "completedLevels": "34",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2025-01-16 19:01:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder,warlock_inferno,fairy_fireflyconjuration,healer_shadowword,bomber_living_bomb,gladiator_browbeat,melee_followup,bomber_dangerzone,frogue_cloakingfield,blob_parasite,barbarian_gloriousdeath,musk_hunters_mark,archer_venomarrows,spell_empower_highground,centurion_tactician,warrior_flameslash,saint_godspeed,saint_exalt,musketeer_grapeshot,rogue_shadowcloak,berserker_rancor,saint_surgeofconfidence",
+        "nextNodeType": "beastlandsbug02"
+    },
+    {
         "dungeonRunId": "176394",
         "completedLevels": "34",
         "twitchDisplayName": "chiquik",
@@ -7,15 +16,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,epic_giantsbrewzero,berserker_enrage,musk_hunters_mark,saint_exalt,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,assassin_disappearingact,common_specialists,berserker_rancor,ranged_damage_2,lancer_sarissaspears,saint_surgeofconfidence,gladiator_browbeat,support_enchantedstaves,spell_empower_curse,centurion_tactician,barbarian_bringthepain",
         "nextNodeType": "crashzonerise"
-    },
-    {
-        "dungeonRunId": "176388",
-        "completedLevels": "33",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2025-01-16 19:01:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder,warlock_inferno,fairy_fireflyconjuration,healer_shadowword,bomber_living_bomb,gladiator_browbeat,melee_followup,bomber_dangerzone,frogue_cloakingfield,blob_parasite,barbarian_gloriousdeath,barbarian_bringthepain,musk_hunters_mark,archer_venomarrows,spell_empower_highground,centurion_tactician,warrior_flameslash,saint_godspeed,saint_exalt,musketeer_grapeshot,rogue_shadowcloak,berserker_rancor,saint_surgeofconfidence",
-        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "176390",
@@ -72,15 +72,6 @@
         "nextNodeType": "oasisruins"
     },
     {
-        "dungeonRunId": "176402",
-        "completedLevels": "11",
-        "twitchDisplayName": "buddha2486",
-        "startTime": "2025-01-16 20:10:23",
-        "endTime": "2025-01-16 21:44:22",
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,ranged_damage_2,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,saint_godspeed,archer_rapidshot,frogue_cloakingfield,barbarian_conqueror,epic_giantsbrewzero,flagbearer_bannerofexaltation",
-        "nextNodeType": "shogunateBossCastle"
-    },
-    {
         "dungeonRunId": "176403",
         "completedLevels": "11",
         "twitchDisplayName": "fizzyaxe5229",
@@ -88,5 +79,14 @@
         "endTime": "2025-01-16 22:05:49",
         "captainBoons": "common_classic_comeback,paladin_layonhands,musketeer_grapeshot,templar_beaconofhope,berserker_rancor,melee_followup,spell_empower_haste,musketeer_rapidreload,gladiator_sonofthunder,monk_heavenskarma,epic_giantsbrewzero,berserker_enrage",
         "nextNodeType": "wintersnowman"
+    },
+    {
+        "dungeonRunId": "176402",
+        "completedLevels": "11",
+        "twitchDisplayName": "buddha2486",
+        "startTime": "2025-01-16 20:10:23",
+        "endTime": "2025-01-16 21:44:22",
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,ranged_damage_2,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,saint_godspeed,archer_rapidshot,frogue_cloakingfield,barbarian_conqueror,epic_giantsbrewzero,flagbearer_bannerofexaltation",
+        "nextNodeType": "shogunateBossCastle"
     }
 ]
