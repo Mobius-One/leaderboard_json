@@ -1,30 +1,30 @@
 [
     {
         "dungeonRunId": "176387",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2025-01-16 19:00:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones,lancer_sarissaspears,tank_truetank,saint_godspeed",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones,lancer_sarissaspears,tank_truetank,saint_godspeed,berserker_rancor",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "176390",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-01-16 19:03:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations,musketeer_rapidreload",
+        "nextNodeType": "shrinkeningpuddles"
     },
     {
         "dungeonRunId": "176394",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-01-16 19:04:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak",
-        "nextNodeType": "crashzonerise"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,epic_giantsbrewzero",
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "176388",
@@ -32,34 +32,34 @@
         "twitchDisplayName": "ImmerBock",
         "startTime": "2025-01-16 19:01:44",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder,warlock_inferno",
         "nextNodeType": "crucibleforge"
     },
     {
         "dungeonRunId": "176393",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-01-16 19:04:16",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician",
-        "nextNodeType": "steamplaza"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician,centurion_juggernaut",
+        "nextNodeType": "wintersnowman"
     },
     {
         "dungeonRunId": "176395",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2025-01-16 19:06:27",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero,ranged_damage_2",
+        "nextNodeType": "wintersnowman"
     },
     {
         "dungeonRunId": "176398",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "CloverBug69",
         "startTime": "2025-01-16 19:19:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,warrior_flameslash",
-        "nextNodeType": "steamplaza"
+        "captainBoons": "common_classic_comeback,berserker_rancor,warrior_flameslash,rogue_shadowcloak,lancer_sarissaspears",
+        "nextNodeType": "crucibleforge"
     }
 ]
