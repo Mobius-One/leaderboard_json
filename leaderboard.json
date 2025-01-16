@@ -1,30 +1,30 @@
 [
     {
+        "dungeonRunId": "176388",
+        "completedLevels": "40",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2025-01-16 19:01:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder,fairy_fireflyconjuration,bomber_living_bomb,gladiator_browbeat,bomber_dangerzone,frogue_cloakingfield,blob_parasite,barbarian_gloriousdeath,musk_hunters_mark,archer_venomarrows,spell_empower_highground,centurion_tactician,warrior_flameslash,saint_godspeed,saint_exalt,musketeer_grapeshot,rogue_shadowcloak,berserker_rancor,saint_surgeofconfidence",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "176394",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-01-16 19:04:25",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,epic_giantsbrewzero,berserker_enrage,musk_hunters_mark,saint_exalt,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,assassin_disappearingact,common_specialists,berserker_rancor,lancer_sarissaspears,saint_surgeofconfidence,gladiator_browbeat,support_enchantedstaves,spell_empower_curse,centurion_tactician,barbarian_bringthepain",
-        "nextNodeType": "beastlandsbug02"
-    },
-    {
-        "dungeonRunId": "176388",
-        "completedLevels": "39",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2025-01-16 19:01:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder,fairy_fireflyconjuration,bomber_living_bomb,gladiator_browbeat,melee_followup,bomber_dangerzone,frogue_cloakingfield,blob_parasite,barbarian_gloriousdeath,musk_hunters_mark,archer_venomarrows,spell_empower_highground,centurion_tactician,warrior_flameslash,saint_godspeed,saint_exalt,musketeer_grapeshot,rogue_shadowcloak,berserker_rancor,saint_surgeofconfidence",
-        "nextNodeType": "raidhallalake"
+        "nextNodeType": "dungeonexperiment"
     },
     {
         "dungeonRunId": "176395",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2025-01-16 19:06:27",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero,ranged_damage_2,gladiator_sonofthunder,amazon_vineclone,gladiator_browbeat,archer_steadybow,saint_exalt,common_specialists,fairy_fireflyconjuration,melee_followup,warrior_soldieroffortune,saint_surgeofconfidence,barbarian_conqueror,berserker_rancor,warrior_flameslash,bomber_living_bomb,healer_combatmedic,archer_venomarrows,epic_epicaspirations,bomber_dangerzone,bomber_concentrated_burst",
-        "nextNodeType": "ancientfeeding"
+        "nextNodeType": "crucibleforge"
     },
     {
         "dungeonRunId": "176387",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "176413",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,phantom_thehaunting,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,assassin_disappearingact,gladiator_war_machine,musketeer_rapidreload,rogue_skeletonturret,fairy_gift_of_the_wind,saint_exalt,flagbearer_bannerofexaltation,rogue_shadowcloak,gladiator_browbeat,gladiator_sonofthunder,ensouled_heroicspirits,barbarian_gloriousdeath",
-        "nextNodeType": "dungeonexperiment"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,phantom_thehaunting,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,assassin_disappearingact,gladiator_war_machine,musketeer_rapidreload,rogue_skeletonturret,fairy_gift_of_the_wind,saint_exalt,flagbearer_bannerofexaltation,rogue_shadowcloak,gladiator_browbeat,gladiator_sonofthunder,ensouled_heroicspirits,barbarian_gloriousdeath,ranged_damage_2",
+        "nextNodeType": "shogunateBossCastle"
     },
     {
         "dungeonRunId": "176393",
