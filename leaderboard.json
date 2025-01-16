@@ -1,39 +1,48 @@
 [
     {
-        "dungeonRunId": "176388",
-        "completedLevels": "3",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2025-01-16 19:01:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun",
-        "nextNodeType": "dungeonlair"
-    },
-    {
         "dungeonRunId": "176387",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2025-01-16 19:00:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones,lancer_sarissaspears",
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "176390",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-01-16 19:03:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite",
-        "nextNodeType": "crystalcavetreasure"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor",
+        "nextNodeType": "crashzonerise"
     },
     {
         "dungeonRunId": "176394",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-01-16 19:04:25",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits",
-        "nextNodeType": "crystalcavetreasure"
+        "nextNodeType": "raidhallalake"
+    },
+    {
+        "dungeonRunId": "176388",
+        "completedLevels": "4",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2025-01-16 19:01:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot",
+        "nextNodeType": "retroforest"
+    },
+    {
+        "dungeonRunId": "176393",
+        "completedLevels": "3",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-01-16 19:04:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones",
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "176395",
@@ -45,12 +54,12 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "176393",
-        "completedLevels": "2",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-01-16 19:04:16",
+        "dungeonRunId": "176398",
+        "completedLevels": "1",
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2025-01-16 19:19:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup",
-        "nextNodeType": "ancientfeeding"
+        "captainBoons": "common_classic_comeback",
+        "nextNodeType": "retroforest"
     }
 ]
