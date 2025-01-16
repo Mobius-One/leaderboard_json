@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "176390",
-        "completedLevels": "17",
+        "completedLevels": "18",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-01-16 19:03:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,tank_truetank",
-        "nextNodeType": "wintersnowman"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,tank_truetank,common_specialists",
+        "nextNodeType": "steamplaza"
     },
     {
         "dungeonRunId": "176394",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-01-16 19:04:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,epic_giantsbrewzero,berserker_enrage,musk_hunters_mark,saint_exalt,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,barbarian_gloriousdeath",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,epic_giantsbrewzero,berserker_enrage,musk_hunters_mark,saint_exalt,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,barbarian_gloriousdeath,assassin_disappearingact",
+        "nextNodeType": "wintersnowman"
     },
     {
         "dungeonRunId": "176388",
@@ -27,22 +27,22 @@
         "nextNodeType": "steamplaza"
     },
     {
-        "dungeonRunId": "176387",
-        "completedLevels": "15",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2025-01-16 19:00:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones,lancer_sarissaspears,tank_truetank,saint_godspeed,berserker_rancor,healer_shadowword,blob_parasite,bomber_dangerzone,melee_followup,barbarian_conqueror,saint_exalt,gladiator_sonofthunder,bomber_living_bomb",
-        "nextNodeType": "heartscelestialabyrinth"
-    },
-    {
         "dungeonRunId": "176398",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "CloverBug69",
         "startTime": "2025-01-16 19:19:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,warrior_flameslash,rogue_shadowcloak,lancer_sarissaspears,archer_venomarrows,amazon_vineclone,musketeer_rapidreload,berserker_enrage,ensouled_heroicspirits,flagbearer_bannerofluck,ranged_damage_2,common_specialists,bomber_dangerzone,saint_surgeofconfidence,ensouled_bravespirits",
-        "nextNodeType": "crashzonerise"
+        "captainBoons": "common_classic_comeback,berserker_rancor,warrior_flameslash,rogue_shadowcloak,lancer_sarissaspears,archer_venomarrows,amazon_vineclone,musketeer_rapidreload,berserker_enrage,ensouled_heroicspirits,flagbearer_bannerofluck,ranged_damage_2,common_specialists,bomber_dangerzone,saint_surgeofconfidence,ensouled_bravespirits,saint_exalt",
+        "nextNodeType": "raidhallalake"
+    },
+    {
+        "dungeonRunId": "176387",
+        "completedLevels": "16",
+        "twitchDisplayName": "OvidiuZ94",
+        "startTime": "2025-01-16 19:00:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones,lancer_sarissaspears,tank_truetank,saint_godspeed,berserker_rancor,healer_shadowword,blob_parasite,bomber_dangerzone,melee_followup,barbarian_conqueror,saint_exalt,gladiator_sonofthunder,bomber_living_bomb,archer_rapidshot",
+        "nextNodeType": "dungeonlair"
     },
     {
         "dungeonRunId": "176395",
@@ -55,12 +55,21 @@
     },
     {
         "dungeonRunId": "176393",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-01-16 19:04:16",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician,centurion_juggernaut,epic_epicaspirations,archer_rapidshot,archer_venomarrows,archer_steadybow,bomber_dangerzone,tank_truetank,fairy_gift_of_the_wind,epic_giantsbrewzero",
-        "nextNodeType": "icecaveportals"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician,centurion_juggernaut,epic_epicaspirations,archer_rapidshot,archer_venomarrows,archer_steadybow,bomber_dangerzone,tank_truetank,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
+        "dungeonRunId": "176402",
+        "completedLevels": "4",
+        "twitchDisplayName": "buddha2486",
+        "startTime": "2025-01-16 20:10:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,ranged_damage_2,ensouled_bravespirits,warrior_soldieroffortune",
+        "nextNodeType": "crashzonerise"
     },
     {
         "dungeonRunId": "176401",
@@ -72,21 +81,12 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "176402",
-        "completedLevels": "3",
-        "twitchDisplayName": "buddha2486",
-        "startTime": "2025-01-16 20:10:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,ranged_damage_2,ensouled_bravespirits",
-        "nextNodeType": "beastlandsbug02"
-    },
-    {
-        "dungeonRunId": "176400",
+        "dungeonRunId": "176403",
         "completedLevels": "2",
-        "twitchDisplayName": "GSoldier4Life",
-        "startTime": "2025-01-16 19:48:16",
-        "endTime": "2025-01-16 20:10:32",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,bomber_concentrated_burst",
-        "nextNodeType": "ancientfeeding"
+        "twitchDisplayName": "fizzyaxe5229",
+        "startTime": "2025-01-16 20:27:43",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_layonhands,musketeer_grapeshot",
+        "nextNodeType": "shogunateBossCastle"
     }
 ]
