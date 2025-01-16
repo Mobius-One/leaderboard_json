@@ -1,39 +1,39 @@
 [
     {
-        "dungeonRunId": "176394",
-        "completedLevels": "5",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-01-16 19:04:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder",
-        "nextNodeType": "shogunateBossCastle"
-    },
-    {
-        "dungeonRunId": "176388",
-        "completedLevels": "5",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2025-01-16 19:01:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot",
-        "nextNodeType": "dungeons_boss_toadraiders"
-    },
-    {
         "dungeonRunId": "176387",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2025-01-16 19:00:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones,lancer_sarissaspears,tank_truetank",
-        "nextNodeType": "wintersnowman"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones,lancer_sarissaspears,tank_truetank,saint_godspeed",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "176390",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-01-16 19:03:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword",
-        "nextNodeType": "shogunateBossCastle"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations",
+        "nextNodeType": "oasisruins"
+    },
+    {
+        "dungeonRunId": "176394",
+        "completedLevels": "6",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-01-16 19:04:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak",
+        "nextNodeType": "crashzonerise"
+    },
+    {
+        "dungeonRunId": "176388",
+        "completedLevels": "6",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2025-01-16 19:01:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder",
+        "nextNodeType": "crucibleforge"
     },
     {
         "dungeonRunId": "176393",
@@ -46,20 +46,20 @@
     },
     {
         "dungeonRunId": "176395",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2025-01-16 19:06:27",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground",
-        "nextNodeType": "icecaveportals"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero",
+        "nextNodeType": "shrinkeningpuddles"
     },
     {
         "dungeonRunId": "176398",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "CloverBug69",
         "startTime": "2025-01-16 19:19:51",
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,warrior_flameslash",
-        "nextNodeType": "shogunateBossCastle"
+        "nextNodeType": "steamplaza"
     }
 ]
