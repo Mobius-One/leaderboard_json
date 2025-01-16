@@ -1,47 +1,56 @@
 [
     {
         "dungeonRunId": "176387",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2025-01-16 19:00:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload",
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain",
+        "nextNodeType": "oasisruins"
+    },
+    {
+        "dungeonRunId": "176390",
+        "completedLevels": "2",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-01-16 19:03:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence",
         "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "176393",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-01-16 19:04:16",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune",
-        "nextNodeType": "dungeonexperiment"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup",
+        "nextNodeType": "ancientfeeding"
     },
     {
         "dungeonRunId": "176394",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-01-16 19:04:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone",
-        "nextNodeType": "retroforest"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation",
+        "nextNodeType": "ancientfeeding"
     },
     {
         "dungeonRunId": "176388",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2025-01-16 19:01:44",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune",
-        "nextNodeType": "heartscelestialabyrinth"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact",
+        "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "176390",
+        "dungeonRunId": "176395",
         "completedLevels": "1",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2025-01-16 19:03:01",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2025-01-16 19:06:27",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone",
-        "nextNodeType": "beastlandsbug02"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload",
+        "nextNodeType": "steamplaza"
     }
 ]
