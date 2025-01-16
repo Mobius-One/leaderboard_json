@@ -1,39 +1,39 @@
 [
     {
         "dungeonRunId": "176390",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-01-16 19:03:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,tank_truetank,common_specialists,lancer_sarissaspears,melee_followup,warbeast_terrifying_presence",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,healer_shadowword,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,tank_truetank,common_specialists,lancer_sarissaspears,melee_followup,warbeast_terrifying_presence,saint_exalt",
         "nextNodeType": "tombsummoning"
     },
     {
-        "dungeonRunId": "176388",
-        "completedLevels": "20",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2025-01-16 19:01:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder,warlock_inferno,fairy_fireflyconjuration,healer_shadowword,bomber_living_bomb,gladiator_browbeat,melee_followup,warbeast_terrifying_presence,bomber_dangerzone,frogue_cloakingfield,blob_parasite,barbarian_gloriousdeath,barbarian_bringthepain,musk_hunters_mark,paladin_layonhands,archer_venomarrows",
-        "nextNodeType": "ancientfeeding"
-    },
-    {
         "dungeonRunId": "176394",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-01-16 19:04:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,epic_giantsbrewzero,berserker_enrage,musk_hunters_mark,saint_exalt,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,barbarian_gloriousdeath,assassin_disappearingact,common_specialists,berserker_rancor,ranged_damage_2",
-        "nextNodeType": "wintersnowman"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,epic_giantsbrewzero,berserker_enrage,musk_hunters_mark,saint_exalt,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,barbarian_gloriousdeath,assassin_disappearingact,common_specialists,berserker_rancor,ranged_damage_2,gladiator_war_machine",
+        "nextNodeType": "oasisruins"
+    },
+    {
+        "dungeonRunId": "176388",
+        "completedLevels": "21",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2025-01-16 19:01:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun,archer_rapidshot,gladiator_sonofthunder,warlock_inferno,fairy_fireflyconjuration,healer_shadowword,bomber_living_bomb,gladiator_browbeat,melee_followup,warbeast_terrifying_presence,bomber_dangerzone,frogue_cloakingfield,blob_parasite,barbarian_gloriousdeath,barbarian_bringthepain,musk_hunters_mark,paladin_layonhands,archer_venomarrows,spell_empower_highground",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "176395",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2025-01-16 19:06:27",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero,ranged_damage_2,ensouled_heroicspirits,flagbearer_bannerofluck,gladiator_sonofthunder,amazon_vineclone,gladiator_browbeat,fairy_hocuspocus,archer_steadybow,saint_exalt,armored_shieldbash,common_specialists,fairy_fireflyconjuration,melee_followup,mage_darkmagic,warrior_soldieroffortune",
-        "nextNodeType": "crashzonerise"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero,ranged_damage_2,ensouled_heroicspirits,flagbearer_bannerofluck,gladiator_sonofthunder,amazon_vineclone,gladiator_browbeat,fairy_hocuspocus,archer_steadybow,saint_exalt,armored_shieldbash,common_specialists,fairy_fireflyconjuration,melee_followup,mage_darkmagic,warrior_soldieroffortune,saint_surgeofconfidence",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "176387",
@@ -49,7 +49,7 @@
         "completedLevels": "17",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-01-16 19:04:16",
-        "endTime": null,
+        "endTime": "2025-01-16 21:14:08",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician,centurion_juggernaut,epic_epicaspirations,archer_rapidshot,archer_venomarrows,archer_steadybow,bomber_dangerzone,tank_truetank,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,phantom_thehaunting,flyingrogue_aggravate,lancer_spearofvengeance",
         "nextNodeType": "glitchedboss"
     },
@@ -64,29 +64,29 @@
     },
     {
         "dungeonRunId": "176402",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "buddha2486",
         "startTime": "2025-01-16 20:10:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,ranged_damage_2,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,saint_godspeed,archer_rapidshot",
-        "nextNodeType": "steamplaza"
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,ranged_damage_2,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,saint_godspeed,archer_rapidshot,frogue_cloakingfield",
+        "nextNodeType": "ancientfeeding"
     },
     {
         "dungeonRunId": "176401",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "Nicka559",
         "startTime": "2025-01-16 19:57:34",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,templar_beaconofhope,fairy_fireflyconjuration,archer_venomarrows,gladiator_war_machine",
-        "nextNodeType": "crashzonerise"
+        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,templar_beaconofhope,fairy_fireflyconjuration,archer_venomarrows,gladiator_war_machine,paladin_layonhands",
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "176403",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "fizzyaxe5229",
         "startTime": "2025-01-16 20:27:43",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,musketeer_grapeshot,templar_beaconofhope,berserker_rancor,melee_followup",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,musketeer_grapeshot,templar_beaconofhope,berserker_rancor,melee_followup,spell_empower_haste",
+        "nextNodeType": "icecaveportals"
     }
 ]
