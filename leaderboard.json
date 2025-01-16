@@ -1,21 +1,48 @@
 [
     {
+        "dungeonRunId": "176388",
+        "completedLevels": "3",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2025-01-16 19:01:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,artillery_machine_gun",
+        "nextNodeType": "dungeonlair"
+    },
+    {
         "dungeonRunId": "176387",
         "completedLevels": "3",
         "twitchDisplayName": "OvidiuZ94",
         "startTime": "2025-01-16 19:00:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain",
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,necromancer_bombasticbones",
         "nextNodeType": "oasisruins"
     },
     {
         "dungeonRunId": "176390",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-01-16 19:03:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite",
+        "nextNodeType": "crystalcavetreasure"
+    },
+    {
+        "dungeonRunId": "176394",
+        "completedLevels": "3",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-01-16 19:04:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits",
+        "nextNodeType": "crystalcavetreasure"
+    },
+    {
+        "dungeonRunId": "176395",
+        "completedLevels": "2",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2025-01-16 19:06:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain",
+        "nextNodeType": "glitchedboss"
     },
     {
         "dungeonRunId": "176393",
@@ -25,32 +52,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup",
         "nextNodeType": "ancientfeeding"
-    },
-    {
-        "dungeonRunId": "176394",
-        "completedLevels": "2",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-01-16 19:04:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation",
-        "nextNodeType": "ancientfeeding"
-    },
-    {
-        "dungeonRunId": "176388",
-        "completedLevels": "2",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2025-01-16 19:01:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact",
-        "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "176395",
-        "completedLevels": "1",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2025-01-16 19:06:27",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload",
-        "nextNodeType": "steamplaza"
     }
 ]
