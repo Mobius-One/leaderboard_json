@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "62",
+        "completedLevels": "63",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,gladiator_browbeat,ensouled_heroicspirits,warrior_soldieroffortune,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "ancientfeeding"
+        "nextNodeType": "dungeonlair"
     },
     {
         "dungeonRunId": "176395",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "176431",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-01-17 00:53:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,healer_shadowword,phantom_thehaunting,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot,monk_snakestyle,musk_hunters_mark",
-        "nextNodeType": "steamplaza"
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,healer_shadowword,phantom_thehaunting,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot,monk_snakestyle,musk_hunters_mark,rogue_sneakattack",
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "176393",
@@ -76,7 +76,7 @@
         "completedLevels": "17",
         "twitchDisplayName": "rufffreake",
         "startTime": "2025-01-17 00:04:26",
-        "endTime": null,
+        "endTime": "2025-01-17 03:26:59",
         "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_followup,blob_parasite,gladiator_browbeat,paladin_avengingsmite,spell_empower_curse,paladin_layonhands,berserker_enrage,spell_empower_killingfield,warrior_soldieroffortune,saint_surgeofconfidence,phantom_thehaunting,tank_tungstenswords,tank_truetank,fairy_gift_of_the_wind,fairy_fireflyconjuration,support_enchantedstaves",
         "nextNodeType": "wintersnowman"
     },
