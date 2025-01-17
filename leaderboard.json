@@ -50,7 +50,7 @@
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-01-17 00:53:55",
         "endTime": null,
-        "captainBoons": "monk_stoptheflow,healer_shadowword,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot,monk_snakestyle,musk_hunters_mark,rogue_sneakattack,barbarian_bringthepain,mage_darkmagic,epic_giantsbrewzero,assassin_disappearingact,fairy_gift_of_the_wind,vampire_darkwings,musketeer_grapeshot",
+        "captainBoons": "monk_stoptheflow,healer_shadowword,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot,monk_snakestyle,musk_hunters_mark,rogue_sneakattack,barbarian_bringthepain,mage_darkmagic,epic_giantsbrewzero,assassin_disappearingact,fairy_gift_of_the_wind,vampire_darkwings,musketeer_grapeshot",
         "nextNodeType": "oasisruins"
     },
     {
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "176438",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "CwellGaming",
         "startTime": "2025-01-17 01:32:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate,tank_truetank",
-        "nextNodeType": "ancientfeeding"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate,tank_truetank,rogue_shadowcloak",
+        "nextNodeType": "crystalcavetreasure"
     },
     {
         "dungeonRunId": "176451",
@@ -81,12 +81,12 @@
         "nextNodeType": "steamplaza"
     },
     {
-        "dungeonRunId": "176432",
+        "dungeonRunId": "176425",
         "completedLevels": "17",
-        "twitchDisplayName": "Gojima_Ghost",
-        "startTime": "2025-01-17 00:55:35",
-        "endTime": "2025-01-17 03:17:32",
-        "captainBoons": "common_classic_comeback,archer_rapidshot,tank_truetank,common_specialists,tank_tungstenswords,assassin_disappearingact,spell_empower_highground,vampire_darkwings,ranged_damage_2,spell_empower_stronghold,healer_combatmedic,rogue_skeletonturret,tank_hoarfrost_armor,flagbearer_bannerofluck,melee_followup,rogue_shadowcloak,flyingrogue_aggravate,fairy_hocuspocus",
+        "twitchDisplayName": "rufffreake",
+        "startTime": "2025-01-17 00:04:26",
+        "endTime": "2025-01-17 03:26:59",
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_followup,blob_parasite,gladiator_browbeat,paladin_avengingsmite,spell_empower_curse,paladin_layonhands,berserker_enrage,spell_empower_killingfield,warrior_soldieroffortune,saint_surgeofconfidence,phantom_thehaunting,tank_tungstenswords,tank_truetank,fairy_gift_of_the_wind,fairy_fireflyconjuration,support_enchantedstaves",
         "nextNodeType": "wintersnowman"
     }
 ]
