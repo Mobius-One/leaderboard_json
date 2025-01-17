@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "54",
+        "completedLevels": "55",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,fairy_gift_of_the_wind,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "icecaveportals"
+        "nextNodeType": "crystalcavetreasure"
     },
     {
         "dungeonRunId": "176395",
@@ -63,15 +63,6 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "176417",
-        "completedLevels": "16",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-01-16 22:44:12",
-        "endTime": "2025-01-17 00:53:42",
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,archer_venomarrows,ensouled_heroicspirits,centurion_tactician,healer_shadowword,spell_empower_stronghold,fairy_fireflyconjuration,centurion_juggernaut,spell_empower_highground,epic_giantsbrewzero,rogue_skeletonturret,common_specialists,warrior_soldieroffortune,flagbearer_bannerofexaltation,templar_beaconofhope,flyingrogue_aggravate",
-        "nextNodeType": "dungeonlair"
-    },
-    {
         "dungeonRunId": "176398",
         "completedLevels": "16",
         "twitchDisplayName": "CloverBug69",
@@ -79,6 +70,15 @@
         "endTime": "2025-01-16 20:47:00",
         "captainBoons": "common_classic_comeback,berserker_rancor,warrior_flameslash,rogue_shadowcloak,lancer_sarissaspears,archer_venomarrows,amazon_vineclone,musketeer_rapidreload,berserker_enrage,ensouled_heroicspirits,flagbearer_bannerofluck,ranged_damage_2,common_specialists,bomber_dangerzone,saint_surgeofconfidence,ensouled_bravespirits,saint_exalt",
         "nextNodeType": "raidhallalake"
+    },
+    {
+        "dungeonRunId": "176417",
+        "completedLevels": "16",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-01-16 22:44:12",
+        "endTime": "2025-01-17 00:53:42",
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,archer_venomarrows,ensouled_heroicspirits,centurion_tactician,healer_shadowword,spell_empower_stronghold,fairy_fireflyconjuration,centurion_juggernaut,spell_empower_highground,epic_giantsbrewzero,rogue_skeletonturret,common_specialists,warrior_soldieroffortune,flagbearer_bannerofexaltation,templar_beaconofhope,flyingrogue_aggravate",
+        "nextNodeType": "dungeonlair"
     },
     {
         "dungeonRunId": "176425",
