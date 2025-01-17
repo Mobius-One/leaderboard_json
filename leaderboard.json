@@ -81,12 +81,12 @@
         "nextNodeType": "crucibleforge"
     },
     {
-        "dungeonRunId": "176453",
-        "completedLevels": "23",
-        "twitchDisplayName": "5mokeGhost",
-        "startTime": "2025-01-17 03:24:46",
-        "endTime": "2025-01-17 06:26:28",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_venomarrows,rogue_shadowcloak,healer_combatmedic,flagbearer_bannerofexaltation,spell_empower_haste,warrior_soldieroffortune,rogue_skeletonturret,amazon_vineclone,tank_tungstenswords,tank_truetank,vampire_swarmcoffin,rogue_sneakattack,centurion_juggernaut,saint_godspeed,flagbearer_bannerofluck,melee_followup,warrior_falltodarkness,saint_exalt,healer_shadowword,musk_hunters_mark,centurion_tactician,warrior_flameslash",
-        "nextNodeType": "shogunateBossCastle"
+        "dungeonRunId": "176478",
+        "completedLevels": "24",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2025-01-17 07:00:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,centurion_tactician,ranged_damage_2,blob_parasite,fairy_fireflyconjuration,lancer_spearofvengeance,tank_hoarfrost_armor,tank_tungstenswords,gladiator_sonofthunder,buster_carbonplating,barbarian_gloriousdeath,assassin_disappearingact,ensouled_bravespirits,epic_giantsbrewzero,warrior_flameslash,musk_hunters_mark,musketeer_rapidreload,flagbearer_bannerofexaltation,monk_heavenskarma,flagbearer_bannerofluck,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,berserker_enrage,necromancer_bombasticbones",
+        "nextNodeType": "retroforest"
     }
 ]
