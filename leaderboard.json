@@ -18,6 +18,15 @@
         "nextNodeType": "crucibleforge"
     },
     {
+        "dungeonRunId": "176413",
+        "completedLevels": "44",
+        "twitchDisplayName": "Angel",
+        "startTime": "2025-01-16 22:01:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,gladiator_war_machine,musketeer_rapidreload,fairy_gift_of_the_wind,saint_exalt,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,ranged_damage_2,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,spell_empower_killingfield,berserker_rancor,berserker_enrage",
+        "nextNodeType": "shogunateBossCastle"
+    },
+    {
         "dungeonRunId": "176388",
         "completedLevels": "44",
         "twitchDisplayName": "ImmerBock",
@@ -25,15 +34,6 @@
         "endTime": "2025-01-17 00:23:49",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,archer_rapidshot,gladiator_sonofthunder,fairy_fireflyconjuration,bomber_living_bomb,gladiator_browbeat,bomber_dangerzone,frogue_cloakingfield,blob_parasite,barbarian_gloriousdeath,musk_hunters_mark,archer_venomarrows,centurion_tactician,warrior_flameslash,saint_godspeed,saint_exalt,musketeer_grapeshot,rogue_shadowcloak,berserker_rancor,saint_surgeofconfidence",
         "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "176413",
-        "completedLevels": "43",
-        "twitchDisplayName": "Angel",
-        "startTime": "2025-01-16 22:01:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,gladiator_war_machine,musketeer_rapidreload,fairy_gift_of_the_wind,saint_exalt,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,ranged_damage_2,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,paladin_avengingsmite,spell_empower_killingfield,berserker_rancor,berserker_enrage",
-        "nextNodeType": "steamplaza"
     },
     {
         "dungeonRunId": "176394",
