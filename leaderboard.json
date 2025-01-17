@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "176525",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "redspecter23",
         "startTime": "2025-01-17 16:46:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,armored_shieldbash,fairy_gift_of_the_wind,saint_exalt,saint_surgeofconfidence,bomber_living_bomb,archer_rapidshot,lancer_ignitingstrike,bomber_dangerzone,warrior_flameslash,gladiator_war_machine,musketeer_grapeshot,epic_giantsbrewzero,lancer_spearofvengeance,artillery_machine_gun,flagbearer_bannerofexaltation,spell_empower_highground,berserker_rancor,assassin_disappearingact,necromancer_bombasticbones,lancer_sarissaspears,berserker_enrage,gladiator_browbeat",
-        "nextNodeType": "ancientfeeding"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,saint_exalt,saint_surgeofconfidence,bomber_living_bomb,archer_rapidshot,lancer_ignitingstrike,bomber_dangerzone,warrior_flameslash,gladiator_war_machine,musketeer_grapeshot,epic_giantsbrewzero,lancer_spearofvengeance,artillery_machine_gun,flagbearer_bannerofexaltation,spell_empower_highground,berserker_rancor,assassin_disappearingact,necromancer_bombasticbones,lancer_sarissaspears,berserker_enrage,gladiator_browbeat",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "176478",
