@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "68",
+        "completedLevels": "69",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,ensouled_heroicspirits,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "shogunateBossCastle"
+        "nextNodeType": "retroforest"
     },
     {
         "dungeonRunId": "176395",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "176431",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-01-17 00:53:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,healer_shadowword,phantom_thehaunting,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot,monk_snakestyle,musk_hunters_mark,rogue_sneakattack,barbarian_bringthepain,mage_darkmagic,epic_giantsbrewzero",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,healer_shadowword,phantom_thehaunting,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot,monk_snakestyle,musk_hunters_mark,rogue_sneakattack,barbarian_bringthepain,mage_darkmagic,epic_giantsbrewzero,assassin_disappearingact",
+        "nextNodeType": "glitchedboss"
     },
     {
         "dungeonRunId": "176432",
