@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "176520",
-        "completedLevels": "52",
+        "completedLevels": "53",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2025-01-17 15:53:26",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_followup,ensouled_heroicspirits,musketeer_rapidreload,lancer_spearofvengeance,spell_empower_stronghold,saint_surgeofconfidence,berserker_rancor,paladin_layonhands,gladiator_sonofthunder,flagbearer_focused_morale,bomber_dangerzone,gladiator_war_machine,barbarian_conqueror,lancer_sarissaspears,fairy_fireflyconjuration,bomber_living_bomb,barbarian_bringthepain",
-        "nextNodeType": "dungeonlair"
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "176387",
