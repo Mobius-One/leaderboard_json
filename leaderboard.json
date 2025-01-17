@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "70",
+        "completedLevels": "71",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
         "captainBoons": "bomber_dangerzone,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,ensouled_heroicspirits,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "tombsummoning"
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "176395",
@@ -63,6 +63,15 @@
         "nextNodeType": "tombsummoning"
     },
     {
+        "dungeonRunId": "176432",
+        "completedLevels": "17",
+        "twitchDisplayName": "Gojima_Ghost",
+        "startTime": "2025-01-17 00:55:35",
+        "endTime": "2025-01-17 03:17:32",
+        "captainBoons": "common_classic_comeback,archer_rapidshot,tank_truetank,common_specialists,tank_tungstenswords,assassin_disappearingact,spell_empower_highground,vampire_darkwings,ranged_damage_2,spell_empower_stronghold,healer_combatmedic,rogue_skeletonturret,tank_hoarfrost_armor,flagbearer_bannerofluck,melee_followup,rogue_shadowcloak,flyingrogue_aggravate,fairy_hocuspocus",
+        "nextNodeType": "wintersnowman"
+    },
+    {
         "dungeonRunId": "176425",
         "completedLevels": "17",
         "twitchDisplayName": "rufffreake",
@@ -79,14 +88,5 @@
         "endTime": "2025-01-16 21:14:08",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician,centurion_juggernaut,epic_epicaspirations,archer_rapidshot,archer_venomarrows,archer_steadybow,bomber_dangerzone,tank_truetank,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,phantom_thehaunting,flyingrogue_aggravate,lancer_spearofvengeance",
         "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "176432",
-        "completedLevels": "17",
-        "twitchDisplayName": "Gojima_Ghost",
-        "startTime": "2025-01-17 00:55:35",
-        "endTime": "2025-01-17 03:17:32",
-        "captainBoons": "common_classic_comeback,archer_rapidshot,tank_truetank,common_specialists,tank_tungstenswords,assassin_disappearingact,spell_empower_highground,vampire_darkwings,ranged_damage_2,spell_empower_stronghold,healer_combatmedic,rogue_skeletonturret,tank_hoarfrost_armor,flagbearer_bannerofluck,melee_followup,rogue_shadowcloak,flyingrogue_aggravate,fairy_hocuspocus",
-        "nextNodeType": "wintersnowman"
     }
 ]
