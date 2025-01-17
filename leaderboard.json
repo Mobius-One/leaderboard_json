@@ -54,6 +54,15 @@
         "nextNodeType": "crucibleforge"
     },
     {
+        "dungeonRunId": "176478",
+        "completedLevels": "35",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2025-01-17 07:00:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,centurion_tactician,ranged_damage_2,blob_parasite,fairy_fireflyconjuration,lancer_spearofvengeance,tank_hoarfrost_armor,gladiator_sonofthunder,buster_carbonplating,barbarian_gloriousdeath,assassin_disappearingact,ensouled_bravespirits,warrior_flameslash,musk_hunters_mark,musketeer_rapidreload,flagbearer_bannerofexaltation,flagbearer_bannerofluck,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,berserker_enrage,necromancer_bombasticbones,gladiator_browbeat,rogue_skeletonturret,spy_fromcaptainwithlove,rogue_sneakattack,saint_surgeofconfidence",
+        "nextNodeType": "wintersnowman"
+    },
+    {
         "dungeonRunId": "176431",
         "completedLevels": "35",
         "twitchDisplayName": "MozzyAuzzy",
@@ -70,15 +79,6 @@
         "endTime": "2025-01-16 23:05:09",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,common_specialists,lancer_sarissaspears,melee_followup,warbeast_terrifying_presence,saint_exalt,vampire_spectralpresence,artillery_machine_gun,fairy_hocuspocus,orcs_building_rage,epic_giantsbrewzero,ranged_damage_2",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "176478",
-        "completedLevels": "34",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2025-01-17 07:00:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,ranged_damage_2,blob_parasite,fairy_fireflyconjuration,lancer_spearofvengeance,tank_hoarfrost_armor,gladiator_sonofthunder,buster_carbonplating,barbarian_gloriousdeath,assassin_disappearingact,ensouled_bravespirits,warrior_flameslash,musk_hunters_mark,musketeer_rapidreload,flagbearer_bannerofexaltation,flagbearer_bannerofluck,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,berserker_enrage,necromancer_bombasticbones,gladiator_browbeat,rogue_skeletonturret,spy_fromcaptainwithlove,rogue_sneakattack,saint_surgeofconfidence",
-        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "176438",
