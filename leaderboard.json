@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "176413",
+        "completedLevels": "47",
+        "twitchDisplayName": "Angel",
+        "startTime": "2025-01-16 22:01:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,gladiator_war_machine,musketeer_rapidreload,fairy_gift_of_the_wind,saint_exalt,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,spell_empower_killingfield,berserker_rancor,berserker_enrage",
+        "nextNodeType": "ancientfeeding"
+    },
+    {
         "dungeonRunId": "176395",
         "completedLevels": "46",
         "twitchDisplayName": "ThaTrueBeast",
@@ -16,15 +25,6 @@
         "endTime": "2025-01-17 01:06:24",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,lancer_sarissaspears,saint_godspeed,berserker_rancor,healer_shadowword,blob_parasite,bomber_dangerzone,barbarian_conqueror,saint_exalt,bomber_living_bomb,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,rogue_shadowcloak,barbarian_gloriousdeath,lancer_spearofvengeance",
         "nextNodeType": "crucibleforge"
-    },
-    {
-        "dungeonRunId": "176413",
-        "completedLevels": "46",
-        "twitchDisplayName": "Angel",
-        "startTime": "2025-01-16 22:01:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,gladiator_war_machine,musketeer_rapidreload,fairy_gift_of_the_wind,saint_exalt,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,spell_empower_killingfield,berserker_rancor,berserker_enrage",
-        "nextNodeType": "crashzonerise"
     },
     {
         "dungeonRunId": "176388",
