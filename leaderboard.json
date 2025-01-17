@@ -36,6 +36,15 @@
         "nextNodeType": "crucibleforge"
     },
     {
+        "dungeonRunId": "176525",
+        "completedLevels": "44",
+        "twitchDisplayName": "redspecter23",
+        "startTime": "2025-01-17 16:46:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,saint_exalt,saint_surgeofconfidence,bomber_living_bomb,archer_rapidshot,lancer_ignitingstrike,bomber_dangerzone,warrior_flameslash,gladiator_war_machine,musketeer_grapeshot,epic_giantsbrewzero,lancer_spearofvengeance,artillery_machine_gun,flagbearer_bannerofexaltation,spell_empower_highground,berserker_rancor,necromancer_bombasticbones,lancer_sarissaspears,berserker_enrage,gladiator_browbeat",
+        "nextNodeType": "wintersnowman"
+    },
+    {
         "dungeonRunId": "176388",
         "completedLevels": "44",
         "twitchDisplayName": "ImmerBock",
@@ -43,15 +52,6 @@
         "endTime": "2025-01-17 00:23:49",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,assassin_disappearingact,archer_rapidshot,gladiator_sonofthunder,fairy_fireflyconjuration,bomber_living_bomb,gladiator_browbeat,bomber_dangerzone,frogue_cloakingfield,blob_parasite,barbarian_gloriousdeath,musk_hunters_mark,archer_venomarrows,centurion_tactician,warrior_flameslash,saint_godspeed,saint_exalt,musketeer_grapeshot,rogue_shadowcloak,berserker_rancor,saint_surgeofconfidence",
         "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "176525",
-        "completedLevels": "43",
-        "twitchDisplayName": "redspecter23",
-        "startTime": "2025-01-17 16:46:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,saint_exalt,saint_surgeofconfidence,bomber_living_bomb,archer_rapidshot,lancer_ignitingstrike,bomber_dangerzone,warrior_flameslash,gladiator_war_machine,musketeer_grapeshot,epic_giantsbrewzero,lancer_spearofvengeance,artillery_machine_gun,flagbearer_bannerofexaltation,spell_empower_highground,berserker_rancor,assassin_disappearingact,necromancer_bombasticbones,lancer_sarissaspears,berserker_enrage,gladiator_browbeat",
-        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "176394",
