@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "176394",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-01-16 19:04:25",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,berserker_enrage,musk_hunters_mark,saint_exalt,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,assassin_disappearingact,common_specialists,berserker_rancor,lancer_sarissaspears,saint_surgeofconfidence,gladiator_browbeat,support_enchantedstaves,spell_empower_curse,centurion_tactician,barbarian_bringthepain",
-        "nextNodeType": "dungeonexperiment"
+        "nextNodeType": "ancientfeeding"
     },
     {
         "dungeonRunId": "176395",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "ThaTrueBeast",
         "startTime": "2025-01-16 19:06:27",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,spell_empower_highground,epic_giantsbrewzero,ranged_damage_2,gladiator_sonofthunder,amazon_vineclone,gladiator_browbeat,archer_steadybow,saint_exalt,common_specialists,fairy_fireflyconjuration,melee_followup,warrior_soldieroffortune,saint_surgeofconfidence,barbarian_conqueror,berserker_rancor,warrior_flameslash,bomber_living_bomb,healer_combatmedic,archer_venomarrows,epic_epicaspirations,bomber_dangerzone,bomber_concentrated_burst",
-        "nextNodeType": "crucibleforge"
+        "nextNodeType": "beastlandsbug02"
     },
     {
         "dungeonRunId": "176387",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "176413",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,phantom_thehaunting,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,assassin_disappearingact,gladiator_war_machine,musketeer_rapidreload,rogue_skeletonturret,fairy_gift_of_the_wind,saint_exalt,flagbearer_bannerofexaltation,rogue_shadowcloak,gladiator_browbeat,gladiator_sonofthunder,ensouled_heroicspirits,barbarian_gloriousdeath,ranged_damage_2,saint_godspeed",
-        "nextNodeType": "crucibleforge"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,phantom_thehaunting,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,assassin_disappearingact,gladiator_war_machine,musketeer_rapidreload,rogue_skeletonturret,fairy_gift_of_the_wind,saint_exalt,flagbearer_bannerofexaltation,rogue_shadowcloak,gladiator_browbeat,gladiator_sonofthunder,ensouled_heroicspirits,barbarian_gloriousdeath,ranged_damage_2,saint_godspeed,warrior_soldieroffortune",
+        "nextNodeType": "retroforest"
     },
     {
         "dungeonRunId": "176393",
@@ -81,12 +81,12 @@
         "nextNodeType": "oasisruins"
     },
     {
-        "dungeonRunId": "176402",
+        "dungeonRunId": "176403",
         "completedLevels": "11",
-        "twitchDisplayName": "buddha2486",
-        "startTime": "2025-01-16 20:10:23",
-        "endTime": "2025-01-16 21:44:22",
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,ranged_damage_2,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,saint_godspeed,archer_rapidshot,frogue_cloakingfield,barbarian_conqueror,epic_giantsbrewzero,flagbearer_bannerofexaltation",
-        "nextNodeType": "shogunateBossCastle"
+        "twitchDisplayName": "fizzyaxe5229",
+        "startTime": "2025-01-16 20:27:43",
+        "endTime": "2025-01-16 22:05:49",
+        "captainBoons": "common_classic_comeback,paladin_layonhands,musketeer_grapeshot,templar_beaconofhope,berserker_rancor,melee_followup,spell_empower_haste,musketeer_rapidreload,gladiator_sonofthunder,monk_heavenskarma,epic_giantsbrewzero,berserker_enrage",
+        "nextNodeType": "wintersnowman"
     }
 ]
