@@ -72,6 +72,15 @@
         "nextNodeType": "crucibleforge"
     },
     {
+        "dungeonRunId": "176453",
+        "completedLevels": "22",
+        "twitchDisplayName": "5mokeGhost",
+        "startTime": "2025-01-17 03:24:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_venomarrows,rogue_shadowcloak,healer_combatmedic,flagbearer_bannerofexaltation,spell_empower_haste,warrior_soldieroffortune,rogue_skeletonturret,amazon_vineclone,tank_tungstenswords,tank_truetank,vampire_swarmcoffin,rogue_sneakattack,centurion_juggernaut,saint_godspeed,flagbearer_bannerofluck,melee_followup,warrior_falltodarkness,saint_exalt,healer_shadowword,musk_hunters_mark,centurion_tactician",
+        "nextNodeType": "tombsummoning"
+    },
+    {
         "dungeonRunId": "176457",
         "completedLevels": "22",
         "twitchDisplayName": "RealAlize",
@@ -79,14 +88,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,rogue_skeletonturret,frogue_vanishing_powder,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,berserker_enrage,phantom_thehaunting,bomber_dangerzone,barbarian_bringthepain,ensouled_bravespirits,healer_combatmedic",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "176453",
-        "completedLevels": "21",
-        "twitchDisplayName": "5mokeGhost",
-        "startTime": "2025-01-17 03:24:46",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_venomarrows,rogue_shadowcloak,healer_combatmedic,flagbearer_bannerofexaltation,spell_empower_haste,warrior_soldieroffortune,rogue_skeletonturret,amazon_vineclone,tank_tungstenswords,tank_truetank,vampire_swarmcoffin,rogue_sneakattack,centurion_juggernaut,saint_godspeed,flagbearer_bannerofluck,melee_followup,warrior_falltodarkness,saint_exalt,healer_shadowword,musk_hunters_mark",
-        "nextNodeType": "retroforest"
     }
 ]
