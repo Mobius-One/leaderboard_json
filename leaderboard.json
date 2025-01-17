@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "72",
+        "completedLevels": "73",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
         "captainBoons": "bomber_dangerzone,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "heartscelestialabyrinth"
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "176395",
