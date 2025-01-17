@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "59",
+        "completedLevels": "60",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "glitchedboss"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,gladiator_browbeat,ensouled_heroicspirits,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "176395",
@@ -55,12 +55,21 @@
     },
     {
         "dungeonRunId": "176431",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-01-17 00:53:55",
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,healer_shadowword,phantom_thehaunting,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot",
-        "nextNodeType": "icecaveportals"
+        "nextNodeType": "dungeons_boss_toadraiders"
+    },
+    {
+        "dungeonRunId": "176432",
+        "completedLevels": "17",
+        "twitchDisplayName": "Gojima_Ghost",
+        "startTime": "2025-01-17 00:55:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_rapidshot,tank_truetank,common_specialists,tank_tungstenswords,assassin_disappearingact,spell_empower_highground,vampire_darkwings,ranged_damage_2,spell_empower_stronghold,healer_combatmedic,rogue_skeletonturret,tank_hoarfrost_armor,flagbearer_bannerofluck,melee_followup,rogue_shadowcloak,flyingrogue_aggravate,fairy_hocuspocus",
+        "nextNodeType": "wintersnowman"
     },
     {
         "dungeonRunId": "176393",
@@ -72,21 +81,12 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "176398",
+        "dungeonRunId": "176425",
         "completedLevels": "16",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2025-01-16 19:19:51",
-        "endTime": "2025-01-16 20:47:00",
-        "captainBoons": "common_classic_comeback,berserker_rancor,warrior_flameslash,rogue_shadowcloak,lancer_sarissaspears,archer_venomarrows,amazon_vineclone,musketeer_rapidreload,berserker_enrage,ensouled_heroicspirits,flagbearer_bannerofluck,ranged_damage_2,common_specialists,bomber_dangerzone,saint_surgeofconfidence,ensouled_bravespirits,saint_exalt",
-        "nextNodeType": "raidhallalake"
-    },
-    {
-        "dungeonRunId": "176432",
-        "completedLevels": "16",
-        "twitchDisplayName": "Gojima_Ghost",
-        "startTime": "2025-01-17 00:55:35",
+        "twitchDisplayName": "rufffreake",
+        "startTime": "2025-01-17 00:04:26",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_rapidshot,tank_truetank,common_specialists,tank_tungstenswords,assassin_disappearingact,spell_empower_highground,vampire_darkwings,ranged_damage_2,spell_empower_stronghold,healer_combatmedic,rogue_skeletonturret,tank_hoarfrost_armor,flagbearer_bannerofluck,melee_followup,rogue_shadowcloak,flyingrogue_aggravate",
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_followup,blob_parasite,gladiator_browbeat,paladin_avengingsmite,spell_empower_curse,paladin_layonhands,berserker_enrage,spell_empower_killingfield,warrior_soldieroffortune,saint_surgeofconfidence,phantom_thehaunting,tank_tungstenswords,tank_truetank,fairy_gift_of_the_wind,fairy_fireflyconjuration",
         "nextNodeType": "oasisruins"
     }
 ]
