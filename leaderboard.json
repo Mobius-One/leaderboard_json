@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "176478",
-        "completedLevels": "26",
+        "completedLevels": "27",
         "twitchDisplayName": "CoilGun",
         "startTime": "2025-01-17 07:00:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,ranged_damage_2,blob_parasite,fairy_fireflyconjuration,lancer_spearofvengeance,tank_hoarfrost_armor,tank_tungstenswords,gladiator_sonofthunder,buster_carbonplating,barbarian_gloriousdeath,assassin_disappearingact,ensouled_bravespirits,epic_giantsbrewzero,warrior_flameslash,musk_hunters_mark,musketeer_rapidreload,flagbearer_bannerofexaltation,monk_heavenskarma,flagbearer_bannerofluck,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,berserker_enrage,necromancer_bombasticbones,gladiator_browbeat,rogue_skeletonturret",
-        "nextNodeType": "dungeons_boss_toadraiders"
+        "captainBoons": "common_classic_comeback,centurion_tactician,ranged_damage_2,blob_parasite,fairy_fireflyconjuration,lancer_spearofvengeance,tank_hoarfrost_armor,tank_tungstenswords,gladiator_sonofthunder,buster_carbonplating,barbarian_gloriousdeath,assassin_disappearingact,ensouled_bravespirits,epic_giantsbrewzero,warrior_flameslash,musk_hunters_mark,musketeer_rapidreload,flagbearer_bannerofexaltation,monk_heavenskarma,flagbearer_bannerofluck,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,berserker_enrage,necromancer_bombasticbones,gladiator_browbeat,rogue_skeletonturret,spy_fromcaptainwithlove",
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "176438",
