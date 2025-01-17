@@ -67,26 +67,26 @@
         "completedLevels": "25",
         "twitchDisplayName": "CwellGaming",
         "startTime": "2025-01-17 01:32:29",
-        "endTime": null,
+        "endTime": "2025-01-17 05:54:09",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate,tank_truetank,rogue_shadowcloak,rogue_sneakattack,armored_shieldbash,warlock_inferno,tank_tungstenswords",
         "nextNodeType": "crucibleforge"
     },
     {
-        "dungeonRunId": "176451",
-        "completedLevels": "19",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-01-17 03:07:07",
-        "endTime": "2025-01-17 05:03:40",
-        "captainBoons": "common_classic_comeback,saint_exalt,gladiator_sonofthunder,mage_darkmagic,musketeer_rapidreload,musketeer_grapeshot,spell_empower_stronghold,fairy_fireflyconjuration,assassin_disappearingact,fairy_gift_of_the_wind,flagbearer_bannerofluck,melee_followup,common_specialists,berserker_rancor,archer_venomarrows,gladiator_war_machine,centurion_tactician,berserker_enrage,frogue_vanishing_powder,gladiator_browbeat",
-        "nextNodeType": "steamplaza"
+        "dungeonRunId": "176453",
+        "completedLevels": "20",
+        "twitchDisplayName": "5mokeGhost",
+        "startTime": "2025-01-17 03:24:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,archer_venomarrows,rogue_shadowcloak,healer_combatmedic,flagbearer_bannerofexaltation,spell_empower_haste,warrior_soldieroffortune,rogue_skeletonturret,amazon_vineclone,tank_tungstenswords,tank_truetank,vampire_swarmcoffin,rogue_sneakattack,centurion_juggernaut,saint_godspeed,flagbearer_bannerofluck,melee_followup,warrior_falltodarkness,saint_exalt",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "176457",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-01-17 03:48:02",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,rogue_skeletonturret,frogue_vanishing_powder,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,berserker_enrage,phantom_thehaunting,bomber_dangerzone",
-        "nextNodeType": "icecaveportals"
+        "nextNodeType": "wintersnowman"
     }
 ]
