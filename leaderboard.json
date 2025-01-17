@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "176395",
@@ -81,12 +81,12 @@
         "nextNodeType": "raidhallalake"
     },
     {
-        "dungeonRunId": "176425",
+        "dungeonRunId": "176432",
         "completedLevels": "15",
-        "twitchDisplayName": "rufffreake",
-        "startTime": "2025-01-17 00:04:26",
+        "twitchDisplayName": "Gojima_Ghost",
+        "startTime": "2025-01-17 00:55:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_followup,blob_parasite,gladiator_browbeat,paladin_avengingsmite,spell_empower_curse,paladin_layonhands,berserker_enrage,spell_empower_killingfield,warrior_soldieroffortune,saint_surgeofconfidence,phantom_thehaunting,tank_tungstenswords,tank_truetank,fairy_gift_of_the_wind",
-        "nextNodeType": "heartscelestialabyrinth"
+        "captainBoons": "common_classic_comeback,archer_rapidshot,tank_truetank,common_specialists,tank_tungstenswords,assassin_disappearingact,spell_empower_highground,vampire_darkwings,ranged_damage_2,spell_empower_stronghold,healer_combatmedic,rogue_skeletonturret,tank_hoarfrost_armor,flagbearer_bannerofluck,melee_followup,rogue_shadowcloak",
+        "nextNodeType": "raidhallalake"
     }
 ]
