@@ -81,12 +81,12 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "176438",
-        "completedLevels": "25",
-        "twitchDisplayName": "CwellGaming",
-        "startTime": "2025-01-17 01:32:29",
-        "endTime": "2025-01-17 05:54:09",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate,tank_truetank,rogue_shadowcloak,rogue_sneakattack,armored_shieldbash,warlock_inferno,tank_tungstenswords",
-        "nextNodeType": "crucibleforge"
+        "dungeonRunId": "176520",
+        "completedLevels": "26",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2025-01-17 15:53:26",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,centurion_tactician,melee_followup,ensouled_heroicspirits,musketeer_rapidreload,lancer_spearofvengeance,spell_empower_stronghold,epic_giantsbrewzero,saint_surgeofconfidence,orcs_building_rage,berserker_rancor,warrior_flameslash,paladin_holyforce,paladin_layonhands,gladiator_sonofthunder,flagbearer_focused_morale,bomber_dangerzone,ranged_damage_2,gladiator_war_machine,warrior_soldieroffortune,archer_venomarrows,barbarian_conqueror,lancer_sarissaspears,berserker_enrage,lancer_ignitingstrike,fairy_fireflyconjuration,assassin_disappearingact",
+        "nextNodeType": "dungeons_boss_toadraiders"
     }
 ]
