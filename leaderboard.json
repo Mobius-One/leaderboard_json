@@ -63,15 +63,6 @@
         "nextNodeType": "ancientfeeding"
     },
     {
-        "dungeonRunId": "176457",
-        "completedLevels": "39",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-01-17 03:48:02",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,phantom_thehaunting,bomber_dangerzone,barbarian_bringthepain,healer_combatmedic,gladiator_sonofthunder,necromancer_bombasticbones,fairy_hocuspocus,saint_godspeed,berserker_rancor,flagbearer_bannerofexaltation",
-        "nextNodeType": "crucibleforge"
-    },
-    {
         "dungeonRunId": "176525",
         "completedLevels": "39",
         "twitchDisplayName": "redspecter23",
@@ -79,6 +70,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,armored_shieldbash,fairy_gift_of_the_wind,saint_exalt,saint_surgeofconfidence,bomber_living_bomb,archer_rapidshot,lancer_ignitingstrike,bomber_dangerzone,warrior_flameslash,gladiator_war_machine,musketeer_grapeshot,epic_giantsbrewzero,lancer_spearofvengeance,artillery_machine_gun,flagbearer_bannerofexaltation,spell_empower_highground,berserker_rancor,assassin_disappearingact,necromancer_bombasticbones,lancer_sarissaspears,berserker_enrage,monk_heavenskarma,gladiator_browbeat",
         "nextNodeType": "crystalcavetreasure"
+    },
+    {
+        "dungeonRunId": "176457",
+        "completedLevels": "39",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-01-17 03:48:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,phantom_thehaunting,bomber_dangerzone,barbarian_bringthepain,healer_combatmedic,gladiator_sonofthunder,necromancer_bombasticbones,fairy_hocuspocus,saint_godspeed,berserker_rancor,flagbearer_bannerofexaltation",
+        "nextNodeType": "crucibleforge"
     },
     {
         "dungeonRunId": "176431",
