@@ -81,12 +81,12 @@
         "nextNodeType": "steamplaza"
     },
     {
-        "dungeonRunId": "176393",
+        "dungeonRunId": "176457",
         "completedLevels": "17",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-01-16 19:04:16",
-        "endTime": "2025-01-16 21:14:08",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician,centurion_juggernaut,epic_epicaspirations,archer_rapidshot,archer_venomarrows,archer_steadybow,bomber_dangerzone,tank_truetank,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,phantom_thehaunting,flyingrogue_aggravate,lancer_spearofvengeance",
-        "nextNodeType": "glitchedboss"
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-01-17 03:48:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,rogue_skeletonturret,frogue_vanishing_powder,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,berserker_enrage",
+        "nextNodeType": "ancientfeeding"
     }
 ]
