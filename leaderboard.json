@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "67",
+        "completedLevels": "68",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,gladiator_browbeat,ensouled_heroicspirits,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,ensouled_heroicspirits,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
+        "nextNodeType": "shogunateBossCastle"
     },
     {
         "dungeonRunId": "176395",
@@ -72,15 +72,6 @@
         "nextNodeType": "wintersnowman"
     },
     {
-        "dungeonRunId": "176393",
-        "completedLevels": "17",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-01-16 19:04:16",
-        "endTime": "2025-01-16 21:14:08",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician,centurion_juggernaut,epic_epicaspirations,archer_rapidshot,archer_venomarrows,archer_steadybow,bomber_dangerzone,tank_truetank,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,phantom_thehaunting,flyingrogue_aggravate,lancer_spearofvengeance",
-        "nextNodeType": "glitchedboss"
-    },
-    {
         "dungeonRunId": "176425",
         "completedLevels": "17",
         "twitchDisplayName": "rufffreake",
@@ -88,5 +79,14 @@
         "endTime": "2025-01-17 03:26:59",
         "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_followup,blob_parasite,gladiator_browbeat,paladin_avengingsmite,spell_empower_curse,paladin_layonhands,berserker_enrage,spell_empower_killingfield,warrior_soldieroffortune,saint_surgeofconfidence,phantom_thehaunting,tank_tungstenswords,tank_truetank,fairy_gift_of_the_wind,fairy_fireflyconjuration,support_enchantedstaves",
         "nextNodeType": "wintersnowman"
+    },
+    {
+        "dungeonRunId": "176393",
+        "completedLevels": "17",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-01-16 19:04:16",
+        "endTime": "2025-01-16 21:14:08",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician,centurion_juggernaut,epic_epicaspirations,archer_rapidshot,archer_venomarrows,archer_steadybow,bomber_dangerzone,tank_truetank,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,phantom_thehaunting,flyingrogue_aggravate,lancer_spearofvengeance",
+        "nextNodeType": "glitchedboss"
     }
 ]
