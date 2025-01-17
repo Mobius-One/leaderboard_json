@@ -55,30 +55,30 @@
     },
     {
         "dungeonRunId": "176431",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-01-17 00:53:55",
         "endTime": null,
         "captainBoons": "monk_stoptheflow,healer_shadowword,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot,monk_snakestyle,musk_hunters_mark,rogue_sneakattack,barbarian_bringthepain,mage_darkmagic,epic_giantsbrewzero,assassin_disappearingact,fairy_gift_of_the_wind,vampire_darkwings,musketeer_grapeshot",
-        "nextNodeType": "shogunateBossCastle"
+        "nextNodeType": "dungeonlair"
     },
     {
         "dungeonRunId": "176438",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "CwellGaming",
         "startTime": "2025-01-17 01:32:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate",
-        "nextNodeType": "dungeonexperiment"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate,tank_truetank",
+        "nextNodeType": "ancientfeeding"
     },
     {
         "dungeonRunId": "176451",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-01-17 03:07:07",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,gladiator_sonofthunder,mage_darkmagic,musketeer_rapidreload,musketeer_grapeshot,spell_empower_stronghold,fairy_fireflyconjuration,assassin_disappearingact,fairy_gift_of_the_wind,flagbearer_bannerofluck,melee_followup,common_specialists,berserker_rancor,archer_venomarrows,gladiator_war_machine,centurion_tactician,berserker_enrage,frogue_vanishing_powder",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,saint_exalt,gladiator_sonofthunder,mage_darkmagic,musketeer_rapidreload,musketeer_grapeshot,spell_empower_stronghold,fairy_fireflyconjuration,assassin_disappearingact,fairy_gift_of_the_wind,flagbearer_bannerofluck,melee_followup,common_specialists,berserker_rancor,archer_venomarrows,gladiator_war_machine,centurion_tactician,berserker_enrage,frogue_vanishing_powder,gladiator_browbeat",
+        "nextNodeType": "steamplaza"
     },
     {
         "dungeonRunId": "176432",
