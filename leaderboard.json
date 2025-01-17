@@ -18,6 +18,15 @@
         "nextNodeType": "crucibleforge"
     },
     {
+        "dungeonRunId": "176520",
+        "completedLevels": "46",
+        "twitchDisplayName": "Hairtrigger83",
+        "startTime": "2025-01-17 15:53:26",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_followup,ensouled_heroicspirits,musketeer_rapidreload,lancer_spearofvengeance,spell_empower_stronghold,epic_giantsbrewzero,saint_surgeofconfidence,berserker_rancor,paladin_layonhands,gladiator_sonofthunder,flagbearer_focused_morale,bomber_dangerzone,gladiator_war_machine,warrior_soldieroffortune,barbarian_conqueror,lancer_sarissaspears,lancer_ignitingstrike,fairy_fireflyconjuration,bomber_living_bomb,barbarian_bringthepain",
+        "nextNodeType": "crystalcavetreasure"
+    },
+    {
         "dungeonRunId": "176395",
         "completedLevels": "46",
         "twitchDisplayName": "ThaTrueBeast",
@@ -25,15 +34,6 @@
         "endTime": "2025-01-17 00:54:35",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,epic_giantsbrewzero,amazon_vineclone,gladiator_browbeat,archer_steadybow,saint_exalt,common_specialists,fairy_fireflyconjuration,melee_followup,warrior_soldieroffortune,saint_surgeofconfidence,barbarian_conqueror,berserker_rancor,warrior_flameslash,bomber_living_bomb,healer_combatmedic,archer_venomarrows,epic_epicaspirations,bomber_dangerzone,bomber_concentrated_burst",
         "nextNodeType": "crucibleforge"
-    },
-    {
-        "dungeonRunId": "176520",
-        "completedLevels": "45",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2025-01-17 15:53:26",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_followup,ensouled_heroicspirits,musketeer_rapidreload,lancer_spearofvengeance,spell_empower_stronghold,epic_giantsbrewzero,saint_surgeofconfidence,berserker_rancor,paladin_layonhands,gladiator_sonofthunder,flagbearer_focused_morale,bomber_dangerzone,ranged_damage_2,gladiator_war_machine,warrior_soldieroffortune,barbarian_conqueror,lancer_sarissaspears,lancer_ignitingstrike,fairy_fireflyconjuration,bomber_living_bomb,barbarian_bringthepain",
-        "nextNodeType": "shrinkeningpuddles"
     },
     {
         "dungeonRunId": "176388",
