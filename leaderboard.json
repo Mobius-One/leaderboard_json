@@ -68,7 +68,7 @@
         "twitchDisplayName": "CwellGaming",
         "startTime": "2025-01-17 01:32:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate,tank_truetank,rogue_shadowcloak,rogue_sneakattack,armored_shieldbash,warlock_inferno",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate,tank_truetank,rogue_shadowcloak,rogue_sneakattack,armored_shieldbash,warlock_inferno,tank_tungstenswords",
         "nextNodeType": "crucibleforge"
     },
     {
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "176457",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-01-17 03:48:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,rogue_skeletonturret,frogue_vanishing_powder,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,berserker_enrage,phantom_thehaunting",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,rogue_skeletonturret,frogue_vanishing_powder,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,berserker_enrage,phantom_thehaunting,bomber_dangerzone",
+        "nextNodeType": "icecaveportals"
     }
 ]
