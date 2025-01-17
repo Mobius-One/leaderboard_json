@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "52",
+        "completedLevels": "53",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,fairy_gift_of_the_wind,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,spell_empower_killingfield,berserker_rancor,berserker_enrage",
-        "nextNodeType": "shrinkeningpuddles"
+        "nextNodeType": "wintersnowman"
     },
     {
         "dungeonRunId": "176395",
@@ -63,15 +63,6 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "176398",
-        "completedLevels": "16",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2025-01-16 19:19:51",
-        "endTime": "2025-01-16 20:47:00",
-        "captainBoons": "common_classic_comeback,berserker_rancor,warrior_flameslash,rogue_shadowcloak,lancer_sarissaspears,archer_venomarrows,amazon_vineclone,musketeer_rapidreload,berserker_enrage,ensouled_heroicspirits,flagbearer_bannerofluck,ranged_damage_2,common_specialists,bomber_dangerzone,saint_surgeofconfidence,ensouled_bravespirits,saint_exalt",
-        "nextNodeType": "raidhallalake"
-    },
-    {
         "dungeonRunId": "176417",
         "completedLevels": "16",
         "twitchDisplayName": "MozzyAuzzy",
@@ -81,12 +72,21 @@
         "nextNodeType": "dungeonlair"
     },
     {
-        "dungeonRunId": "176401",
-        "completedLevels": "13",
-        "twitchDisplayName": "Nicka559",
-        "startTime": "2025-01-16 19:57:34",
+        "dungeonRunId": "176398",
+        "completedLevels": "16",
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2025-01-16 19:19:51",
+        "endTime": "2025-01-16 20:47:00",
+        "captainBoons": "common_classic_comeback,berserker_rancor,warrior_flameslash,rogue_shadowcloak,lancer_sarissaspears,archer_venomarrows,amazon_vineclone,musketeer_rapidreload,berserker_enrage,ensouled_heroicspirits,flagbearer_bannerofluck,ranged_damage_2,common_specialists,bomber_dangerzone,saint_surgeofconfidence,ensouled_bravespirits,saint_exalt",
+        "nextNodeType": "raidhallalake"
+    },
+    {
+        "dungeonRunId": "176425",
+        "completedLevels": "14",
+        "twitchDisplayName": "rufffreake",
+        "startTime": "2025-01-17 00:04:26",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,musketeer_grapeshot,templar_beaconofhope,fairy_fireflyconjuration,archer_venomarrows,gladiator_war_machine,paladin_layonhands,melee_followup,healer_healing_bloom,archer_rapidshot,ranged_damage_2,phantom_thehaunting",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_followup,blob_parasite,gladiator_browbeat,paladin_avengingsmite,spell_empower_curse,paladin_layonhands,berserker_enrage,spell_empower_killingfield,warrior_soldieroffortune,saint_surgeofconfidence,phantom_thehaunting,tank_tungstenswords,tank_truetank",
+        "nextNodeType": "dungeons_jerry"
     }
 ]
