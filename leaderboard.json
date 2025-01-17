@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "176438",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "CwellGaming",
         "startTime": "2025-01-17 01:32:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate,tank_truetank,rogue_shadowcloak,rogue_sneakattack",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,rogue_skeletonturret,healer_healing_bloom,fairy_fireflyconjuration,warrior_flameslash,necromancer_bombasticbones,vampire_darkwings,monk_snakestyle,vampire_swarmcoffin,healer_combatmedic,lancer_spearofvengeance,common_specialists,epic_giantsbrewzero,archer_venomarrows,buster_carbonplating,archer_rapidshot,support_enchantedstaves,flagbearer_focused_morale,flyingrogue_aggravate,tank_truetank,rogue_shadowcloak,rogue_sneakattack,armored_shieldbash",
+        "nextNodeType": "wintersnowman"
     },
     {
         "dungeonRunId": "176451",
@@ -81,12 +81,12 @@
         "nextNodeType": "steamplaza"
     },
     {
-        "dungeonRunId": "176425",
+        "dungeonRunId": "176393",
         "completedLevels": "17",
-        "twitchDisplayName": "rufffreake",
-        "startTime": "2025-01-17 00:04:26",
-        "endTime": "2025-01-17 03:26:59",
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_followup,blob_parasite,gladiator_browbeat,paladin_avengingsmite,spell_empower_curse,paladin_layonhands,berserker_enrage,spell_empower_killingfield,warrior_soldieroffortune,saint_surgeofconfidence,phantom_thehaunting,tank_tungstenswords,tank_truetank,fairy_gift_of_the_wind,fairy_fireflyconjuration,support_enchantedstaves",
-        "nextNodeType": "wintersnowman"
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-01-16 19:04:16",
+        "endTime": "2025-01-16 21:14:08",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,melee_followup,necromancer_bombasticbones,centurion_tactician,centurion_juggernaut,epic_epicaspirations,archer_rapidshot,archer_venomarrows,archer_steadybow,bomber_dangerzone,tank_truetank,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,phantom_thehaunting,flyingrogue_aggravate,lancer_spearofvengeance",
+        "nextNodeType": "glitchedboss"
     }
 ]
