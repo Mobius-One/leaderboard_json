@@ -45,6 +45,15 @@
         "nextNodeType": "ancientfeeding"
     },
     {
+        "dungeonRunId": "176431",
+        "completedLevels": "34",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-01-17 00:53:55",
+        "endTime": null,
+        "captainBoons": "monk_stoptheflow,healer_shadowword,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot,monk_snakestyle,musk_hunters_mark,rogue_sneakattack,barbarian_bringthepain,mage_darkmagic,epic_giantsbrewzero,assassin_disappearingact,fairy_gift_of_the_wind,vampire_darkwings,musketeer_grapeshot",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "176390",
         "completedLevels": "34",
         "twitchDisplayName": "Meistar",
@@ -52,15 +61,6 @@
         "endTime": "2025-01-16 23:05:09",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,common_specialists,lancer_sarissaspears,melee_followup,warbeast_terrifying_presence,saint_exalt,vampire_spectralpresence,artillery_machine_gun,fairy_hocuspocus,orcs_building_rage,epic_giantsbrewzero,ranged_damage_2",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "176431",
-        "completedLevels": "33",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-01-17 00:53:55",
-        "endTime": null,
-        "captainBoons": "monk_stoptheflow,healer_shadowword,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot,monk_snakestyle,musk_hunters_mark,rogue_sneakattack,barbarian_bringthepain,mage_darkmagic,epic_giantsbrewzero,assassin_disappearingact,fairy_gift_of_the_wind,vampire_darkwings,musketeer_grapeshot",
-        "nextNodeType": "dungeonlair"
     },
     {
         "dungeonRunId": "176438",
@@ -76,7 +76,7 @@
         "completedLevels": "19",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-01-17 03:07:07",
-        "endTime": null,
+        "endTime": "2025-01-17 05:03:40",
         "captainBoons": "common_classic_comeback,saint_exalt,gladiator_sonofthunder,mage_darkmagic,musketeer_rapidreload,musketeer_grapeshot,spell_empower_stronghold,fairy_fireflyconjuration,assassin_disappearingact,fairy_gift_of_the_wind,flagbearer_bannerofluck,melee_followup,common_specialists,berserker_rancor,archer_venomarrows,gladiator_war_machine,centurion_tactician,berserker_enrage,frogue_vanishing_powder,gladiator_browbeat",
         "nextNodeType": "steamplaza"
     },
