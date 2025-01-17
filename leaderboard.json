@@ -54,6 +54,15 @@
         "nextNodeType": "ancientfeeding"
     },
     {
+        "dungeonRunId": "176457",
+        "completedLevels": "34",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-01-17 03:48:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,rogue_skeletonturret,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,phantom_thehaunting,bomber_dangerzone,barbarian_bringthepain,ensouled_bravespirits,healer_combatmedic,gladiator_sonofthunder,necromancer_bombasticbones,rogue_sneakattack,fairy_hocuspocus,saint_godspeed,berserker_rancor,flagbearer_bannerofexaltation",
+        "nextNodeType": "crashzonerise"
+    },
+    {
         "dungeonRunId": "176390",
         "completedLevels": "34",
         "twitchDisplayName": "Meistar",
@@ -61,15 +70,6 @@
         "endTime": "2025-01-16 23:05:09",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,berserker_rancor,epic_epicaspirations,musketeer_rapidreload,archer_venomarrows,berserker_killing_spree,tank_tungstenswords,bomber_concentrated_burst,ensouled_bravespirits,gladiator_browbeat,berserker_enrage,musk_hunters_mark,fairy_fireflyconjuration,common_specialists,lancer_sarissaspears,melee_followup,warbeast_terrifying_presence,saint_exalt,vampire_spectralpresence,artillery_machine_gun,fairy_hocuspocus,orcs_building_rage,epic_giantsbrewzero,ranged_damage_2",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "176457",
-        "completedLevels": "33",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-01-17 03:48:02",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,rogue_skeletonturret,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,phantom_thehaunting,bomber_dangerzone,barbarian_bringthepain,ensouled_bravespirits,healer_combatmedic,gladiator_sonofthunder,necromancer_bombasticbones,rogue_sneakattack,fairy_hocuspocus,saint_godspeed,berserker_rancor,flagbearer_bannerofexaltation",
-        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "176438",
