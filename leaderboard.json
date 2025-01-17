@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "48",
+        "completedLevels": "49",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,gladiator_war_machine,musketeer_rapidreload,fairy_gift_of_the_wind,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,spell_empower_killingfield,berserker_rancor,berserker_enrage",
-        "nextNodeType": "oasisruins"
+        "nextNodeType": "crucibleforge"
     },
     {
         "dungeonRunId": "176395",
