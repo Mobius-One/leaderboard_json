@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "176413",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,phantom_thehaunting,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,assassin_disappearingact,gladiator_war_machine,musketeer_rapidreload,rogue_skeletonturret,fairy_gift_of_the_wind,saint_exalt,flagbearer_bannerofexaltation,rogue_shadowcloak,gladiator_browbeat,gladiator_sonofthunder,ensouled_heroicspirits,barbarian_gloriousdeath,ranged_damage_2,saint_godspeed,warrior_soldieroffortune,lancer_spearofvengeance,spell_empower_curse,fairy_fireflyconjuration,paladin_avengingsmite,spell_empower_killingfield,berserker_rancor",
-        "nextNodeType": "heartscelestialabyrinth"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,phantom_thehaunting,lancer_sarissaspears,musketeer_grapeshot,bomber_living_bomb,epic_giantsbrewzero,assassin_disappearingact,gladiator_war_machine,musketeer_rapidreload,rogue_skeletonturret,fairy_gift_of_the_wind,saint_exalt,flagbearer_bannerofexaltation,rogue_shadowcloak,gladiator_browbeat,gladiator_sonofthunder,ensouled_heroicspirits,barbarian_gloriousdeath,ranged_damage_2,saint_godspeed,warrior_soldieroffortune,lancer_spearofvengeance,spell_empower_curse,fairy_fireflyconjuration,paladin_avengingsmite,spell_empower_killingfield,berserker_rancor,berserker_enrage",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "176393",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "176417",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-01-16 22:44:12",
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_browbeat,archer_venomarrows,ensouled_heroicspirits,centurion_tactician,healer_shadowword,spell_empower_stronghold,fairy_fireflyconjuration,centurion_juggernaut,spell_empower_highground,epic_giantsbrewzero,rogue_skeletonturret,common_specialists,warrior_soldieroffortune",
-        "nextNodeType": "heartscelestialabyrinth"
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "176401",
