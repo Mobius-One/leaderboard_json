@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "58",
+        "completedLevels": "59",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
         "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "newjunglespore"
+        "nextNodeType": "glitchedboss"
     },
     {
         "dungeonRunId": "176395",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "176431",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-01-17 00:53:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,healer_shadowword,phantom_thehaunting,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma",
-        "nextNodeType": "crucibleforge"
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,healer_shadowword,phantom_thehaunting,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2,monk_heavenskarma,archer_rapidshot",
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "176393",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "176432",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "Gojima_Ghost",
         "startTime": "2025-01-17 00:55:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_rapidshot,tank_truetank,common_specialists,tank_tungstenswords,assassin_disappearingact,spell_empower_highground,vampire_darkwings,ranged_damage_2,spell_empower_stronghold,healer_combatmedic,rogue_skeletonturret,tank_hoarfrost_armor,flagbearer_bannerofluck,melee_followup,rogue_shadowcloak",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,archer_rapidshot,tank_truetank,common_specialists,tank_tungstenswords,assassin_disappearingact,spell_empower_highground,vampire_darkwings,ranged_damage_2,spell_empower_stronghold,healer_combatmedic,rogue_skeletonturret,tank_hoarfrost_armor,flagbearer_bannerofluck,melee_followup,rogue_shadowcloak,flyingrogue_aggravate",
+        "nextNodeType": "oasisruins"
     }
 ]
