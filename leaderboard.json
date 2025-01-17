@@ -45,6 +45,15 @@
         "nextNodeType": "ancientfeeding"
     },
     {
+        "dungeonRunId": "176478",
+        "completedLevels": "40",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2025-01-17 07:00:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,blob_parasite,fairy_fireflyconjuration,lancer_spearofvengeance,gladiator_sonofthunder,buster_carbonplating,barbarian_gloriousdeath,assassin_disappearingact,ensouled_bravespirits,warrior_flameslash,musk_hunters_mark,musketeer_rapidreload,flagbearer_bannerofexaltation,flagbearer_bannerofluck,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,berserker_enrage,necromancer_bombasticbones,gladiator_browbeat,rogue_skeletonturret,spy_fromcaptainwithlove,rogue_sneakattack,saint_surgeofconfidence",
+        "nextNodeType": "beastlandsbug02"
+    },
+    {
         "dungeonRunId": "176457",
         "completedLevels": "39",
         "twitchDisplayName": "RealAlize",
@@ -52,15 +61,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,ranged_damage_2,vampire_swarmcoffin,flagbearer_bannerofluck,saint_surgeofconfidence,flagbearer_focused_morale,gladiator_browbeat,lancer_sarissaspears,lancer_spearofvengeance,spell_empower_stronghold,saint_exalt,archer_venomarrows,gladiator_war_machine,fairy_fireflyconjuration,phantom_thehaunting,bomber_dangerzone,barbarian_bringthepain,healer_combatmedic,gladiator_sonofthunder,necromancer_bombasticbones,fairy_hocuspocus,saint_godspeed,berserker_rancor,flagbearer_bannerofexaltation",
         "nextNodeType": "crucibleforge"
-    },
-    {
-        "dungeonRunId": "176478",
-        "completedLevels": "39",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2025-01-17 07:00:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,blob_parasite,fairy_fireflyconjuration,lancer_spearofvengeance,tank_hoarfrost_armor,gladiator_sonofthunder,buster_carbonplating,barbarian_gloriousdeath,assassin_disappearingact,ensouled_bravespirits,warrior_flameslash,musk_hunters_mark,musketeer_rapidreload,flagbearer_bannerofexaltation,flagbearer_bannerofluck,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,berserker_enrage,necromancer_bombasticbones,gladiator_browbeat,rogue_skeletonturret,spy_fromcaptainwithlove,rogue_sneakattack,saint_surgeofconfidence",
-        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "176431",
