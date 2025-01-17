@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "176413",
-        "completedLevels": "55",
+        "completedLevels": "56",
         "twitchDisplayName": "Angel",
         "startTime": "2025-01-16 22:01:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,fairy_gift_of_the_wind,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
-        "nextNodeType": "crystalcavetreasure"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,warrior_flameslash,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,rogue_shadowcloak,gladiator_browbeat,ensouled_heroicspirits,barbarian_gloriousdeath,saint_godspeed,warrior_soldieroffortune,fairy_fireflyconjuration,berserker_rancor,berserker_enrage",
+        "nextNodeType": "shogunateBossCastle"
     },
     {
         "dungeonRunId": "176395",
@@ -54,6 +54,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "176431",
+        "completedLevels": "17",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-01-17 00:53:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,healer_shadowword,phantom_thehaunting,fairy_fireflyconjuration,fairy_hocuspocus,bomber_living_bomb,musketeer_rapidreload,berserker_enrage,vampire_swarmcoffin,berserker_rancor,support_enchantedstaves,ensouled_heroicspirits,healer_combatmedic,archer_venomarrows,spell_empower_highground,flyingrogue_aggravate,ranged_damage_2",
+        "nextNodeType": "dungeons_boss_toadraiders"
+    },
+    {
         "dungeonRunId": "176393",
         "completedLevels": "17",
         "twitchDisplayName": "Panthergal2018",
@@ -72,21 +81,12 @@
         "nextNodeType": "raidhallalake"
     },
     {
-        "dungeonRunId": "176417",
-        "completedLevels": "16",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-01-16 22:44:12",
-        "endTime": "2025-01-17 00:53:42",
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,archer_venomarrows,ensouled_heroicspirits,centurion_tactician,healer_shadowword,spell_empower_stronghold,fairy_fireflyconjuration,centurion_juggernaut,spell_empower_highground,epic_giantsbrewzero,rogue_skeletonturret,common_specialists,warrior_soldieroffortune,flagbearer_bannerofexaltation,templar_beaconofhope,flyingrogue_aggravate",
-        "nextNodeType": "dungeonlair"
-    },
-    {
         "dungeonRunId": "176425",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "rufffreake",
         "startTime": "2025-01-17 00:04:26",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_followup,blob_parasite,gladiator_browbeat,paladin_avengingsmite,spell_empower_curse,paladin_layonhands,berserker_enrage,spell_empower_killingfield,warrior_soldieroffortune,saint_surgeofconfidence,phantom_thehaunting,tank_tungstenswords,tank_truetank",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,melee_followup,blob_parasite,gladiator_browbeat,paladin_avengingsmite,spell_empower_curse,paladin_layonhands,berserker_enrage,spell_empower_killingfield,warrior_soldieroffortune,saint_surgeofconfidence,phantom_thehaunting,tank_tungstenswords,tank_truetank,fairy_gift_of_the_wind",
+        "nextNodeType": "heartscelestialabyrinth"
     }
 ]
