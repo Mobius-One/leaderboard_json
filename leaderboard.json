@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "176624",
-        "completedLevels": "50",
+        "completedLevels": "51",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-01-18 03:46:46",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,berserker_enrage,rogue_shadowcloak,gladiator_sonofthunder,assassin_disappearingact,fairy_fireflyconjuration,warrior_flameslash,flagbearer_focused_morale,bomber_dangerzone,gladiator_war_machine,barbarian_gloriousdeath,musketeer_grapeshot,artillery_machine_gun,support_enchantedstaves,berserker_killing_spree,warrior_soldieroffortune,epic_giantsbrewzero,saint_surgeofconfidence",
-        "nextNodeType": "shogunateBossCastle"
+        "nextNodeType": "crashzonerise"
     },
     {
         "dungeonRunId": "176566",
