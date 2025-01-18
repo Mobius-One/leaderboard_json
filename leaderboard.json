@@ -36,6 +36,15 @@
         "nextNodeType": "shogunateBossCastle"
     },
     {
+        "dungeonRunId": "176624",
+        "completedLevels": "47",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-01-18 03:46:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofexaltation,musketeer_rapidreload,berserker_enrage,rogue_shadowcloak,gladiator_sonofthunder,assassin_disappearingact,fairy_fireflyconjuration,warrior_flameslash,flagbearer_focused_morale,bomber_dangerzone,gladiator_war_machine,barbarian_gloriousdeath,musketeer_grapeshot,artillery_machine_gun,support_enchantedstaves,berserker_killing_spree,warrior_soldieroffortune,barbarian_bringthepain,epic_giantsbrewzero,saint_surgeofconfidence",
+        "nextNodeType": "wintersnowman"
+    },
+    {
         "dungeonRunId": "176395",
         "completedLevels": "46",
         "twitchDisplayName": "ThaTrueBeast",
@@ -52,15 +61,6 @@
         "endTime": "2025-01-17 01:06:24",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,lancer_sarissaspears,saint_godspeed,berserker_rancor,healer_shadowword,blob_parasite,bomber_dangerzone,barbarian_conqueror,saint_exalt,bomber_living_bomb,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,rogue_shadowcloak,barbarian_gloriousdeath,lancer_spearofvengeance",
         "nextNodeType": "crucibleforge"
-    },
-    {
-        "dungeonRunId": "176624",
-        "completedLevels": "46",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-01-18 03:46:46",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofexaltation,musketeer_rapidreload,berserker_enrage,rogue_shadowcloak,gladiator_sonofthunder,assassin_disappearingact,fairy_fireflyconjuration,warrior_flameslash,flagbearer_focused_morale,bomber_dangerzone,gladiator_war_machine,barbarian_gloriousdeath,musketeer_grapeshot,artillery_machine_gun,support_enchantedstaves,berserker_killing_spree,warrior_soldieroffortune,barbarian_bringthepain,epic_giantsbrewzero,saint_surgeofconfidence",
-        "nextNodeType": "retroforest"
     },
     {
         "dungeonRunId": "176567",
