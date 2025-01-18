@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "176624",
-        "completedLevels": "43",
+        "completedLevels": "44",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-01-18 03:46:46",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofexaltation,musketeer_rapidreload,berserker_enrage,rogue_shadowcloak,gladiator_browbeat,gladiator_sonofthunder,ensouled_bravespirits,assassin_disappearingact,fairy_fireflyconjuration,warrior_flameslash,flagbearer_focused_morale,bomber_dangerzone,gladiator_war_machine,barbarian_gloriousdeath,musketeer_grapeshot,artillery_machine_gun,support_enchantedstaves,berserker_killing_spree,warrior_soldieroffortune,barbarian_bringthepain,epic_giantsbrewzero,saint_surgeofconfidence",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofexaltation,musketeer_rapidreload,berserker_enrage,rogue_shadowcloak,gladiator_browbeat,gladiator_sonofthunder,assassin_disappearingact,fairy_fireflyconjuration,warrior_flameslash,flagbearer_focused_morale,bomber_dangerzone,gladiator_war_machine,barbarian_gloriousdeath,musketeer_grapeshot,artillery_machine_gun,support_enchantedstaves,berserker_killing_spree,warrior_soldieroffortune,barbarian_bringthepain,epic_giantsbrewzero,saint_surgeofconfidence",
+        "nextNodeType": "glitchedboss"
     },
     {
         "dungeonRunId": "176478",
