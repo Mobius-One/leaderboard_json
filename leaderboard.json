@@ -54,15 +54,6 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "176394",
-        "completedLevels": "41",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-01-16 19:04:25",
-        "endTime": "2025-01-17 00:01:45",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,berserker_enrage,musk_hunters_mark,saint_exalt,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,assassin_disappearingact,common_specialists,berserker_rancor,lancer_sarissaspears,saint_surgeofconfidence,gladiator_browbeat,support_enchantedstaves,spell_empower_curse,centurion_tactician,barbarian_bringthepain",
-        "nextNodeType": "ancientfeeding"
-    },
-    {
         "dungeonRunId": "176478",
         "completedLevels": "41",
         "twitchDisplayName": "CoilGun",
@@ -73,12 +64,21 @@
     },
     {
         "dungeonRunId": "176567",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "LitterboxToast",
         "startTime": "2025-01-17 21:26:34",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,archer_venomarrows,saint_exalt,necromancer_bombasticbones,berserker_rancor,melee_followup,blob_parasite,shinobi_shadowstrike,warrior_flameslash,gladiator_browbeat,fairy_hocuspocus,common_specialists,flagbearer_bannerofluck,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,ensouled_heroicspirits,centurion_tactician,lancer_spearofvengeance",
-        "nextNodeType": "heartscelestialabyrinth"
+        "nextNodeType": "shogunateBossCastle"
+    },
+    {
+        "dungeonRunId": "176394",
+        "completedLevels": "41",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-01-16 19:04:25",
+        "endTime": "2025-01-17 00:01:45",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,flagbearer_bannerofexaltation,ensouled_heroicspirits,fairy_fireflyconjuration,gladiator_sonofthunder,rogue_shadowcloak,berserker_enrage,musk_hunters_mark,saint_exalt,spell_empower_highground,flyingrogue_aggravate,musketeer_grapeshot,necromancer_bombasticbones,assassin_disappearingact,common_specialists,berserker_rancor,lancer_sarissaspears,saint_surgeofconfidence,gladiator_browbeat,support_enchantedstaves,spell_empower_curse,centurion_tactician,barbarian_bringthepain",
+        "nextNodeType": "ancientfeeding"
     },
     {
         "dungeonRunId": "176457",
