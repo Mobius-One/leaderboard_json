@@ -36,6 +36,15 @@
         "nextNodeType": "glitchedboss"
     },
     {
+        "dungeonRunId": "176799",
+        "completedLevels": "47",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-01-19 10:47:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,flagbearer_focused_morale,saint_surgeofconfidence,bomber_living_bomb,bomber_dangerzone,spell_empower_highground,saint_exalt,berserker_enrage,centurion_2,monk_snakestyle,warbeast_terrifying_presence,fairy_fireflyconjuration,musketeer_grapeshot,orcs_building_rage,melee_followup,vampire_darkwings,flagbearer_bannerofexaltation,gladiator_war_machine,lancer_sarissaspears,lancer_spearofvengeance",
+        "nextNodeType": "ancientfeeding"
+    },
+    {
         "dungeonRunId": "176566",
         "completedLevels": "47",
         "twitchDisplayName": "Tayls10",
@@ -61,15 +70,6 @@
         "endTime": "2025-01-18 03:27:43",
         "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,archer_venomarrows,saint_exalt,necromancer_bombasticbones,berserker_rancor,melee_followup,warrior_flameslash,gladiator_browbeat,fairy_hocuspocus,common_specialists,flagbearer_bannerofluck,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,ensouled_heroicspirits,centurion_tactician",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "176799",
-        "completedLevels": "46",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-01-19 10:47:27",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,flagbearer_focused_morale,saint_surgeofconfidence,bomber_living_bomb,bomber_dangerzone,spell_empower_highground,saint_exalt,berserker_enrage,centurion_2,monk_snakestyle,warbeast_terrifying_presence,fairy_fireflyconjuration,musketeer_grapeshot,orcs_building_rage,melee_followup,vampire_darkwings,flagbearer_bannerofexaltation,gladiator_war_machine,lancer_sarissaspears,lancer_spearofvengeance",
-        "nextNodeType": "retroforest"
     },
     {
         "dungeonRunId": "176387",
