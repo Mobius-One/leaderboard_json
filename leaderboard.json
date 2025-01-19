@@ -45,15 +45,6 @@
         "nextNodeType": "shogunateBossCastle"
     },
     {
-        "dungeonRunId": "176567",
-        "completedLevels": "46",
-        "twitchDisplayName": "LitterboxToast",
-        "startTime": "2025-01-17 21:26:34",
-        "endTime": "2025-01-18 03:27:43",
-        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,archer_venomarrows,saint_exalt,necromancer_bombasticbones,berserker_rancor,melee_followup,warrior_flameslash,gladiator_browbeat,fairy_hocuspocus,common_specialists,flagbearer_bannerofluck,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,ensouled_heroicspirits,centurion_tactician",
-        "nextNodeType": "newjunglespore"
-    },
-    {
         "dungeonRunId": "176387",
         "completedLevels": "46",
         "twitchDisplayName": "OvidiuZ94",
@@ -88,5 +79,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,berserker_killing_spree,bomber_dangerzone,musketeer_rapidreload,melee_followup,saint_exalt,warrior_flameslash,gladiator_war_machine,support_enchantedstaves,lancer_sarissaspears,assassin_disappearingact,barbarian_gloriousdeath,bomber_living_bomb,warrior_soldieroffortune,ranged_damage_2,lancer_ignitingstrike,shinobi_shadowstrike,berserker_rancor,lancer_spearofvengeance",
         "nextNodeType": "crystalcavetreasure"
+    },
+    {
+        "dungeonRunId": "176567",
+        "completedLevels": "46",
+        "twitchDisplayName": "LitterboxToast",
+        "startTime": "2025-01-17 21:26:34",
+        "endTime": "2025-01-18 03:27:43",
+        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,archer_venomarrows,saint_exalt,necromancer_bombasticbones,berserker_rancor,melee_followup,warrior_flameslash,gladiator_browbeat,fairy_hocuspocus,common_specialists,flagbearer_bannerofluck,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,ensouled_heroicspirits,centurion_tactician",
+        "nextNodeType": "newjunglespore"
     }
 ]
