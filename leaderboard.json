@@ -81,12 +81,12 @@
         "nextNodeType": "newjunglespore"
     },
     {
-        "dungeonRunId": "176395",
+        "dungeonRunId": "176799",
         "completedLevels": "46",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2025-01-16 19:06:27",
-        "endTime": "2025-01-17 00:54:35",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,epic_giantsbrewzero,amazon_vineclone,gladiator_browbeat,archer_steadybow,saint_exalt,common_specialists,fairy_fireflyconjuration,melee_followup,warrior_soldieroffortune,saint_surgeofconfidence,barbarian_conqueror,berserker_rancor,warrior_flameslash,bomber_living_bomb,healer_combatmedic,archer_venomarrows,epic_epicaspirations,bomber_dangerzone,bomber_concentrated_burst",
-        "nextNodeType": "crucibleforge"
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-01-19 10:47:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,flagbearer_focused_morale,saint_surgeofconfidence,bomber_living_bomb,bomber_dangerzone,spell_empower_highground,saint_exalt,berserker_enrage,centurion_2,monk_snakestyle,warbeast_terrifying_presence,fairy_fireflyconjuration,musketeer_grapeshot,orcs_building_rage,melee_followup,vampire_darkwings,flagbearer_bannerofexaltation,gladiator_war_machine,lancer_sarissaspears,lancer_spearofvengeance",
+        "nextNodeType": "retroforest"
     }
 ]
