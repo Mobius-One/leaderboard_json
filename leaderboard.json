@@ -63,6 +63,15 @@
         "nextNodeType": "newjunglespore"
     },
     {
+        "dungeonRunId": "176799",
+        "completedLevels": "46",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-01-19 10:47:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,flagbearer_focused_morale,saint_surgeofconfidence,bomber_living_bomb,bomber_dangerzone,spell_empower_highground,saint_exalt,berserker_enrage,centurion_2,monk_snakestyle,warbeast_terrifying_presence,fairy_fireflyconjuration,musketeer_grapeshot,orcs_building_rage,melee_followup,vampire_darkwings,flagbearer_bannerofexaltation,gladiator_war_machine,lancer_sarissaspears,lancer_spearofvengeance",
+        "nextNodeType": "retroforest"
+    },
+    {
         "dungeonRunId": "176387",
         "completedLevels": "46",
         "twitchDisplayName": "OvidiuZ94",
@@ -79,14 +88,5 @@
         "endTime": "2025-01-19 07:15:27",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,saint_surgeofconfidence,musketeer_rapidreload,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,archer_venomarrows,spell_empower_stronghold,saint_exalt,bomber_concentrated_burst,centurion_2,bomber_dangerzone,support_enchantedstaves,epic_epicaspirations,epic_giantsbrewzero,gladiator_war_machine,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind",
         "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "176799",
-        "completedLevels": "46",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-01-19 10:47:27",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,flagbearer_focused_morale,saint_surgeofconfidence,bomber_living_bomb,bomber_dangerzone,spell_empower_highground,saint_exalt,berserker_enrage,centurion_2,monk_snakestyle,warbeast_terrifying_presence,fairy_fireflyconjuration,musketeer_grapeshot,orcs_building_rage,melee_followup,vampire_darkwings,flagbearer_bannerofexaltation,gladiator_war_machine,lancer_sarissaspears,lancer_spearofvengeance",
-        "nextNodeType": "retroforest"
     }
 ]
