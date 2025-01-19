@@ -27,6 +27,15 @@
         "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
+        "dungeonRunId": "176638",
+        "completedLevels": "48",
+        "twitchDisplayName": "CoilGun",
+        "startTime": "2025-01-18 06:50:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,berserker_killing_spree,bomber_dangerzone,musketeer_rapidreload,melee_followup,saint_exalt,warrior_flameslash,gladiator_war_machine,support_enchantedstaves,lancer_sarissaspears,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,ranged_damage_2,lancer_ignitingstrike,shinobi_shadowstrike,berserker_rancor,lancer_spearofvengeance",
+        "nextNodeType": "retroforest"
+    },
+    {
         "dungeonRunId": "176566",
         "completedLevels": "47",
         "twitchDisplayName": "Tayls10",
@@ -43,15 +52,6 @@
         "endTime": "2025-01-18 00:02:42",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,saint_exalt,saint_surgeofconfidence,bomber_living_bomb,archer_rapidshot,lancer_ignitingstrike,bomber_dangerzone,warrior_flameslash,gladiator_war_machine,musketeer_grapeshot,epic_giantsbrewzero,lancer_spearofvengeance,artillery_machine_gun,flagbearer_bannerofexaltation,spell_empower_highground,berserker_rancor,lancer_sarissaspears,berserker_enrage,gladiator_browbeat",
         "nextNodeType": "shogunateBossCastle"
-    },
-    {
-        "dungeonRunId": "176638",
-        "completedLevels": "47",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2025-01-18 06:50:15",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,berserker_killing_spree,bomber_dangerzone,musketeer_rapidreload,melee_followup,saint_exalt,warrior_flameslash,gladiator_war_machine,support_enchantedstaves,lancer_sarissaspears,assassin_disappearingact,barbarian_gloriousdeath,bomber_living_bomb,warrior_soldieroffortune,ranged_damage_2,lancer_ignitingstrike,shinobi_shadowstrike,berserker_rancor,lancer_spearofvengeance",
-        "nextNodeType": "wintersnowman"
     },
     {
         "dungeonRunId": "176567",
