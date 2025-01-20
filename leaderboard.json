@@ -27,6 +27,15 @@
         "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
+        "dungeonRunId": "176916",
+        "completedLevels": "50",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-01-20 09:23:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,berserker_enrage,saint_exalt,musketeer_grapeshot,musketeer_rapidreload,gladiator_war_machine,warrior_soldieroffortune,bomber_concentrated_burst,bomber_living_bomb,fairy_gift_of_the_wind,fairy_fireflyconjuration,ensouled_heroicspirits,bomber_dangerzone,saint_surgeofconfidence,artillery_machine_gun,lancer_spearofvengeance,orcs_building_rage,flagbearer_bannerofluck",
+        "nextNodeType": "ancientfeeding"
+    },
+    {
         "dungeonRunId": "176638",
         "completedLevels": "50",
         "twitchDisplayName": "CoilGun",
@@ -34,15 +43,6 @@
         "endTime": "2025-01-19 09:36:47",
         "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,berserker_killing_spree,bomber_dangerzone,musketeer_rapidreload,melee_followup,saint_exalt,warrior_flameslash,gladiator_war_machine,support_enchantedstaves,lancer_sarissaspears,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,ranged_damage_2,lancer_ignitingstrike,shinobi_shadowstrike,lancer_spearofvengeance",
         "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "176799",
-        "completedLevels": "49",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-01-19 10:47:27",
-        "endTime": "2025-01-19 17:37:01",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,flagbearer_focused_morale,bomber_living_bomb,bomber_dangerzone,spell_empower_highground,saint_exalt,berserker_enrage,centurion_2,monk_snakestyle,warbeast_terrifying_presence,fairy_fireflyconjuration,musketeer_grapeshot,orcs_building_rage,melee_followup,vampire_darkwings,flagbearer_bannerofexaltation,gladiator_war_machine,lancer_sarissaspears,lancer_spearofvengeance",
-        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "176525",
