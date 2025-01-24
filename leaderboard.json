@@ -54,15 +54,6 @@
         "nextNodeType": "shogunateBossCastle"
     },
     {
-        "dungeonRunId": "177203",
-        "completedLevels": "47",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2025-01-22 15:28:06",
-        "endTime": "2025-01-22 21:25:07",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,berserker_rancor,musketeer_grapeshot,saint_godspeed,epic_giantsbrewzero,archer_venomarrows,artillery_machine_gun,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,fairy_gift_of_the_wind,gladiator_browbeat,berserker_enrage,saint_exalt,healer_shadowword,barbarian_conqueror,flagbearer_bannerofluck,centurion_2",
-        "nextNodeType": "dungeons_boss_toadraiders"
-    },
-    {
         "dungeonRunId": "176566",
         "completedLevels": "47",
         "twitchDisplayName": "Tayls10",
@@ -70,6 +61,15 @@
         "endTime": "2025-01-18 03:52:12",
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,support_enchantedstaves,bomber_living_bomb,bomber_dangerzone,assassin_disappearingact,musk_hunters_mark,warrior_soldieroffortune,orcs_building_rage,blob_parasite,shinobi_shadowstrike,berserker_enrage,healer_combatmedic,berserker_killing_spree,saint_surgeofconfidence,amazon_vineclone,centurion_tactician,gladiator_sonofthunder,shinobi_lastninja,fairy_fireflyconjuration,frogue_cloakingfield",
         "nextNodeType": "glitchedboss"
+    },
+    {
+        "dungeonRunId": "177203",
+        "completedLevels": "47",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2025-01-22 15:28:06",
+        "endTime": "2025-01-22 21:25:07",
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,berserker_rancor,musketeer_grapeshot,saint_godspeed,epic_giantsbrewzero,archer_venomarrows,artillery_machine_gun,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,fairy_gift_of_the_wind,gladiator_browbeat,berserker_enrage,saint_exalt,healer_shadowword,barbarian_conqueror,flagbearer_bannerofluck,centurion_2",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "177013",
@@ -81,12 +81,12 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "177287",
+        "dungeonRunId": "176752",
         "completedLevels": "46",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-01-23 13:08:18",
-        "endTime": "2025-01-23 21:21:21",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,gladiator_sonofthunder,archer_venomarrows,artillery_machine_gun,berserker_enrage,ensouled_heroicspirits,common_specialists,lancer_sarissaspears,spell_empower_killingfield,gladiator_browbeat,gladiator_war_machine,centurion_tactician,melee_followup,barbarian_conqueror,flagbearer_bannerofluck,monk_snakestyle,warrior_soldieroffortune",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-01-19 01:47:04",
+        "endTime": "2025-01-19 07:15:27",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,saint_surgeofconfidence,musketeer_rapidreload,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,archer_venomarrows,spell_empower_stronghold,saint_exalt,bomber_concentrated_burst,centurion_2,bomber_dangerzone,support_enchantedstaves,epic_epicaspirations,epic_giantsbrewzero,gladiator_war_machine,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind",
         "nextNodeType": "newjunglespore"
     }
 ]
