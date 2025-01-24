@@ -45,6 +45,15 @@
         "nextNodeType": "glitchedboss"
     },
     {
+        "dungeonRunId": "177013",
+        "completedLevels": "47",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-01-21 02:16:38",
+        "endTime": "2025-01-21 07:44:46",
+        "captainBoons": "common_classic_comeback,paladin_layonhands,ranged_damage_2,musketeer_rapidreload,ensouled_bravespirits,epic_giantsbrewzero,musketeer_grapeshot,archer_steadybow,melee_followup,saint_exalt,warrior_flameslash,gladiator_sonofthunder,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,barbarian_gloriousdeath,berserker_killing_spree,barbarian_bringthepain,common_specialists,berserker_rancor,healer_shadowword",
+        "nextNodeType": "glitchedboss"
+    },
+    {
         "dungeonRunId": "176525",
         "completedLevels": "47",
         "twitchDisplayName": "redspecter23",
@@ -72,21 +81,12 @@
         "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
-        "dungeonRunId": "177013",
-        "completedLevels": "47",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-01-21 02:16:38",
-        "endTime": "2025-01-21 07:44:46",
-        "captainBoons": "common_classic_comeback,paladin_layonhands,ranged_damage_2,musketeer_rapidreload,ensouled_bravespirits,epic_giantsbrewzero,musketeer_grapeshot,archer_steadybow,melee_followup,saint_exalt,warrior_flameslash,gladiator_sonofthunder,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,barbarian_gloriousdeath,berserker_killing_spree,barbarian_bringthepain,common_specialists,berserker_rancor,healer_shadowword",
-        "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "177287",
+        "dungeonRunId": "176752",
         "completedLevels": "46",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-01-23 13:08:18",
-        "endTime": "2025-01-23 21:21:21",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,musketeer_grapeshot,bomber_living_bomb,bomber_dangerzone,gladiator_sonofthunder,archer_venomarrows,artillery_machine_gun,berserker_enrage,ensouled_heroicspirits,common_specialists,lancer_sarissaspears,spell_empower_killingfield,gladiator_browbeat,gladiator_war_machine,centurion_tactician,melee_followup,barbarian_conqueror,flagbearer_bannerofluck,monk_snakestyle,warrior_soldieroffortune",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-01-19 01:47:04",
+        "endTime": "2025-01-19 07:15:27",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,saint_surgeofconfidence,musketeer_rapidreload,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,archer_venomarrows,spell_empower_stronghold,saint_exalt,bomber_concentrated_burst,centurion_2,bomber_dangerzone,support_enchantedstaves,epic_epicaspirations,epic_giantsbrewzero,gladiator_war_machine,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind",
         "nextNodeType": "newjunglespore"
     }
 ]
