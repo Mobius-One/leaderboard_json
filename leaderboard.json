@@ -54,15 +54,6 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "177203",
-        "completedLevels": "47",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2025-01-22 15:28:06",
-        "endTime": "2025-01-22 21:25:07",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,berserker_rancor,musketeer_grapeshot,saint_godspeed,epic_giantsbrewzero,archer_venomarrows,artillery_machine_gun,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,fairy_gift_of_the_wind,gladiator_browbeat,berserker_enrage,saint_exalt,healer_shadowword,barbarian_conqueror,flagbearer_bannerofluck,centurion_2",
-        "nextNodeType": "dungeons_boss_toadraiders"
-    },
-    {
         "dungeonRunId": "176525",
         "completedLevels": "47",
         "twitchDisplayName": "redspecter23",
@@ -81,12 +72,21 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "176387",
+        "dungeonRunId": "177203",
+        "completedLevels": "47",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2025-01-22 15:28:06",
+        "endTime": "2025-01-22 21:25:07",
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,berserker_rancor,musketeer_grapeshot,saint_godspeed,epic_giantsbrewzero,archer_venomarrows,artillery_machine_gun,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,fairy_gift_of_the_wind,gladiator_browbeat,berserker_enrage,saint_exalt,healer_shadowword,barbarian_conqueror,flagbearer_bannerofluck,centurion_2",
+        "nextNodeType": "dungeons_boss_toadraiders"
+    },
+    {
+        "dungeonRunId": "176752",
         "completedLevels": "46",
-        "twitchDisplayName": "OvidiuZ94",
-        "startTime": "2025-01-16 19:00:13",
-        "endTime": "2025-01-17 01:06:24",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,barbarian_bringthepain,lancer_sarissaspears,saint_godspeed,berserker_rancor,healer_shadowword,blob_parasite,bomber_dangerzone,barbarian_conqueror,saint_exalt,bomber_living_bomb,fairy_gift_of_the_wind,epic_giantsbrewzero,warrior_flameslash,ensouled_bravespirits,warrior_soldieroffortune,saint_surgeofconfidence,rogue_shadowcloak,barbarian_gloriousdeath,lancer_spearofvengeance",
-        "nextNodeType": "crucibleforge"
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-01-19 01:47:04",
+        "endTime": "2025-01-19 07:15:27",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,saint_surgeofconfidence,musketeer_rapidreload,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,archer_venomarrows,spell_empower_stronghold,saint_exalt,bomber_concentrated_burst,centurion_2,bomber_dangerzone,support_enchantedstaves,epic_epicaspirations,epic_giantsbrewzero,gladiator_war_machine,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind",
+        "nextNodeType": "newjunglespore"
     }
 ]
