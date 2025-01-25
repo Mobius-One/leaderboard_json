@@ -45,15 +45,6 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "177203",
-        "completedLevels": "47",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2025-01-22 15:28:06",
-        "endTime": "2025-01-22 21:25:07",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,berserker_rancor,musketeer_grapeshot,saint_godspeed,epic_giantsbrewzero,archer_venomarrows,artillery_machine_gun,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,fairy_gift_of_the_wind,gladiator_browbeat,berserker_enrage,saint_exalt,healer_shadowword,barbarian_conqueror,flagbearer_bannerofluck,centurion_2",
-        "nextNodeType": "dungeons_boss_toadraiders"
-    },
-    {
         "dungeonRunId": "176566",
         "completedLevels": "47",
         "twitchDisplayName": "Tayls10",
@@ -70,6 +61,15 @@
         "endTime": "2025-01-21 07:44:46",
         "captainBoons": "common_classic_comeback,paladin_layonhands,ranged_damage_2,musketeer_rapidreload,ensouled_bravespirits,epic_giantsbrewzero,musketeer_grapeshot,archer_steadybow,melee_followup,saint_exalt,warrior_flameslash,gladiator_sonofthunder,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,barbarian_gloriousdeath,berserker_killing_spree,barbarian_bringthepain,common_specialists,berserker_rancor,healer_shadowword",
         "nextNodeType": "glitchedboss"
+    },
+    {
+        "dungeonRunId": "177203",
+        "completedLevels": "47",
+        "twitchDisplayName": "ThaTrueBeast",
+        "startTime": "2025-01-22 15:28:06",
+        "endTime": "2025-01-22 21:25:07",
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,berserker_rancor,musketeer_grapeshot,saint_godspeed,epic_giantsbrewzero,archer_venomarrows,artillery_machine_gun,bomber_dangerzone,gladiator_sonofthunder,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,fairy_gift_of_the_wind,gladiator_browbeat,berserker_enrage,saint_exalt,healer_shadowword,barbarian_conqueror,flagbearer_bannerofluck,centurion_2",
+        "nextNodeType": "dungeons_boss_toadraiders"
     },
     {
         "dungeonRunId": "176525",
