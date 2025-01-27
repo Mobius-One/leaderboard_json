@@ -81,12 +81,12 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "176567",
+        "dungeonRunId": "177420",
         "completedLevels": "46",
-        "twitchDisplayName": "LitterboxToast",
-        "startTime": "2025-01-17 21:26:34",
-        "endTime": "2025-01-18 03:27:43",
-        "captainBoons": "common_classic_comeback,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,archer_venomarrows,saint_exalt,necromancer_bombasticbones,berserker_rancor,melee_followup,warrior_flameslash,gladiator_browbeat,fairy_hocuspocus,common_specialists,flagbearer_bannerofluck,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,ensouled_heroicspirits,centurion_tactician",
-        "nextNodeType": "newjunglespore"
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-01-24 15:01:02",
+        "endTime": "2025-01-24 21:17:18",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,tank_truetank,fairy_gift_of_the_wind,fairy_fireflyconjuration,saint_godspeed,tank_tungstenswords,musketeer_grapeshot,mage_darkmagic,ranged_damage_2,archer_rapidshot,berserker_enrage,lancer_ignitingstrike,epic_giantsbrewzero,musk_hunters_mark,flagbearer_bannerofluck,bomber_concentrated_burst,ensouled_bravespirits,saint_exalt",
+        "nextNodeType": "heartscelestialabyrinth"
     }
 ]
