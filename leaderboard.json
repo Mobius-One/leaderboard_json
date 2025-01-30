@@ -67,18 +67,9 @@
         "completedLevels": "49",
         "twitchDisplayName": "KMTlol",
         "startTime": "2025-01-30 10:43:10",
-        "endTime": null,
+        "endTime": "2025-01-30 16:29:50",
         "captainBoons": "common_classic_comeback,warrior_flameslash,epic_epicaspirations,gladiator_browbeat,saint_godspeed,fairy_fireflyconjuration,bomber_living_bomb,warrior_soldieroffortune,fairy_hocuspocus,lancer_sarissaspears,bomber_dangerzone,ensouled_heroicspirits,epic_giantsbrewzero,support_enchantedstaves,monk_heavenskarma,berserker_rancor,ranged_damage_2,necromancer_bombasticbones,saint_exalt,berserker_enrage",
         "nextNodeType": "crucibleforge"
-    },
-    {
-        "dungeonRunId": "176525",
-        "completedLevels": "47",
-        "twitchDisplayName": "redspecter23",
-        "startTime": "2025-01-17 16:46:13",
-        "endTime": "2025-01-18 00:02:42",
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,saint_exalt,saint_surgeofconfidence,bomber_living_bomb,archer_rapidshot,lancer_ignitingstrike,bomber_dangerzone,warrior_flameslash,gladiator_war_machine,musketeer_grapeshot,epic_giantsbrewzero,lancer_spearofvengeance,artillery_machine_gun,flagbearer_bannerofexaltation,spell_empower_highground,berserker_rancor,lancer_sarissaspears,berserker_enrage,gladiator_browbeat",
-        "nextNodeType": "shogunateBossCastle"
     },
     {
         "dungeonRunId": "176566",
@@ -88,5 +79,14 @@
         "endTime": "2025-01-18 03:52:12",
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,support_enchantedstaves,bomber_living_bomb,bomber_dangerzone,assassin_disappearingact,musk_hunters_mark,warrior_soldieroffortune,orcs_building_rage,blob_parasite,shinobi_shadowstrike,berserker_enrage,healer_combatmedic,berserker_killing_spree,saint_surgeofconfidence,amazon_vineclone,centurion_tactician,gladiator_sonofthunder,shinobi_lastninja,fairy_fireflyconjuration,frogue_cloakingfield",
         "nextNodeType": "glitchedboss"
+    },
+    {
+        "dungeonRunId": "176525",
+        "completedLevels": "47",
+        "twitchDisplayName": "redspecter23",
+        "startTime": "2025-01-17 16:46:13",
+        "endTime": "2025-01-18 00:02:42",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,fairy_gift_of_the_wind,saint_exalt,saint_surgeofconfidence,bomber_living_bomb,archer_rapidshot,lancer_ignitingstrike,bomber_dangerzone,warrior_flameslash,gladiator_war_machine,musketeer_grapeshot,epic_giantsbrewzero,lancer_spearofvengeance,artillery_machine_gun,flagbearer_bannerofexaltation,spell_empower_highground,berserker_rancor,lancer_sarissaspears,berserker_enrage,gladiator_browbeat",
+        "nextNodeType": "shogunateBossCastle"
     }
 ]
