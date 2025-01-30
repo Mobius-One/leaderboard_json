@@ -81,12 +81,12 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "178149",
+        "dungeonRunId": "176752",
         "completedLevels": "46",
-        "twitchDisplayName": "KMTlol",
-        "startTime": "2025-01-30 10:43:10",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_flameslash,epic_epicaspirations,gladiator_browbeat,saint_godspeed,fairy_fireflyconjuration,bomber_living_bomb,warrior_soldieroffortune,fairy_hocuspocus,lancer_sarissaspears,bomber_dangerzone,gladiator_sonofthunder,ensouled_heroicspirits,epic_giantsbrewzero,support_enchantedstaves,monk_heavenskarma,berserker_rancor,ranged_damage_2,necromancer_bombasticbones,saint_exalt,berserker_enrage",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-01-19 01:47:04",
+        "endTime": "2025-01-19 07:15:27",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,saint_surgeofconfidence,musketeer_rapidreload,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,archer_venomarrows,spell_empower_stronghold,saint_exalt,bomber_concentrated_burst,centurion_2,bomber_dangerzone,support_enchantedstaves,epic_epicaspirations,epic_giantsbrewzero,gladiator_war_machine,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind",
         "nextNodeType": "newjunglespore"
     }
 ]
