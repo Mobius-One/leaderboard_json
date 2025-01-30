@@ -81,12 +81,12 @@
         "nextNodeType": "glitchedboss"
     },
     {
-        "dungeonRunId": "177420",
+        "dungeonRunId": "176752",
         "completedLevels": "46",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2025-01-24 15:01:02",
-        "endTime": "2025-01-24 21:17:18",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,tank_truetank,fairy_gift_of_the_wind,fairy_fireflyconjuration,saint_godspeed,tank_tungstenswords,musketeer_grapeshot,mage_darkmagic,ranged_damage_2,archer_rapidshot,berserker_enrage,lancer_ignitingstrike,epic_giantsbrewzero,musk_hunters_mark,flagbearer_bannerofluck,bomber_concentrated_burst,ensouled_bravespirits,saint_exalt",
-        "nextNodeType": "heartscelestialabyrinth"
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-01-19 01:47:04",
+        "endTime": "2025-01-19 07:15:27",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,saint_surgeofconfidence,musketeer_rapidreload,flagbearer_bannerofluck,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,archer_venomarrows,spell_empower_stronghold,saint_exalt,bomber_concentrated_burst,centurion_2,bomber_dangerzone,support_enchantedstaves,epic_epicaspirations,epic_giantsbrewzero,gladiator_war_machine,berserker_rancor,ranged_damage_2,fairy_gift_of_the_wind",
+        "nextNodeType": "newjunglespore"
     }
 ]
