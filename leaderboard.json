@@ -63,6 +63,15 @@
         "nextNodeType": "glitchedboss"
     },
     {
+        "dungeonRunId": "177917",
+        "completedLevels": "50",
+        "twitchDisplayName": "CloverBug69",
+        "startTime": "2025-01-28 22:15:22",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_killing_spree,saint_exalt,berserker_enrage,artillery_machine_gun,berserker_rancor,archer_venomarrows,ensouled_heroicspirits,epic_giantsbrewzero,musketeer_grapeshot,fairy_gift_of_the_wind,orcs_building_rage,centurion_juggernaut,melee_followup,amazon_vineclone,ranged_damage_2,bomber_living_bomb,warrior_soldieroffortune,saint_surgeofconfidence",
+        "nextNodeType": "wintersnowman"
+    },
+    {
         "dungeonRunId": "178149",
         "completedLevels": "49",
         "twitchDisplayName": "KMTlol",
@@ -70,15 +79,6 @@
         "endTime": "2025-01-30 16:29:50",
         "captainBoons": "common_classic_comeback,warrior_flameslash,epic_epicaspirations,gladiator_browbeat,saint_godspeed,fairy_fireflyconjuration,bomber_living_bomb,warrior_soldieroffortune,fairy_hocuspocus,lancer_sarissaspears,bomber_dangerzone,ensouled_heroicspirits,epic_giantsbrewzero,support_enchantedstaves,monk_heavenskarma,berserker_rancor,ranged_damage_2,necromancer_bombasticbones,saint_exalt,berserker_enrage",
         "nextNodeType": "crucibleforge"
-    },
-    {
-        "dungeonRunId": "177917",
-        "completedLevels": "49",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2025-01-28 22:15:22",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_killing_spree,saint_exalt,berserker_enrage,artillery_machine_gun,berserker_rancor,archer_venomarrows,ensouled_heroicspirits,epic_giantsbrewzero,musketeer_grapeshot,fairy_gift_of_the_wind,orcs_building_rage,centurion_juggernaut,melee_followup,amazon_vineclone,ranged_damage_2,bomber_living_bomb,warrior_soldieroffortune,saint_surgeofconfidence",
-        "nextNodeType": "beastlandsbug02"
     },
     {
         "dungeonRunId": "176525",
