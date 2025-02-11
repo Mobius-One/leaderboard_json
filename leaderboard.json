@@ -19,29 +19,29 @@
     },
     {
         "dungeonRunId": "178240",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 20:10:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,vampire_lordofthedead,art_1,melee_spikedbones,warrior_dragonslayers,warrior_falltodarkness,armored_undyingdefense,general_armyofdarkness,monk_spiritstrike,tank_boneyardwarden",
-        "nextNodeType": "dungeons_haunted_field"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,vampire_lordofthedead,art_1,melee_spikedbones,warrior_dragonslayers,warrior_falltodarkness,armored_undyingdefense,general_armyofdarkness,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178239",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-11 19:56:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,support_funeralrites,warbeast_underworldbeast,armored_undyingdefense,tank_lastlaugh,art_1,general_ghoulhide,blob_ectoplasmic,mage_clone",
-        "nextNodeType": "dungeons_cult_square"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,support_funeralrites,warbeast_underworldbeast,armored_undyingdefense,tank_lastlaugh,art_1,general_ghoulhide,blob_ectoplasmic,mage_clone,rogue_nighthunter",
+        "nextNodeType": "dungeons_polterheist_town"
     },
     {
         "dungeonRunId": "178244",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-11 21:21:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark,musk_hunters_mark,ranged_strangergloves",
-        "nextNodeType": "dungeons_cult_alley"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark,musk_hunters_mark,ranged_strangergloves,general_armyofdarkness",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     }
 ]
