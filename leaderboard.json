@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178230",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-02-11 19:01:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint",
-        "nextNodeType": "dungeons_haunted_fountain"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint,saint_surgeofconfidence",
+        "nextNodeType": "hauntedboss"
     },
     {
         "dungeonRunId": "178234",
@@ -23,7 +23,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 19:08:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,healer_arrogantmedium",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,healer_arrogantmedium,barbarian_spiritconversion",
         "nextNodeType": "dungeons_haunted_field"
     }
 ]
