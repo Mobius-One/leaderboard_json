@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178239",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-11 19:56:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,support_funeralrites,warbeast_underworldbeast,armored_undyingdefense,tank_lastlaugh,art_1,general_ghoulhide,blob_ectoplasmic,mage_clone,rogue_nighthunter,leader_undyingconscription,paladin_holyforce,ranged_strangergloves,paladin_skeletalsquire",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,support_funeralrites,warbeast_underworldbeast,armored_undyingdefense,tank_lastlaugh,art_1,general_ghoulhide,blob_ectoplasmic,mage_clone,rogue_nighthunter,leader_undyingconscription,paladin_holyforce,ranged_strangergloves,paladin_skeletalsquire,blob_parasite",
+        "nextNodeType": "dungeons_haunted_forest"
     },
     {
         "dungeonRunId": "178244",
