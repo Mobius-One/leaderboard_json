@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "178230",
+        "completedLevels": "16",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-02-11 19:01:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast,flagbearer_flagbearerswill",
+        "nextNodeType": "dungeons_polterheist_swamp"
+    },
+    {
         "dungeonRunId": "178234",
         "completedLevels": "15",
         "twitchDisplayName": "Panthergal2018",
@@ -9,22 +18,13 @@
         "nextNodeType": "dungeons_cult_docks"
     },
     {
-        "dungeonRunId": "178230",
-        "completedLevels": "15",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2025-02-11 19:01:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast",
-        "nextNodeType": "dungeons_polterheist_town"
-    },
-    {
-        "dungeonRunId": "178235",
-        "completedLevels": "7",
+        "dungeonRunId": "178240",
+        "completedLevels": "8",
         "twitchDisplayName": "Rafipi",
-        "startTime": "2025-02-11 19:08:13",
-        "endTime": "2025-02-11 20:10:01",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,healer_arrogantmedium,barbarian_spiritconversion,epic_monstersbrew,armored_sanctifiedbones,paladin_holyforce,armored_undyingdefense",
-        "nextNodeType": "dungeons_haunted_town"
+        "startTime": "2025-02-11 20:10:17",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,vampire_lordofthedead,art_1,melee_spikedbones",
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "178239",
