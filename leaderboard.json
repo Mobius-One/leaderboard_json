@@ -1,12 +1,21 @@
 [
     {
+        "dungeonRunId": "178230",
+        "completedLevels": "2",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-02-11 19:01:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic",
+        "nextNodeType": "dungeons_boss_mansion"
+    },
+    {
         "dungeonRunId": "178234",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-11 19:07:48",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades",
-        "nextNodeType": "dungeons_polterheist_town"
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "178235",
@@ -14,16 +23,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 19:08:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves",
         "nextNodeType": "dungeons_polterheist_clearing"
-    },
-    {
-        "dungeonRunId": "178230",
-        "completedLevels": "1",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2025-02-11 19:01:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility",
-        "nextNodeType": "dungeons_haunted_forest"
     }
 ]
