@@ -4,7 +4,7 @@
         "completedLevels": "33",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-02-11 19:01:48",
-        "endTime": null,
+        "endTime": "2025-02-11 23:46:37",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast,flagbearer_flagbearerswill,melee_hollowup,archer_soulpenetration,ranged_strangergloves,blob_flesheater,art_1,assassin_arghgility,bomber_ricochet,rogue_2,archer_silveredarrows,warrior_dragonslayers,phantom_thehaunting,general_ghoulclaws,ranged_rangershivers",
         "nextNodeType": "dungeons_haunted_circle"
     },
@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178244",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-11 21:21:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark,musk_hunters_mark,ranged_strangergloves,general_armyofdarkness,monk_spiritstrike,general_ghoulagility,armored_sanctifiedbones,saint_skeletondance,general_ghoulsprint,general_wailrounded,mage_clone,archer_silveredarrows,archer_enchantedammo,epic_assassin_serialkiller,warrior_silveredblades,epic_monstersblessing,ranged_etherealwounds,general_ghoulhide",
-        "nextNodeType": "dungeons_cult_fields"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark,musk_hunters_mark,ranged_strangergloves,general_armyofdarkness,monk_spiritstrike,general_ghoulagility,armored_sanctifiedbones,saint_skeletondance,general_ghoulsprint,general_wailrounded,mage_clone,archer_silveredarrows,archer_enchantedammo,epic_assassin_serialkiller,warrior_silveredblades,epic_monstersblessing,ranged_etherealwounds,general_ghoulhide,support_funeralrites",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     },
     {
         "dungeonRunId": "178234",
@@ -46,11 +46,11 @@
     },
     {
         "dungeonRunId": "178246",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-11 23:22:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites",
-        "nextNodeType": "dungeons_boss_mansion"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds",
+        "nextNodeType": "dungeons_polterheist_clearing"
     }
 ]
