@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "178230",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-02-11 19:01:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab",
-        "nextNodeType": "dungeons_haunted_ruins"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter",
+        "nextNodeType": "dungeons_haunted_circle"
     },
     {
         "dungeonRunId": "178234",
-        "completedLevels": "11",
+        "completedLevels": "12",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-11 19:07:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark",
-        "nextNodeType": "hauntedboss"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark,epic_assassin_serialkiller",
+        "nextNodeType": "dungeons_cult_fields"
     },
     {
         "dungeonRunId": "178235",
