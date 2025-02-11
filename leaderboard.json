@@ -10,29 +10,29 @@
     },
     {
         "dungeonRunId": "178234",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-11 19:07:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,necromancer_bombasticbones,support_dyingsong",
-        "nextNodeType": "dungeons_haunted_circle"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,necromancer_bombasticbones,support_dyingsong,general_wailrounded",
+        "nextNodeType": "hauntedboss"
     },
     {
         "dungeonRunId": "178240",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 20:10:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,vampire_lordofthedead,art_1,melee_spikedbones,warrior_dragonslayers",
-        "nextNodeType": "dungeons_boss_mansion"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,vampire_lordofthedead,art_1,melee_spikedbones,warrior_dragonslayers,warrior_falltodarkness",
+        "nextNodeType": "dungeons_cult_docks"
     },
     {
         "dungeonRunId": "178239",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-11 19:56:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,support_funeralrites,warbeast_underworldbeast,armored_undyingdefense,tank_lastlaugh",
-        "nextNodeType": "hauntedboss"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,support_funeralrites,warbeast_underworldbeast,armored_undyingdefense,tank_lastlaugh,art_1",
+        "nextNodeType": "dungeons_polterheist_swamp"
     }
 ]
