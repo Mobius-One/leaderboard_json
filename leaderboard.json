@@ -10,20 +10,20 @@
     },
     {
         "dungeonRunId": "178234",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-11 19:07:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint",
-        "nextNodeType": "dungeons_polterheist_clearing"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers",
+        "nextNodeType": "polterheisttownboss"
     },
     {
         "dungeonRunId": "178235",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 19:08:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,healer_arrogantmedium,barbarian_spiritconversion",
-        "nextNodeType": "dungeons_haunted_field"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,healer_arrogantmedium,barbarian_spiritconversion,epic_monstersbrew",
+        "nextNodeType": "dungeons_cult_fields"
     }
 ]
