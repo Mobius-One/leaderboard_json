@@ -1,92 +1,11 @@
 [
     {
-        "dungeonRunId": "176413",
-        "completedLevels": "74",
-        "twitchDisplayName": "Angel",
-        "startTime": "2025-01-16 22:01:23",
-        "endTime": "2025-01-17 04:27:25",
-        "captainBoons": "bomber_dangerzone,musketeer_grapeshot,bomber_living_bomb,gladiator_war_machine,musketeer_rapidreload,fairy_fireflyconjuration,berserker_rancor",
-        "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "177689",
-        "completedLevels": "66",
-        "twitchDisplayName": "ThaTrueBeast",
-        "startTime": "2025-01-26 22:56:26",
-        "endTime": "2025-01-27 07:21:55",
-        "captainBoons": "archer_venomarrows,gladiator_war_machine,bomber_dangerzone,fairy_fireflyconjuration,bomber_living_bomb,saint_exalt,barbarian_gloriousdeath,berserker_enrage,blob_parasite,saint_surgeofconfidence,gladiator_browbeat",
-        "nextNodeType": "newjunglespore"
-    },
-    {
-        "dungeonRunId": "177267",
-        "completedLevels": "61",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-01-23 06:02:45",
-        "endTime": "2025-01-23 13:26:32",
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,saint_surgeofconfidence,ensouled_heroicspirits,bomber_dangerzone,barbarian_bringthepain,flagbearer_focused_morale,lancer_ignitingstrike,saint_godspeed,fairy_fireflyconjuration,archer_venomarrows,saint_exalt,lancer_sarissaspears,bomber_living_bomb",
-        "nextNodeType": "steamplaza"
-    },
-    {
-        "dungeonRunId": "176916",
-        "completedLevels": "59",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-01-20 09:23:18",
-        "endTime": "2025-01-20 17:33:41",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,saint_exalt,musketeer_grapeshot,musketeer_rapidreload,gladiator_war_machine,warrior_soldieroffortune,bomber_concentrated_burst,bomber_living_bomb,fairy_fireflyconjuration,ensouled_heroicspirits,bomber_dangerzone,saint_surgeofconfidence,lancer_spearofvengeance,orcs_building_rage",
-        "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "178079",
-        "completedLevels": "56",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-01-30 02:17:19",
-        "endTime": "2025-01-30 08:59:30",
-        "captainBoons": "common_classic_comeback,musketeer_grapeshot,musketeer_rapidreload,rogue_shadowcloak,bomber_dangerzone,paladin_avengingsmite,blob_parasite,lancer_sarissaspears,berserker_enrage,saint_exalt,archer_venomarrows,epic_giantsbrewzero,archer_steadybow,centurion_tactician,assassin_disappearingact,fairy_fireflyconjuration",
-        "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "176520",
-        "completedLevels": "53",
-        "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2025-01-17 15:53:26",
-        "endTime": "2025-01-17 20:35:49",
-        "captainBoons": "common_classic_comeback,melee_followup,ensouled_heroicspirits,musketeer_rapidreload,lancer_spearofvengeance,spell_empower_stronghold,saint_surgeofconfidence,berserker_rancor,paladin_layonhands,gladiator_sonofthunder,flagbearer_focused_morale,bomber_dangerzone,gladiator_war_machine,barbarian_conqueror,lancer_sarissaspears,fairy_fireflyconjuration,bomber_living_bomb,barbarian_bringthepain",
-        "nextNodeType": "dungeons_boss_toadraiders"
-    },
-    {
-        "dungeonRunId": "177917",
-        "completedLevels": "51",
-        "twitchDisplayName": "CloverBug69",
-        "startTime": "2025-01-28 22:15:22",
-        "endTime": "2025-02-01 22:49:27",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_killing_spree,saint_exalt,berserker_enrage,artillery_machine_gun,berserker_rancor,archer_venomarrows,ensouled_heroicspirits,epic_giantsbrewzero,musketeer_grapeshot,fairy_gift_of_the_wind,orcs_building_rage,centurion_juggernaut,melee_followup,ranged_damage_2,bomber_living_bomb,warrior_soldieroffortune,saint_surgeofconfidence",
-        "nextNodeType": "crucibleforge"
-    },
-    {
-        "dungeonRunId": "176638",
-        "completedLevels": "50",
-        "twitchDisplayName": "CoilGun",
-        "startTime": "2025-01-18 06:50:15",
-        "endTime": "2025-01-19 09:36:47",
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,berserker_killing_spree,bomber_dangerzone,musketeer_rapidreload,melee_followup,saint_exalt,warrior_flameslash,gladiator_war_machine,support_enchantedstaves,lancer_sarissaspears,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,ranged_damage_2,lancer_ignitingstrike,shinobi_shadowstrike,lancer_spearofvengeance",
-        "nextNodeType": "glitchedboss"
-    },
-    {
-        "dungeonRunId": "178149",
-        "completedLevels": "49",
-        "twitchDisplayName": "KMTlol",
-        "startTime": "2025-01-30 10:43:10",
-        "endTime": "2025-01-30 16:29:50",
-        "captainBoons": "common_classic_comeback,warrior_flameslash,epic_epicaspirations,gladiator_browbeat,saint_godspeed,fairy_fireflyconjuration,bomber_living_bomb,warrior_soldieroffortune,fairy_hocuspocus,lancer_sarissaspears,bomber_dangerzone,ensouled_heroicspirits,epic_giantsbrewzero,support_enchantedstaves,monk_heavenskarma,berserker_rancor,ranged_damage_2,necromancer_bombasticbones,saint_exalt,berserker_enrage",
-        "nextNodeType": "crucibleforge"
-    },
-    {
-        "dungeonRunId": "176566",
-        "completedLevels": "47",
-        "twitchDisplayName": "Tayls10",
-        "startTime": "2025-01-17 21:25:27",
-        "endTime": "2025-01-18 03:52:12",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,support_enchantedstaves,bomber_living_bomb,bomber_dangerzone,assassin_disappearingact,musk_hunters_mark,warrior_soldieroffortune,orcs_building_rage,blob_parasite,shinobi_shadowstrike,berserker_enrage,healer_combatmedic,berserker_killing_spree,saint_surgeofconfidence,amazon_vineclone,centurion_tactician,gladiator_sonofthunder,shinobi_lastninja,fairy_fireflyconjuration,frogue_cloakingfield",
-        "nextNodeType": "glitchedboss"
+        "dungeonRunId": "178230",
+        "completedLevels": "1",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-02-11 19:01:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility",
+        "nextNodeType": "dungeons_haunted_forest"
     }
 ]
