@@ -1,29 +1,29 @@
 [
     {
         "dungeonRunId": "178230",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-02-11 19:01:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno",
-        "nextNodeType": "dungeons_cult_alley"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint",
+        "nextNodeType": "dungeons_haunted_fountain"
     },
     {
         "dungeonRunId": "178234",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-11 19:07:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno",
-        "nextNodeType": "dungeons_polterheist_swamp"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint",
+        "nextNodeType": "dungeons_polterheist_clearing"
     },
     {
         "dungeonRunId": "178235",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 19:08:13",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,healer_arrogantmedium",
-        "nextNodeType": "polterheisttownboss"
+        "nextNodeType": "dungeons_haunted_field"
     }
 ]
