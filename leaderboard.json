@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "178230",
+        "completedLevels": "19",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-02-11 19:01:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast,flagbearer_flagbearerswill,melee_hollowup,archer_soulpenetration,ranged_strangergloves",
+        "nextNodeType": "dungeons_haunted_field"
+    },
+    {
         "dungeonRunId": "178234",
         "completedLevels": "18",
         "twitchDisplayName": "Panthergal2018",
@@ -9,22 +18,13 @@
         "nextNodeType": "dungeons_haunted_forest"
     },
     {
-        "dungeonRunId": "178230",
-        "completedLevels": "18",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2025-02-11 19:01:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast,flagbearer_flagbearerswill,melee_hollowup,archer_soulpenetration",
-        "nextNodeType": "dungeons_polterheist_clearing"
-    },
-    {
         "dungeonRunId": "178240",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 20:10:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,vampire_lordofthedead,art_1,melee_spikedbones,warrior_dragonslayers,warrior_falltodarkness,armored_undyingdefense",
-        "nextNodeType": "dungeons_haunted_ruins"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,vampire_lordofthedead,art_1,melee_spikedbones,warrior_dragonslayers,warrior_falltodarkness,armored_undyingdefense,general_armyofdarkness",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     },
     {
         "dungeonRunId": "178239",
@@ -37,11 +37,11 @@
     },
     {
         "dungeonRunId": "178244",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-11 21:21:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew",
-        "nextNodeType": "dungeons_haunted_field"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark",
+        "nextNodeType": "dungeons_boss_mansion"
     }
 ]
