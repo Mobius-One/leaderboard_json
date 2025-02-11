@@ -5,7 +5,7 @@
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-11 19:07:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup",
         "nextNodeType": "dungeons_boss_headlesshorseman"
     },
     {
@@ -22,7 +22,7 @@
         "completedLevels": "7",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 19:08:13",
-        "endTime": null,
+        "endTime": "2025-02-11 20:10:01",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,healer_arrogantmedium,barbarian_spiritconversion,epic_monstersbrew,armored_sanctifiedbones,paladin_holyforce,armored_undyingdefense",
         "nextNodeType": "dungeons_haunted_town"
     },
@@ -32,7 +32,7 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-11 19:56:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill",
         "nextNodeType": "dungeons_polterheist_clearing"
     }
 ]
