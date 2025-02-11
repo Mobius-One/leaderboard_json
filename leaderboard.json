@@ -37,11 +37,11 @@
     },
     {
         "dungeonRunId": "178244",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-11 21:21:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark,musk_hunters_mark,ranged_strangergloves,general_armyofdarkness",
-        "nextNodeType": "dungeons_boss_headlesshorseman"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark,musk_hunters_mark,ranged_strangergloves,general_armyofdarkness,monk_spiritstrike",
+        "nextNodeType": "dungeons_haunted_circle"
     }
 ]
