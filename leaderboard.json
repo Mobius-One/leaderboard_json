@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "178234",
+        "completedLevels": "15",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-02-11 19:07:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,necromancer_bombasticbones",
+        "nextNodeType": "dungeons_cult_docks"
+    },
+    {
         "dungeonRunId": "178230",
         "completedLevels": "15",
         "twitchDisplayName": "Meistar",
@@ -7,15 +16,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,blob_ectoplasmic,warlock_inferno,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast",
         "nextNodeType": "dungeons_polterheist_town"
-    },
-    {
-        "dungeonRunId": "178234",
-        "completedLevels": "14",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-11 19:07:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers",
-        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178235",
