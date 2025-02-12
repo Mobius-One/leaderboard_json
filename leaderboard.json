@@ -72,21 +72,21 @@
         "nextNodeType": "dungeons_haunted_forest"
     },
     {
+        "dungeonRunId": "178296",
+        "completedLevels": "16",
+        "twitchDisplayName": "Angel",
+        "startTime": "2025-02-12 20:16:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup,amazon_vineclone",
+        "nextNodeType": "dungeons_haunted_fountain"
+    },
+    {
         "dungeonRunId": "178290",
         "completedLevels": "16",
         "twitchDisplayName": "Delicate_Lilly",
         "startTime": "2025-02-12 16:24:16",
         "endTime": "2025-02-12 18:44:13",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,epic_monstersblessing,saint_skeletondance,general_ghoulagility,rogue_momentum,tank_hoarfrost_armor,warrior_silveredblades,general_raidofthedead,fairy_nixiepops,armored_undyingdefense,necromancer_necronomicon,mage_clone,archer_silveredarrows,saint_surgeofconfidence,buster_carbonplating,ranged_strangergloves",
-        "nextNodeType": "dungeons_haunted_forest"
-    },
-    {
-        "dungeonRunId": "178296",
-        "completedLevels": "15",
-        "twitchDisplayName": "Angel",
-        "startTime": "2025-02-12 20:16:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup",
         "nextNodeType": "dungeons_haunted_forest"
     }
 ]
