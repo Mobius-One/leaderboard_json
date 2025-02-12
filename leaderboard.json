@@ -64,21 +64,21 @@
     },
     {
         "dungeonRunId": "178261",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-02-12 03:36:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet,warlock_inferno",
-        "nextNodeType": "dungeons_haunted_forest"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet,warlock_inferno,armored_undyingdefense",
+        "nextNodeType": "dungeons_haunted_ruins"
     },
     {
         "dungeonRunId": "178264",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-12 04:42:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite",
-        "nextNodeType": "dungeons_haunted_fountain"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades",
+        "nextNodeType": "dungeons_haunted_forest"
     },
     {
         "dungeonRunId": "178251",
