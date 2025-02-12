@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "178261",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-02-12 03:36:51",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo",
-        "nextNodeType": "hauntedboss"
+        "nextNodeType": "dungeons_polterheist_forest"
     },
     {
         "dungeonRunId": "178251",
