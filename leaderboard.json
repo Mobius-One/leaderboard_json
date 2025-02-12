@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178246",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-11 23:22:49",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves,armored_sanctifiedbones,armored_tartarusguard,flagbearer_flagbearerswill,barbarian_possessed,necromancer_bombasticbones,general_ghoulhide",
-        "nextNodeType": "dungeons_polterheist_forest"
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178255",
