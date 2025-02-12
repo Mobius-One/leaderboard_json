@@ -4,7 +4,7 @@
         "completedLevels": "41",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 20:10:17",
-        "endTime": null,
+        "endTime": "2025-02-12 01:09:34",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,art_1,melee_spikedbones,warrior_falltodarkness,armored_undyingdefense,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,general_ghoulagility,rogue_momentum,barbarian_spiritconversion,rogue_nighthunter,epic_monstersblessing,assassin_undeathmark,ranged_etherealwounds,saint_surgeofconfidence,support_rarecandy,warrior_silveredblades,leader_undyingconscription",
         "nextNodeType": "dungeons_boss_mansion"
     },
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178246",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-11 23:22:49",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves,armored_sanctifiedbones,armored_tartarusguard",
-        "nextNodeType": "dungeons_cult_fields"
+        "nextNodeType": "dungeons_cult_street"
     },
     {
         "dungeonRunId": "178251",
