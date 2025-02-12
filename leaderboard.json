@@ -64,21 +64,21 @@
     },
     {
         "dungeonRunId": "178261",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-02-12 03:36:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet,warlock_inferno,armored_undyingdefense",
-        "nextNodeType": "dungeons_haunted_ruins"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet,warlock_inferno,armored_undyingdefense,necromancer_necronomicon",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     },
     {
         "dungeonRunId": "178264",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-12 04:42:35",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence",
-        "nextNodeType": "polterheisttownboss"
+        "nextNodeType": "dungeons_cult_square"
     },
     {
         "dungeonRunId": "178251",
