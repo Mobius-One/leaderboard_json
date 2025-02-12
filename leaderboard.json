@@ -32,7 +32,7 @@
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-12 04:42:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike,epic_monstersbrew,blob_flesheater,barbarian_spiritconversion,general_ghoulsprint,barbarian_possessed,gladiator_war_machine,tank_boneyardwarden,lancer_impalingstakes,archer_soulpenetration,rogue_nighthunter,leader_undyingconscription,epic_assassin_serialkiller,melee_spikedbones",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike,epic_monstersbrew,blob_flesheater,barbarian_spiritconversion,general_ghoulsprint,barbarian_possessed,gladiator_war_machine,tank_boneyardwarden,lancer_impalingstakes,archer_soulpenetration,rogue_nighthunter,leader_undyingconscription,epic_assassin_serialkiller,melee_spikedbones,general_armyofdarkness",
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_polterheist_town"
     },
     {
-        "dungeonRunId": "178265",
-        "completedLevels": "3",
+        "dungeonRunId": "178252",
+        "completedLevels": "4",
         "twitchDisplayName": "radioone91fmdunedin",
-        "startTime": "2025-02-12 04:50:47",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,blob_ectoplasmic,ranged_etherealwounds",
+        "startTime": "2025-02-12 00:59:33",
+        "endTime": "2025-02-12 03:23:12",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,general_armyofdarkness,musk_hunters_mark,ranged_strangergloves",
         "nextNodeType": "dungeons_cult_square"
     }
 ]
