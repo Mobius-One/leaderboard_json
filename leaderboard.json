@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178296",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "Angel",
         "startTime": "2025-02-12 20:16:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup,amazon_vineclone",
-        "nextNodeType": "dungeons_haunted_fountain"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon",
+        "nextNodeType": "hauntedboss"
     },
     {
         "dungeonRunId": "178290",
