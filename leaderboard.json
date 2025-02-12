@@ -54,6 +54,15 @@
         "nextNodeType": "dungeons_haunted_town"
     },
     {
+        "dungeonRunId": "178261",
+        "completedLevels": "12",
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-02-12 03:36:51",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet,warlock_inferno,armored_undyingdefense,necromancer_necronomicon,tank_hoarfrost_armor",
+        "nextNodeType": "dungeons_polterheist_town"
+    },
+    {
         "dungeonRunId": "178255",
         "completedLevels": "12",
         "twitchDisplayName": "mrbigbizzness",
@@ -63,22 +72,13 @@
         "nextNodeType": "dungeons_polterheist_town"
     },
     {
-        "dungeonRunId": "178261",
-        "completedLevels": "11",
-        "twitchDisplayName": "Trovatores_Theater",
-        "startTime": "2025-02-12 03:36:51",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet,warlock_inferno,armored_undyingdefense,necromancer_necronomicon",
-        "nextNodeType": "dungeons_boss_headlesshorseman"
-    },
-    {
         "dungeonRunId": "178264",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-12 04:42:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds",
-        "nextNodeType": "dungeons_cult_square"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong",
+        "nextNodeType": "dungeons_polterheist_clearing"
     },
     {
         "dungeonRunId": "178251",
