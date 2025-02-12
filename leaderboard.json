@@ -54,6 +54,15 @@
         "nextNodeType": "dungeons_haunted_town"
     },
     {
+        "dungeonRunId": "178264",
+        "completedLevels": "14",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-12 04:42:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike,epic_monstersbrew,blob_flesheater",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
         "dungeonRunId": "178261",
         "completedLevels": "13",
         "twitchDisplayName": "Trovatores_Theater",
@@ -61,15 +70,6 @@
         "endTime": "2025-02-12 05:40:08",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet,warlock_inferno,armored_undyingdefense,necromancer_necronomicon,tank_hoarfrost_armor,general_ghoulagility",
         "nextNodeType": "dungeons_cult_square"
-    },
-    {
-        "dungeonRunId": "178264",
-        "completedLevels": "13",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-12 04:42:35",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike,epic_monstersbrew",
-        "nextNodeType": "dungeons_haunted_field"
     },
     {
         "dungeonRunId": "178255",
