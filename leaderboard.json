@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178255",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "mrbigbizzness",
         "startTime": "2025-02-12 01:28:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,lancer_impalingstakes,blob_parasite,general_ghoulresilience,melee_hollowup,epic_assassin_serialkiller,tank_boneyardwarden,general_armyofdarkness,monk_spiritstrike,general_ghoulsprint",
-        "nextNodeType": "dungeons_haunted_town"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,lancer_impalingstakes,blob_parasite,general_ghoulresilience,melee_hollowup,epic_assassin_serialkiller,tank_boneyardwarden,general_armyofdarkness,monk_spiritstrike,general_ghoulsprint,vampire_lordofthedead",
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "178252",
