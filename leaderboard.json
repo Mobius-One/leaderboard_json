@@ -9,6 +9,15 @@
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
+        "dungeonRunId": "178296",
+        "completedLevels": "34",
+        "twitchDisplayName": "Angel",
+        "startTime": "2025-02-12 20:16:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife,vampire_feastofessence,necromancer_ectoplosion,armored_undyingdefense,rogue_momentum,tank_hoarfrost_armor,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,support_dyingsong,general_armyofdarkness",
+        "nextNodeType": "dungeons_haunted_town"
+    },
+    {
         "dungeonRunId": "178230",
         "completedLevels": "33",
         "twitchDisplayName": "Meistar",
@@ -16,15 +25,6 @@
         "endTime": "2025-02-11 23:46:37",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast,flagbearer_flagbearerswill,melee_hollowup,archer_soulpenetration,ranged_strangergloves,blob_flesheater,art_1,assassin_arghgility,bomber_ricochet,rogue_2,archer_silveredarrows,warrior_dragonslayers,phantom_thehaunting,general_ghoulclaws,ranged_rangershivers",
         "nextNodeType": "dungeons_haunted_circle"
-    },
-    {
-        "dungeonRunId": "178296",
-        "completedLevels": "33",
-        "twitchDisplayName": "Angel",
-        "startTime": "2025-02-12 20:16:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife,vampire_feastofessence,necromancer_ectoplosion,armored_undyingdefense,rogue_momentum,tank_hoarfrost_armor,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,support_dyingsong,general_armyofdarkness",
-        "nextNodeType": "dungeons_haunted_forest"
     },
     {
         "dungeonRunId": "178264",
