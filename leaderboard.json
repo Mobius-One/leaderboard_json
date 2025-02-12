@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "178261",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-02-12 03:36:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness",
-        "nextNodeType": "dungeons_cult_docks"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades",
+        "nextNodeType": "dungeons_haunted_circle"
     },
     {
         "dungeonRunId": "178251",
