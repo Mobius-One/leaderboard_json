@@ -45,15 +45,6 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
-        "dungeonRunId": "178234",
-        "completedLevels": "18",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-11 19:07:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,necromancer_bombasticbones,support_dyingsong,general_wailrounded,healer_monsterrehab",
-        "nextNodeType": "dungeons_haunted_forest"
-    },
-    {
         "dungeonRunId": "178246",
         "completedLevels": "18",
         "twitchDisplayName": "ohitsneb",
@@ -63,13 +54,22 @@
         "nextNodeType": "dungeons_haunted_town"
     },
     {
+        "dungeonRunId": "178234",
+        "completedLevels": "18",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-02-11 19:07:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,necromancer_bombasticbones,support_dyingsong,general_wailrounded,healer_monsterrehab",
+        "nextNodeType": "dungeons_haunted_forest"
+    },
+    {
         "dungeonRunId": "178279",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-12 11:13:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,saint_surgeofconfidence,barbarian_spiritconversion,tank_boneyardwarden,leader_undyingconscription,warrior_falltodarkness,melee_spikedbones,armored_sanctifiedbones,bomber_avatar_power,general_ghoulresilience,general_wailrounded,ranged_etherealwounds,rogue_nighthunter,flagbearer_hauntingflags",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,saint_surgeofconfidence,barbarian_spiritconversion,tank_boneyardwarden,leader_undyingconscription,warrior_falltodarkness,melee_spikedbones,armored_sanctifiedbones,bomber_avatar_power,general_ghoulresilience,general_wailrounded,ranged_etherealwounds,rogue_nighthunter,flagbearer_hauntingflags,rogue_2",
+        "nextNodeType": "dungeons_haunted_town"
     },
     {
         "dungeonRunId": "178261",
