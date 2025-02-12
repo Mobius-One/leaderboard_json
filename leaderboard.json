@@ -63,6 +63,15 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
+        "dungeonRunId": "178296",
+        "completedLevels": "18",
+        "twitchDisplayName": "Angel",
+        "startTime": "2025-02-12 20:16:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife",
+        "nextNodeType": "dungeons_haunted_town"
+    },
+    {
         "dungeonRunId": "178234",
         "completedLevels": "18",
         "twitchDisplayName": "Panthergal2018",
@@ -70,15 +79,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,necromancer_bombasticbones,support_dyingsong,general_wailrounded,healer_monsterrehab",
         "nextNodeType": "dungeons_haunted_forest"
-    },
-    {
-        "dungeonRunId": "178296",
-        "completedLevels": "17",
-        "twitchDisplayName": "Angel",
-        "startTime": "2025-02-12 20:16:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon",
-        "nextNodeType": "hauntedboss"
     },
     {
         "dungeonRunId": "178290",
