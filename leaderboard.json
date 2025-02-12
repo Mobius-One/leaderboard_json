@@ -63,15 +63,6 @@
         "nextNodeType": "dungeons_polterheist_town"
     },
     {
-        "dungeonRunId": "178251",
-        "completedLevels": "2",
-        "twitchDisplayName": "radioone91fmdunedin",
-        "startTime": "2025-02-12 00:36:19",
-        "endTime": "2025-02-12 00:59:22",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,archer_silveredarrows,melee_hollowup",
-        "nextNodeType": "dungeons_boss_headlesshorseman"
-    },
-    {
         "dungeonRunId": "178261",
         "completedLevels": "2",
         "twitchDisplayName": "Trovatores_Theater",
@@ -79,6 +70,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo",
         "nextNodeType": "hauntedboss"
+    },
+    {
+        "dungeonRunId": "178251",
+        "completedLevels": "2",
+        "twitchDisplayName": "radioone91fmdunedin",
+        "startTime": "2025-02-12 00:36:19",
+        "endTime": "2025-02-12 00:59:22",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,archer_silveredarrows,melee_hollowup",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     },
     {
         "dungeonRunId": "178262",
