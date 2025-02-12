@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178240",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 20:10:17",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,art_1,melee_spikedbones,warrior_falltodarkness,armored_undyingdefense,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,general_ghoulagility,rogue_momentum,barbarian_spiritconversion,rogue_nighthunter,epic_monstersblessing,archer_silveredarrows,assassin_undeathmark,ranged_etherealwounds,saint_surgeofconfidence,support_rarecandy,warrior_silveredblades,leader_undyingconscription",
-        "nextNodeType": "dungeons_boss_headlesshorseman"
+        "nextNodeType": "dungeons_haunted_circle"
     },
     {
         "dungeonRunId": "178230",
