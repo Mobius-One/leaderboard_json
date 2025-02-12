@@ -18,6 +18,15 @@
         "nextNodeType": "dungeons_haunted_fountain"
     },
     {
+        "dungeonRunId": "178244",
+        "completedLevels": "22",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-02-11 21:21:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark,musk_hunters_mark,ranged_strangergloves,general_armyofdarkness,monk_spiritstrike,general_ghoulagility,armored_sanctifiedbones,saint_skeletondance,general_ghoulsprint,general_wailrounded,mage_clone,archer_silveredarrows,archer_enchantedammo,epic_assassin_serialkiller,warrior_silveredblades,epic_monstersblessing,ranged_etherealwounds,general_ghoulhide,support_funeralrites,healer_monsterrehab,general_ghoulresilience",
+        "nextNodeType": "dungeons_polterheist_forest"
+    },
+    {
         "dungeonRunId": "178239",
         "completedLevels": "21",
         "twitchDisplayName": "Hooks",
@@ -25,15 +34,6 @@
         "endTime": "2025-02-11 23:55:05",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,support_funeralrites,warbeast_underworldbeast,armored_undyingdefense,tank_lastlaugh,art_1,general_ghoulhide,blob_ectoplasmic,mage_clone,rogue_nighthunter,leader_undyingconscription,paladin_holyforce,ranged_strangergloves,paladin_skeletalsquire,blob_parasite,warrior_silveredblades,vampire_feastofessence,warrior_falltodarkness,melee_spikedbones,healer_arrogantmedium,orcs_guardian_of_the_dead",
         "nextNodeType": "dungeons_polterheist_forest"
-    },
-    {
-        "dungeonRunId": "178244",
-        "completedLevels": "21",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-11 21:21:45",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark,musk_hunters_mark,ranged_strangergloves,general_armyofdarkness,monk_spiritstrike,general_ghoulagility,armored_sanctifiedbones,saint_skeletondance,general_ghoulsprint,general_wailrounded,mage_clone,archer_silveredarrows,archer_enchantedammo,epic_assassin_serialkiller,warrior_silveredblades,epic_monstersblessing,ranged_etherealwounds,general_ghoulhide,support_funeralrites,healer_monsterrehab",
-        "nextNodeType": "dungeons_haunted_town"
     },
     {
         "dungeonRunId": "178234",
