@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178279",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-12 11:13:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,saint_surgeofconfidence,barbarian_spiritconversion,tank_boneyardwarden,leader_undyingconscription,warrior_falltodarkness,melee_spikedbones,armored_sanctifiedbones,bomber_avatar_power,general_ghoulresilience,general_wailrounded,ranged_etherealwounds,rogue_nighthunter,flagbearer_hauntingflags,rogue_2,flagbearer_flagbearerswill,vampire_lordofthedead,flagbearer_deathbegetslife",
-        "nextNodeType": "dungeons_cult_alley"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,saint_surgeofconfidence,barbarian_spiritconversion,tank_boneyardwarden,leader_undyingconscription,warrior_falltodarkness,melee_spikedbones,armored_sanctifiedbones,bomber_avatar_power,general_ghoulresilience,general_wailrounded,ranged_etherealwounds,rogue_nighthunter,flagbearer_hauntingflags,rogue_2,flagbearer_flagbearerswill,vampire_lordofthedead,flagbearer_deathbegetslife,general_ghoulagility",
+        "nextNodeType": "dungeons_polterheist_clearing"
     },
     {
         "dungeonRunId": "178234",
