@@ -64,12 +64,21 @@
     },
     {
         "dungeonRunId": "178261",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-02-12 03:36:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet",
-        "nextNodeType": "dungeons_boss_mansion"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet,warlock_inferno",
+        "nextNodeType": "dungeons_haunted_forest"
+    },
+    {
+        "dungeonRunId": "178264",
+        "completedLevels": "2",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-12 04:42:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet",
+        "nextNodeType": "hauntedboss"
     },
     {
         "dungeonRunId": "178251",
@@ -79,14 +88,5 @@
         "endTime": "2025-02-12 00:59:22",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,archer_silveredarrows,melee_hollowup",
         "nextNodeType": "dungeons_boss_headlesshorseman"
-    },
-    {
-        "dungeonRunId": "178262",
-        "completedLevels": "1",
-        "twitchDisplayName": "Imperial_Product",
-        "startTime": "2025-02-12 03:37:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal",
-        "nextNodeType": "dungeons_cult_fields"
     }
 ]
