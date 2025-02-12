@@ -64,11 +64,11 @@
     },
     {
         "dungeonRunId": "178255",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "mrbigbizzness",
         "startTime": "2025-02-12 01:28:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves",
-        "nextNodeType": "dungeons_cult_alley"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,lancer_impalingstakes",
+        "nextNodeType": "polterheisttownboss"
     }
 ]
