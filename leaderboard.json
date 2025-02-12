@@ -50,7 +50,7 @@
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-11 23:22:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves,armored_sanctifiedbones,armored_tartarusguard,flagbearer_flagbearerswill",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves,armored_sanctifiedbones,armored_tartarusguard,flagbearer_flagbearerswill,barbarian_possessed",
         "nextNodeType": "dungeons_boss_headlesshorseman"
     },
     {
@@ -61,5 +61,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,general_armyofdarkness,musk_hunters_mark",
         "nextNodeType": "dungeons_polterheist_swamp"
+    },
+    {
+        "dungeonRunId": "178255",
+        "completedLevels": "1",
+        "twitchDisplayName": "mrbigbizzness",
+        "startTime": "2025-02-12 01:28:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves",
+        "nextNodeType": "dungeons_cult_alley"
     }
 ]
