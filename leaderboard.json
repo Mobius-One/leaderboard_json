@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178279",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-12 11:13:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,saint_surgeofconfidence,barbarian_spiritconversion,tank_boneyardwarden,leader_undyingconscription,warrior_falltodarkness,melee_spikedbones,armored_sanctifiedbones,bomber_avatar_power,general_ghoulresilience",
-        "nextNodeType": "dungeons_polterheist_town"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,saint_surgeofconfidence,barbarian_spiritconversion,tank_boneyardwarden,leader_undyingconscription,warrior_falltodarkness,melee_spikedbones,armored_sanctifiedbones,bomber_avatar_power,general_ghoulresilience,general_wailrounded",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     }
 ]
