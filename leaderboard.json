@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "178296",
-        "completedLevels": "23",
+        "completedLevels": "24",
         "twitchDisplayName": "Angel",
         "startTime": "2025-02-12 20:16:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife,archer_silveredarrows,vampire_feastofessence,necromancer_ectoplosion,armored_undyingdefense,rogue_momentum",
-        "nextNodeType": "polterheisttownboss"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife,archer_silveredarrows,vampire_feastofessence,necromancer_ectoplosion,armored_undyingdefense,rogue_momentum,tank_hoarfrost_armor",
+        "nextNodeType": "dungeons_cult_alley"
     },
     {
         "dungeonRunId": "178234",
