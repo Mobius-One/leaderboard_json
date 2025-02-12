@@ -52,5 +52,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves",
         "nextNodeType": "dungeons_haunted_forest"
+    },
+    {
+        "dungeonRunId": "178251",
+        "completedLevels": "1",
+        "twitchDisplayName": "radioone91fmdunedin",
+        "startTime": "2025-02-12 00:36:19",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,archer_silveredarrows",
+        "nextNodeType": "dungeons_haunted_field"
     }
 ]
