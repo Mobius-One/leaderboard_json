@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178264",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-12 04:42:35",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike,epic_monstersbrew,blob_flesheater",
-        "nextNodeType": "dungeons_jerry"
+        "nextNodeType": "dungeons_haunted_ruins"
     },
     {
         "dungeonRunId": "178261",
