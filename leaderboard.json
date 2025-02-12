@@ -46,21 +46,21 @@
     },
     {
         "dungeonRunId": "178246",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-11 23:22:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves,armored_sanctifiedbones,armored_tartarusguard,flagbearer_flagbearerswill,barbarian_possessed,necromancer_bombasticbones,general_ghoulhide,archer_enchantedammo,barbarian_spiritconversion",
-        "nextNodeType": "dungeons_haunted_circle"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves,armored_sanctifiedbones,armored_tartarusguard,flagbearer_flagbearerswill,barbarian_possessed,necromancer_bombasticbones,general_ghoulhide,archer_enchantedammo,barbarian_spiritconversion,general_ghoulsprint",
+        "nextNodeType": "dungeons_haunted_ruins"
     },
     {
         "dungeonRunId": "178255",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "mrbigbizzness",
         "startTime": "2025-02-12 01:28:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,lancer_impalingstakes,blob_parasite,general_ghoulresilience,melee_hollowup,epic_assassin_serialkiller,tank_boneyardwarden,general_armyofdarkness",
-        "nextNodeType": "hauntedboss"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,lancer_impalingstakes,blob_parasite,general_ghoulresilience,melee_hollowup,epic_assassin_serialkiller,tank_boneyardwarden,general_armyofdarkness,monk_spiritstrike",
+        "nextNodeType": "dungeons_haunted_field"
     },
     {
         "dungeonRunId": "178252",
