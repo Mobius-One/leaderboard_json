@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178240",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 20:10:17",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,art_1,melee_spikedbones,warrior_falltodarkness,armored_undyingdefense,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,general_ghoulagility,rogue_momentum,barbarian_spiritconversion,rogue_nighthunter,epic_monstersblessing,archer_silveredarrows,assassin_undeathmark,ranged_etherealwounds,saint_surgeofconfidence,support_rarecandy,warrior_silveredblades,leader_undyingconscription",
-        "nextNodeType": "dungeons_haunted_circle"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,art_1,melee_spikedbones,warrior_falltodarkness,armored_undyingdefense,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,general_ghoulagility,rogue_momentum,barbarian_spiritconversion,rogue_nighthunter,epic_monstersblessing,assassin_undeathmark,ranged_etherealwounds,saint_surgeofconfidence,support_rarecandy,warrior_silveredblades,leader_undyingconscription",
+        "nextNodeType": "dungeons_cult_docks"
     },
     {
         "dungeonRunId": "178230",
@@ -46,20 +46,20 @@
     },
     {
         "dungeonRunId": "178246",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-11 23:22:49",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves",
-        "nextNodeType": "dungeons_haunted_forest"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves,armored_sanctifiedbones",
+        "nextNodeType": "polterheisttownboss"
     },
     {
         "dungeonRunId": "178251",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "radioone91fmdunedin",
         "startTime": "2025-02-12 00:36:19",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,archer_silveredarrows",
-        "nextNodeType": "dungeons_haunted_field"
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     }
 ]
