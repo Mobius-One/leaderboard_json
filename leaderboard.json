@@ -49,7 +49,7 @@
         "completedLevels": "18",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-11 23:22:49",
-        "endTime": null,
+        "endTime": "2025-02-12 03:09:22",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,support_funeralrites,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,tank_hoarfrost_armor,ranged_strangergloves,armored_sanctifiedbones,armored_tartarusguard,flagbearer_flagbearerswill,barbarian_possessed,necromancer_bombasticbones,general_ghoulhide,archer_enchantedammo,barbarian_spiritconversion,general_ghoulsprint,epic_monstersblessing,archer_soulpenetration",
         "nextNodeType": "dungeons_haunted_town"
     },
@@ -63,12 +63,12 @@
         "nextNodeType": "dungeons_polterheist_town"
     },
     {
-        "dungeonRunId": "178252",
-        "completedLevels": "3",
+        "dungeonRunId": "178251",
+        "completedLevels": "2",
         "twitchDisplayName": "radioone91fmdunedin",
-        "startTime": "2025-02-12 00:59:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,general_armyofdarkness,musk_hunters_mark",
-        "nextNodeType": "dungeons_polterheist_swamp"
+        "startTime": "2025-02-12 00:36:19",
+        "endTime": "2025-02-12 00:59:22",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,archer_silveredarrows,melee_hollowup",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     }
 ]
