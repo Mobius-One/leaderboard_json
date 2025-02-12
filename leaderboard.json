@@ -72,6 +72,15 @@
         "nextNodeType": "dungeons_haunted_forest"
     },
     {
+        "dungeonRunId": "178290",
+        "completedLevels": "14",
+        "twitchDisplayName": "Delicate_Lilly",
+        "startTime": "2025-02-12 16:24:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,epic_monstersblessing,saint_skeletondance,general_ghoulagility,rogue_momentum,tank_hoarfrost_armor,warrior_silveredblades,general_raidofthedead,fairy_nixiepops,armored_undyingdefense,necromancer_necronomicon,mage_clone,archer_silveredarrows,saint_surgeofconfidence",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
         "dungeonRunId": "178261",
         "completedLevels": "13",
         "twitchDisplayName": "Trovatores_Theater",
@@ -79,14 +88,5 @@
         "endTime": "2025-02-12 05:40:08",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,archer_enchantedammo,fairy_nixiepops,ranged_strangergloves,general_raidofthedead,warrior_falltodarkness,warrior_silveredblades,bomber_ricochet,warlock_inferno,armored_undyingdefense,necromancer_necronomicon,tank_hoarfrost_armor,general_ghoulagility",
         "nextNodeType": "dungeons_cult_square"
-    },
-    {
-        "dungeonRunId": "178290",
-        "completedLevels": "13",
-        "twitchDisplayName": "Delicate_Lilly",
-        "startTime": "2025-02-12 16:24:16",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,epic_monstersblessing,saint_skeletondance,general_ghoulagility,rogue_momentum,tank_hoarfrost_armor,warrior_silveredblades,general_raidofthedead,fairy_nixiepops,armored_undyingdefense,necromancer_necronomicon,mage_clone,archer_silveredarrows",
-        "nextNodeType": "dungeons_cult_fields"
     }
 ]
