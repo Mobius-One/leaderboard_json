@@ -63,6 +63,15 @@
         "nextNodeType": "dungeons_cult_square"
     },
     {
+        "dungeonRunId": "178264",
+        "completedLevels": "13",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-12 04:42:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike,epic_monstersbrew",
+        "nextNodeType": "dungeons_haunted_field"
+    },
+    {
         "dungeonRunId": "178255",
         "completedLevels": "12",
         "twitchDisplayName": "mrbigbizzness",
@@ -70,15 +79,6 @@
         "endTime": "2025-02-12 03:16:43",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,lancer_impalingstakes,blob_parasite,general_ghoulresilience,melee_hollowup,epic_assassin_serialkiller,tank_boneyardwarden,general_armyofdarkness,monk_spiritstrike,general_ghoulsprint,vampire_lordofthedead,mage_clone",
         "nextNodeType": "dungeons_polterheist_town"
-    },
-    {
-        "dungeonRunId": "178264",
-        "completedLevels": "12",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-12 04:42:35",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike",
-        "nextNodeType": "dungeons_cult_alley"
     },
     {
         "dungeonRunId": "178251",
