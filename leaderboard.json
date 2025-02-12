@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178264",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-12 04:42:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet",
-        "nextNodeType": "hauntedboss"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite",
+        "nextNodeType": "dungeons_haunted_fountain"
     },
     {
         "dungeonRunId": "178251",
