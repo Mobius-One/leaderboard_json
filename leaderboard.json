@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178265",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "radioone91fmdunedin",
         "startTime": "2025-02-12 04:50:47",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,blob_ectoplasmic,ranged_etherealwounds,tank_boneyardwarden,vampire_feastofessence,buster_carbonplating,melee_spikedbones",
-        "nextNodeType": "dungeons_polterheist_town"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,blob_ectoplasmic,ranged_etherealwounds,tank_boneyardwarden,vampire_feastofessence,buster_carbonplating,melee_spikedbones,support_funeralrites",
+        "nextNodeType": "dungeons_boss_mansion"
     }
 ]
