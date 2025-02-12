@@ -54,6 +54,15 @@
         "nextNodeType": "dungeons_polterheist_panic"
     },
     {
+        "dungeonRunId": "178255",
+        "completedLevels": "4",
+        "twitchDisplayName": "mrbigbizzness",
+        "startTime": "2025-02-12 01:28:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,lancer_impalingstakes,blob_parasite,general_ghoulresilience",
+        "nextNodeType": "dungeons_cult_street"
+    },
+    {
         "dungeonRunId": "178252",
         "completedLevels": "3",
         "twitchDisplayName": "radioone91fmdunedin",
@@ -61,14 +70,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,general_armyofdarkness,musk_hunters_mark",
         "nextNodeType": "dungeons_polterheist_swamp"
-    },
-    {
-        "dungeonRunId": "178255",
-        "completedLevels": "3",
-        "twitchDisplayName": "mrbigbizzness",
-        "startTime": "2025-02-12 01:28:42",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,lancer_impalingstakes,blob_parasite",
-        "nextNodeType": "dungeons_cult_square"
     }
 ]
