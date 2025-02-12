@@ -18,6 +18,15 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
+        "dungeonRunId": "178264",
+        "completedLevels": "27",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-12 04:42:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike,epic_monstersbrew,blob_flesheater,barbarian_spiritconversion,general_ghoulsprint,barbarian_possessed,gladiator_war_machine,tank_boneyardwarden,lancer_impalingstakes,archer_soulpenetration,rogue_nighthunter,leader_undyingconscription,epic_assassin_serialkiller,melee_spikedbones,general_armyofdarkness,musk_hunters_mark",
+        "nextNodeType": "dungeons_cult_fields"
+    },
+    {
         "dungeonRunId": "178258",
         "completedLevels": "27",
         "twitchDisplayName": "Hooks",
@@ -25,15 +34,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulsprint,blob_flesheater,phantom_thehaunting,warrior_silveredblades,general_raidofthedead,paladin_holyforce,armored_undyingdefense,paladin_skeletalsquire,warlock_inferno,melee_spikedbones,melee_hollowup,ranged_etherealwounds,general_ghoulclaws,necromancer_necronomicon,necromancer_ectoplosion,rogue_nighthunter,general_armyofdarkness,archer_soulpenetration,support_dyingsong,healer_arrogantmedium,berserker_killing_spree,tank_boneyardwarden,leader_undyingconscription,warrior_falltodarkness,flagbearer_flagbearerswill,rogue_momentum,armored_tartarusguard",
         "nextNodeType": "dungeons_haunted_town"
-    },
-    {
-        "dungeonRunId": "178264",
-        "completedLevels": "26",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-12 04:42:35",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike,epic_monstersbrew,blob_flesheater,barbarian_spiritconversion,general_ghoulsprint,barbarian_possessed,gladiator_war_machine,tank_boneyardwarden,lancer_impalingstakes,archer_soulpenetration,rogue_nighthunter,leader_undyingconscription,epic_assassin_serialkiller,melee_spikedbones,general_armyofdarkness",
-        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "178244",
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_polterheist_town"
     },
     {
-        "dungeonRunId": "178252",
-        "completedLevels": "4",
+        "dungeonRunId": "178265",
+        "completedLevels": "5",
         "twitchDisplayName": "radioone91fmdunedin",
-        "startTime": "2025-02-12 00:59:33",
-        "endTime": "2025-02-12 03:23:12",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,general_armyofdarkness,musk_hunters_mark,ranged_strangergloves",
-        "nextNodeType": "dungeons_cult_square"
+        "startTime": "2025-02-12 04:50:47",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,ranged_strangergloves,blob_ectoplasmic,ranged_etherealwounds,tank_boneyardwarden,vampire_feastofessence",
+        "nextNodeType": "dungeons_boss_headlesshorseman"
     }
 ]
