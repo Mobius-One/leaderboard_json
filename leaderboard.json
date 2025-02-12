@@ -36,6 +36,15 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
+        "dungeonRunId": "178296",
+        "completedLevels": "28",
+        "twitchDisplayName": "Angel",
+        "startTime": "2025-02-12 20:16:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife,archer_silveredarrows,vampire_feastofessence,necromancer_ectoplosion,armored_undyingdefense,rogue_momentum,tank_hoarfrost_armor,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,support_dyingsong",
+        "nextNodeType": "dungeons_polterheist_clearing"
+    },
+    {
         "dungeonRunId": "178258",
         "completedLevels": "27",
         "twitchDisplayName": "Hooks",
@@ -43,15 +52,6 @@
         "endTime": "2025-02-12 21:12:56",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulsprint,blob_flesheater,phantom_thehaunting,warrior_silveredblades,general_raidofthedead,paladin_holyforce,armored_undyingdefense,paladin_skeletalsquire,warlock_inferno,melee_spikedbones,melee_hollowup,ranged_etherealwounds,general_ghoulclaws,necromancer_necronomicon,necromancer_ectoplosion,rogue_nighthunter,general_armyofdarkness,archer_soulpenetration,support_dyingsong,healer_arrogantmedium,berserker_killing_spree,tank_boneyardwarden,leader_undyingconscription,warrior_falltodarkness,flagbearer_flagbearerswill,rogue_momentum,armored_tartarusguard",
         "nextNodeType": "dungeons_haunted_town"
-    },
-    {
-        "dungeonRunId": "178296",
-        "completedLevels": "27",
-        "twitchDisplayName": "Angel",
-        "startTime": "2025-02-12 20:16:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,paladin_holyforce,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,lancer_impalingstakes,orcs_guardian_of_the_dead,tank_boneyardwarden,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife,archer_silveredarrows,vampire_feastofessence,necromancer_ectoplosion,armored_undyingdefense,rogue_momentum,tank_hoarfrost_armor,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine",
-        "nextNodeType": "dungeons_cult_fields"
     },
     {
         "dungeonRunId": "178284",
