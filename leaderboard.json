@@ -27,6 +27,15 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
+        "dungeonRunId": "178315",
+        "completedLevels": "33",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-13 01:59:53",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,general_ghoulresilience,flagbearer_hauntingflags,ranged_etherealwounds,armored_undyingdefense,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,lancer_impalingstakes,archer_soulpenetration,epic_monstersbrew,leader_undyingconscription,fairy_nixiepops,bomber_ricochet",
+        "nextNodeType": "dungeons_polterheist_forest"
+    },
+    {
         "dungeonRunId": "178264",
         "completedLevels": "32",
         "twitchDisplayName": "chiquik",
@@ -34,15 +43,6 @@
         "endTime": "2025-02-12 09:05:05",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,bomber_ricochet,blob_parasite,warrior_silveredblades,saint_surgeofconfidence,ranged_etherealwounds,support_dyingsong,support_funeralrites,warbeast_underworldbeast,general_ghoulclaws,flagbearer_hauntingflags,lancer_firststrike,epic_monstersbrew,blob_flesheater,barbarian_spiritconversion,general_ghoulsprint,barbarian_possessed,gladiator_war_machine,tank_boneyardwarden,lancer_impalingstakes,archer_soulpenetration,rogue_nighthunter,leader_undyingconscription,epic_assassin_serialkiller,melee_spikedbones,general_armyofdarkness,ranged_strangergloves,general_wailrounded",
         "nextNodeType": "dungeons_boss_headlesshorseman"
-    },
-    {
-        "dungeonRunId": "178315",
-        "completedLevels": "32",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-13 01:59:53",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,general_ghoulresilience,flagbearer_hauntingflags,ranged_etherealwounds,armored_undyingdefense,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,lancer_impalingstakes,archer_soulpenetration,epic_monstersbrew,leader_undyingconscription,fairy_nixiepops,bomber_ricochet",
-        "nextNodeType": "hauntedboss"
     },
     {
         "dungeonRunId": "178279",
