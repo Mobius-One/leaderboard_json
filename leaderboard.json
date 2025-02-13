@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178315",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-02-13 01:59:53",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,flagbearer_hauntingflags,ranged_etherealwounds,armored_undyingdefense,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,lancer_impalingstakes,archer_soulpenetration,epic_monstersbrew,leader_undyingconscription,fairy_nixiepops,bomber_ricochet",
-        "nextNodeType": "polterheisttownboss"
+        "nextNodeType": "dungeons_haunted_forest"
     },
     {
         "dungeonRunId": "178230",
