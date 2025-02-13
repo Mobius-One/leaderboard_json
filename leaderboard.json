@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178315",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-02-13 01:59:53",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,general_ghoulresilience,flagbearer_hauntingflags,ranged_etherealwounds,armored_undyingdefense,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,rogue_nighthunter,lancer_impalingstakes,archer_soulpenetration,epic_monstersbrew",
-        "nextNodeType": "dungeons_polterheist_clearing"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,general_ghoulresilience,flagbearer_hauntingflags,ranged_etherealwounds,armored_undyingdefense,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,rogue_nighthunter,lancer_impalingstakes,archer_soulpenetration,epic_monstersbrew,leader_undyingconscription",
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "178284",
