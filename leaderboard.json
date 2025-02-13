@@ -1,20 +1,20 @@
 [
     {
+        "dungeonRunId": "178296",
+        "completedLevels": "42",
+        "twitchDisplayName": "Angel",
+        "startTime": "2025-02-12 20:16:25",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_parasite,ranged_strangergloves,ranged_rangershivers,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,orcs_guardian_of_the_dead,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife,vampire_feastofessence,necromancer_ectoplosion,armored_undyingdefense,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,support_dyingsong,general_armyofdarkness",
+        "nextNodeType": "dungeons_haunted_ruins"
+    },
+    {
         "dungeonRunId": "178240",
         "completedLevels": "41",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-11 20:10:17",
         "endTime": "2025-02-12 01:09:34",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,art_1,melee_spikedbones,warrior_falltodarkness,armored_undyingdefense,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,general_ghoulagility,rogue_momentum,barbarian_spiritconversion,rogue_nighthunter,epic_monstersblessing,assassin_undeathmark,ranged_etherealwounds,saint_surgeofconfidence,support_rarecandy,warrior_silveredblades,leader_undyingconscription",
-        "nextNodeType": "dungeons_boss_mansion"
-    },
-    {
-        "dungeonRunId": "178296",
-        "completedLevels": "41",
-        "twitchDisplayName": "Angel",
-        "startTime": "2025-02-12 20:16:25",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_ectoplasmic,blob_parasite,ranged_strangergloves,ranged_rangershivers,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,orcs_guardian_of_the_dead,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife,vampire_feastofessence,necromancer_ectoplosion,armored_undyingdefense,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,support_dyingsong,general_armyofdarkness",
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
