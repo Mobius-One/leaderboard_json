@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178296",
-        "completedLevels": "42",
+        "completedLevels": "43",
         "twitchDisplayName": "Angel",
         "startTime": "2025-02-12 20:16:25",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulresilience,blob_parasite,ranged_strangergloves,ranged_rangershivers,melee_spikedbones,blob_flesheater,archer_soulpenetration,flagbearer_flagbearerswill,orcs_guardian_of_the_dead,melee_hollowup,amazon_vineclone,warrior_silveredblades,necromancer_necronomicon,flagbearer_deathbegetslife,vampire_feastofessence,necromancer_ectoplosion,armored_undyingdefense,assassin_arghgility,saint_surgeofconfidence,gladiator_war_machine,support_dyingsong,general_armyofdarkness",
-        "nextNodeType": "dungeons_haunted_ruins"
+        "nextNodeType": "dungeons_polterheist_panic"
     },
     {
         "dungeonRunId": "178240",
@@ -59,7 +59,7 @@
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-12 14:51:50",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,blob_ectoplasmic,archer_soulpenetration,melee_spikedbones,bomber_ricochet,barbarian_spiritconversion,epic_monstersbrew,archer_enchantedammo,centurion_shieldofbones,archer_silveredarrows,melee_hollowup,art_1,flagbearer_flagbearerswill,armored_sanctifiedbones,melee_cursedassimilation,ranged_strangergloves,saint_surgeofconfidence,saint_skeletondance,warrior_silveredblades,support_funeralrites,warbeast_underworldbeast,general_ghoulhide,paladin_skeletalsquire,amazon_vineclone",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,tank_boneyardwarden,blob_ectoplasmic,archer_soulpenetration,melee_spikedbones,bomber_ricochet,barbarian_spiritconversion,epic_monstersbrew,archer_enchantedammo,centurion_shieldofbones,archer_silveredarrows,melee_hollowup,art_1,flagbearer_flagbearerswill,armored_sanctifiedbones,melee_cursedassimilation,ranged_strangergloves,saint_surgeofconfidence,saint_skeletondance,warrior_silveredblades,support_funeralrites,warbeast_underworldbeast,general_ghoulhide,paladin_skeletalsquire,amazon_vineclone,support_dyingsong",
         "nextNodeType": "dungeons_cult_square"
     },
     {
