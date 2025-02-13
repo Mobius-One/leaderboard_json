@@ -54,13 +54,13 @@
         "nextNodeType": "dungeons_boss_headlesshorseman"
     },
     {
-        "dungeonRunId": "178279",
-        "completedLevels": "30",
+        "dungeonRunId": "178335",
+        "completedLevels": "31",
         "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-12 11:13:17",
-        "endTime": "2025-02-12 15:36:09",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,saint_surgeofconfidence,barbarian_spiritconversion,tank_boneyardwarden,leader_undyingconscription,warrior_falltodarkness,melee_spikedbones,armored_sanctifiedbones,bomber_avatar_power,general_ghoulresilience,general_wailrounded,ranged_etherealwounds,rogue_nighthunter,flagbearer_hauntingflags,rogue_2,flagbearer_flagbearerswill,vampire_lordofthedead,flagbearer_deathbegetslife,general_ghoulagility,warrior_dragonslayers,epic_assassin_serialkiller,archer_silveredarrows,support_rarecandy,warrior_silveredblades,support_funeralrites,armored_tartarusguard,general_ghoulhide,blob_flesheater",
-        "nextNodeType": "dungeons_haunted_circle"
+        "startTime": "2025-02-13 11:15:31",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,rogue_nighthunter,assassin_undeathmark,epic_assassin_serialkiller,flagbearer_flagbearerswill,archer_enchantedammo,fairy_nixiepops,melee_spikedbones,saint_surgeofconfidence,barbarian_spiritconversion,armored_undyingdefense,bomber_ricochet,saint_skeletondance,tank_boneyardwarden,rogue_momentum,archer_soulpenetration,warrior_silveredblades,leader_undyingconscription,monk_spiritstrike,archer_silveredarrows,warrior_dragonslayers,flagbearer_deathbegetslife,general_ghoulagility,support_funeralrites,rogue_2,melee_hollowup,warbeast_underworldbeast,support_dyingsong,general_wailrounded",
+        "nextNodeType": "dungeons_cult_fields"
     },
     {
         "dungeonRunId": "178284",
