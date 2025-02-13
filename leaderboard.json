@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178326",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-02-13 08:07:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,leader_undyingconscription,barbarian_spiritconversion,rogue_nighthunter,blob_flesheater,lancer_firststrike,ranged_strangergloves,vampire_lordofthedead,melee_cursedassimilation,assassin_arghgility,necromancer_necronomicon,berserker_killing_spree,warrior_silveredblades,saint_surgeofconfidence,armored_tartarusguard,flagbearer_flagbearerswill,rogue_momentum,fairy_nixiepops,archer_silveredarrows,blob_ectoplasmic",
-        "nextNodeType": "dungeons_boss_headlesshorseman"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,leader_undyingconscription,barbarian_spiritconversion,rogue_nighthunter,blob_flesheater,lancer_firststrike,ranged_strangergloves,vampire_lordofthedead,melee_cursedassimilation,assassin_arghgility,necromancer_necronomicon,berserker_killing_spree,warrior_silveredblades,saint_surgeofconfidence,armored_tartarusguard,flagbearer_flagbearerswill,rogue_momentum,fairy_nixiepops,archer_silveredarrows,blob_ectoplasmic,flagbearer_deathbegetslife",
+        "nextNodeType": "dungeons_polterheist_forest"
     }
 ]
