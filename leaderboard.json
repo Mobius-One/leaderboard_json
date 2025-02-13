@@ -18,6 +18,15 @@
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
+        "dungeonRunId": "178315",
+        "completedLevels": "34",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-13 01:59:53",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,flagbearer_hauntingflags,ranged_etherealwounds,armored_undyingdefense,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,lancer_impalingstakes,archer_soulpenetration,epic_monstersbrew,leader_undyingconscription,fairy_nixiepops,bomber_ricochet",
+        "nextNodeType": "dungeons_haunted_field"
+    },
+    {
         "dungeonRunId": "178230",
         "completedLevels": "33",
         "twitchDisplayName": "Meistar",
@@ -25,15 +34,6 @@
         "endTime": "2025-02-11 23:46:37",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast,flagbearer_flagbearerswill,melee_hollowup,archer_soulpenetration,ranged_strangergloves,blob_flesheater,art_1,assassin_arghgility,bomber_ricochet,rogue_2,archer_silveredarrows,warrior_dragonslayers,phantom_thehaunting,general_ghoulclaws,ranged_rangershivers",
         "nextNodeType": "dungeons_haunted_circle"
-    },
-    {
-        "dungeonRunId": "178315",
-        "completedLevels": "33",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-13 01:59:53",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,general_ghoulresilience,flagbearer_hauntingflags,ranged_etherealwounds,armored_undyingdefense,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,lancer_impalingstakes,archer_soulpenetration,epic_monstersbrew,leader_undyingconscription,fairy_nixiepops,bomber_ricochet",
-        "nextNodeType": "dungeons_polterheist_forest"
     },
     {
         "dungeonRunId": "178264",
