@@ -63,21 +63,21 @@
         "nextNodeType": "dungeons_cult_square"
     },
     {
+        "dungeonRunId": "178315",
+        "completedLevels": "25",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-13 01:59:53",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,general_ghoulresilience,flagbearer_hauntingflags,ranged_etherealwounds,armored_undyingdefense,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,rogue_nighthunter,lancer_impalingstakes,archer_soulpenetration",
+        "nextNodeType": "dungeons_polterheist_clearing"
+    },
+    {
         "dungeonRunId": "178244",
         "completedLevels": "24",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-11 21:21:45",
         "endTime": "2025-02-12 00:27:20",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,assassin_undeathmark,musk_hunters_mark,ranged_strangergloves,general_armyofdarkness,monk_spiritstrike,general_ghoulagility,armored_sanctifiedbones,saint_skeletondance,general_ghoulsprint,general_wailrounded,mage_clone,archer_silveredarrows,archer_enchantedammo,epic_assassin_serialkiller,warrior_silveredblades,epic_monstersblessing,ranged_etherealwounds,general_ghoulhide,support_funeralrites,healer_monsterrehab,general_ghoulresilience,saint_surgeofconfidence,rogue_2",
-        "nextNodeType": "dungeons_haunted_circle"
-    },
-    {
-        "dungeonRunId": "178315",
-        "completedLevels": "24",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-13 01:59:53",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,general_ghoulresilience,flagbearer_hauntingflags,ranged_etherealwounds,armored_undyingdefense,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,rogue_nighthunter,lancer_impalingstakes,archer_soulpenetration",
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
