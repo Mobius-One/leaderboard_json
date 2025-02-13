@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
-        "dungeonRunId": "178234",
+        "dungeonRunId": "178326",
         "completedLevels": "18",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-11 19:07:48",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-02-13 08:07:25",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,bomber_ricochet,warlock_inferno,general_ghoulsprint,ranged_rangershivers,archer_soulpenetration,melee_spikedbones,melee_hollowup,blob_parasite,tank_boneyardwarden,assassin_undeathmark,epic_assassin_serialkiller,armored_undyingdefense,warrior_dragonslayers,necromancer_bombasticbones,support_dyingsong,general_wailrounded,healer_monsterrehab",
-        "nextNodeType": "dungeons_haunted_forest"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,armored_undyingdefense,leader_undyingconscription,barbarian_spiritconversion,rogue_nighthunter,blob_flesheater,lancer_firststrike,ranged_strangergloves,vampire_lordofthedead,melee_cursedassimilation,assassin_arghgility,necromancer_necronomicon,berserker_killing_spree,warrior_silveredblades,saint_surgeofconfidence,armored_tartarusguard,flagbearer_flagbearerswill,rogue_momentum,fairy_nixiepops",
+        "nextNodeType": "dungeons_haunted_field"
     }
 ]
