@@ -27,15 +27,6 @@
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
-        "dungeonRunId": "178230",
-        "completedLevels": "33",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2025-02-11 19:01:48",
-        "endTime": "2025-02-11 23:46:37",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast,flagbearer_flagbearerswill,melee_hollowup,archer_soulpenetration,ranged_strangergloves,blob_flesheater,art_1,assassin_arghgility,bomber_ricochet,rogue_2,archer_silveredarrows,warrior_dragonslayers,phantom_thehaunting,general_ghoulclaws,ranged_rangershivers",
-        "nextNodeType": "dungeons_haunted_circle"
-    },
-    {
         "dungeonRunId": "178316",
         "completedLevels": "33",
         "twitchDisplayName": "Hooks",
@@ -43,6 +34,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,archer_enchantedammo,musk_hunters_mark,armored_undyingdefense,warrior_falltodarkness,warrior_silveredblades,vampire_feastofessence,rogue_2,rogue_nighthunter,general_armyofdarkness,warbeast_underworldbeast,ranged_strangergloves,vampire_lordofthedead,phantom_thehaunting,support_dyingsong,melee_hollowup,epic_assassin_serialkiller,epic_monstersbrew,general_wailrounded,armored_tartarusguard,assassin_arghgility,ranged_rangershivers,orcs_guardian_of_the_dead,general_ghoulhide,flagbearer_hauntingflags,templar_soulbinder,leader_undyingconscription",
         "nextNodeType": "dungeons_cult_docks"
+    },
+    {
+        "dungeonRunId": "178230",
+        "completedLevels": "33",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-02-11 19:01:48",
+        "endTime": "2025-02-11 23:46:37",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,general_ghoulagility,general_ghoulsprint,saint_surgeofconfidence,mage_clone,melee_spikedbones,archer_enchantedammo,saint_skeletondance,warrior_silveredblades,vampire_feastofessence,healer_monsterrehab,rogue_nighthunter,rogue_momentum,warbeast_underworldbeast,flagbearer_flagbearerswill,melee_hollowup,archer_soulpenetration,ranged_strangergloves,blob_flesheater,art_1,assassin_arghgility,bomber_ricochet,rogue_2,archer_silveredarrows,warrior_dragonslayers,phantom_thehaunting,general_ghoulclaws,ranged_rangershivers",
+        "nextNodeType": "dungeons_haunted_circle"
     },
     {
         "dungeonRunId": "178264",
