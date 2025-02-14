@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178398",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "Hairtrigger83",
         "startTime": "2025-02-14 18:03:37",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,melee_hollowup,archer_soulpenetration,melee_spikedbones,flagbearer_hauntingflags,ranged_etherealwounds,epic_monstersbrew,saint_surgeofconfidence,fairy_nixiepops,tank_boneyardwarden,blob_ectoplasmic,blob_parasite,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,ranged_strangergloves,vampire_lordofthedead,warrior_falltodarkness,assassin_arghgility,leader_undyingconscription,armored_tartarusguard,support_dyingsong,warrior_dragonslayers,support_rarecandy,flagbearer_flagbearerswill,armored_sanctifiedbones,necromancer_ectoplosion,armored_undyingdefense",
-        "nextNodeType": "dungeons_polterheist_swamp"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,melee_hollowup,archer_soulpenetration,melee_spikedbones,flagbearer_hauntingflags,ranged_etherealwounds,epic_monstersbrew,saint_surgeofconfidence,fairy_nixiepops,tank_boneyardwarden,blob_ectoplasmic,blob_parasite,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,ranged_strangergloves,vampire_lordofthedead,warrior_falltodarkness,assassin_arghgility,leader_undyingconscription,armored_tartarusguard,support_dyingsong,warrior_dragonslayers,support_rarecandy,flagbearer_flagbearerswill,armored_sanctifiedbones,necromancer_ectoplosion,armored_undyingdefense,necromancer_necronomicon",
+        "nextNodeType": "dungeons_jerry"
     }
 ]
