@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178366",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-14 00:19:41",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,healer_arrogantmedium,orcs_guardian_of_the_dead,archer_silveredarrows,lancer_impalingstakes,art_1,rogue_nighthunter,rogue_momentum,ranged_etherealwounds,assassin_arghgility,assassin_undeathmark,support_rarecandy,support_dyingsong,ranged_rangershivers,armored_tartarusguard,general_ghoulsprint,blob_ectoplasmic,templar_soulbinder,general_ghoulresilience,support_funeralrites,healer_monsterrehab,ranged_strangergloves,general_raidofthedead,mage_clone,melee_spikedbones,vampire_lordofthedead,warbeast_underworldbeast,tank_boneyardwarden,blob_flesheater",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,healer_arrogantmedium,orcs_guardian_of_the_dead,archer_silveredarrows,lancer_impalingstakes,art_1,rogue_nighthunter,rogue_momentum,ranged_etherealwounds,assassin_arghgility,assassin_undeathmark,support_rarecandy,support_dyingsong,ranged_rangershivers,armored_tartarusguard,general_ghoulsprint,blob_ectoplasmic,templar_soulbinder,general_ghoulresilience,support_funeralrites,healer_monsterrehab,ranged_strangergloves,general_raidofthedead,melee_spikedbones,vampire_lordofthedead,warbeast_underworldbeast,tank_boneyardwarden,blob_flesheater",
+        "nextNodeType": "dungeons_haunted_ruins"
     },
     {
         "dungeonRunId": "178284",
