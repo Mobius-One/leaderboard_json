@@ -9,21 +9,21 @@
         "nextNodeType": "dungeons_haunted_field"
     },
     {
-        "dungeonRunId": "178240",
-        "completedLevels": "41",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-02-11 20:10:17",
-        "endTime": "2025-02-12 01:09:34",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,art_1,melee_spikedbones,warrior_falltodarkness,armored_undyingdefense,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,general_ghoulagility,rogue_momentum,barbarian_spiritconversion,rogue_nighthunter,epic_monstersblessing,assassin_undeathmark,ranged_etherealwounds,saint_surgeofconfidence,support_rarecandy,warrior_silveredblades,leader_undyingconscription",
-        "nextNodeType": "dungeons_boss_mansion"
-    },
-    {
         "dungeonRunId": "178315",
         "completedLevels": "41",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-02-13 01:59:53",
         "endTime": "2025-02-13 06:53:58",
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,flagbearer_hauntingflags,ranged_etherealwounds,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,archer_soulpenetration,epic_monstersbrew,leader_undyingconscription,bomber_ricochet",
+        "nextNodeType": "dungeons_boss_mansion"
+    },
+    {
+        "dungeonRunId": "178240",
+        "completedLevels": "41",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-02-11 20:10:17",
+        "endTime": "2025-02-12 01:09:34",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,art_1,melee_spikedbones,warrior_falltodarkness,armored_undyingdefense,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,general_ghoulagility,rogue_momentum,barbarian_spiritconversion,rogue_nighthunter,epic_monstersblessing,assassin_undeathmark,ranged_etherealwounds,saint_surgeofconfidence,support_rarecandy,warrior_silveredblades,leader_undyingconscription",
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
@@ -63,13 +63,13 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
-        "dungeonRunId": "178281",
-        "completedLevels": "32",
+        "dungeonRunId": "178398",
+        "completedLevels": "33",
         "twitchDisplayName": "Hairtrigger83",
-        "startTime": "2025-02-12 13:30:00",
-        "endTime": "2025-02-12 16:18:42",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,flagbearer_flagbearerswill,ranged_rangershivers,archer_soulpenetration,support_dyingsong,archer_enchantedammo,mage_clone,support_funeralrites,saint_skeletondance,melee_spikedbones,bomber_ricochet,ranged_strangergloves,melee_hollowup,barbarian_spiritconversion,warrior_silveredblades,leader_undyingconscription,gladiator_war_machine,rogue_nighthunter,warrior_dragonslayers,warlock_inferno,assassin_arghgility,vampire_lordofthedead,blob_parasite,archer_silveredarrows,tank_lastlaugh,art_1,tank_boneyardwarden,blob_flesheater",
-        "nextNodeType": "polterheisttownboss"
+        "startTime": "2025-02-14 18:03:37",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,melee_hollowup,archer_soulpenetration,melee_spikedbones,flagbearer_hauntingflags,ranged_etherealwounds,epic_monstersbrew,saint_surgeofconfidence,fairy_nixiepops,tank_boneyardwarden,blob_ectoplasmic,blob_parasite,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,ranged_strangergloves,warrior_falltodarkness,leader_undyingconscription,armored_tartarusguard,support_dyingsong,warrior_dragonslayers,support_rarecandy,flagbearer_flagbearerswill,armored_sanctifiedbones,necromancer_ectoplosion,armored_undyingdefense,necromancer_necronomicon",
+        "nextNodeType": "dungeons_polterheist_town"
     },
     {
         "dungeonRunId": "178335",
