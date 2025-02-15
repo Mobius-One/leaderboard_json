@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178427",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-02-15 07:09:27",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_betrayal,support_dyingsong,buster_ghostbuster,epic_assassin_serialkiller,rogue_nighthunter,rogue_momentum,healer_monsterrehab,warrior_dragonslayers,blob_parasite,melee_spikedbones,healer_arrogantmedium,vampire_swarmcoffin,warrior_silveredblades,lancer_impalingstakes,armored_tartarusguard,tank_boneyardwarden,assassin_undeathmark,necromancer_ectoplosion,assassin_arghgility,blob_flesheater,gladiator_war_machine,flagbearer_flagbearerswill,saint_surgeofconfidence,shinobi_lastninja,armored_undyingdefense,bomber_ricochet,archer_soulpenetration,ranged_strangergloves,melee_hollowup",
-        "nextNodeType": "dungeons_haunted_fountain"
+        "nextNodeType": "dungeons_haunted_field"
     }
 ]
