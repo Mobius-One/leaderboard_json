@@ -58,7 +58,7 @@
         "completedLevels": "34",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-16 01:13:39",
-        "endTime": null,
+        "endTime": "2025-02-16 05:36:59",
         "captainBoons": "common_classic_comeback,armored_undyingdefense,general_armyofdarkness,templar_soulbinder,warrior_silveredblades,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,healer_monsterrehab,general_ghoulsprint,armored_sanctifiedbones,support_rarecandy,support_dyingsong,blob_ectoplasmic,orcs_guardian_of_the_dead,ranged_strangergloves,lancer_impalingstakes,assassin_arghgility,archer_enchantedammo,saint_skeletondance,flagbearer_flagbearerswill,rogue_momentum,bomber_avatar_power,melee_spikedbones,necromancer_necronomicon,warbeast_underworldbeast,general_ghoulagility,leader_undyingconscription",
         "nextNodeType": "dungeons_haunted_fountain"
     },
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
-        "dungeonRunId": "178427",
+        "dungeonRunId": "178335",
         "completedLevels": "31",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-02-15 07:09:27",
-        "endTime": "2025-02-15 11:35:58",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,support_dyingsong,buster_ghostbuster,epic_assassin_serialkiller,rogue_nighthunter,rogue_momentum,healer_monsterrehab,warrior_dragonslayers,blob_parasite,melee_spikedbones,healer_arrogantmedium,vampire_swarmcoffin,warrior_silveredblades,lancer_impalingstakes,armored_tartarusguard,tank_boneyardwarden,assassin_undeathmark,necromancer_ectoplosion,assassin_arghgility,blob_flesheater,gladiator_war_machine,flagbearer_flagbearerswill,saint_surgeofconfidence,shinobi_lastninja,armored_undyingdefense,bomber_ricochet,archer_soulpenetration,ranged_strangergloves,melee_hollowup",
-        "nextNodeType": "dungeons_haunted_field"
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-02-13 11:15:31",
+        "endTime": "2025-02-13 15:29:11",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,rogue_nighthunter,assassin_undeathmark,epic_assassin_serialkiller,flagbearer_flagbearerswill,archer_enchantedammo,fairy_nixiepops,melee_spikedbones,saint_surgeofconfidence,barbarian_spiritconversion,armored_undyingdefense,bomber_ricochet,saint_skeletondance,tank_boneyardwarden,rogue_momentum,archer_soulpenetration,warrior_silveredblades,leader_undyingconscription,monk_spiritstrike,archer_silveredarrows,warrior_dragonslayers,flagbearer_deathbegetslife,general_ghoulagility,support_funeralrites,rogue_2,melee_hollowup,warbeast_underworldbeast,support_dyingsong,general_wailrounded",
+        "nextNodeType": "dungeons_cult_fields"
     }
 ]
