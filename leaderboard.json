@@ -9,15 +9,6 @@
         "nextNodeType": "dungeons_haunted_field"
     },
     {
-        "dungeonRunId": "178240",
-        "completedLevels": "41",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-02-11 20:10:17",
-        "endTime": "2025-02-12 01:09:34",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,art_1,melee_spikedbones,warrior_falltodarkness,armored_undyingdefense,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,general_ghoulagility,rogue_momentum,barbarian_spiritconversion,rogue_nighthunter,epic_monstersblessing,assassin_undeathmark,ranged_etherealwounds,saint_surgeofconfidence,support_rarecandy,warrior_silveredblades,leader_undyingconscription",
-        "nextNodeType": "dungeons_boss_mansion"
-    },
-    {
         "dungeonRunId": "178315",
         "completedLevels": "41",
         "twitchDisplayName": "elcanadiano",
@@ -27,13 +18,13 @@
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
-        "dungeonRunId": "178316",
-        "completedLevels": "40",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-02-13 02:33:18",
-        "endTime": "2025-02-13 09:18:45",
-        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,archer_enchantedammo,armored_undyingdefense,warrior_falltodarkness,warrior_silveredblades,vampire_feastofessence,rogue_2,rogue_nighthunter,general_armyofdarkness,warbeast_underworldbeast,ranged_strangergloves,phantom_thehaunting,support_dyingsong,melee_hollowup,epic_assassin_serialkiller,epic_monstersbrew,general_wailrounded,armored_tartarusguard,assassin_arghgility,ranged_rangershivers,orcs_guardian_of_the_dead,general_ghoulhide,templar_soulbinder,leader_undyingconscription",
-        "nextNodeType": "dungeons_haunted_field"
+        "dungeonRunId": "178240",
+        "completedLevels": "41",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-02-11 20:10:17",
+        "endTime": "2025-02-12 01:09:34",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,epic_monstersbrew,flagbearer_hauntingflags,saint_skeletondance,assassin_arghgility,art_1,melee_spikedbones,warrior_falltodarkness,armored_undyingdefense,monk_spiritstrike,tank_boneyardwarden,necromancer_necronomicon,epic_assassin_serialkiller,general_ghoulagility,rogue_momentum,barbarian_spiritconversion,rogue_nighthunter,epic_monstersblessing,assassin_undeathmark,ranged_etherealwounds,saint_surgeofconfidence,support_rarecandy,warrior_silveredblades,leader_undyingconscription",
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "178337",
@@ -45,6 +36,15 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
+        "dungeonRunId": "178316",
+        "completedLevels": "40",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-02-13 02:33:18",
+        "endTime": "2025-02-13 09:18:45",
+        "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,archer_enchantedammo,armored_undyingdefense,warrior_falltodarkness,warrior_silveredblades,vampire_feastofessence,rogue_2,rogue_nighthunter,general_armyofdarkness,warbeast_underworldbeast,ranged_strangergloves,phantom_thehaunting,support_dyingsong,melee_hollowup,epic_assassin_serialkiller,epic_monstersbrew,general_wailrounded,armored_tartarusguard,assassin_arghgility,ranged_rangershivers,orcs_guardian_of_the_dead,general_ghoulhide,templar_soulbinder,leader_undyingconscription",
+        "nextNodeType": "dungeons_haunted_field"
+    },
+    {
         "dungeonRunId": "178398",
         "completedLevels": "37",
         "twitchDisplayName": "Hairtrigger83",
@@ -52,15 +52,6 @@
         "endTime": "2025-02-14 21:14:04",
         "captainBoons": "common_classic_comeback,warrior_silveredblades,melee_hollowup,archer_soulpenetration,melee_spikedbones,flagbearer_hauntingflags,ranged_etherealwounds,epic_monstersbrew,saint_surgeofconfidence,fairy_nixiepops,tank_boneyardwarden,blob_parasite,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,ranged_strangergloves,warrior_falltodarkness,leader_undyingconscription,armored_tartarusguard,support_dyingsong,warrior_dragonslayers,support_rarecandy,flagbearer_flagbearerswill,armored_sanctifiedbones,necromancer_ectoplosion,armored_undyingdefense,necromancer_necronomicon",
         "nextNodeType": "dungeons_haunted_field"
-    },
-    {
-        "dungeonRunId": "178469",
-        "completedLevels": "34",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-16 01:13:39",
-        "endTime": "2025-02-16 05:36:59",
-        "captainBoons": "common_classic_comeback,armored_undyingdefense,general_armyofdarkness,templar_soulbinder,warrior_silveredblades,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,healer_monsterrehab,general_ghoulsprint,armored_sanctifiedbones,support_rarecandy,support_dyingsong,blob_ectoplasmic,orcs_guardian_of_the_dead,ranged_strangergloves,lancer_impalingstakes,assassin_arghgility,archer_enchantedammo,saint_skeletondance,flagbearer_flagbearerswill,rogue_momentum,bomber_avatar_power,melee_spikedbones,necromancer_necronomicon,warbeast_underworldbeast,general_ghoulagility,leader_undyingconscription",
-        "nextNodeType": "dungeons_haunted_fountain"
     },
     {
         "dungeonRunId": "178234",
@@ -72,6 +63,15 @@
         "nextNodeType": "dungeons_polterheist_clearing"
     },
     {
+        "dungeonRunId": "178469",
+        "completedLevels": "34",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-02-16 01:13:39",
+        "endTime": "2025-02-16 05:36:59",
+        "captainBoons": "common_classic_comeback,armored_undyingdefense,general_armyofdarkness,templar_soulbinder,warrior_silveredblades,ranged_etherealwounds,archer_silveredarrows,general_raidofthedead,healer_monsterrehab,general_ghoulsprint,armored_sanctifiedbones,support_rarecandy,support_dyingsong,blob_ectoplasmic,orcs_guardian_of_the_dead,ranged_strangergloves,lancer_impalingstakes,assassin_arghgility,archer_enchantedammo,saint_skeletondance,flagbearer_flagbearerswill,rogue_momentum,bomber_avatar_power,melee_spikedbones,necromancer_necronomicon,warbeast_underworldbeast,general_ghoulagility,leader_undyingconscription",
+        "nextNodeType": "dungeons_haunted_fountain"
+    },
+    {
         "dungeonRunId": "178230",
         "completedLevels": "33",
         "twitchDisplayName": "Meistar",
@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_haunted_circle"
     },
     {
-        "dungeonRunId": "178335",
+        "dungeonRunId": "178427",
         "completedLevels": "31",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-13 11:15:31",
-        "endTime": "2025-02-13 15:29:11",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,rogue_nighthunter,assassin_undeathmark,epic_assassin_serialkiller,flagbearer_flagbearerswill,archer_enchantedammo,fairy_nixiepops,melee_spikedbones,saint_surgeofconfidence,barbarian_spiritconversion,armored_undyingdefense,bomber_ricochet,saint_skeletondance,tank_boneyardwarden,rogue_momentum,archer_soulpenetration,warrior_silveredblades,leader_undyingconscription,monk_spiritstrike,archer_silveredarrows,warrior_dragonslayers,flagbearer_deathbegetslife,general_ghoulagility,support_funeralrites,rogue_2,melee_hollowup,warbeast_underworldbeast,support_dyingsong,general_wailrounded",
-        "nextNodeType": "dungeons_cult_fields"
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-02-15 07:09:27",
+        "endTime": "2025-02-15 11:35:58",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,support_dyingsong,buster_ghostbuster,epic_assassin_serialkiller,rogue_nighthunter,rogue_momentum,healer_monsterrehab,warrior_dragonslayers,blob_parasite,melee_spikedbones,healer_arrogantmedium,vampire_swarmcoffin,warrior_silveredblades,lancer_impalingstakes,armored_tartarusguard,tank_boneyardwarden,assassin_undeathmark,necromancer_ectoplosion,assassin_arghgility,blob_flesheater,gladiator_war_machine,flagbearer_flagbearerswill,saint_surgeofconfidence,shinobi_lastninja,armored_undyingdefense,bomber_ricochet,archer_soulpenetration,ranged_strangergloves,melee_hollowup",
+        "nextNodeType": "dungeons_haunted_field"
     }
 ]
