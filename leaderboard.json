@@ -9,15 +9,6 @@
         "nextNodeType": "dungeons_haunted_field"
     },
     {
-        "dungeonRunId": "178315",
-        "completedLevels": "41",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-13 01:59:53",
-        "endTime": "2025-02-13 06:53:58",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,flagbearer_hauntingflags,ranged_etherealwounds,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,archer_soulpenetration,epic_monstersbrew,leader_undyingconscription,bomber_ricochet",
-        "nextNodeType": "dungeons_boss_mansion"
-    },
-    {
         "dungeonRunId": "178240",
         "completedLevels": "41",
         "twitchDisplayName": "Rafipi",
@@ -27,13 +18,13 @@
         "nextNodeType": "dungeons_boss_mansion"
     },
     {
-        "dungeonRunId": "178337",
-        "completedLevels": "40",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-13 13:52:52",
-        "endTime": "2025-02-13 18:00:28",
-        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,bomber_ricochet,epic_assassin_serialkiller,general_ghoulsprint,phantom_thehaunting,armored_sanctifiedbones,ranged_strangergloves,paladin_skeletalsquire,vampire_swarmcoffin,tank_boneyardwarden,flagbearer_hauntingflags,blob_parasite,flagbearer_flagbearerswill,melee_hollowup,rogue_2,warrior_silveredblades,saint_surgeofconfidence,monk_spiritstrike,epic_monstersbrew,warrior_dragonslayers,musk_hunters_mark,warbeast_underworldbeast,rogue_momentum",
-        "nextNodeType": "dungeons_haunted_circle"
+        "dungeonRunId": "178315",
+        "completedLevels": "41",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-13 01:59:53",
+        "endTime": "2025-02-13 06:53:58",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,warrior_silveredblades,necromancer_necronomicon,blob_parasite,tank_boneyardwarden,armored_sanctifiedbones,armored_tartarusguard,melee_spikedbones,saint_surgeofconfidence,phantom_thehaunting,flagbearer_hauntingflags,ranged_etherealwounds,melee_hollowup,barbarian_spiritconversion,general_ghoulagility,rogue_momentum,lancer_firststrike,archer_silveredarrows,blob_flesheater,necromancer_bombasticbones,archer_soulpenetration,epic_monstersbrew,leader_undyingconscription,bomber_ricochet",
+        "nextNodeType": "dungeons_boss_mansion"
     },
     {
         "dungeonRunId": "178316",
@@ -43,6 +34,15 @@
         "endTime": "2025-02-13 09:18:45",
         "captainBoons": "common_classic_comeback,flagbearer_flagbearerswill,archer_enchantedammo,armored_undyingdefense,warrior_falltodarkness,warrior_silveredblades,vampire_feastofessence,rogue_2,rogue_nighthunter,general_armyofdarkness,warbeast_underworldbeast,ranged_strangergloves,phantom_thehaunting,support_dyingsong,melee_hollowup,epic_assassin_serialkiller,epic_monstersbrew,general_wailrounded,armored_tartarusguard,assassin_arghgility,ranged_rangershivers,orcs_guardian_of_the_dead,general_ghoulhide,templar_soulbinder,leader_undyingconscription",
         "nextNodeType": "dungeons_haunted_field"
+    },
+    {
+        "dungeonRunId": "178337",
+        "completedLevels": "40",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-13 13:52:52",
+        "endTime": "2025-02-13 18:00:28",
+        "captainBoons": "common_classic_comeback,amazon_omen_betrayal,melee_spikedbones,bomber_ricochet,epic_assassin_serialkiller,general_ghoulsprint,phantom_thehaunting,armored_sanctifiedbones,ranged_strangergloves,paladin_skeletalsquire,vampire_swarmcoffin,tank_boneyardwarden,flagbearer_hauntingflags,blob_parasite,flagbearer_flagbearerswill,melee_hollowup,rogue_2,warrior_silveredblades,saint_surgeofconfidence,monk_spiritstrike,epic_monstersbrew,warrior_dragonslayers,musk_hunters_mark,warbeast_underworldbeast,rogue_momentum",
+        "nextNodeType": "dungeons_haunted_circle"
     },
     {
         "dungeonRunId": "178398",
