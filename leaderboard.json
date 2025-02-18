@@ -1,11 +1,11 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite",
-        "nextNodeType": "orcorchard"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite,gladiator_browbeat",
+        "nextNodeType": "tabletoptowers"
     }
 ]
