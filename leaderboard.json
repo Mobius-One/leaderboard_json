@@ -1,11 +1,11 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite,gladiator_browbeat,warrior_flameslash",
-        "nextNodeType": "snowfallboss3"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite,gladiator_browbeat,warrior_flameslash,rogue_shadowcloak",
+        "nextNodeType": "elementalwaterriver"
     }
 ]
