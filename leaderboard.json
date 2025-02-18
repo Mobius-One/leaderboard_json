@@ -5,17 +5,17 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite,gladiator_browbeat,warrior_flameslash,rogue_shadowcloak,bomber_dangerzone,flagbearer_bannerofexaltation,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,amazon_vineclone,paladin_layonhands,centurion_teambarbs,common_specialists,berserker_rancor,undead_undeadresilience,epic_armored_armoredgiants,shinobi_shadowstrike,vampire_lordofthedead",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite,gladiator_browbeat,warrior_flameslash,rogue_shadowcloak,bomber_dangerzone,flagbearer_bannerofexaltation,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,amazon_vineclone,centurion_teambarbs,common_specialists,berserker_rancor,undead_undeadresilience,epic_armored_armoredgiants,shinobi_shadowstrike,vampire_lordofthedead",
         "nextNodeType": "elementalfirefield"
     },
     {
         "dungeonRunId": "178558",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-18 22:18:54",
         "endTime": null,
         "captainBoons": "common_classic_comeback,centurion_tactician,warrior_flameslash,rogue_shadowcloak,paladin_layonhands,shinobi_firetechinique,barbarian_conqueror,rogue_flamewalker",
-        "nextNodeType": "wasteroad"
+        "nextNodeType": "snowfallboss3"
     },
     {
         "dungeonRunId": "178563",
