@@ -18,22 +18,22 @@
         "nextNodeType": "tabletoptowers"
     },
     {
+        "dungeonRunId": "178566",
+        "completedLevels": "7",
+        "twitchDisplayName": "butterflygarden_gaming",
+        "startTime": "2025-02-19 00:26:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,fairy_fireflyconjuration,artillery_maxpower,barbarian_conqueror,gladiator_browbeat",
+        "nextNodeType": "frontierheist"
+    },
+    {
         "dungeonRunId": "178565",
         "completedLevels": "7",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-02-18 23:49:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1,vampire_swarmcoffin",
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1,vampire_swarmcoffin,healer_combatmedic",
         "nextNodeType": "marbleradioriver3"
-    },
-    {
-        "dungeonRunId": "178566",
-        "completedLevels": "6",
-        "twitchDisplayName": "butterflygarden_gaming",
-        "startTime": "2025-02-19 00:26:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,fairy_fireflyconjuration,artillery_maxpower,barbarian_conqueror",
-        "nextNodeType": "beastlandsbeastminiboss"
     },
     {
         "dungeonRunId": "178563",
