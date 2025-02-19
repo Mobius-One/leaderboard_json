@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "178606",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "oOJadewolfOo",
         "startTime": "2025-02-19 16:19:51",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_zephyrstride,tank_truetank,barbarian_conqueror,shinobi_shadowstrike,warrior_flameslash,bomber_living_bomb,rogue_flamewalker",
-        "nextNodeType": "elementalwaterriver"
+        "nextNodeType": "snowfallboss3"
     },
     {
         "dungeonRunId": "178607",
