@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178612",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-19 18:07:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician,monk_snakestyle,common_specialists",
-        "nextNodeType": "orcorchard"
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician,monk_snakestyle,common_specialists,warrior_bladedancer",
+        "nextNodeType": "boardlandiahold"
     }
 ]
