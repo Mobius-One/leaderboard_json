@@ -36,15 +36,6 @@
         "nextNodeType": "tabletoptowers"
     },
     {
-        "dungeonRunId": "178583",
-        "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-02-19 07:42:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration",
-        "nextNodeType": "marbleradioriver3"
-    },
-    {
         "dungeonRunId": "178563",
         "completedLevels": "1",
         "twitchDisplayName": "Squroad",
@@ -52,5 +43,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
         "nextNodeType": "tabletoptowers"
+    },
+    {
+        "dungeonRunId": "178583",
+        "completedLevels": "1",
+        "twitchDisplayName": "Tebble",
+        "startTime": "2025-02-19 07:42:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration",
+        "nextNodeType": "marbleradioriver3"
     }
 ]
