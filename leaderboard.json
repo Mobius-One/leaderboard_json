@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178580",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-19 05:02:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,vampire_lordofthedead,epic_melee_gloryofvictory",
-        "nextNodeType": "orcsgivingorchard"
+        "nextNodeType": "beastlandsbug01"
     },
     {
         "dungeonRunId": "178563",
