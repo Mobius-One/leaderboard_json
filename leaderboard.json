@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178580",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-19 05:02:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow",
-        "nextNodeType": "lavapools"
+        "nextNodeType": "oasisboss"
     },
     {
         "dungeonRunId": "178563",
