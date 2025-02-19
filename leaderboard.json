@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178588",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-19 11:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,blob_flesheater",
-        "nextNodeType": "marblesandboss8"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,blob_flesheater,necromancer_bombasticbones",
+        "nextNodeType": "orcsgivingorchard"
     },
     {
         "dungeonRunId": "178583",
