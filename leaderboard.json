@@ -36,6 +36,15 @@
         "nextNodeType": "orcorchard"
     },
     {
+        "dungeonRunId": "178588",
+        "completedLevels": "14",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-02-19 11:10:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,blob_flesheater,necromancer_bombasticbones,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,tank_truetank",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
         "dungeonRunId": "178580",
         "completedLevels": "14",
         "twitchDisplayName": "Hooks",
@@ -43,15 +52,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,vampire_lordofthedead,epic_melee_gloryofvictory,shinobi_shadowstrike,bomber_bigger_and_badder,centurion_2,musketeer_rapidreload,artillery_maxpower,human_humandestiny,paladin_layonhands,amazon_hermesblessing,orcs_building_rage,warrior_bladedancer",
         "nextNodeType": "dungeons_jerry"
-    },
-    {
-        "dungeonRunId": "178588",
-        "completedLevels": "13",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-19 11:10:35",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,blob_flesheater,necromancer_bombasticbones,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer",
-        "nextNodeType": "boardlandiahold"
     },
     {
         "dungeonRunId": "178583",
