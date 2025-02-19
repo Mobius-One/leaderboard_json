@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178610",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Fuegojos",
         "startTime": "2025-02-19 17:19:45",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic",
-        "nextNodeType": "elementalwaterriver"
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178604",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178612",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-19 18:07:02",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician,monk_snakestyle,common_specialists,warrior_bladedancer",
-        "nextNodeType": "boardlandiahold"
+        "nextNodeType": "snowfallboss3"
     }
 ]
