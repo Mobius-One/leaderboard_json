@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite,gladiator_browbeat,warrior_flameslash,rogue_shadowcloak,bomber_dangerzone,flagbearer_bannerofexaltation,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,amazon_vineclone,centurion_teambarbs,common_specialists,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
-        "nextNodeType": "marblesandboss8"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite,gladiator_browbeat,warrior_flameslash,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,amazon_vineclone,centurion_teambarbs,common_specialists,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
+        "nextNodeType": "orcorchard"
     },
     {
         "dungeonRunId": "178558",
@@ -23,7 +23,7 @@
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-02-18 23:49:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride",
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword",
         "nextNodeType": "sugargiantsbossparty"
     },
     {
