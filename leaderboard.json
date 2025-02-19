@@ -63,6 +63,15 @@
         "nextNodeType": "lavapools"
     },
     {
+        "dungeonRunId": "178612",
+        "completedLevels": "10",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-19 18:07:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician,monk_snakestyle,common_specialists,warrior_bladedancer,rogue_skeletonturret,bomber_living_bomb,flagbearer_bannerofvitality",
+        "nextNodeType": "marbleradioriver3"
+    },
+    {
         "dungeonRunId": "178604",
         "completedLevels": "9",
         "twitchDisplayName": "trushuks",
@@ -70,15 +79,6 @@
         "endTime": "2025-02-19 17:06:07",
         "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope,gladiator_browbeat,saint_surgeofconfidence,flagbearer_focused_morale",
         "nextNodeType": "elementalwaterriver"
-    },
-    {
-        "dungeonRunId": "178612",
-        "completedLevels": "9",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-19 18:07:02",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician,monk_snakestyle,common_specialists,warrior_bladedancer,rogue_skeletonturret,bomber_living_bomb",
-        "nextNodeType": "wasteroad"
     },
     {
         "dungeonRunId": "178606",
