@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178572",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "butterflygarden_gaming",
         "startTime": "2025-02-19 02:03:34",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic",
-        "nextNodeType": "lavapools"
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178563",
