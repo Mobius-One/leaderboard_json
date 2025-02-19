@@ -9,22 +9,22 @@
         "nextNodeType": "sugargiantsbossparty"
     },
     {
-        "dungeonRunId": "178558",
-        "completedLevels": "19",
+        "dungeonRunId": "178573",
+        "completedLevels": "20",
         "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-18 22:18:54",
-        "endTime": "2025-02-19 00:51:50",
-        "captainBoons": "common_classic_comeback,centurion_tactician,warrior_flameslash,rogue_shadowcloak,paladin_layonhands,shinobi_firetechinique,barbarian_conqueror,rogue_flamewalker,rogue_skeletonturret,epic_melee_gloryofvictory,warrior_bladedancer,templar_commanding_presence,saint_godspeed,flyingrogue_aggravate,warbeast_1,monk_heavenskarma,fairy_fireflyconjuration,saint_surgeofconfidence,epic_epicaspirations,tank_frostbarbs",
-        "nextNodeType": "tabletoptowers"
+        "startTime": "2025-02-19 02:07:40",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,paladin_avengingsmite,monk_heavenskarma,barbarian_gloriousdeath,monk_snakestyle,flagbearer_focused_morale,warrior_bladedancer,frogue_preparation,saint_godspeed,rogue_flamewalker,mage_elementalsummoning,healer_healing_bloom,saint_exalt,artillery_maxpower,artillery_machine_gun,archer_zephyrstride,warbeast_1,centurion_2,flagbearer_bannerofvitality,blob_flesheater",
+        "nextNodeType": "sugargiantsbossparty"
     },
     {
         "dungeonRunId": "178572",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "butterflygarden_gaming",
         "startTime": "2025-02-19 02:03:34",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret,artillery_machine_gun",
-        "nextNodeType": "boardlandiahold"
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret,artillery_machine_gun,flagbearer_bannerofvitality",
+        "nextNodeType": "elementalfirefield"
     },
     {
         "dungeonRunId": "178563",
