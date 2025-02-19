@@ -55,21 +55,12 @@
     },
     {
         "dungeonRunId": "178610",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "Fuegojos",
         "startTime": "2025-02-19 17:19:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic,artillery_maxpower,templar_beaconofhope",
-        "nextNodeType": "orcsgivingorchard"
-    },
-    {
-        "dungeonRunId": "178612",
-        "completedLevels": "9",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-19 18:07:02",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician,monk_snakestyle,common_specialists,warrior_bladedancer,rogue_skeletonturret,bomber_living_bomb",
-        "nextNodeType": "wasteroad"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic,artillery_maxpower,templar_beaconofhope,warrior_bladedancer",
+        "nextNodeType": "lavapools"
     },
     {
         "dungeonRunId": "178604",
@@ -79,6 +70,15 @@
         "endTime": "2025-02-19 17:06:07",
         "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope,gladiator_browbeat,saint_surgeofconfidence,flagbearer_focused_morale",
         "nextNodeType": "elementalwaterriver"
+    },
+    {
+        "dungeonRunId": "178612",
+        "completedLevels": "9",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-19 18:07:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician,monk_snakestyle,common_specialists,warrior_bladedancer,rogue_skeletonturret,bomber_living_bomb",
+        "nextNodeType": "wasteroad"
     },
     {
         "dungeonRunId": "178606",
