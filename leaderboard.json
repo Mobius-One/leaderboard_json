@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "42",
+        "completedLevels": "43",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,gladiator_browbeat,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,amazon_vineclone,common_specialists,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
-        "nextNodeType": "boardlandiahold"
+        "nextNodeType": "tombmagic"
     },
     {
         "dungeonRunId": "178558",
