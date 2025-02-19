@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,gladiator_browbeat,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
-        "nextNodeType": "tombmagic"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,gladiator_browbeat,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
+        "nextNodeType": "sugargiantsbossparty"
     },
     {
         "dungeonRunId": "178558",
@@ -22,7 +22,7 @@
         "completedLevels": "11",
         "twitchDisplayName": "butterflygarden_gaming",
         "startTime": "2025-02-19 00:26:13",
-        "endTime": null,
+        "endTime": "2025-02-19 02:03:15",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,fairy_fireflyconjuration,artillery_maxpower,barbarian_conqueror,gladiator_browbeat,rogue_skeletonturret,monk_heavenskarma,musketeer_rapidreload,musketeer_grapeshot",
         "nextNodeType": "sugargiantsbossparty"
     },
