@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178604",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "trushuks",
         "startTime": "2025-02-19 15:44:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon",
-        "nextNodeType": "olympiadbossPrometheus2"
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope",
+        "nextNodeType": "orcsgivingorchard"
     },
     {
         "dungeonRunId": "178603",
