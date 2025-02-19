@@ -36,6 +36,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "178585",
+        "completedLevels": "3",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-19 08:49:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom",
+        "nextNodeType": "frontierheist"
+    },
+    {
         "dungeonRunId": "178583",
         "completedLevels": "3",
         "twitchDisplayName": "Tebble",
@@ -43,15 +52,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,common_specialists",
         "nextNodeType": "marbletoastyspringhoriz2"
-    },
-    {
-        "dungeonRunId": "178585",
-        "completedLevels": "2",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-19 08:49:02",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage",
-        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178563",
