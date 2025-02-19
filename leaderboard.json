@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178580",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-19 05:02:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,vampire_lordofthedead,epic_melee_gloryofvictory,shinobi_shadowstrike,bomber_bigger_and_badder,centurion_2,musketeer_rapidreload,artillery_maxpower,human_humandestiny,paladin_layonhands,amazon_hermesblessing,orcs_building_rage,warrior_bladedancer",
-        "nextNodeType": "orcorchard"
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178583",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178585",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 08:49:02",
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_browbeat",
-        "nextNodeType": "marbletoastyspringhoriz2"
+        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178563",
