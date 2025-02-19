@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178594",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 12:44:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,gladiator_sonofthunder,epic_melee_gloryofvictory,flagbearer_bannerofvitality,necromancer_necronomicon,lancer_ignitingstrike,blob_flesheater,berserker_killing_spree,barbarian_gloriousdeath,mage_elementalsummoning,archer_steadybow,berserker_rancor,berserker_enrage,epic_armored_armoredgiants,paladin_layonhands,warrior_flameslash,artillery_machine_gun,warrior_bladedancer,lancer_spearofvengeance,epic_epicaspirations,gladiator_browbeat,frogue_preparation,epic_ranged_dragonarrows,rogue_flamewalker,archer_venomarrows,healer_healing_bloom,bomber_dangerzone,bomber_bigger_and_badder",
-        "nextNodeType": "marbleradioriver3"
+        "nextNodeType": "boardlandiahold"
     },
     {
         "dungeonRunId": "178573",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178604",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "trushuks",
         "startTime": "2025-02-19 15:44:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus",
-        "nextNodeType": "oasisboss"
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror",
+        "nextNodeType": "orcorchard"
     },
     {
         "dungeonRunId": "178563",
