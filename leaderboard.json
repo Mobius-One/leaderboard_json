@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178604",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "trushuks",
         "startTime": "2025-02-19 15:44:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope,gladiator_browbeat,saint_surgeofconfidence",
-        "nextNodeType": "snowfallboss3"
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope,gladiator_browbeat,saint_surgeofconfidence,flagbearer_focused_morale",
+        "nextNodeType": "elementalwaterriver"
     },
     {
         "dungeonRunId": "178606",
