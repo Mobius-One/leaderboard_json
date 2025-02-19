@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178565",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-02-18 23:49:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1,vampire_swarmcoffin,healer_combatmedic,vampire_lordofthedead,warbeast_terrifying_presence",
-        "nextNodeType": "wasteroad"
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1,vampire_swarmcoffin,healer_combatmedic,vampire_lordofthedead,warbeast_terrifying_presence,flagbearer_bannerofvitality",
+        "nextNodeType": "elementalwaterriver"
     },
     {
         "dungeonRunId": "178563",
