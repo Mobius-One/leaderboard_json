@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178610",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "Fuegojos",
         "startTime": "2025-02-19 17:19:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence",
-        "nextNodeType": "orcorchard"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic",
+        "nextNodeType": "elementalwaterriver"
     },
     {
         "dungeonRunId": "178604",
