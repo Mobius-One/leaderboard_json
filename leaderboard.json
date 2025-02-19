@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "47",
+        "completedLevels": "48",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,gladiator_browbeat,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
-        "nextNodeType": "snowfallboss3"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,gladiator_browbeat,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
+        "nextNodeType": "marbleradioriver3"
     },
     {
         "dungeonRunId": "178558",
@@ -19,21 +19,21 @@
     },
     {
         "dungeonRunId": "178566",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "butterflygarden_gaming",
         "startTime": "2025-02-19 00:26:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,fairy_fireflyconjuration,artillery_maxpower,barbarian_conqueror,gladiator_browbeat,rogue_skeletonturret,monk_heavenskarma",
-        "nextNodeType": "boardlandiahold"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,fairy_fireflyconjuration,artillery_maxpower,barbarian_conqueror,gladiator_browbeat,rogue_skeletonturret,monk_heavenskarma,musketeer_rapidreload",
+        "nextNodeType": "elementalwaterriver"
     },
     {
         "dungeonRunId": "178565",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-02-18 23:49:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1,vampire_swarmcoffin,healer_combatmedic",
-        "nextNodeType": "marbleradioriver3"
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1,vampire_swarmcoffin,healer_combatmedic,vampire_lordofthedead",
+        "nextNodeType": "oasisboss"
     },
     {
         "dungeonRunId": "178563",
