@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178566",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "butterflygarden_gaming",
         "startTime": "2025-02-19 00:26:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,fairy_fireflyconjuration,artillery_maxpower",
-        "nextNodeType": "oasisboss"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,fairy_fireflyconjuration,artillery_maxpower,barbarian_conqueror",
+        "nextNodeType": "beastlandsbeastminiboss"
     },
     {
         "dungeonRunId": "178563",
