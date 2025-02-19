@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178588",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-19 11:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,tank_truetank,epic_armored_armoredgiants,saint_exalt,mage_elementalsummoning,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,centurion_tactician,orcs_inpenetrable,epic_epicaspirations,musketeer_rapidreload,flagbearer_bannerofexaltation,gladiator_war_machine,healer_combatmedic,amazon_hermesblessing",
-        "nextNodeType": "mothershipholding"
+        "captainBoons": "common_classic_comeback,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,tank_truetank,epic_armored_armoredgiants,saint_exalt,mage_elementalsummoning,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,centurion_tactician,orcs_inpenetrable,epic_epicaspirations,musketeer_rapidreload,flagbearer_bannerofexaltation,gladiator_war_machine,healer_combatmedic,amazon_hermesblessing",
+        "nextNodeType": "elementalfirefield"
     },
     {
         "dungeonRunId": "178594",
@@ -64,21 +64,21 @@
     },
     {
         "dungeonRunId": "178603",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Fuegojos",
         "startTime": "2025-02-19 15:41:16",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,vampire_darkwings,flagbearer_bannerofexaltation",
-        "nextNodeType": "snowfallboss3"
+        "captainBoons": "common_classic_comeback,vampire_darkwings,flagbearer_bannerofexaltation,epic_armored_armoredgiants",
+        "nextNodeType": "elementalwaterriver"
     },
     {
         "dungeonRunId": "178604",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "trushuks",
         "startTime": "2025-02-19 15:44:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs",
-        "nextNodeType": "beastlandsbeastminiboss"
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus",
+        "nextNodeType": "oasisboss"
     },
     {
         "dungeonRunId": "178563",
