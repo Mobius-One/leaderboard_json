@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "178583",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Tebble",
         "startTime": "2025-02-19 07:42:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon",
-        "nextNodeType": "sugargiantsbossparty"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,common_specialists",
+        "nextNodeType": "marbletoastyspringhoriz2"
     },
     {
         "dungeonRunId": "178563",
