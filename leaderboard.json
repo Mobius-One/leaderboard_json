@@ -34,5 +34,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
         "nextNodeType": "tabletoptowers"
+    },
+    {
+        "dungeonRunId": "178566",
+        "completedLevels": "1",
+        "twitchDisplayName": "butterflygarden_gaming",
+        "startTime": "2025-02-19 00:26:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone",
+        "nextNodeType": "orcsgivingorchard"
     }
 ]
