@@ -10,21 +10,30 @@
     },
     {
         "dungeonRunId": "178558",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-18 22:18:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,warrior_flameslash,rogue_shadowcloak,paladin_layonhands,shinobi_firetechinique,barbarian_conqueror,rogue_flamewalker,rogue_skeletonturret,epic_melee_gloryofvictory,warrior_bladedancer,templar_commanding_presence,saint_godspeed,flyingrogue_aggravate,warbeast_1,monk_heavenskarma,fairy_fireflyconjuration,saint_surgeofconfidence,epic_epicaspirations",
-        "nextNodeType": "boardlandiahold"
+        "captainBoons": "common_classic_comeback,centurion_tactician,warrior_flameslash,rogue_shadowcloak,paladin_layonhands,shinobi_firetechinique,barbarian_conqueror,rogue_flamewalker,rogue_skeletonturret,epic_melee_gloryofvictory,warrior_bladedancer,templar_commanding_presence,saint_godspeed,flyingrogue_aggravate,warbeast_1,monk_heavenskarma,fairy_fireflyconjuration,saint_surgeofconfidence,epic_epicaspirations,tank_frostbarbs",
+        "nextNodeType": "tabletoptowers"
     },
     {
         "dungeonRunId": "178565",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-02-18 23:49:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer",
-        "nextNodeType": "lavapools"
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1",
+        "nextNodeType": "olympiadbossPrometheus2"
+    },
+    {
+        "dungeonRunId": "178566",
+        "completedLevels": "2",
+        "twitchDisplayName": "butterflygarden_gaming",
+        "startTime": "2025-02-19 00:26:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence",
+        "nextNodeType": "olympiadbossPrometheus2"
     },
     {
         "dungeonRunId": "178563",
@@ -34,14 +43,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
         "nextNodeType": "tabletoptowers"
-    },
-    {
-        "dungeonRunId": "178566",
-        "completedLevels": "1",
-        "twitchDisplayName": "butterflygarden_gaming",
-        "startTime": "2025-02-19 00:26:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone",
-        "nextNodeType": "orcsgivingorchard"
     }
 ]
