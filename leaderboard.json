@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178594",
-        "completedLevels": "48",
+        "completedLevels": "49",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 12:44:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,epic_melee_gloryofvictory,necromancer_necronomicon,lancer_ignitingstrike,blob_flesheater,berserker_killing_spree,mage_elementalsummoning,archer_steadybow,berserker_enrage,epic_armored_armoredgiants,warrior_flameslash,artillery_machine_gun,warrior_bladedancer,epic_epicaspirations,epic_ranged_dragonarrows,archer_venomarrows,healer_healing_bloom,bomber_dangerzone,bomber_bigger_and_badder",
-        "nextNodeType": "wasteroad"
+        "nextNodeType": "tabletoptowers"
     },
     {
         "dungeonRunId": "178588",
@@ -59,7 +59,7 @@
         "twitchDisplayName": "Fuegojos",
         "startTime": "2025-02-19 17:19:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate",
         "nextNodeType": "beastlandsbeastminiboss"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "snowfallboss3"
     },
     {
-        "dungeonRunId": "178583",
-        "completedLevels": "3",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-02-19 07:42:21",
+        "dungeonRunId": "178612",
+        "completedLevels": "4",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-19 18:07:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,common_specialists",
-        "nextNodeType": "marbletoastyspringhoriz2"
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician",
+        "nextNodeType": "frontierheist"
     }
 ]
