@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178588",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-19 11:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,blob_flesheater,necromancer_bombasticbones,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory",
-        "nextNodeType": "frontierheist"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,blob_flesheater,necromancer_bombasticbones,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor",
+        "nextNodeType": "wasteroad"
     },
     {
         "dungeonRunId": "178583",
