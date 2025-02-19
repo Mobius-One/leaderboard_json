@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178588",
-        "completedLevels": "31",
+        "completedLevels": "32",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-19 11:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,necromancer_bombasticbones,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,tank_truetank,epic_armored_armoredgiants,saint_exalt,mage_elementalsummoning,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,centurion_tactician,orcs_inpenetrable,epic_epicaspirations,musketeer_rapidreload,flagbearer_bannerofexaltation,gladiator_war_machine,healer_combatmedic,amazon_hermesblessing",
-        "nextNodeType": "orcorchard"
+        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,tank_truetank,epic_armored_armoredgiants,saint_exalt,mage_elementalsummoning,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,centurion_tactician,orcs_inpenetrable,epic_epicaspirations,musketeer_rapidreload,flagbearer_bannerofexaltation,gladiator_war_machine,healer_combatmedic,amazon_hermesblessing",
+        "nextNodeType": "sugargiantsbossparty"
     },
     {
         "dungeonRunId": "178573",
@@ -61,6 +61,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,common_specialists",
         "nextNodeType": "marbletoastyspringhoriz2"
+    },
+    {
+        "dungeonRunId": "178603",
+        "completedLevels": "1",
+        "twitchDisplayName": "Fuegojos",
+        "startTime": "2025-02-19 15:41:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,vampire_darkwings",
+        "nextNodeType": "wasteroad"
     },
     {
         "dungeonRunId": "178563",
