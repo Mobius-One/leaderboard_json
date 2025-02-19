@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178580",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-19 05:02:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,vampire_lordofthedead,epic_melee_gloryofvictory,shinobi_shadowstrike,bomber_bigger_and_badder,centurion_2,musketeer_rapidreload,artillery_maxpower",
-        "nextNodeType": "marblesandboss8"
+        "nextNodeType": "tabletoptowers"
     },
     {
         "dungeonRunId": "178563",
