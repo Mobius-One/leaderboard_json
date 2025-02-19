@@ -18,6 +18,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "178588",
+        "completedLevels": "23",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-02-19 11:10:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,blob_flesheater,necromancer_bombasticbones,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,tank_truetank,epic_armored_armoredgiants,saint_exalt,mage_elementalsummoning,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,centurion_tactician,orcs_inpenetrable",
+        "nextNodeType": "oasisboss"
+    },
+    {
         "dungeonRunId": "178585",
         "completedLevels": "22",
         "twitchDisplayName": "chiquik",
@@ -25,15 +34,6 @@
         "endTime": "2025-02-19 11:12:13",
         "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker,saint_surgeofconfidence,blob_parasite,saint_exalt,warrior_flameslash,archer_steadybow,paladin_layonhands,warbeast_1,barbarian_conqueror,lancer_sarissaspears,artillery_maxpower,epic_armored_armoredgiants,warrior_bladedancer",
         "nextNodeType": "wasteroad"
-    },
-    {
-        "dungeonRunId": "178588",
-        "completedLevels": "22",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-19 11:10:35",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,blob_flesheater,necromancer_bombasticbones,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,tank_truetank,epic_armored_armoredgiants,saint_exalt,mage_elementalsummoning,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,centurion_tactician",
-        "nextNodeType": "beastlandsbeastminiboss"
     },
     {
         "dungeonRunId": "178572",
