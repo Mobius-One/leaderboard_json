@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178588",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-19 11:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_snakestyle,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,epic_armored_armoredgiants,saint_exalt,mage_elementalsummoning,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,orcs_inpenetrable,epic_epicaspirations,flagbearer_bannerofexaltation,gladiator_war_machine,amazon_hermesblessing",
-        "nextNodeType": "marbleradioriver3"
+        "captainBoons": "common_classic_comeback,monk_snakestyle,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,epic_armored_armoredgiants,saint_exalt,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,orcs_inpenetrable,epic_epicaspirations,flagbearer_bannerofexaltation,gladiator_war_machine,amazon_hermesblessing",
+        "nextNodeType": "boardlandiahold"
     },
     {
         "dungeonRunId": "178594",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178580",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-19 05:02:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,vampire_lordofthedead,epic_melee_gloryofvictory,shinobi_shadowstrike,bomber_bigger_and_badder,centurion_2,musketeer_rapidreload,artillery_maxpower,human_humandestiny,paladin_layonhands,amazon_hermesblessing,orcs_building_rage,warrior_bladedancer,elf_elvenimmortality",
-        "nextNodeType": "dungeons_jerry"
+        "nextNodeType": "frontierheist"
     },
     {
         "dungeonRunId": "178604",
