@@ -28,12 +28,21 @@
     },
     {
         "dungeonRunId": "178580",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-19 05:02:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,vampire_lordofthedead,epic_melee_gloryofvictory,shinobi_shadowstrike,bomber_bigger_and_badder,centurion_2,musketeer_rapidreload,artillery_maxpower,human_humandestiny",
-        "nextNodeType": "tabletoptowers"
+        "nextNodeType": "mothershipholding"
+    },
+    {
+        "dungeonRunId": "178583",
+        "completedLevels": "2",
+        "twitchDisplayName": "Tebble",
+        "startTime": "2025-02-19 07:42:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon",
+        "nextNodeType": "sugargiantsbossparty"
     },
     {
         "dungeonRunId": "178563",
@@ -43,14 +52,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
         "nextNodeType": "tabletoptowers"
-    },
-    {
-        "dungeonRunId": "178583",
-        "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-02-19 07:42:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration",
-        "nextNodeType": "marbleradioriver3"
     }
 ]
