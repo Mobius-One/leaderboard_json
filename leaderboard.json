@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178585",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 08:49:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker,saint_surgeofconfidence,blob_parasite,saint_exalt,warrior_flameslash,archer_steadybow,paladin_layonhands,warbeast_1,barbarian_conqueror",
-        "nextNodeType": "tabletoptowers"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker,saint_surgeofconfidence,blob_parasite,saint_exalt,warrior_flameslash,archer_steadybow,paladin_layonhands,warbeast_1,barbarian_conqueror,lancer_sarissaspears",
+        "nextNodeType": "beastlandsbug01"
     },
     {
         "dungeonRunId": "178580",
