@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "46",
+        "completedLevels": "47",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,gladiator_browbeat,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
-        "nextNodeType": "orcorchard"
+        "nextNodeType": "snowfallboss3"
     },
     {
         "dungeonRunId": "178558",
@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178566",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "butterflygarden_gaming",
         "startTime": "2025-02-19 00:26:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,fairy_fireflyconjuration,artillery_maxpower,barbarian_conqueror,gladiator_browbeat,rogue_skeletonturret",
-        "nextNodeType": "snowfallboss3"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite,fairy_fireflyconjuration,artillery_maxpower,barbarian_conqueror,gladiator_browbeat,rogue_skeletonturret,monk_heavenskarma",
+        "nextNodeType": "boardlandiahold"
     },
     {
         "dungeonRunId": "178565",
