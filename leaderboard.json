@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "178585",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 08:49:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom",
-        "nextNodeType": "frontierheist"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone",
+        "nextNodeType": "mothershipholding"
     },
     {
         "dungeonRunId": "178583",
