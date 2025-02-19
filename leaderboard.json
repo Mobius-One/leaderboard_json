@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "178588",
-        "completedLevels": "46",
+        "completedLevels": "47",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-19 11:10:35",
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_snakestyle,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,epic_armored_armoredgiants,saint_exalt,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,orcs_inpenetrable,epic_epicaspirations,flagbearer_bannerofexaltation,gladiator_war_machine,amazon_hermesblessing",
-        "nextNodeType": "boardlandiahold"
+        "nextNodeType": "sugargiantsbossparty"
     },
     {
         "dungeonRunId": "178594",
-        "completedLevels": "43",
+        "completedLevels": "44",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 12:44:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,gladiator_sonofthunder,epic_melee_gloryofvictory,necromancer_necronomicon,lancer_ignitingstrike,blob_flesheater,berserker_killing_spree,barbarian_gloriousdeath,mage_elementalsummoning,archer_steadybow,berserker_enrage,epic_armored_armoredgiants,warrior_flameslash,artillery_machine_gun,warrior_bladedancer,epic_epicaspirations,frogue_preparation,epic_ranged_dragonarrows,archer_venomarrows,healer_healing_bloom,bomber_dangerzone,bomber_bigger_and_badder",
-        "nextNodeType": "marbletoastyspringhoriz2"
+        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178573",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178580",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-19 05:02:33",
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,vampire_lordofthedead,epic_melee_gloryofvictory,shinobi_shadowstrike,bomber_bigger_and_badder,centurion_2,musketeer_rapidreload,artillery_maxpower,human_humandestiny,paladin_layonhands,amazon_hermesblessing,orcs_building_rage,warrior_bladedancer,elf_elvenimmortality,musk_hunters_mark",
-        "nextNodeType": "frontierheist"
+        "nextNodeType": "beastlandsbeastminiboss"
     },
     {
         "dungeonRunId": "178604",
