@@ -54,6 +54,15 @@
         "nextNodeType": "beastlandsbeastminiboss"
     },
     {
+        "dungeonRunId": "178610",
+        "completedLevels": "10",
+        "twitchDisplayName": "Fuegojos",
+        "startTime": "2025-02-19 17:19:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark",
+        "nextNodeType": "beastlandsbeastminiboss"
+    },
+    {
         "dungeonRunId": "178604",
         "completedLevels": "9",
         "twitchDisplayName": "trushuks",
@@ -61,15 +70,6 @@
         "endTime": "2025-02-19 17:06:07",
         "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope,gladiator_browbeat,saint_surgeofconfidence,flagbearer_focused_morale",
         "nextNodeType": "elementalwaterriver"
-    },
-    {
-        "dungeonRunId": "178610",
-        "completedLevels": "9",
-        "twitchDisplayName": "Fuegojos",
-        "startTime": "2025-02-19 17:19:45",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark",
-        "nextNodeType": "beastlandsbug01"
     },
     {
         "dungeonRunId": "178606",
