@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,gladiator_browbeat,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,amazon_vineclone,centurion_teambarbs,common_specialists,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
-        "nextNodeType": "frontierheist"
+        "nextNodeType": "oasisboss"
     },
     {
         "dungeonRunId": "178558",
@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178566",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "butterflygarden_gaming",
         "startTime": "2025-02-19 00:26:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence",
-        "nextNodeType": "olympiadbossPrometheus2"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,blob_parasite",
+        "nextNodeType": "marbletoastyspringhoriz2"
     },
     {
         "dungeonRunId": "178563",
