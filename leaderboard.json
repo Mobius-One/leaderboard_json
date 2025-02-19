@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178610",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "Fuegojos",
         "startTime": "2025-02-19 17:19:45",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb",
-        "nextNodeType": "frontierheist"
+        "nextNodeType": "mothershipholding"
     },
     {
         "dungeonRunId": "178583",
