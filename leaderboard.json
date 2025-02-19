@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "178585",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 08:49:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker",
-        "nextNodeType": "orcorchard"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker,saint_surgeofconfidence",
+        "nextNodeType": "oasisboss"
     },
     {
         "dungeonRunId": "178583",
