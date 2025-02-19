@@ -13,7 +13,7 @@
         "completedLevels": "49",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 12:44:32",
-        "endTime": null,
+        "endTime": "2025-02-19 18:45:50",
         "captainBoons": "common_classic_comeback,saint_exalt,epic_melee_gloryofvictory,necromancer_necronomicon,lancer_ignitingstrike,blob_flesheater,berserker_killing_spree,mage_elementalsummoning,archer_steadybow,berserker_enrage,epic_armored_armoredgiants,warrior_flameslash,artillery_machine_gun,warrior_bladedancer,epic_epicaspirations,epic_ranged_dragonarrows,archer_venomarrows,healer_healing_bloom,bomber_dangerzone,bomber_bigger_and_badder",
         "nextNodeType": "tabletoptowers"
     },
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178612",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-19 18:07:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician",
-        "nextNodeType": "frontierheist"
+        "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician,monk_snakestyle",
+        "nextNodeType": "oasisboss"
     }
 ]
