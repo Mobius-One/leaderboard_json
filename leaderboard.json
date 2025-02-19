@@ -9,6 +9,15 @@
         "nextNodeType": "sugargiantsbossparty"
     },
     {
+        "dungeonRunId": "178594",
+        "completedLevels": "47",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-19 12:44:32",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,epic_melee_gloryofvictory,necromancer_necronomicon,lancer_ignitingstrike,blob_flesheater,berserker_killing_spree,barbarian_gloriousdeath,mage_elementalsummoning,archer_steadybow,berserker_enrage,epic_armored_armoredgiants,warrior_flameslash,artillery_machine_gun,warrior_bladedancer,epic_epicaspirations,epic_ranged_dragonarrows,archer_venomarrows,healer_healing_bloom,bomber_dangerzone,bomber_bigger_and_badder",
+        "nextNodeType": "olympiadbossPrometheus2"
+    },
+    {
         "dungeonRunId": "178588",
         "completedLevels": "47",
         "twitchDisplayName": "JayEmDee",
@@ -16,15 +25,6 @@
         "endTime": "2025-02-19 17:58:00",
         "captainBoons": "common_classic_comeback,monk_snakestyle,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,epic_armored_armoredgiants,saint_exalt,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,orcs_inpenetrable,epic_epicaspirations,flagbearer_bannerofexaltation,gladiator_war_machine,amazon_hermesblessing",
         "nextNodeType": "sugargiantsbossparty"
-    },
-    {
-        "dungeonRunId": "178594",
-        "completedLevels": "46",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-19 12:44:32",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,epic_melee_gloryofvictory,necromancer_necronomicon,lancer_ignitingstrike,blob_flesheater,berserker_killing_spree,barbarian_gloriousdeath,mage_elementalsummoning,archer_steadybow,berserker_enrage,epic_armored_armoredgiants,warrior_flameslash,artillery_machine_gun,warrior_bladedancer,epic_epicaspirations,epic_ranged_dragonarrows,archer_venomarrows,healer_healing_bloom,bomber_dangerzone,bomber_bigger_and_badder",
-        "nextNodeType": "marbleradioriver3"
     },
     {
         "dungeonRunId": "178573",
@@ -63,15 +63,6 @@
         "nextNodeType": "elementalwaterriver"
     },
     {
-        "dungeonRunId": "178606",
-        "completedLevels": "8",
-        "twitchDisplayName": "oOJadewolfOo",
-        "startTime": "2025-02-19 16:19:51",
-        "endTime": "2025-02-19 17:32:54",
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,tank_truetank,barbarian_conqueror,shinobi_shadowstrike,warrior_flameslash,bomber_living_bomb,rogue_flamewalker,berserker_enrage",
-        "nextNodeType": "snowfallboss3"
-    },
-    {
         "dungeonRunId": "178610",
         "completedLevels": "8",
         "twitchDisplayName": "Fuegojos",
@@ -79,6 +70,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank",
         "nextNodeType": "marblesandboss8"
+    },
+    {
+        "dungeonRunId": "178606",
+        "completedLevels": "8",
+        "twitchDisplayName": "oOJadewolfOo",
+        "startTime": "2025-02-19 16:19:51",
+        "endTime": "2025-02-19 17:32:54",
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,tank_truetank,barbarian_conqueror,shinobi_shadowstrike,warrior_flameslash,bomber_living_bomb,rogue_flamewalker,berserker_enrage",
+        "nextNodeType": "snowfallboss3"
     },
     {
         "dungeonRunId": "178583",
