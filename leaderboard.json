@@ -61,5 +61,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
         "nextNodeType": "tabletoptowers"
+    },
+    {
+        "dungeonRunId": "178588",
+        "completedLevels": "1",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-02-19 11:10:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_layonhands",
+        "nextNodeType": "mothershipholding"
     }
 ]
