@@ -27,13 +27,13 @@
         "nextNodeType": "snowfallboss3"
     },
     {
-        "dungeonRunId": "178585",
-        "completedLevels": "22",
+        "dungeonRunId": "178594",
+        "completedLevels": "23",
         "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-19 08:49:02",
-        "endTime": "2025-02-19 11:12:13",
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker,saint_surgeofconfidence,blob_parasite,saint_exalt,warrior_flameslash,archer_steadybow,paladin_layonhands,warbeast_1,barbarian_conqueror,lancer_sarissaspears,artillery_maxpower,epic_armored_armoredgiants,warrior_bladedancer",
-        "nextNodeType": "wasteroad"
+        "startTime": "2025-02-19 12:44:32",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,gladiator_sonofthunder,epic_melee_gloryofvictory,flagbearer_bannerofvitality,necromancer_necronomicon,lancer_ignitingstrike,tank_frostbarbs,blob_flesheater,berserker_killing_spree,barbarian_gloriousdeath,mage_elementalsummoning,archer_steadybow,berserker_rancor,berserker_enrage,epic_armored_armoredgiants,paladin_layonhands,warrior_flameslash,artillery_machine_gun,warrior_bladedancer,lancer_spearofvengeance,epic_epicaspirations,gladiator_browbeat,frogue_preparation",
+        "nextNodeType": "oasisboss"
     },
     {
         "dungeonRunId": "178572",
