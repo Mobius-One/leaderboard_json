@@ -58,7 +58,7 @@
         "completedLevels": "9",
         "twitchDisplayName": "trushuks",
         "startTime": "2025-02-19 15:44:35",
-        "endTime": null,
+        "endTime": "2025-02-19 17:06:07",
         "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope,gladiator_browbeat,saint_surgeofconfidence,flagbearer_focused_morale",
         "nextNodeType": "elementalwaterriver"
     },
@@ -72,13 +72,13 @@
         "nextNodeType": "marblesandboss8"
     },
     {
-        "dungeonRunId": "178603",
-        "completedLevels": "4",
+        "dungeonRunId": "178607",
+        "completedLevels": "5",
         "twitchDisplayName": "Fuegojos",
-        "startTime": "2025-02-19 15:41:16",
-        "endTime": "2025-02-19 16:20:55",
-        "captainBoons": "common_classic_comeback,vampire_darkwings,flagbearer_bannerofexaltation,epic_armored_armoredgiants,fairy_fireflyconjuration",
-        "nextNodeType": "elementalfirefield"
+        "startTime": "2025-02-19 16:21:07",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,spy_hauntingsabotage,warrior_falltodarkness,healer_combatmedic,necromancer_necronomicon",
+        "nextNodeType": "oasisboss"
     },
     {
         "dungeonRunId": "178583",
