@@ -59,7 +59,7 @@
         "twitchDisplayName": "trushuks",
         "startTime": "2025-02-19 15:44:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope",
+        "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope,gladiator_browbeat",
         "nextNodeType": "frontierheist"
     },
     {
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178606",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "oOJadewolfOo",
         "startTime": "2025-02-19 16:19:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,tank_truetank",
-        "nextNodeType": "oasisboss"
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,tank_truetank,barbarian_conqueror",
+        "nextNodeType": "orcorchard"
     }
 ]
