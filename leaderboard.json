@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "178588",
-        "completedLevels": "37",
+        "completedLevels": "38",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-19 11:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,tank_truetank,epic_armored_armoredgiants,saint_exalt,mage_elementalsummoning,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,centurion_tactician,orcs_inpenetrable,epic_epicaspirations,flagbearer_bannerofexaltation,gladiator_war_machine,healer_combatmedic,amazon_hermesblessing",
-        "nextNodeType": "wasteroad"
+        "captainBoons": "common_classic_comeback,monk_snakestyle,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,tank_truetank,epic_armored_armoredgiants,saint_exalt,mage_elementalsummoning,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,centurion_tactician,orcs_inpenetrable,epic_epicaspirations,flagbearer_bannerofexaltation,gladiator_war_machine,healer_combatmedic,amazon_hermesblessing",
+        "nextNodeType": "olympiadbossPrometheus2"
     },
     {
         "dungeonRunId": "178594",
-        "completedLevels": "34",
+        "completedLevels": "35",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 12:44:32",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,gladiator_sonofthunder,epic_melee_gloryofvictory,flagbearer_bannerofvitality,necromancer_necronomicon,lancer_ignitingstrike,blob_flesheater,berserker_killing_spree,barbarian_gloriousdeath,mage_elementalsummoning,archer_steadybow,berserker_enrage,epic_armored_armoredgiants,warrior_flameslash,artillery_machine_gun,warrior_bladedancer,lancer_spearofvengeance,epic_epicaspirations,gladiator_browbeat,frogue_preparation,epic_ranged_dragonarrows,rogue_flamewalker,archer_venomarrows,healer_healing_bloom,bomber_dangerzone,bomber_bigger_and_badder",
-        "nextNodeType": "wasteroad"
+        "nextNodeType": "snowfallboss3"
     },
     {
         "dungeonRunId": "178573",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178604",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "trushuks",
         "startTime": "2025-02-19 15:44:35",
         "endTime": null,
         "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope",
-        "nextNodeType": "orcsgivingorchard"
+        "nextNodeType": "frontierheist"
     },
     {
         "dungeonRunId": "178603",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178606",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "oOJadewolfOo",
         "startTime": "2025-02-19 16:19:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride",
-        "nextNodeType": "elementalfirefield"
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,tank_truetank",
+        "nextNodeType": "oasisboss"
     }
 ]
