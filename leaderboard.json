@@ -1,30 +1,30 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "37",
+        "completedLevels": "38",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite,gladiator_browbeat,warrior_flameslash,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,amazon_vineclone,centurion_teambarbs,common_specialists,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
-        "nextNodeType": "orcsgivingorchard"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,gladiator_browbeat,warrior_flameslash,rogue_shadowcloak,bomber_dangerzone,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,amazon_vineclone,centurion_teambarbs,common_specialists,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
+        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178558",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-18 22:18:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,warrior_flameslash,rogue_shadowcloak,paladin_layonhands,shinobi_firetechinique,barbarian_conqueror,rogue_flamewalker,rogue_skeletonturret,epic_melee_gloryofvictory,warrior_bladedancer,templar_commanding_presence,saint_godspeed,flyingrogue_aggravate,warbeast_1,monk_heavenskarma",
-        "nextNodeType": "orcorchard"
+        "captainBoons": "common_classic_comeback,centurion_tactician,warrior_flameslash,rogue_shadowcloak,paladin_layonhands,shinobi_firetechinique,barbarian_conqueror,rogue_flamewalker,rogue_skeletonturret,epic_melee_gloryofvictory,warrior_bladedancer,templar_commanding_presence,saint_godspeed,flyingrogue_aggravate,warbeast_1,monk_heavenskarma,fairy_fireflyconjuration",
+        "nextNodeType": "lavapools"
     },
     {
         "dungeonRunId": "178565",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-02-18 23:49:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite",
-        "nextNodeType": "mothershipholding"
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer",
+        "nextNodeType": "lavapools"
     },
     {
         "dungeonRunId": "178563",
