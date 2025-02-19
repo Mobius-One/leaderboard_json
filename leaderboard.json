@@ -18,6 +18,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "178585",
+        "completedLevels": "21",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-19 08:49:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker,saint_surgeofconfidence,blob_parasite,saint_exalt,warrior_flameslash,archer_steadybow,paladin_layonhands,warbeast_1,barbarian_conqueror,lancer_sarissaspears,artillery_maxpower,epic_armored_armoredgiants",
+        "nextNodeType": "elementalwaterriver"
+    },
+    {
         "dungeonRunId": "178572",
         "completedLevels": "21",
         "twitchDisplayName": "butterflygarden_gaming",
@@ -25,15 +34,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret,artillery_machine_gun,flagbearer_bannerofvitality,musketeer_grapeshot,warbeast_terrifying_presence,warrior_bladedancer,warbeast_1",
         "nextNodeType": "orcorchard"
-    },
-    {
-        "dungeonRunId": "178585",
-        "completedLevels": "20",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-19 08:49:02",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker,saint_surgeofconfidence,blob_parasite,saint_exalt,warrior_flameslash,archer_steadybow,paladin_layonhands,warbeast_1,barbarian_conqueror,lancer_sarissaspears,artillery_maxpower",
-        "nextNodeType": "sugargiantsbossparty"
     },
     {
         "dungeonRunId": "178580",
