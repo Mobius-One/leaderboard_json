@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "178547",
-        "completedLevels": "34",
+        "completedLevels": "35",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-18 19:04:31",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,gladiator_sonofthunder,blob_parasite,gladiator_browbeat,warrior_flameslash,rogue_shadowcloak,bomber_dangerzone,flagbearer_bannerofexaltation,archer_steadybow,saint_exalt,musketeer_grapeshot,artillery_machine_gun,lancer_sarissaspears,necromancer_necronomicon,human_humandestiny,musketeer_rapidreload,blob_flesheater,berserker_killing_spree,flagbearer_bannerofvitality,rogue_skeletonturret,amazon_vineclone,centurion_teambarbs,common_specialists,berserker_rancor,epic_armored_armoredgiants,vampire_lordofthedead",
-        "nextNodeType": "elementalwaterriver"
+        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178558",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-18 22:18:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,warrior_flameslash,rogue_shadowcloak,paladin_layonhands,shinobi_firetechinique,barbarian_conqueror,rogue_flamewalker,rogue_skeletonturret,epic_melee_gloryofvictory,warrior_bladedancer,templar_commanding_presence,saint_godspeed",
-        "nextNodeType": "marbleradioriver3"
+        "captainBoons": "common_classic_comeback,centurion_tactician,warrior_flameslash,rogue_shadowcloak,paladin_layonhands,shinobi_firetechinique,barbarian_conqueror,rogue_flamewalker,rogue_skeletonturret,epic_melee_gloryofvictory,warrior_bladedancer,templar_commanding_presence,saint_godspeed,flyingrogue_aggravate",
+        "nextNodeType": "elementalwaterriver"
     },
     {
         "dungeonRunId": "178563",
@@ -25,5 +25,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
         "nextNodeType": "tabletoptowers"
+    },
+    {
+        "dungeonRunId": "178565",
+        "completedLevels": "1",
+        "twitchDisplayName": "JayelDraco",
+        "startTime": "2025-02-18 23:49:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_zephyrstride",
+        "nextNodeType": "boardlandiahold"
     }
 ]
