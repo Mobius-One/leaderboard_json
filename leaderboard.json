@@ -45,13 +45,13 @@
         "nextNodeType": "orcorchard"
     },
     {
-        "dungeonRunId": "178580",
-        "completedLevels": "16",
+        "dungeonRunId": "178611",
+        "completedLevels": "17",
         "twitchDisplayName": "Hooks",
-        "startTime": "2025-02-19 05:02:33",
-        "endTime": "2025-02-19 18:02:51",
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,vampire_lordofthedead,epic_melee_gloryofvictory,shinobi_shadowstrike,bomber_bigger_and_badder,centurion_2,musketeer_rapidreload,artillery_maxpower,human_humandestiny,paladin_layonhands,amazon_hermesblessing,orcs_building_rage,warrior_bladedancer,elf_elvenimmortality,musk_hunters_mark,tank_frostbarbs",
-        "nextNodeType": "beastlandsbeastminiboss"
+        "startTime": "2025-02-19 18:03:04",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_layonhands,elf_elvenimmortality,musk_hunters_mark,bomber_dangerzone,warbeast_1,barbarian_conqueror,flyingrogue_aggravate,archer_venomarrows,warrior_falltodarkness,fairy_fireflyconjuration,blob_flesheater,common_specialists,centurion_tactician,templar_commanding_presence,flagbearer_focused_morale,healer_combatmedic,necromancer_necronomicon",
+        "nextNodeType": "sugargiantsbossparty"
     },
     {
         "dungeonRunId": "178610",
