@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178585",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-19 08:49:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker,saint_surgeofconfidence,blob_parasite,saint_exalt,warrior_flameslash,archer_steadybow",
-        "nextNodeType": "orcsgivingorchard"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_enrage,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,paladin_holyforce,musketeer_rapidreload,barbarian_bringthepain,warbeast_terrifying_presence,rogue_flamewalker,saint_surgeofconfidence,blob_parasite,saint_exalt,warrior_flameslash,archer_steadybow,paladin_layonhands",
+        "nextNodeType": "tombmagic"
     },
     {
         "dungeonRunId": "178580",
