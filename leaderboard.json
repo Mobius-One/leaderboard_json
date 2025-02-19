@@ -45,6 +45,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "178588",
+        "completedLevels": "4",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-02-19 11:10:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb,lancer_sarissaspears",
+        "nextNodeType": "marbleradioriver3"
+    },
+    {
         "dungeonRunId": "178583",
         "completedLevels": "3",
         "twitchDisplayName": "Tebble",
@@ -52,15 +61,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,common_specialists",
         "nextNodeType": "marbletoastyspringhoriz2"
-    },
-    {
-        "dungeonRunId": "178588",
-        "completedLevels": "3",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-19 11:10:35",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle,bomber_living_bomb",
-        "nextNodeType": "beastlandsbeastminiboss"
     },
     {
         "dungeonRunId": "178563",
