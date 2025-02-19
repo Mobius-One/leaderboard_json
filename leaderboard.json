@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178588",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-19 11:10:35",
         "endTime": null,
         "captainBoons": "common_classic_comeback,paladin_layonhands,monk_snakestyle",
-        "nextNodeType": "oasisboss"
+        "nextNodeType": "beastlandsbeastminiboss"
     },
     {
         "dungeonRunId": "178563",
