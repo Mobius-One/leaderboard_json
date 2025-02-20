@@ -81,12 +81,12 @@
         "nextNodeType": "tabletoptowers"
     },
     {
-        "dungeonRunId": "178635",
-        "completedLevels": "10",
+        "dungeonRunId": "178636",
+        "completedLevels": "11",
         "twitchDisplayName": "NERmage",
-        "startTime": "2025-02-20 03:46:03",
-        "endTime": "2025-02-20 05:07:20",
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,flagbearer_bannerofexaltation,amazon_vineclone,flagbearer_bannerofvitality,gladiator_sonofthunder,rogue_shadowcloak,tank_frostbarbs,warbeast_1,epic_epicaspirations,berserker_rancor",
-        "nextNodeType": "tabletoptowers"
+        "startTime": "2025-02-20 05:09:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,blob_flesheater,bomber_living_bomb,fairy_fireflyconjuration,centurion_teambarbs,amazon_vineclone,paladin_layonhands,healer_shadowword,paladin_holyforce,archer_zephyrstride,flagbearer_bannerofexaltation",
+        "nextNodeType": "olympiadbossPrometheus2"
     }
 ]
