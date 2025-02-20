@@ -55,21 +55,12 @@
     },
     {
         "dungeonRunId": "178631",
-        "completedLevels": "17",
+        "completedLevels": "18",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-20 01:48:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,shinobi_firetechinique,centurion_2,healer_combatmedic,blob_flesheater,shinobi_lastninja,saint_exalt,fairy_hocuspocus,epic_melee_gloryofvictory,bomber_dangerzone,archer_venomarrows,vampire_swarmcoffin,tank_frostbarbs,templar_commanding_presence,saint_godspeed,berserker_rancor,healer_shadowword",
-        "nextNodeType": "sugargiantsbossparty"
-    },
-    {
-        "dungeonRunId": "178610",
-        "completedLevels": "16",
-        "twitchDisplayName": "Fuegojos",
-        "startTime": "2025-02-19 17:19:45",
-        "endTime": "2025-02-19 19:36:25",
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic,artillery_maxpower,templar_beaconofhope,warrior_bladedancer",
-        "nextNodeType": "lavapools"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,shinobi_firetechinique,centurion_2,healer_combatmedic,blob_flesheater,shinobi_lastninja,saint_exalt,fairy_hocuspocus,epic_melee_gloryofvictory,bomber_dangerzone,archer_venomarrows,vampire_swarmcoffin,tank_frostbarbs,templar_commanding_presence,saint_godspeed,berserker_rancor,healer_shadowword,artillery_machine_gun",
+        "nextNodeType": "orcorchard"
     },
     {
         "dungeonRunId": "178630",
@@ -81,12 +72,21 @@
         "nextNodeType": "tabletoptowers"
     },
     {
+        "dungeonRunId": "178610",
+        "completedLevels": "16",
+        "twitchDisplayName": "Fuegojos",
+        "startTime": "2025-02-19 17:19:45",
+        "endTime": "2025-02-19 19:36:25",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic,artillery_maxpower,templar_beaconofhope,warrior_bladedancer",
+        "nextNodeType": "lavapools"
+    },
+    {
         "dungeonRunId": "178635",
         "completedLevels": "10",
         "twitchDisplayName": "NERmage",
         "startTime": "2025-02-20 03:46:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,flagbearer_bannerofexaltation,amazon_vineclone,flagbearer_bannerofvitality,gladiator_sonofthunder,rogue_shadowcloak,tank_frostbarbs,warbeast_1,epic_epicaspirations",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,flagbearer_bannerofexaltation,amazon_vineclone,flagbearer_bannerofvitality,gladiator_sonofthunder,rogue_shadowcloak,tank_frostbarbs,warbeast_1,epic_epicaspirations,berserker_rancor",
         "nextNodeType": "tabletoptowers"
     }
 ]
