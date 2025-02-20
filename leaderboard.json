@@ -63,6 +63,15 @@
         "nextNodeType": "orcorchard"
     },
     {
+        "dungeonRunId": "178645",
+        "completedLevels": "17",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-02-20 12:55:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_bringthepain,tank_hoarfrost_armor,fairy_fireflyconjuration,flagbearer_bannerofexaltation,berserker_killing_spree,saint_exalt,undead_undeadresilience,bomber_living_bomb,warrior_bladedancer,necromancer_necronomicon,epic_armored_armoredgiants,centurion_tactician,archer_venomarrows,epic_ranged_dragonarrows,vampire_darkwings,lancer_spearofvengeance",
+        "nextNodeType": "marblesandboss8"
+    },
+    {
         "dungeonRunId": "178630",
         "completedLevels": "16",
         "twitchDisplayName": "Mister91Crow",
@@ -79,14 +88,5 @@
         "endTime": "2025-02-19 19:36:25",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic,artillery_maxpower,templar_beaconofhope,warrior_bladedancer",
         "nextNodeType": "lavapools"
-    },
-    {
-        "dungeonRunId": "178645",
-        "completedLevels": "16",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-02-20 12:55:10",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_bringthepain,tank_hoarfrost_armor,fairy_fireflyconjuration,flagbearer_bannerofexaltation,berserker_killing_spree,saint_exalt,undead_undeadresilience,bomber_living_bomb,warrior_bladedancer,necromancer_necronomicon,epic_armored_armoredgiants,centurion_tactician,archer_venomarrows,epic_ranged_dragonarrows,vampire_darkwings",
-        "nextNodeType": "boardlandiahold"
     }
 ]
