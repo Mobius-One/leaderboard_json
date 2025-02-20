@@ -63,6 +63,15 @@
         "nextNodeType": "lavapools"
     },
     {
+        "dungeonRunId": "178630",
+        "completedLevels": "11",
+        "twitchDisplayName": "Mister91Crow",
+        "startTime": "2025-02-20 00:48:39",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,rogue_skeletonturret,epic_ranged_dragonarrows,paladin_layonhands,mage_elementalsummoning,saint_godspeed,flagbearer_bannerofvitality,archer_venomarrows,epic_melee_gloryofvictory,rogue_flamewalker,bomber_bigger_and_badder",
+        "nextNodeType": "snowfallboss3"
+    },
+    {
         "dungeonRunId": "178612",
         "completedLevels": "11",
         "twitchDisplayName": "ohitsneb",
@@ -70,15 +79,6 @@
         "endTime": "2025-02-20 00:37:24",
         "captainBoons": "common_classic_comeback,saint_exalt,blob_flesheater,flagbearer_focused_morale,centurion_tactician,monk_snakestyle,common_specialists,warrior_bladedancer,rogue_skeletonturret,bomber_living_bomb,flagbearer_bannerofvitality,lancer_spearofvengeance",
         "nextNodeType": "sugargiantsbossparty"
-    },
-    {
-        "dungeonRunId": "178630",
-        "completedLevels": "10",
-        "twitchDisplayName": "Mister91Crow",
-        "startTime": "2025-02-20 00:48:39",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,rogue_skeletonturret,epic_ranged_dragonarrows,paladin_layonhands,mage_elementalsummoning,saint_godspeed,flagbearer_bannerofvitality,archer_venomarrows,epic_melee_gloryofvictory,rogue_flamewalker",
-        "nextNodeType": "orcsgivingorchard"
     },
     {
         "dungeonRunId": "178604",
