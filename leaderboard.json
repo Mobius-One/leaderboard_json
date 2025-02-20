@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178631",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-20 01:48:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,shinobi_firetechinique,centurion_2,healer_combatmedic,blob_flesheater,shinobi_lastninja,saint_exalt,fairy_hocuspocus,epic_melee_gloryofvictory,bomber_dangerzone,archer_venomarrows,vampire_swarmcoffin,tank_frostbarbs,templar_commanding_presence,saint_godspeed",
-        "nextNodeType": "elementalwaterriver"
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,shinobi_firetechinique,centurion_2,healer_combatmedic,blob_flesheater,shinobi_lastninja,saint_exalt,fairy_hocuspocus,epic_melee_gloryofvictory,bomber_dangerzone,archer_venomarrows,vampire_swarmcoffin,tank_frostbarbs,templar_commanding_presence,saint_godspeed,berserker_rancor",
+        "nextNodeType": "frontierheist"
     },
     {
         "dungeonRunId": "178604",
