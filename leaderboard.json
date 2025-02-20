@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178636",
-        "completedLevels": "11",
+        "completedLevels": "12",
         "twitchDisplayName": "NERmage",
         "startTime": "2025-02-20 05:09:18",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,blob_flesheater,bomber_living_bomb,fairy_fireflyconjuration,centurion_teambarbs,amazon_vineclone,paladin_layonhands,healer_shadowword,paladin_holyforce,archer_zephyrstride,flagbearer_bannerofexaltation",
-        "nextNodeType": "olympiadbossPrometheus2"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,blob_flesheater,bomber_living_bomb,fairy_fireflyconjuration,centurion_teambarbs,amazon_vineclone,paladin_layonhands,healer_shadowword,paladin_holyforce,archer_zephyrstride,flagbearer_bannerofexaltation,orcs_building_rage",
+        "nextNodeType": "mothershipholding"
     }
 ]
