@@ -54,15 +54,6 @@
         "nextNodeType": "orcorchard"
     },
     {
-        "dungeonRunId": "178630",
-        "completedLevels": "16",
-        "twitchDisplayName": "Mister91Crow",
-        "startTime": "2025-02-20 00:48:39",
-        "endTime": "2025-02-20 02:52:59",
-        "captainBoons": "common_classic_comeback,saint_exalt,rogue_skeletonturret,epic_ranged_dragonarrows,paladin_layonhands,mage_elementalsummoning,saint_godspeed,flagbearer_bannerofvitality,archer_venomarrows,epic_melee_gloryofvictory,rogue_flamewalker,bomber_bigger_and_badder,warlock_inferno,gladiator_browbeat,barbarian_bringthepain,phantom_thehaunting,vampire_darkwings",
-        "nextNodeType": "tabletoptowers"
-    },
-    {
         "dungeonRunId": "178610",
         "completedLevels": "16",
         "twitchDisplayName": "Fuegojos",
@@ -72,12 +63,21 @@
         "nextNodeType": "lavapools"
     },
     {
+        "dungeonRunId": "178630",
+        "completedLevels": "16",
+        "twitchDisplayName": "Mister91Crow",
+        "startTime": "2025-02-20 00:48:39",
+        "endTime": "2025-02-20 02:52:59",
+        "captainBoons": "common_classic_comeback,saint_exalt,rogue_skeletonturret,epic_ranged_dragonarrows,paladin_layonhands,mage_elementalsummoning,saint_godspeed,flagbearer_bannerofvitality,archer_venomarrows,epic_melee_gloryofvictory,rogue_flamewalker,bomber_bigger_and_badder,warlock_inferno,gladiator_browbeat,barbarian_bringthepain,phantom_thehaunting,vampire_darkwings",
+        "nextNodeType": "tabletoptowers"
+    },
+    {
         "dungeonRunId": "178631",
         "completedLevels": "15",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-20 01:48:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,musketeer_rapidreload,shinobi_firetechinique,centurion_2,healer_combatmedic,blob_flesheater,shinobi_lastninja,saint_exalt,fairy_hocuspocus,epic_melee_gloryofvictory,bomber_dangerzone,archer_venomarrows,vampire_swarmcoffin,tank_frostbarbs,templar_commanding_presence",
+        "captainBoons": "common_classic_comeback,musketeer_rapidreload,shinobi_firetechinique,centurion_2,healer_combatmedic,blob_flesheater,shinobi_lastninja,saint_exalt,fairy_hocuspocus,epic_melee_gloryofvictory,bomber_dangerzone,archer_venomarrows,vampire_swarmcoffin,tank_frostbarbs,templar_commanding_presence,saint_godspeed",
         "nextNodeType": "elementalwaterriver"
     },
     {
