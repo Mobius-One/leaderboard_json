@@ -67,7 +67,7 @@
         "completedLevels": "20",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2025-02-20 17:09:04",
-        "endTime": null,
+        "endTime": "2025-02-20 20:00:20",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,centurion_teambarbs,tank_hoarfrost_armor,saint_exalt,berserker_enrage,templar_beaconofhope,tank_frostbarbs,archer_venomarrows,common_specialists,fairy_fireflyconjuration,amazon_hermesblessing,epic_melee_gloryofvictory,healer_combatmedic,tank_truetank,epic_epicaspirations,monk_stoptheflow,blob_flesheater,blob_parasite,lancer_sarissaspears,flagbearer_bannerofexaltation",
         "nextNodeType": "snowfallboss3"
     },
@@ -81,12 +81,12 @@
         "nextNodeType": "orcorchard"
     },
     {
-        "dungeonRunId": "178630",
+        "dungeonRunId": "178610",
         "completedLevels": "16",
-        "twitchDisplayName": "Mister91Crow",
-        "startTime": "2025-02-20 00:48:39",
-        "endTime": "2025-02-20 02:52:59",
-        "captainBoons": "common_classic_comeback,saint_exalt,rogue_skeletonturret,epic_ranged_dragonarrows,paladin_layonhands,mage_elementalsummoning,saint_godspeed,flagbearer_bannerofvitality,archer_venomarrows,epic_melee_gloryofvictory,rogue_flamewalker,bomber_bigger_and_badder,warlock_inferno,gladiator_browbeat,barbarian_bringthepain,phantom_thehaunting,vampire_darkwings",
-        "nextNodeType": "tabletoptowers"
+        "twitchDisplayName": "Fuegojos",
+        "startTime": "2025-02-19 17:19:45",
+        "endTime": "2025-02-19 19:36:25",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic,artillery_maxpower,templar_beaconofhope,warrior_bladedancer",
+        "nextNodeType": "lavapools"
     }
 ]
