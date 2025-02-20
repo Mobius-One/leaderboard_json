@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178635",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "NERmage",
         "startTime": "2025-02-20 03:46:03",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,flagbearer_bannerofexaltation,amazon_vineclone,flagbearer_bannerofvitality,gladiator_sonofthunder,rogue_shadowcloak,tank_frostbarbs,warbeast_1,epic_epicaspirations",
-        "nextNodeType": "tombmagic"
+        "nextNodeType": "tabletoptowers"
     }
 ]
