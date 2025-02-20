@@ -45,15 +45,6 @@
         "nextNodeType": "olympiadbossPrometheus2"
     },
     {
-        "dungeonRunId": "178645",
-        "completedLevels": "21",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-02-20 12:55:10",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_bringthepain,tank_hoarfrost_armor,fairy_fireflyconjuration,flagbearer_bannerofexaltation,berserker_killing_spree,saint_exalt,undead_undeadresilience,bomber_living_bomb,warrior_bladedancer,necromancer_necronomicon,epic_armored_armoredgiants,centurion_tactician,archer_venomarrows,epic_ranged_dragonarrows,vampire_darkwings,lancer_spearofvengeance,common_specialists,berserker_rancor,saint_surgeofconfidence,epic_epicaspirations",
-        "nextNodeType": "orcsgivingorchard"
-    },
-    {
         "dungeonRunId": "178572",
         "completedLevels": "21",
         "twitchDisplayName": "butterflygarden_gaming",
@@ -61,6 +52,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret,artillery_machine_gun,flagbearer_bannerofvitality,musketeer_grapeshot,warbeast_terrifying_presence,warrior_bladedancer,warbeast_1",
         "nextNodeType": "orcorchard"
+    },
+    {
+        "dungeonRunId": "178645",
+        "completedLevels": "21",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-02-20 12:55:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_bringthepain,tank_hoarfrost_armor,fairy_fireflyconjuration,flagbearer_bannerofexaltation,berserker_killing_spree,saint_exalt,undead_undeadresilience,bomber_living_bomb,warrior_bladedancer,necromancer_necronomicon,epic_armored_armoredgiants,centurion_tactician,archer_venomarrows,epic_ranged_dragonarrows,vampire_darkwings,lancer_spearofvengeance,common_specialists,berserker_rancor,saint_surgeofconfidence,epic_epicaspirations",
+        "nextNodeType": "orcsgivingorchard"
     },
     {
         "dungeonRunId": "178664",
@@ -81,12 +81,12 @@
         "nextNodeType": "orcorchard"
     },
     {
-        "dungeonRunId": "178630",
-        "completedLevels": "16",
-        "twitchDisplayName": "Mister91Crow",
-        "startTime": "2025-02-20 00:48:39",
-        "endTime": "2025-02-20 02:52:59",
-        "captainBoons": "common_classic_comeback,saint_exalt,rogue_skeletonturret,epic_ranged_dragonarrows,paladin_layonhands,mage_elementalsummoning,saint_godspeed,flagbearer_bannerofvitality,archer_venomarrows,epic_melee_gloryofvictory,rogue_flamewalker,bomber_bigger_and_badder,warlock_inferno,gladiator_browbeat,barbarian_bringthepain,phantom_thehaunting,vampire_darkwings",
-        "nextNodeType": "tabletoptowers"
+        "dungeonRunId": "178667",
+        "completedLevels": "17",
+        "twitchDisplayName": "booklovinbuilder",
+        "startTime": "2025-02-20 18:29:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,blob_flesheater,mage_darkmagic,warrior_bladedancer,vampire_lordofthedead,phantom_thehaunting,saint_exalt,elf_elvenimmortality,healer_healing_bloom,tank_frostbarbs,tank_truetank,common_specialists,rogue_flamewalker,mage_elementalsummoning,spy_inciterevolution,flyingrogue_aggravate,paladin_avengingsmite",
+        "nextNodeType": "marblesandboss8"
     }
 ]
