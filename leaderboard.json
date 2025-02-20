@@ -63,6 +63,15 @@
         "nextNodeType": "orcorchard"
     },
     {
+        "dungeonRunId": "178675",
+        "completedLevels": "20",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-02-20 21:06:39",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,orcs_inpenetrable,epic_melee_gloryofvictory,paladin_layonhands,barbarian_bringthepain,vampire_swarmcoffin,tank_frostbarbs,mage_elementalsummoning,warbeast_terrifying_presence,fairy_fireflyconjuration,saint_surgeofconfidence,orcs_building_rage,musketeer_rapidreload,rogue_skeletonturret,saint_godspeed,vampire_darkwings,shinobi_firetechinique,phantom_thehaunting,warrior_bladedancer,bomber_bigger_and_badder",
+        "nextNodeType": "olympiadbossPrometheus2"
+    },
+    {
         "dungeonRunId": "178664",
         "completedLevels": "20",
         "twitchDisplayName": "Juzy_Fruit",
@@ -70,15 +79,6 @@
         "endTime": "2025-02-20 20:00:20",
         "captainBoons": "common_classic_comeback,bomber_dangerzone,centurion_teambarbs,tank_hoarfrost_armor,saint_exalt,berserker_enrage,templar_beaconofhope,tank_frostbarbs,archer_venomarrows,common_specialists,fairy_fireflyconjuration,amazon_hermesblessing,epic_melee_gloryofvictory,healer_combatmedic,tank_truetank,epic_epicaspirations,monk_stoptheflow,blob_flesheater,blob_parasite,lancer_sarissaspears,flagbearer_bannerofexaltation",
         "nextNodeType": "snowfallboss3"
-    },
-    {
-        "dungeonRunId": "178675",
-        "completedLevels": "19",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-02-20 21:06:39",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,orcs_inpenetrable,epic_melee_gloryofvictory,paladin_layonhands,barbarian_bringthepain,vampire_swarmcoffin,tank_frostbarbs,mage_elementalsummoning,warbeast_terrifying_presence,fairy_fireflyconjuration,saint_surgeofconfidence,orcs_building_rage,musketeer_rapidreload,rogue_skeletonturret,saint_godspeed,vampire_darkwings,shinobi_firetechinique,phantom_thehaunting,warrior_bladedancer",
-        "nextNodeType": "tabletoptowers"
     },
     {
         "dungeonRunId": "178667",
