@@ -72,6 +72,15 @@
         "nextNodeType": "sugargiantsbossparty"
     },
     {
+        "dungeonRunId": "178630",
+        "completedLevels": "10",
+        "twitchDisplayName": "Mister91Crow",
+        "startTime": "2025-02-20 00:48:39",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,rogue_skeletonturret,epic_ranged_dragonarrows,paladin_layonhands,mage_elementalsummoning,saint_godspeed,flagbearer_bannerofvitality,archer_venomarrows,epic_melee_gloryofvictory,rogue_flamewalker",
+        "nextNodeType": "orcsgivingorchard"
+    },
+    {
         "dungeonRunId": "178604",
         "completedLevels": "9",
         "twitchDisplayName": "trushuks",
@@ -79,14 +88,5 @@
         "endTime": "2025-02-19 17:06:07",
         "captainBoons": "common_classic_comeback,tank_frostbarbs,fairy_hocuspocus,bbuster_flying_terror,archer_zephyrstride,necromancer_necronomicon,templar_beaconofhope,gladiator_browbeat,saint_surgeofconfidence,flagbearer_focused_morale",
         "nextNodeType": "elementalwaterriver"
-    },
-    {
-        "dungeonRunId": "178620",
-        "completedLevels": "9",
-        "twitchDisplayName": "himofdemon",
-        "startTime": "2025-02-19 22:28:09",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,flyingrogue_aggravate,undead_undeadresilience,vampire_swarmcoffin,berserker_rancor,vampire_lordofthedead,warbeast_terrifying_presence,gladiator_browbeat,mage_elementalsummoning,epic_melee_gloryofvictory",
-        "nextNodeType": "orcsgivingorchard"
     }
 ]
