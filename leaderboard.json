@@ -72,6 +72,15 @@
         "nextNodeType": "snowfallboss3"
     },
     {
+        "dungeonRunId": "178667",
+        "completedLevels": "18",
+        "twitchDisplayName": "booklovinbuilder",
+        "startTime": "2025-02-20 18:29:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,blob_flesheater,mage_darkmagic,warrior_bladedancer,vampire_lordofthedead,phantom_thehaunting,saint_exalt,elf_elvenimmortality,healer_healing_bloom,tank_frostbarbs,tank_truetank,common_specialists,rogue_flamewalker,mage_elementalsummoning,spy_inciterevolution,flyingrogue_aggravate,paladin_avengingsmite,warlock_inferno",
+        "nextNodeType": "tabletoptowers"
+    },
+    {
         "dungeonRunId": "178631",
         "completedLevels": "18",
         "twitchDisplayName": "ohitsneb",
@@ -79,14 +88,5 @@
         "endTime": "2025-02-20 05:19:05",
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,shinobi_firetechinique,centurion_2,healer_combatmedic,blob_flesheater,shinobi_lastninja,saint_exalt,fairy_hocuspocus,epic_melee_gloryofvictory,bomber_dangerzone,archer_venomarrows,vampire_swarmcoffin,tank_frostbarbs,templar_commanding_presence,saint_godspeed,berserker_rancor,healer_shadowword,artillery_machine_gun",
         "nextNodeType": "orcorchard"
-    },
-    {
-        "dungeonRunId": "178667",
-        "completedLevels": "17",
-        "twitchDisplayName": "booklovinbuilder",
-        "startTime": "2025-02-20 18:29:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,blob_flesheater,mage_darkmagic,warrior_bladedancer,vampire_lordofthedead,phantom_thehaunting,saint_exalt,elf_elvenimmortality,healer_healing_bloom,tank_frostbarbs,tank_truetank,common_specialists,rogue_flamewalker,mage_elementalsummoning,spy_inciterevolution,flyingrogue_aggravate,paladin_avengingsmite",
-        "nextNodeType": "marblesandboss8"
     }
 ]
