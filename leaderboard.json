@@ -54,15 +54,6 @@
         "nextNodeType": "orcorchard"
     },
     {
-        "dungeonRunId": "178610",
-        "completedLevels": "16",
-        "twitchDisplayName": "Fuegojos",
-        "startTime": "2025-02-19 17:19:45",
-        "endTime": "2025-02-19 19:36:25",
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic,artillery_maxpower,templar_beaconofhope,warrior_bladedancer",
-        "nextNodeType": "lavapools"
-    },
-    {
         "dungeonRunId": "178630",
         "completedLevels": "16",
         "twitchDisplayName": "Mister91Crow",
@@ -72,13 +63,22 @@
         "nextNodeType": "tabletoptowers"
     },
     {
+        "dungeonRunId": "178610",
+        "completedLevels": "16",
+        "twitchDisplayName": "Fuegojos",
+        "startTime": "2025-02-19 17:19:45",
+        "endTime": "2025-02-19 19:36:25",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,necromancer_necronomicon,vampire_swarmcoffin,bomber_dangerzone,archer_venomarrows,bomber_living_bomb,paladin_layonhands,tank_truetank,musk_hunters_mark,flyingrogue_aggravate,mage_elementalsummoning,warbeast_terrifying_presence,healer_combatmedic,artillery_maxpower,templar_beaconofhope,warrior_bladedancer",
+        "nextNodeType": "lavapools"
+    },
+    {
         "dungeonRunId": "178631",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-20 01:48:22",
         "endTime": null,
         "captainBoons": "common_classic_comeback,musketeer_rapidreload,shinobi_firetechinique,centurion_2,healer_combatmedic,blob_flesheater,shinobi_lastninja,saint_exalt,fairy_hocuspocus,epic_melee_gloryofvictory,bomber_dangerzone,archer_venomarrows,vampire_swarmcoffin,tank_frostbarbs,templar_commanding_presence",
-        "nextNodeType": "dungeons_jerry"
+        "nextNodeType": "elementalwaterriver"
     },
     {
         "dungeonRunId": "178604",
