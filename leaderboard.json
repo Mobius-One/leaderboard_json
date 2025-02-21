@@ -63,15 +63,6 @@
         "nextNodeType": "wasteroad"
     },
     {
-        "dungeonRunId": "178572",
-        "completedLevels": "21",
-        "twitchDisplayName": "butterflygarden_gaming",
-        "startTime": "2025-02-19 02:03:34",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret,artillery_machine_gun,flagbearer_bannerofvitality,musketeer_grapeshot,warbeast_terrifying_presence,warrior_bladedancer,warbeast_1",
-        "nextNodeType": "orcorchard"
-    },
-    {
         "dungeonRunId": "178645",
         "completedLevels": "21",
         "twitchDisplayName": "MrShadowseer",
@@ -81,12 +72,21 @@
         "nextNodeType": "orcsgivingorchard"
     },
     {
-        "dungeonRunId": "178675",
-        "completedLevels": "20",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-02-20 21:06:39",
-        "endTime": "2025-02-20 23:48:06",
-        "captainBoons": "common_classic_comeback,healer_combatmedic,orcs_inpenetrable,epic_melee_gloryofvictory,paladin_layonhands,barbarian_bringthepain,vampire_swarmcoffin,tank_frostbarbs,mage_elementalsummoning,warbeast_terrifying_presence,fairy_fireflyconjuration,saint_surgeofconfidence,orcs_building_rage,musketeer_rapidreload,rogue_skeletonturret,saint_godspeed,vampire_darkwings,shinobi_firetechinique,phantom_thehaunting,warrior_bladedancer,bomber_bigger_and_badder",
-        "nextNodeType": "olympiadbossPrometheus2"
+        "dungeonRunId": "178705",
+        "completedLevels": "21",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-21 15:27:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,centurion_teambarbs,epic_armored_armoredgiants,barbarian_gloriousdeath,flagbearer_bannerofexaltation,monk_heavenskarma,fairy_fireflyconjuration,blob_flesheater,musk_hunters_mark,gladiator_browbeat,monk_snakestyle,common_specialists,healer_combatmedic,vampire_lordofthedead,human_humandestiny,bomber_dangerzone,musketeer_grapeshot,flagbearer_focused_morale,archer_zephyrstride,tank_truetank,epic_ranged_dragonarrows",
+        "nextNodeType": "lavapools"
+    },
+    {
+        "dungeonRunId": "178572",
+        "completedLevels": "21",
+        "twitchDisplayName": "butterflygarden_gaming",
+        "startTime": "2025-02-19 02:03:34",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret,artillery_machine_gun,flagbearer_bannerofvitality,musketeer_grapeshot,warbeast_terrifying_presence,warrior_bladedancer,warbeast_1",
+        "nextNodeType": "orcorchard"
     }
 ]
