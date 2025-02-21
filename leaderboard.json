@@ -45,15 +45,6 @@
         "nextNodeType": "olympiadbossPrometheus2"
     },
     {
-        "dungeonRunId": "178645",
-        "completedLevels": "21",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-02-20 12:55:10",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_bringthepain,tank_hoarfrost_armor,fairy_fireflyconjuration,flagbearer_bannerofexaltation,berserker_killing_spree,saint_exalt,undead_undeadresilience,bomber_living_bomb,warrior_bladedancer,necromancer_necronomicon,epic_armored_armoredgiants,centurion_tactician,archer_venomarrows,epic_ranged_dragonarrows,vampire_darkwings,lancer_spearofvengeance,common_specialists,berserker_rancor,saint_surgeofconfidence,epic_epicaspirations",
-        "nextNodeType": "orcsgivingorchard"
-    },
-    {
         "dungeonRunId": "178572",
         "completedLevels": "21",
         "twitchDisplayName": "butterflygarden_gaming",
@@ -61,6 +52,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret,artillery_machine_gun,flagbearer_bannerofvitality,musketeer_grapeshot,warbeast_terrifying_presence,warrior_bladedancer,warbeast_1",
         "nextNodeType": "orcorchard"
+    },
+    {
+        "dungeonRunId": "178645",
+        "completedLevels": "21",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-02-20 12:55:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_bringthepain,tank_hoarfrost_armor,fairy_fireflyconjuration,flagbearer_bannerofexaltation,berserker_killing_spree,saint_exalt,undead_undeadresilience,bomber_living_bomb,warrior_bladedancer,necromancer_necronomicon,epic_armored_armoredgiants,centurion_tactician,archer_venomarrows,epic_ranged_dragonarrows,vampire_darkwings,lancer_spearofvengeance,common_specialists,berserker_rancor,saint_surgeofconfidence,epic_epicaspirations",
+        "nextNodeType": "orcsgivingorchard"
     },
     {
         "dungeonRunId": "178675",
