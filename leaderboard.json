@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178677",
-        "completedLevels": "40",
+        "completedLevels": "41",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2025-02-20 22:05:58",
         "endTime": null,
         "captainBoons": "common_classic_comeback,centurion_teambarbs,warlock_inferno,fairy_fireflyconjuration,elf_elvenimmortality,gladiator_browbeat,flagbearer_bannerofexaltation,berserker_killing_spree,berserker_rancor,rogue_skeletonturret,necromancer_bombasticbones,tank_frostbarbs,barbarian_bringthepain,tank_hoarfrost_armor,warbeast_1,blob_parasite,bomber_dangerzone,bomber_bigger_and_badder,orcs_building_rage,musketeer_grapeshot,musk_hunters_mark,tank_truetank,epic_armored_armoredgiants,saint_surgeofconfidence",
-        "nextNodeType": "mothershipholding"
+        "nextNodeType": "snowfallboss3"
     },
     {
         "dungeonRunId": "178573",
