@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178677",
-        "completedLevels": "23",
+        "completedLevels": "24",
         "twitchDisplayName": "Juzy_Fruit",
         "startTime": "2025-02-20 22:05:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,centurion_teambarbs,warlock_inferno,fairy_fireflyconjuration,elf_elvenimmortality,gladiator_war_machine,gladiator_browbeat,flagbearer_bannerofexaltation,berserker_killing_spree,berserker_rancor,rogue_skeletonturret,necromancer_bombasticbones,tank_frostbarbs,barbarian_bringthepain,tank_hoarfrost_armor,saint_exalt,warbeast_1,blob_parasite,bomber_dangerzone,bomber_bigger_and_badder,orcs_building_rage,centurion_tactician,musketeer_grapeshot",
-        "nextNodeType": "snowfallboss3"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,centurion_teambarbs,warlock_inferno,fairy_fireflyconjuration,elf_elvenimmortality,gladiator_war_machine,gladiator_browbeat,flagbearer_bannerofexaltation,berserker_killing_spree,berserker_rancor,rogue_skeletonturret,necromancer_bombasticbones,tank_frostbarbs,barbarian_bringthepain,tank_hoarfrost_armor,saint_exalt,warbeast_1,blob_parasite,bomber_dangerzone,bomber_bigger_and_badder,orcs_building_rage,centurion_tactician,musketeer_grapeshot,musk_hunters_mark",
+        "nextNodeType": "elementalwaterriver"
     },
     {
         "dungeonRunId": "178645",
