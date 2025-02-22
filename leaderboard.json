@@ -36,13 +36,13 @@
         "nextNodeType": "snowfallboss3"
     },
     {
-        "dungeonRunId": "178573",
-        "completedLevels": "29",
+        "dungeonRunId": "178723",
+        "completedLevels": "30",
         "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-19 02:07:40",
-        "endTime": "2025-02-19 05:35:47",
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,paladin_avengingsmite,monk_heavenskarma,barbarian_gloriousdeath,monk_snakestyle,flagbearer_focused_morale,warrior_bladedancer,frogue_preparation,saint_godspeed,rogue_flamewalker,mage_elementalsummoning,healer_healing_bloom,saint_exalt,artillery_maxpower,artillery_machine_gun,archer_zephyrstride,warbeast_1,centurion_2,flagbearer_bannerofvitality,blob_flesheater,common_specialists,monk_stoptheflow,elf_elvenimmortality,archer_steadybow,healer_combatmedic,centurion_teambarbs,fairy_gift_of_the_wind,tank_frostbarbs,archer_venomarrows",
-        "nextNodeType": "dungeons_jerry"
+        "startTime": "2025-02-22 04:07:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,berserker_enrage,tank_hoarfrost_armor,flyingrogue_aggravate,flagbearer_bannerofexaltation,warbeast_terrifying_presence,bomber_dangerzone,necromancer_necronomicon,fairy_gift_of_the_wind,gladiator_browbeat,saint_surgeofconfidence,archer_steadybow,paladin_layonhands,centurion_teambarbs,frogue_vanishing_powder,fairy_fireflyconjuration,fairy_hocuspocus,human_humandestiny,berserker_rancor,musketeer_grapeshot,musketeer_rapidreload,mage_elementalsummoning,phantom_thehaunting,vampire_darkwings,artillery_maxpower,healer_healing_bloom,monk_stoptheflow,barbarian_bringthepain",
+        "nextNodeType": "orcsgivingorchard"
     },
     {
         "dungeonRunId": "178709",
@@ -81,12 +81,12 @@
         "nextNodeType": "wasteroad"
     },
     {
-        "dungeonRunId": "178645",
+        "dungeonRunId": "178572",
         "completedLevels": "21",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-02-20 12:55:10",
+        "twitchDisplayName": "butterflygarden_gaming",
+        "startTime": "2025-02-19 02:03:34",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_bringthepain,tank_hoarfrost_armor,fairy_fireflyconjuration,flagbearer_bannerofexaltation,berserker_killing_spree,saint_exalt,undead_undeadresilience,bomber_living_bomb,warrior_bladedancer,necromancer_necronomicon,epic_armored_armoredgiants,centurion_tactician,archer_venomarrows,epic_ranged_dragonarrows,vampire_darkwings,lancer_spearofvengeance,common_specialists,berserker_rancor,saint_surgeofconfidence,epic_epicaspirations",
-        "nextNodeType": "orcsgivingorchard"
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret,artillery_machine_gun,flagbearer_bannerofvitality,musketeer_grapeshot,warbeast_terrifying_presence,warrior_bladedancer,warbeast_1",
+        "nextNodeType": "orcorchard"
     }
 ]
