@@ -58,7 +58,7 @@
         "completedLevels": "24",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-22 02:03:12",
-        "endTime": null,
+        "endTime": "2025-02-22 06:47:32",
         "captainBoons": "common_classic_comeback,monk_stoptheflow,archer_venomarrows,musk_hunters_mark,musketeer_rapidreload,saint_surgeofconfidence,blob_parasite,rogue_flamewalker,warrior_flameslash,epic_melee_gloryofvictory,healer_combatmedic,monk_snakestyle,bomber_living_bomb,bomber_dangerzone,tank_truetank,common_specialists,saint_exalt,artillery_maxpower,healer_healing_bloom,tank_frostbarbs,flagbearer_bannerofexaltation,gladiator_war_machine,barbarian_gloriousdeath,musketeer_grapeshot,epic_armored_armoredgiants",
         "nextNodeType": "tabletoptowers"
     },
@@ -72,6 +72,15 @@
         "nextNodeType": "wasteroad"
     },
     {
+        "dungeonRunId": "178722",
+        "completedLevels": "22",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-02-22 04:02:00",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,berserker_enrage,bomber_living_bomb,bomber_dangerzone,blob_flesheater,healer_healing_bloom,paladin_layonhands,archer_venomarrows,gladiator_war_machine,flyingrogue_aggravate,orcs_inpenetrable,epic_armored_armoredgiants,fairy_fireflyconjuration,amazon_hermesblessing,epic_melee_gloryofvictory,gladiator_browbeat,warbeast_1,blob_parasite,monk_stoptheflow,artillery_maxpower,phantom_thehaunting,centurion_tactician",
+        "nextNodeType": "marbleradioriver3"
+    },
+    {
         "dungeonRunId": "178572",
         "completedLevels": "21",
         "twitchDisplayName": "butterflygarden_gaming",
@@ -79,14 +88,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,monk_stoptheflow,mage_elementalsummoning,necromancer_bombasticbones,musketeer_rapidreload,blob_flesheater,saint_godspeed,fairy_fireflyconjuration,elf_elvenimmortality,berserker_killing_spree,bomber_dangerzone,archer_venomarrows,mage_darkmagic,healer_combatmedic,rogue_skeletonturret,artillery_machine_gun,flagbearer_bannerofvitality,musketeer_grapeshot,warbeast_terrifying_presence,warrior_bladedancer,warbeast_1",
         "nextNodeType": "orcorchard"
-    },
-    {
-        "dungeonRunId": "178722",
-        "completedLevels": "21",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-22 04:02:00",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,berserker_enrage,bomber_living_bomb,bomber_dangerzone,blob_flesheater,healer_healing_bloom,paladin_layonhands,archer_venomarrows,gladiator_war_machine,flyingrogue_aggravate,orcs_inpenetrable,epic_armored_armoredgiants,fairy_fireflyconjuration,amazon_hermesblessing,epic_melee_gloryofvictory,gladiator_browbeat,warbeast_1,blob_parasite,monk_stoptheflow,artillery_maxpower,phantom_thehaunting",
-        "nextNodeType": "boardlandiahold"
     }
 ]
