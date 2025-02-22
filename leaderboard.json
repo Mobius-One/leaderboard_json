@@ -63,6 +63,15 @@
         "nextNodeType": "tabletoptowers"
     },
     {
+        "dungeonRunId": "178722",
+        "completedLevels": "23",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-02-22 04:02:00",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,berserker_enrage,bomber_living_bomb,bomber_dangerzone,blob_flesheater,healer_healing_bloom,paladin_layonhands,archer_venomarrows,gladiator_war_machine,flyingrogue_aggravate,orcs_inpenetrable,epic_armored_armoredgiants,fairy_fireflyconjuration,amazon_hermesblessing,epic_melee_gloryofvictory,gladiator_browbeat,warbeast_1,blob_parasite,monk_stoptheflow,artillery_maxpower,phantom_thehaunting,centurion_tactician,warrior_flameslash",
+        "nextNodeType": "marblesandboss8"
+    },
+    {
         "dungeonRunId": "178565",
         "completedLevels": "22",
         "twitchDisplayName": "JayelDraco",
@@ -70,15 +79,6 @@
         "endTime": "2025-02-21 02:55:35",
         "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1,vampire_swarmcoffin,healer_combatmedic,vampire_lordofthedead,warbeast_terrifying_presence,flagbearer_bannerofvitality,blob_flesheater,frogue_vanishing_powder,fairy_fireflyconjuration,necromancer_necronomicon,healer_healing_bloom,tank_frostbarbs,artillery_maxpower,monk_heavenskarma,saint_exalt,musketeer_grapeshot,tank_hoarfrost_armor,vampire_darkwings",
         "nextNodeType": "wasteroad"
-    },
-    {
-        "dungeonRunId": "178722",
-        "completedLevels": "22",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-22 04:02:00",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,berserker_enrage,bomber_living_bomb,bomber_dangerzone,blob_flesheater,healer_healing_bloom,paladin_layonhands,archer_venomarrows,gladiator_war_machine,flyingrogue_aggravate,orcs_inpenetrable,epic_armored_armoredgiants,fairy_fireflyconjuration,amazon_hermesblessing,epic_melee_gloryofvictory,gladiator_browbeat,warbeast_1,blob_parasite,monk_stoptheflow,artillery_maxpower,phantom_thehaunting,centurion_tactician",
-        "nextNodeType": "marbleradioriver3"
     },
     {
         "dungeonRunId": "178572",
