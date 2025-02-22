@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178709",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-21 18:08:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,tank_hoarfrost_armor,archer_zephyrstride,fairy_hocuspocus,berserker_killing_spree,gladiator_browbeat,spy_hauntingsabotage,blob_parasite,bomber_dangerzone,vampire_lordofthedead,mage_darkmagic,fairy_fireflyconjuration,berserker_enrage,warbeast_terrifying_presence,centurion_tactician,flagbearer_bannerofexaltation,epic_armored_armoredgiants,berserker_rancor,bomber_bigger_and_badder,musk_hunters_mark,rogue_flamewalker,monk_snakestyle,warlock_inferno,saint_exalt,orcs_inpenetrable,epic_epicaspirations",
-        "nextNodeType": "tabletoptowers"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,blob_flesheater,tank_hoarfrost_armor,archer_zephyrstride,fairy_hocuspocus,berserker_killing_spree,gladiator_browbeat,spy_hauntingsabotage,blob_parasite,bomber_dangerzone,vampire_lordofthedead,mage_darkmagic,fairy_fireflyconjuration,berserker_enrage,warbeast_terrifying_presence,centurion_tactician,flagbearer_bannerofexaltation,epic_armored_armoredgiants,berserker_rancor,bomber_bigger_and_badder,musk_hunters_mark,rogue_flamewalker,monk_snakestyle,warlock_inferno,saint_exalt,orcs_inpenetrable,epic_epicaspirations,flagbearer_bannerofvitality",
+        "nextNodeType": "lavapools"
     },
     {
         "dungeonRunId": "178565",
