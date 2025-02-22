@@ -18,13 +18,13 @@
         "nextNodeType": "tabletoptowers"
     },
     {
-        "dungeonRunId": "178588",
-        "completedLevels": "47",
+        "dungeonRunId": "178737",
+        "completedLevels": "48",
         "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-19 11:10:35",
-        "endTime": "2025-02-19 17:58:00",
-        "captainBoons": "common_classic_comeback,monk_snakestyle,bomber_living_bomb,fairy_fireflyconjuration,saint_surgeofconfidence,epic_melee_gloryofvictory,berserker_rancor,templar_commanding_presence,epic_ranged_dragonarrows,warrior_bladedancer,epic_armored_armoredgiants,saint_exalt,flagbearer_focused_morale,bomber_dangerzone,berserker_enrage,human_humandestiny,orcs_inpenetrable,epic_epicaspirations,flagbearer_bannerofexaltation,gladiator_war_machine,amazon_hermesblessing",
-        "nextNodeType": "sugargiantsbossparty"
+        "startTime": "2025-02-22 12:27:34",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,berserker_enrage,epic_ranged_dragonarrows,berserker_rancor,musketeer_grapeshot,saint_godspeed,saint_surgeofconfidence,paladin_holyforce,fairy_fireflyconjuration,berserker_killing_spree,musketeer_rapidreload,epic_melee_gloryofvictory,gladiator_browbeat,amazon_hermesblessing,bomber_living_bomb,saint_exalt,fairy_gift_of_the_wind,artillery_maxpower,necromancer_necronomicon",
+        "nextNodeType": "marbleradioriver3"
     },
     {
         "dungeonRunId": "178677",
