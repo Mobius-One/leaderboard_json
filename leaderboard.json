@@ -54,15 +54,6 @@
         "nextNodeType": "lavapools"
     },
     {
-        "dungeonRunId": "178721",
-        "completedLevels": "24",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-22 02:03:12",
-        "endTime": "2025-02-22 06:47:32",
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,archer_venomarrows,musk_hunters_mark,musketeer_rapidreload,saint_surgeofconfidence,blob_parasite,rogue_flamewalker,warrior_flameslash,epic_melee_gloryofvictory,healer_combatmedic,monk_snakestyle,bomber_living_bomb,bomber_dangerzone,tank_truetank,common_specialists,saint_exalt,artillery_maxpower,healer_healing_bloom,tank_frostbarbs,flagbearer_bannerofexaltation,gladiator_war_machine,barbarian_gloriousdeath,musketeer_grapeshot,epic_armored_armoredgiants",
-        "nextNodeType": "tabletoptowers"
-    },
-    {
         "dungeonRunId": "178722",
         "completedLevels": "24",
         "twitchDisplayName": "Panthergal2018",
@@ -72,13 +63,22 @@
         "nextNodeType": "elementalfirefield"
     },
     {
+        "dungeonRunId": "178721",
+        "completedLevels": "24",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-22 02:03:12",
+        "endTime": "2025-02-22 06:47:32",
+        "captainBoons": "common_classic_comeback,monk_stoptheflow,archer_venomarrows,musk_hunters_mark,musketeer_rapidreload,saint_surgeofconfidence,blob_parasite,rogue_flamewalker,warrior_flameslash,epic_melee_gloryofvictory,healer_combatmedic,monk_snakestyle,bomber_living_bomb,bomber_dangerzone,tank_truetank,common_specialists,saint_exalt,artillery_maxpower,healer_healing_bloom,tank_frostbarbs,flagbearer_bannerofexaltation,gladiator_war_machine,barbarian_gloriousdeath,musketeer_grapeshot,epic_armored_armoredgiants",
+        "nextNodeType": "tabletoptowers"
+    },
+    {
         "dungeonRunId": "178740",
-        "completedLevels": "23",
+        "completedLevels": "24",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-02-22 16:23:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,vampire_darkwings,musketeer_grapeshot,healer_healing_bloom,bomber_dangerzone,vampire_lordofthedead,vampire_swarmcoffin,musketeer_rapidreload,amazon_hermesblessing,warbeast_terrifying_presence,paladin_layonhands,paladin_avengingsmite,monk_heavenskarma,rogue_flamewalker,rogue_skeletonturret,epic_melee_gloryofvictory,warrior_bladedancer,healer_shadowword,phantom_thehaunting,saint_exalt,flagbearer_bannerofexaltation,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation",
-        "nextNodeType": "oasisboss"
+        "captainBoons": "common_classic_comeback,vampire_darkwings,musketeer_grapeshot,healer_healing_bloom,bomber_dangerzone,vampire_lordofthedead,vampire_swarmcoffin,musketeer_rapidreload,amazon_hermesblessing,warbeast_terrifying_presence,paladin_layonhands,paladin_avengingsmite,monk_heavenskarma,rogue_flamewalker,rogue_skeletonturret,epic_melee_gloryofvictory,warrior_bladedancer,healer_shadowword,phantom_thehaunting,saint_exalt,flagbearer_bannerofexaltation,necromancer_bombasticbones,shinobi_shadowstrike,frogue_preparation,shinobi_lastninja",
+        "nextNodeType": "elementalfirefield"
     },
     {
         "dungeonRunId": "178644",
