@@ -36,15 +36,6 @@
         "nextNodeType": "snowfallboss3"
     },
     {
-        "dungeonRunId": "178723",
-        "completedLevels": "32",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-22 04:07:54",
-        "endTime": "2025-02-22 08:26:08",
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,berserker_enrage,tank_hoarfrost_armor,flagbearer_bannerofexaltation,warbeast_terrifying_presence,bomber_dangerzone,necromancer_necronomicon,fairy_gift_of_the_wind,gladiator_browbeat,saint_surgeofconfidence,archer_steadybow,paladin_layonhands,centurion_teambarbs,frogue_vanishing_powder,fairy_fireflyconjuration,fairy_hocuspocus,human_humandestiny,berserker_rancor,musketeer_grapeshot,musketeer_rapidreload,mage_elementalsummoning,phantom_thehaunting,vampire_darkwings,artillery_maxpower,healer_healing_bloom,monk_stoptheflow,barbarian_bringthepain",
-        "nextNodeType": "snowfallboss3"
-    },
-    {
         "dungeonRunId": "178724",
         "completedLevels": "32",
         "twitchDisplayName": "Hooks",
@@ -54,13 +45,22 @@
         "nextNodeType": "snowfallboss3"
     },
     {
+        "dungeonRunId": "178723",
+        "completedLevels": "32",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-02-22 04:07:54",
+        "endTime": "2025-02-22 08:26:08",
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,berserker_enrage,tank_hoarfrost_armor,flagbearer_bannerofexaltation,warbeast_terrifying_presence,bomber_dangerzone,necromancer_necronomicon,fairy_gift_of_the_wind,gladiator_browbeat,saint_surgeofconfidence,archer_steadybow,paladin_layonhands,centurion_teambarbs,frogue_vanishing_powder,fairy_fireflyconjuration,fairy_hocuspocus,human_humandestiny,berserker_rancor,musketeer_grapeshot,musketeer_rapidreload,mage_elementalsummoning,phantom_thehaunting,vampire_darkwings,artillery_maxpower,healer_healing_bloom,monk_stoptheflow,barbarian_bringthepain",
+        "nextNodeType": "snowfallboss3"
+    },
+    {
         "dungeonRunId": "178839",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-02-24 17:15:04",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_venomarrows,necromancer_bombasticbones,rogue_flamewalker,blob_flesheater,fairy_gift_of_the_wind,tank_frostbarbs,warrior_flameslash,rogue_shadowcloak,shinobi_shadowstrike,tank_truetank,blob_parasite,warrior_bladedancer,spy_hauntingsabotage,orcs_building_rage,saint_exalt,flagbearer_bannerofexaltation,epic_ranged_dragonarrows,musketeer_rapidreload,orcs_inpenetrable,lancer_ignitingstrike,vampire_darkwings,vampire_lordofthedead,flagbearer_focused_morale,fairy_fireflyconjuration,musketeer_grapeshot,common_specialists",
-        "nextNodeType": "orcsgivingorchard"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,archer_venomarrows,necromancer_bombasticbones,rogue_flamewalker,blob_flesheater,fairy_gift_of_the_wind,tank_frostbarbs,warrior_flameslash,rogue_shadowcloak,shinobi_shadowstrike,tank_truetank,blob_parasite,warrior_bladedancer,spy_hauntingsabotage,orcs_building_rage,saint_exalt,flagbearer_bannerofexaltation,epic_ranged_dragonarrows,musketeer_rapidreload,orcs_inpenetrable,lancer_ignitingstrike,vampire_darkwings,vampire_lordofthedead,flagbearer_focused_morale,fairy_fireflyconjuration,musketeer_grapeshot,common_specialists,healer_combatmedic",
+        "nextNodeType": "lavapools"
     },
     {
         "dungeonRunId": "178808",
