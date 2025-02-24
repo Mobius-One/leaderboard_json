@@ -81,12 +81,12 @@
         "nextNodeType": "tabletoptowers"
     },
     {
-        "dungeonRunId": "178788",
+        "dungeonRunId": "178565",
         "completedLevels": "22",
-        "twitchDisplayName": "DragonAtsuma",
-        "startTime": "2025-02-23 21:15:17",
-        "endTime": "2025-02-24 00:08:16",
-        "captainBoons": "common_classic_comeback,vampire_darkwings,templar_commanding_presence,templar_beaconofhope,musketeer_rapidreload,berserker_enrage,common_specialists,healer_combatmedic,flagbearer_bannerofexaltation,epic_armored_armoredgiants,paladin_layonhands,blob_flesheater,tank_hoarfrost_armor,archer_zephyrstride,archer_venomarrows,flagbearer_focused_morale,berserker_rancor,musketeer_grapeshot,musk_hunters_mark,centurion_tactician,saint_surgeofconfidence,saint_godspeed,warrior_bladedancer",
-        "nextNodeType": "elementalfirefield"
+        "twitchDisplayName": "JayelDraco",
+        "startTime": "2025-02-18 23:49:36",
+        "endTime": "2025-02-21 02:55:35",
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1,vampire_swarmcoffin,healer_combatmedic,vampire_lordofthedead,warbeast_terrifying_presence,flagbearer_bannerofvitality,blob_flesheater,frogue_vanishing_powder,fairy_fireflyconjuration,necromancer_necronomicon,healer_healing_bloom,tank_frostbarbs,artillery_maxpower,monk_heavenskarma,saint_exalt,musketeer_grapeshot,tank_hoarfrost_armor,vampire_darkwings",
+        "nextNodeType": "wasteroad"
     }
 ]
