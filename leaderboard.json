@@ -63,6 +63,15 @@
         "nextNodeType": "sugargiantsbossparty"
     },
     {
+        "dungeonRunId": "178808",
+        "completedLevels": "25",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-24 04:47:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofvitality,elf_elvenimmortality,amazon_vineclone,berserker_rancor,artillery_maxpower,bomber_living_bomb,fairy_fireflyconjuration,vampire_lordofthedead,healer_healing_bloom,healer_combatmedic,berserker_enrage,tank_hoarfrost_armor,archer_zephyrstride,tank_truetank,epic_melee_gloryofvictory,musketeer_rapidreload,amazon_hermesblessing,saint_godspeed,paladin_layonhands,rogue_skeletonturret,vampire_swarmcoffin,saint_exalt,bomber_bigger_and_badder,blob_parasite,centurion_tactician",
+        "nextNodeType": "orcsgivingorchard"
+    },
+    {
         "dungeonRunId": "178722",
         "completedLevels": "24",
         "twitchDisplayName": "Panthergal2018",
@@ -70,15 +79,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,berserker_enrage,bomber_living_bomb,bomber_dangerzone,blob_flesheater,healer_healing_bloom,paladin_layonhands,archer_venomarrows,gladiator_war_machine,flyingrogue_aggravate,orcs_inpenetrable,epic_armored_armoredgiants,fairy_fireflyconjuration,amazon_hermesblessing,epic_melee_gloryofvictory,gladiator_browbeat,warbeast_1,blob_parasite,monk_stoptheflow,artillery_maxpower,phantom_thehaunting,centurion_tactician,warrior_flameslash,centurion_2",
         "nextNodeType": "elementalfirefield"
-    },
-    {
-        "dungeonRunId": "178721",
-        "completedLevels": "24",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-22 02:03:12",
-        "endTime": "2025-02-22 06:47:32",
-        "captainBoons": "common_classic_comeback,monk_stoptheflow,archer_venomarrows,musk_hunters_mark,musketeer_rapidreload,saint_surgeofconfidence,blob_parasite,rogue_flamewalker,warrior_flameslash,epic_melee_gloryofvictory,healer_combatmedic,monk_snakestyle,bomber_living_bomb,bomber_dangerzone,tank_truetank,common_specialists,saint_exalt,artillery_maxpower,healer_healing_bloom,tank_frostbarbs,flagbearer_bannerofexaltation,gladiator_war_machine,barbarian_gloriousdeath,musketeer_grapeshot,epic_armored_armoredgiants",
-        "nextNodeType": "tabletoptowers"
     },
     {
         "dungeonRunId": "178645",
