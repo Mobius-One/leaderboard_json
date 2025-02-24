@@ -81,12 +81,12 @@
         "nextNodeType": "tabletoptowers"
     },
     {
-        "dungeonRunId": "178644",
+        "dungeonRunId": "178788",
         "completedLevels": "22",
-        "twitchDisplayName": "DewInBlack",
-        "startTime": "2025-02-20 11:27:18",
-        "endTime": "2025-02-22 16:41:26",
-        "captainBoons": "common_classic_comeback,paladin_layonhands,saint_surgeofconfidence,monk_heavenskarma,bomber_dangerzone,centurion_teambarbs,bomber_living_bomb,musketeer_rapidreload,musketeer_grapeshot,warlock_inferno,tank_frostbarbs,barbarian_bringthepain,healer_healing_bloom,fairy_fireflyconjuration,templar_commanding_presence,archer_steadybow,centurion_tactician,robot_robotauthority,barbarian_conqueror,berserker_rancor,monk_snakestyle,epic_epicaspirations,warrior_bladedancer",
-        "nextNodeType": "tabletoptowers"
+        "twitchDisplayName": "DragonAtsuma",
+        "startTime": "2025-02-23 21:15:17",
+        "endTime": "2025-02-24 00:08:16",
+        "captainBoons": "common_classic_comeback,vampire_darkwings,templar_commanding_presence,templar_beaconofhope,musketeer_rapidreload,berserker_enrage,common_specialists,healer_combatmedic,flagbearer_bannerofexaltation,epic_armored_armoredgiants,paladin_layonhands,blob_flesheater,tank_hoarfrost_armor,archer_zephyrstride,archer_venomarrows,flagbearer_focused_morale,berserker_rancor,musketeer_grapeshot,musk_hunters_mark,centurion_tactician,saint_surgeofconfidence,saint_godspeed,warrior_bladedancer",
+        "nextNodeType": "elementalfirefield"
     }
 ]
