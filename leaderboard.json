@@ -81,12 +81,12 @@
         "nextNodeType": "elementalfirefield"
     },
     {
-        "dungeonRunId": "178565",
+        "dungeonRunId": "178801",
         "completedLevels": "22",
-        "twitchDisplayName": "JayelDraco",
-        "startTime": "2025-02-18 23:49:36",
-        "endTime": "2025-02-21 02:55:35",
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,healer_shadowword,blob_parasite,warrior_bladedancer,warbeast_1,vampire_swarmcoffin,healer_combatmedic,vampire_lordofthedead,warbeast_terrifying_presence,flagbearer_bannerofvitality,blob_flesheater,frogue_vanishing_powder,fairy_fireflyconjuration,necromancer_necronomicon,healer_healing_bloom,tank_frostbarbs,artillery_maxpower,monk_heavenskarma,saint_exalt,musketeer_grapeshot,tank_hoarfrost_armor,vampire_darkwings",
+        "twitchDisplayName": "alexis_machine_",
+        "startTime": "2025-02-24 01:53:29",
+        "endTime": "2025-02-24 05:04:53",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,saint_surgeofconfidence,vampire_swarmcoffin,shinobi_shadowstrike,tank_truetank,epic_ranged_dragonarrows,berserker_rancor,healer_shadowword,epic_melee_gloryofvictory,vampire_darkwings,fairy_hocuspocus,human_humandestiny,flagbearer_bannerofvitality,bomber_bigger_and_badder,rogue_shadowcloak,monk_stoptheflow,warrior_flameslash,warbeast_terrifying_presence,musketeer_rapidreload,mage_elementalsummoning,berserker_killing_spree,warrior_bladedancer",
         "nextNodeType": "wasteroad"
     }
 ]
