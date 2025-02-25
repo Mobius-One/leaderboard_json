@@ -1,14 +1,5 @@
 [
     {
-        "dungeonRunId": "178845",
-        "completedLevels": "10",
-        "twitchDisplayName": "booklovinbuilder",
-        "startTime": "2025-02-25 19:02:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
-        "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
         "dungeonRunId": "178846",
         "completedLevels": "10",
         "twitchDisplayName": "Hooks",
@@ -16,6 +7,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,spy_fromcaptainwithlove,ranged_rangergloves,rogue_momentum,epic_armored_armoredgiants,general_2,paladin_skeletalsquire,epic_ranged_dragonarrows",
         "nextNodeType": "marbletoastyisland2"
+    },
+    {
+        "dungeonRunId": "178845",
+        "completedLevels": "10",
+        "twitchDisplayName": "booklovinbuilder",
+        "startTime": "2025-02-25 19:02:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
+        "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
         "dungeonRunId": "178849",
