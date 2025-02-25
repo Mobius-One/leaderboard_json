@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178845",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "booklovinbuilder",
         "startTime": "2025-02-25 19:02:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite",
-        "nextNodeType": "marbleicecentericehoriz6"
+        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics",
+        "nextNodeType": "marbletoastypuddle2"
     },
     {
         "dungeonRunId": "178849",
