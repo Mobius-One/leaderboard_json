@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178845",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "booklovinbuilder",
         "startTime": "2025-02-25 19:02:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer",
-        "nextNodeType": "marbleiceisland6"
+        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands",
+        "nextNodeType": "marblesandcrossroad6"
     },
     {
         "dungeonRunId": "178846",
