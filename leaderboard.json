@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178846",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-25 19:10:55",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,spy_fromcaptainwithlove,ranged_rangergloves,rogue_momentum",
-        "nextNodeType": "marbletoastymorbieboss2"
+        "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
         "dungeonRunId": "178849",
