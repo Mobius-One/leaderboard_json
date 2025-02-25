@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178849",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-25 19:41:24",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet",
-        "nextNodeType": "marblesandmorbie8"
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet,bomber_living_bomb",
+        "nextNodeType": "marbleiceisland6"
     },
     {
         "dungeonRunId": "178846",
