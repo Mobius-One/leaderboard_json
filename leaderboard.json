@@ -1,20 +1,20 @@
 [
     {
         "dungeonRunId": "178845",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "booklovinbuilder",
         "startTime": "2025-02-25 19:02:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy",
-        "nextNodeType": "marblesandwall6"
+        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
+        "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
         "dungeonRunId": "178849",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-25 19:41:24",
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet,bomber_living_bomb",
-        "nextNodeType": "marbleiceisland6"
+        "nextNodeType": "marbletoastyplainhoriz2"
     }
 ]
