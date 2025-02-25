@@ -81,12 +81,12 @@
         "nextNodeType": "elementalfirefield"
     },
     {
-        "dungeonRunId": "178801",
+        "dungeonRunId": "178645",
         "completedLevels": "22",
-        "twitchDisplayName": "alexis_machine_",
-        "startTime": "2025-02-24 01:53:29",
-        "endTime": "2025-02-24 05:04:53",
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,saint_surgeofconfidence,vampire_swarmcoffin,shinobi_shadowstrike,tank_truetank,epic_ranged_dragonarrows,berserker_rancor,healer_shadowword,epic_melee_gloryofvictory,vampire_darkwings,fairy_hocuspocus,human_humandestiny,flagbearer_bannerofvitality,bomber_bigger_and_badder,rogue_shadowcloak,monk_stoptheflow,warrior_flameslash,warbeast_terrifying_presence,musketeer_rapidreload,mage_elementalsummoning,berserker_killing_spree,warrior_bladedancer",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-02-20 12:55:10",
+        "endTime": "2025-02-22 09:10:10",
+        "captainBoons": "common_classic_comeback,healer_combatmedic,barbarian_bringthepain,tank_hoarfrost_armor,fairy_fireflyconjuration,flagbearer_bannerofexaltation,berserker_killing_spree,saint_exalt,undead_undeadresilience,bomber_living_bomb,warrior_bladedancer,necromancer_necronomicon,epic_armored_armoredgiants,centurion_tactician,archer_venomarrows,epic_ranged_dragonarrows,vampire_darkwings,lancer_spearofvengeance,common_specialists,berserker_rancor,saint_surgeofconfidence,epic_epicaspirations,musketeer_rapidreload",
         "nextNodeType": "wasteroad"
     }
 ]
