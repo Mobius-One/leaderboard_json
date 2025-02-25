@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178845",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "booklovinbuilder",
         "startTime": "2025-02-25 19:02:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad",
-        "nextNodeType": "marblesandmorbie8"
+        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy",
+        "nextNodeType": "marblesandwall6"
     },
     {
         "dungeonRunId": "178849",
@@ -16,14 +16,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet,bomber_living_bomb",
         "nextNodeType": "marbleiceisland6"
-    },
-    {
-        "dungeonRunId": "178846",
-        "completedLevels": "1",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-02-25 19:10:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge",
-        "nextNodeType": "marbleicecentericehoriz6"
     }
 ]
