@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178835",
-        "completedLevels": "23",
+        "completedLevels": "24",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-02-24 17:00:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flyingrogue_aggravate,paladin_avengingsmite,epic_melee_gloryofvictory,berserker_rancor,berserker_enrage,amazon_vineclone,saint_exalt,necromancer_necronomicon,barbarian_conqueror,fairy_fireflyconjuration,artillery_maxpower,frogue_vanishing_powder,gladiator_browbeat,elf_elvenimmortality,blob_parasite,centurion_tactician,vampire_lordofthedead,vampire_swarmcoffin,lancer_sarissaspears,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,saint_surgeofconfidence",
-        "nextNodeType": "sugargiantsbossparty"
+        "captainBoons": "common_classic_comeback,flyingrogue_aggravate,paladin_avengingsmite,epic_melee_gloryofvictory,berserker_rancor,berserker_enrage,amazon_vineclone,saint_exalt,necromancer_necronomicon,barbarian_conqueror,fairy_fireflyconjuration,artillery_maxpower,frogue_vanishing_powder,gladiator_browbeat,elf_elvenimmortality,blob_parasite,centurion_tactician,vampire_lordofthedead,vampire_swarmcoffin,lancer_sarissaspears,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,saint_surgeofconfidence,gladiator_war_machine",
+        "nextNodeType": "wasteroad"
     }
 ]
