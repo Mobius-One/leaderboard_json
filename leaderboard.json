@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "178882",
-        "completedLevels": "11",
+        "completedLevels": "12",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-26 19:51:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride,paladin_skeletalsquire,barbarian_conqueror,ranged_rangergloves,bomber_ricochet",
-        "nextNodeType": "marblesandmorbie8"
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride,paladin_skeletalsquire,barbarian_conqueror,ranged_rangergloves,bomber_ricochet,frogue_air_snipers",
+        "nextNodeType": "marbleiceriver6"
     },
     {
         "dungeonRunId": "178845",
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "178884",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-26 20:07:00",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb",
-        "nextNodeType": "marblesandwall6"
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1",
+        "nextNodeType": "marbleiceisland6"
     },
     {
         "dungeonRunId": "178849",
