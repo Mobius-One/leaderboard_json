@@ -23,7 +23,7 @@
         "twitchDisplayName": "LITheoss",
         "startTime": "2025-02-26 16:37:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy",
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy,support_doomingsong",
         "nextNodeType": "marbletoastyisland2"
     },
     {
@@ -55,12 +55,21 @@
     },
     {
         "dungeonRunId": "178882",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-26 19:51:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride",
-        "nextNodeType": "marbletoastyisland2"
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride,paladin_skeletalsquire",
+        "nextNodeType": "marbletoastymorbieboss2"
+    },
+    {
+        "dungeonRunId": "178884",
+        "completedLevels": "4",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-26 20:07:00",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield",
+        "nextNodeType": "marbleradiopillar4"
     },
     {
         "dungeonRunId": "178849",
@@ -72,21 +81,12 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
-        "dungeonRunId": "178884",
-        "completedLevels": "3",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-26 20:07:00",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield",
-        "nextNodeType": "marblesandpath6"
-    },
-    {
-        "dungeonRunId": "178864",
+        "dungeonRunId": "178859",
         "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-02-26 07:01:20",
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-02-26 04:10:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong",
-        "nextNodeType": "marblesandoasis6"
+        "captainBoons": "common_classic_comeback,general_4",
+        "nextNodeType": "marbleicecentericehoriz6"
     }
 ]
