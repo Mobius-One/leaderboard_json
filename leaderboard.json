@@ -28,11 +28,11 @@
     },
     {
         "dungeonRunId": "178854",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-26 00:12:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_5",
-        "nextNodeType": "marbleradiopillar4"
+        "captainBoons": "common_classic_comeback,general_5,artillery_maxpower",
+        "nextNodeType": "marbletoastymorbieboss2"
     }
 ]
