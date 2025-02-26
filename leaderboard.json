@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178875",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "LITheoss",
         "startTime": "2025-02-26 16:37:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus",
-        "nextNodeType": "marblesandmorbie8"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows",
+        "nextNodeType": "marbleradiorock4"
     },
     {
         "dungeonRunId": "178846",
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "178882",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-26 19:51:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash",
-        "nextNodeType": "marblesandboss8"
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin",
+        "nextNodeType": "marbleicepuddle6"
     },
     {
         "dungeonRunId": "178859",
