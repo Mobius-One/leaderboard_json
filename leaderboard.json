@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178846",
-        "completedLevels": "11",
+        "completedLevels": "12",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-25 19:10:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,spy_fromcaptainwithlove,ranged_rangergloves,rogue_momentum,epic_armored_armoredgiants,general_2,paladin_skeletalsquire,epic_ranged_dragonarrows,assassin_spynetwork,elf_elvenimmortality",
-        "nextNodeType": "marblesandmorbie8"
+        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,spy_fromcaptainwithlove,ranged_rangergloves,rogue_momentum,epic_armored_armoredgiants,general_2,paladin_skeletalsquire,epic_ranged_dragonarrows,assassin_spynetwork,elf_elvenimmortality,rogue_shadowcloak",
+        "nextNodeType": "marblesandwall6"
     },
     {
         "dungeonRunId": "178845",
@@ -34,5 +34,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet,bomber_living_bomb",
         "nextNodeType": "marbletoastyplainhoriz2"
+    },
+    {
+        "dungeonRunId": "178855",
+        "completedLevels": "1",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-26 00:52:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt",
+        "nextNodeType": "marbleradiopillar4"
     }
 ]
