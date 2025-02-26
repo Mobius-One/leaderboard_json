@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178875",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "LITheoss",
         "startTime": "2025-02-26 16:37:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows",
-        "nextNodeType": "marbleradiorock4"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2",
+        "nextNodeType": "marbleradiogarden4"
     },
     {
         "dungeonRunId": "178846",
@@ -72,21 +72,21 @@
         "nextNodeType": "marbletoastypuddle2"
     },
     {
-        "dungeonRunId": "178864",
+        "dungeonRunId": "178859",
         "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-02-26 07:01:20",
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-02-26 04:10:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong",
-        "nextNodeType": "marblesandoasis6"
+        "captainBoons": "common_classic_comeback,general_4",
+        "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178884",
+        "dungeonRunId": "178880",
         "completedLevels": "1",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-26 20:07:00",
+        "twitchDisplayName": "FleaOnaLeaf",
+        "startTime": "2025-02-26 19:02:14",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics",
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears",
         "nextNodeType": "marbleiceriver6"
     }
 ]
