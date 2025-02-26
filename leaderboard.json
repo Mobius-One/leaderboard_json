@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "178855",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-26 00:52:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,phantom_thehaunting,vampire_darkwings,tank_ironclad,bomber_living_bomb,general_4,armored_heavyblades,art_siege_weapons,melee_damage_1,rogue_momentum,barbarian_conqueror,general_2,undead_undeadresilience,musk_volley_tactics,flagbearer_bannerofvitality,fairy_hocuspocus,flag_1",
-        "nextNodeType": "marbleradiorock4"
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,phantom_thehaunting,vampire_darkwings,tank_ironclad,bomber_living_bomb,general_4,armored_heavyblades,art_siege_weapons,melee_damage_1,rogue_momentum,barbarian_conqueror,general_2,undead_undeadresilience,musk_volley_tactics,flagbearer_bannerofvitality,fairy_hocuspocus,flag_1,armored_unyieldingdefense",
+        "nextNodeType": "marblesandpath6"
     },
     {
         "dungeonRunId": "178846",
-        "completedLevels": "17",
+        "completedLevels": "18",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-25 19:10:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,spy_fromcaptainwithlove,ranged_rangergloves,rogue_momentum,epic_armored_armoredgiants,general_2,paladin_skeletalsquire,epic_ranged_dragonarrows,assassin_spynetwork,elf_elvenimmortality,rogue_shadowcloak,healer_combatmedic,shinobi_firetechinique,bomber_living_bomb,tank_tungstenswords,assassin_deathmark",
-        "nextNodeType": "marblesandboss8"
+        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,spy_fromcaptainwithlove,ranged_rangergloves,rogue_momentum,epic_armored_armoredgiants,general_2,paladin_skeletalsquire,epic_ranged_dragonarrows,assassin_spynetwork,elf_elvenimmortality,rogue_shadowcloak,healer_combatmedic,shinobi_firetechinique,bomber_living_bomb,tank_tungstenswords,assassin_deathmark,epic_melee_gloryofvictory",
+        "nextNodeType": "marbleradiopillar4"
     },
     {
         "dungeonRunId": "178845",
