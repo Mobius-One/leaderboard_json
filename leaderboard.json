@@ -18,15 +18,6 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
-        "dungeonRunId": "178849",
-        "completedLevels": "4",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-02-25 19:41:24",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet,bomber_living_bomb",
-        "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
         "dungeonRunId": "178854",
         "completedLevels": "4",
         "twitchDisplayName": "MozzyAuzzy",
@@ -34,5 +25,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_5,artillery_maxpower,shinobi_blink,armored_damage_1",
         "nextNodeType": "marblesandcrossroad6"
+    },
+    {
+        "dungeonRunId": "178849",
+        "completedLevels": "4",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-02-25 19:41:24",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet,bomber_living_bomb",
+        "nextNodeType": "marbletoastyplainhoriz2"
     }
 ]
