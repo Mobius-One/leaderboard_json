@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178855",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-26 00:52:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong",
-        "nextNodeType": "marblesandboss8"
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder",
+        "nextNodeType": "marbletoastypuddle2"
     },
     {
         "dungeonRunId": "178849",
