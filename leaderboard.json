@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178854",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-26 00:12:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_5,artillery_maxpower,shinobi_blink,armored_damage_1,saint_missionary,healer_healing_bloom,support_doomingsong,musk_golden_rounds,common_specialists,healer_combatmedic,frogue_preparation,ensouled_heroicspirits,support_healingsong,armored_heavyblades,epic_armored_armoredgiants,general_3,rogue_momentum,centurion_shieldofbones,general_4,healer_giftofregeneration,epic_ranged_dragonarrows,ranged_ironbreakballistics,paladin_skeletalsquire,human_humandestiny",
-        "nextNodeType": "marbleicepuddle6"
+        "captainBoons": "common_classic_comeback,general_5,artillery_maxpower,shinobi_blink,armored_damage_1,saint_missionary,healer_healing_bloom,support_doomingsong,musk_golden_rounds,common_specialists,healer_combatmedic,frogue_preparation,ensouled_heroicspirits,support_healingsong,armored_heavyblades,epic_armored_armoredgiants,general_3,rogue_momentum,centurion_shieldofbones,general_4,healer_giftofregeneration,epic_ranged_dragonarrows,ranged_ironbreakballistics,paladin_skeletalsquire,human_humandestiny,archer_zephyrstride",
+        "nextNodeType": "marblesandwall6"
     },
     {
         "dungeonRunId": "178846",
