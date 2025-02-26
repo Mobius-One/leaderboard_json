@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178874",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "PiaPiUFO",
         "startTime": "2025-02-26 16:15:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_5,orcs_inpenetrable,tank_hoarfrost_armor",
-        "nextNodeType": "marbleiceisland6"
+        "captainBoons": "common_classic_comeback,general_5,orcs_inpenetrable,tank_hoarfrost_armor,flagbearer_bannerofvitality",
+        "nextNodeType": "marbleicecentericehoriz6"
     },
     {
         "dungeonRunId": "178864",
