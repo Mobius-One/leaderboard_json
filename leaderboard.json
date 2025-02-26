@@ -1,19 +1,19 @@
 [
     {
         "dungeonRunId": "178855",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-26 00:52:21",
         "endTime": null,
-        "captainBoons": "saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,bomber_living_bomb,art_siege_weapons,melee_damage_1,barbarian_conqueror,musk_volley_tactics,gladiator_war_machine,lancer_sarissaspears,bomber_ricochet,mage_clone,support_healingsong,berserker_enrage",
-        "nextNodeType": "marbleicecentericehoriz6"
+        "captainBoons": "saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,bomber_living_bomb,art_siege_weapons,melee_damage_1,barbarian_conqueror,musk_volley_tactics,gladiator_war_machine,bomber_ricochet,mage_clone,support_healingsong,berserker_enrage",
+        "nextNodeType": "marbleicepuddle6"
     },
     {
         "dungeonRunId": "178863",
         "completedLevels": "26",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-02-26 06:53:10",
-        "endTime": null,
+        "endTime": "2025-02-26 10:23:12",
         "captainBoons": "common_classic_comeback,melee_damage_1,archer_enchantedammo,templar_1,ranged_rangergloves,berserker_enrage,saint_godspeed,general_5,warbeast_1,common_specialists,rogue_sneakattack,ranged_preciseshot,ensouled_bravespirits,melee_charge,orcs_inpenetrable,epic_ranged_dragonarrows,assassin_spynetwork,support_defensivetraining,mage_clone,general_4,elf_elvenimmortality,epic_armored_armoredgiants,ranged_ironbreakballistics,assassin_deathmark,ensouled_heroicspirits,support_doomingsong,musk_golden_rounds",
         "nextNodeType": "marblesandmorbie8"
     },
@@ -45,15 +45,6 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
-        "dungeonRunId": "178864",
-        "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-02-26 07:01:20",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong",
-        "nextNodeType": "marblesandoasis6"
-    },
-    {
         "dungeonRunId": "178859",
         "completedLevels": "1",
         "twitchDisplayName": "Trovatores_Theater",
@@ -61,5 +52,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_4",
         "nextNodeType": "marbleicecentericehoriz6"
+    },
+    {
+        "dungeonRunId": "178864",
+        "completedLevels": "1",
+        "twitchDisplayName": "Tebble",
+        "startTime": "2025-02-26 07:01:20",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_healingsong",
+        "nextNodeType": "marblesandoasis6"
     }
 ]
