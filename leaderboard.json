@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "178855",
-        "completedLevels": "56",
+        "completedLevels": "57",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-26 00:52:21",
         "endTime": null,
         "captainBoons": "saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,bomber_living_bomb,art_siege_weapons,melee_damage_1,barbarian_conqueror,musk_volley_tactics,gladiator_war_machine,lancer_sarissaspears,bomber_ricochet,mage_clone,support_healingsong,berserker_enrage",
-        "nextNodeType": "marbleicemorbie5"
+        "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178854",
-        "completedLevels": "25",
+        "dungeonRunId": "178863",
+        "completedLevels": "26",
         "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-26 00:12:29",
-        "endTime": "2025-02-26 03:44:29",
-        "captainBoons": "common_classic_comeback,general_5,artillery_maxpower,shinobi_blink,armored_damage_1,saint_missionary,healer_healing_bloom,support_doomingsong,musk_golden_rounds,common_specialists,healer_combatmedic,frogue_preparation,ensouled_heroicspirits,support_healingsong,armored_heavyblades,epic_armored_armoredgiants,general_3,rogue_momentum,centurion_shieldofbones,general_4,healer_giftofregeneration,epic_ranged_dragonarrows,ranged_ironbreakballistics,paladin_skeletalsquire,human_humandestiny,archer_zephyrstride",
-        "nextNodeType": "marblesandwall6"
+        "startTime": "2025-02-26 06:53:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_damage_1,archer_enchantedammo,templar_1,ranged_rangergloves,berserker_enrage,saint_godspeed,general_5,warbeast_1,common_specialists,rogue_sneakattack,ranged_preciseshot,ensouled_bravespirits,melee_charge,orcs_inpenetrable,epic_ranged_dragonarrows,assassin_spynetwork,support_defensivetraining,mage_clone,general_4,elf_elvenimmortality,epic_armored_armoredgiants,ranged_ironbreakballistics,assassin_deathmark,ensouled_heroicspirits,support_doomingsong,musk_golden_rounds",
+        "nextNodeType": "marblesandmorbie8"
     },
     {
         "dungeonRunId": "178846",
