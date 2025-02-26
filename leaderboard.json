@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178875",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "LITheoss",
         "startTime": "2025-02-26 16:37:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2",
-        "nextNodeType": "marbleradiogarden4"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration",
+        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178846",
@@ -54,6 +54,15 @@
         "nextNodeType": "marbleradiomorbie4"
     },
     {
+        "dungeonRunId": "178882",
+        "completedLevels": "5",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-02-26 19:51:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut",
+        "nextNodeType": "marbleicemorbie5"
+    },
+    {
         "dungeonRunId": "178849",
         "completedLevels": "4",
         "twitchDisplayName": "Rafipi",
@@ -61,15 +70,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet,bomber_living_bomb",
         "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
-        "dungeonRunId": "178882",
-        "completedLevels": "4",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-26 19:51:45",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge",
-        "nextNodeType": "marbletoastypuddle2"
     },
     {
         "dungeonRunId": "178859",
