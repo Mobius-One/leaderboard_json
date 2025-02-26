@@ -18,15 +18,6 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178875",
-        "completedLevels": "26",
-        "twitchDisplayName": "LITheoss",
-        "startTime": "2025-02-26 16:37:59",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy,support_doomingsong,tank_ironclad",
-        "nextNodeType": "marbleicemorbie5"
-    },
-    {
         "dungeonRunId": "178863",
         "completedLevels": "26",
         "twitchDisplayName": "MozzyAuzzy",
@@ -34,6 +25,15 @@
         "endTime": "2025-02-26 10:23:12",
         "captainBoons": "common_classic_comeback,melee_damage_1,archer_enchantedammo,templar_1,ranged_rangergloves,berserker_enrage,saint_godspeed,general_5,warbeast_1,common_specialists,rogue_sneakattack,ranged_preciseshot,ensouled_bravespirits,melee_charge,orcs_inpenetrable,epic_ranged_dragonarrows,assassin_spynetwork,support_defensivetraining,mage_clone,general_4,elf_elvenimmortality,epic_armored_armoredgiants,ranged_ironbreakballistics,assassin_deathmark,ensouled_heroicspirits,support_doomingsong,musk_golden_rounds",
         "nextNodeType": "marblesandmorbie8"
+    },
+    {
+        "dungeonRunId": "178875",
+        "completedLevels": "26",
+        "twitchDisplayName": "LITheoss",
+        "startTime": "2025-02-26 16:37:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy,support_doomingsong,tank_ironclad",
+        "nextNodeType": "marbleicemorbie5"
     },
     {
         "dungeonRunId": "178884",
@@ -72,6 +72,15 @@
         "nextNodeType": "marbleradiomorbie4"
     },
     {
+        "dungeonRunId": "178869",
+        "completedLevels": "5",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-02-26 13:20:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary",
+        "nextNodeType": "marbleicemorbie5"
+    },
+    {
         "dungeonRunId": "178849",
         "completedLevels": "4",
         "twitchDisplayName": "Rafipi",
@@ -79,14 +88,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet,bomber_living_bomb",
         "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
-        "dungeonRunId": "178892",
-        "completedLevels": "1",
-        "twitchDisplayName": "HuFySTeR",
-        "startTime": "2025-02-26 23:32:57",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_zephyrstride",
-        "nextNodeType": "marbleradiogarden4"
     }
 ]
