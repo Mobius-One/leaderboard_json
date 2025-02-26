@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "178855",
-        "completedLevels": "59",
+        "completedLevels": "60",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-26 00:52:21",
         "endTime": null,
-        "captainBoons": "saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,bomber_living_bomb,art_siege_weapons,melee_damage_1,barbarian_conqueror,musk_volley_tactics,gladiator_war_machine,bomber_ricochet,mage_clone,support_healingsong,berserker_enrage",
-        "nextNodeType": "marblesandmorbie8"
+        "captainBoons": "saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,bomber_living_bomb,art_siege_weapons,melee_damage_1,barbarian_conqueror,musk_volley_tactics,gladiator_war_machine,bomber_ricochet,mage_clone,berserker_enrage",
+        "nextNodeType": "marblesandoasis6"
     },
     {
         "dungeonRunId": "178863",
