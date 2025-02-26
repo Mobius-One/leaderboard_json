@@ -27,6 +27,15 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
+        "dungeonRunId": "178855",
+        "completedLevels": "4",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-26 00:52:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits",
+        "nextNodeType": "marbleiceisland6"
+    },
+    {
         "dungeonRunId": "178849",
         "completedLevels": "4",
         "twitchDisplayName": "Rafipi",
@@ -36,12 +45,12 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
-        "dungeonRunId": "178855",
-        "completedLevels": "2",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-26 00:52:21",
+        "dungeonRunId": "178859",
+        "completedLevels": "1",
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-02-26 04:10:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot",
-        "nextNodeType": "marbleicemorbie5"
+        "captainBoons": "common_classic_comeback,general_4",
+        "nextNodeType": "marbleicecentericehoriz6"
     }
 ]
