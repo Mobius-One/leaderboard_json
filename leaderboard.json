@@ -28,21 +28,21 @@
     },
     {
         "dungeonRunId": "178879",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-26 17:53:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,melee_armor_break,epic_epicaspirations,armored_damage_1,artillery_maxpower,epic_armored_armoredgiants,ranged_rangergloves,monk_selfless_prayer,spell_empower_stronghold,support_healingsong,flag_holdfast,gladiator_war_machine,tank_tungstenswords,armored_heavyblades,berserker_frenzy,paladin_layonhands,undead_undeadresilience,phantom_thehaunting,melee_damage_1,fairy_hocuspocus,orcslayer_worldrazer,flagbearer_bannerofvitality,tank_ironclad,musk_volley_tactics,general_1",
-        "nextNodeType": "marbleradiorock4"
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,melee_armor_break,epic_epicaspirations,armored_damage_1,artillery_maxpower,epic_armored_armoredgiants,ranged_rangergloves,monk_selfless_prayer,spell_empower_stronghold,support_healingsong,flag_holdfast,gladiator_war_machine,tank_tungstenswords,armored_heavyblades,berserker_frenzy,paladin_layonhands,undead_undeadresilience,phantom_thehaunting,melee_damage_1,fairy_hocuspocus,orcslayer_worldrazer,flagbearer_bannerofvitality,tank_ironclad,musk_volley_tactics,general_1,assassin_deathmark",
+        "nextNodeType": "marbletoastymorbieboss2"
     },
     {
         "dungeonRunId": "178884",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-26 20:07:00",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry,art_siege_weapons,ranged_rangergloves,armored_heavyblades,amazon_vineclone,barbarian_gloriousdeath",
-        "nextNodeType": "marbleradiogarden4"
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry,art_siege_weapons,ranged_rangergloves,armored_heavyblades,amazon_vineclone,barbarian_gloriousdeath,necromancer_necronomicon",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178882",
@@ -81,12 +81,12 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
-        "dungeonRunId": "178864",
+        "dungeonRunId": "178859",
         "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-02-26 07:01:20",
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-02-26 04:10:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong",
-        "nextNodeType": "marblesandoasis6"
+        "captainBoons": "common_classic_comeback,general_4",
+        "nextNodeType": "marbleicecentericehoriz6"
     }
 ]
