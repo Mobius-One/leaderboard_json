@@ -54,6 +54,15 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
+        "dungeonRunId": "178884",
+        "completedLevels": "9",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-26 20:07:00",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry,art_siege_weapons",
+        "nextNodeType": "marbleradiocircle4"
+    },
+    {
         "dungeonRunId": "178874",
         "completedLevels": "8",
         "twitchDisplayName": "PiaPiUFO",
@@ -61,15 +70,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_5,orcs_inpenetrable,tank_hoarfrost_armor,flagbearer_bannerofvitality,archer_enchantedammo,spell_empower_killingfield,support_healingsong,undead_undeadresilience",
         "nextNodeType": "marbleradiomorbie4"
-    },
-    {
-        "dungeonRunId": "178884",
-        "completedLevels": "8",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-26 20:07:00",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry",
-        "nextNodeType": "marbleicemorbie5"
     },
     {
         "dungeonRunId": "178849",
@@ -81,12 +81,12 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
-        "dungeonRunId": "178859",
+        "dungeonRunId": "178864",
         "completedLevels": "1",
-        "twitchDisplayName": "Trovatores_Theater",
-        "startTime": "2025-02-26 04:10:31",
+        "twitchDisplayName": "Tebble",
+        "startTime": "2025-02-26 07:01:20",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_4",
-        "nextNodeType": "marbleicecentericehoriz6"
+        "captainBoons": "common_classic_comeback,support_healingsong",
+        "nextNodeType": "marblesandoasis6"
     }
 ]
