@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178846",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-25 19:10:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,spy_fromcaptainwithlove,ranged_rangergloves,rogue_momentum,epic_armored_armoredgiants,general_2,paladin_skeletalsquire,epic_ranged_dragonarrows,assassin_spynetwork,elf_elvenimmortality,rogue_shadowcloak,healer_combatmedic,shinobi_firetechinique",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,spy_fromcaptainwithlove,ranged_rangergloves,rogue_momentum,epic_armored_armoredgiants,general_2,paladin_skeletalsquire,epic_ranged_dragonarrows,assassin_spynetwork,elf_elvenimmortality,rogue_shadowcloak,healer_combatmedic,shinobi_firetechinique,bomber_living_bomb",
+        "nextNodeType": "marbleicepuddle6"
     },
     {
         "dungeonRunId": "178845",
@@ -32,7 +32,7 @@
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-26 00:52:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,phantom_thehaunting,vampire_darkwings,tank_ironclad",
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,phantom_thehaunting,vampire_darkwings,tank_ironclad,bomber_living_bomb",
         "nextNodeType": "marblesandcrossroad6"
     },
     {
