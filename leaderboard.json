@@ -18,6 +18,15 @@
         "nextNodeType": "marbleicepuddle6"
     },
     {
+        "dungeonRunId": "178855",
+        "completedLevels": "10",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-02-26 00:52:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,phantom_thehaunting,vampire_darkwings,tank_ironclad,bomber_living_bomb,general_4",
+        "nextNodeType": "marbleicecentericehoriz6"
+    },
+    {
         "dungeonRunId": "178845",
         "completedLevels": "10",
         "twitchDisplayName": "booklovinbuilder",
@@ -25,15 +34,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
         "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
-        "dungeonRunId": "178855",
-        "completedLevels": "9",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-02-26 00:52:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,phantom_thehaunting,vampire_darkwings,tank_ironclad,bomber_living_bomb",
-        "nextNodeType": "marblesandcrossroad6"
     },
     {
         "dungeonRunId": "178849",
