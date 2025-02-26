@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178855",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-02-26 00:52:21",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,phantom_thehaunting,vampire_darkwings,tank_ironclad,bomber_living_bomb,general_4,armored_heavyblades,art_siege_weapons,melee_damage_1",
-        "nextNodeType": "marbletoastyplainhoriz2"
+        "captainBoons": "common_classic_comeback,saint_exalt,ranged_preciseshot,ensouled_heroicspirits,support_doomingsong,gladiator_sonofthunder,phantom_thehaunting,vampire_darkwings,tank_ironclad,bomber_living_bomb,general_4,armored_heavyblades,art_siege_weapons,melee_damage_1,rogue_momentum",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178845",
