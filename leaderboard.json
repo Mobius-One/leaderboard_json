@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178875",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "LITheoss",
         "startTime": "2025-02-26 16:37:59",
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy",
-        "nextNodeType": "marbleicepuddle6"
+        "nextNodeType": "marbletoastyisland2"
     },
     {
         "dungeonRunId": "178846",
@@ -59,7 +59,7 @@
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-02-26 19:51:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed",
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride",
         "nextNodeType": "marbletoastyisland2"
     },
     {
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178884",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-26 20:07:00",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer",
-        "nextNodeType": "marblesandmorbie8"
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield",
+        "nextNodeType": "marblesandpath6"
     },
     {
         "dungeonRunId": "178864",
