@@ -36,6 +36,15 @@
         "nextNodeType": "marbleicemorbie5"
     },
     {
+        "dungeonRunId": "178882",
+        "completedLevels": "11",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-02-26 19:51:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride,paladin_skeletalsquire,barbarian_conqueror,ranged_rangergloves,bomber_ricochet",
+        "nextNodeType": "marblesandmorbie8"
+    },
+    {
         "dungeonRunId": "178845",
         "completedLevels": "10",
         "twitchDisplayName": "booklovinbuilder",
@@ -43,15 +52,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
         "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
-        "dungeonRunId": "178882",
-        "completedLevels": "10",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-26 19:51:45",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride,paladin_skeletalsquire,barbarian_conqueror,ranged_rangergloves",
-        "nextNodeType": "marbleradiopillar4"
     },
     {
         "dungeonRunId": "178874",
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "178884",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-26 20:07:00",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet",
-        "nextNodeType": "marbletoastymorbieboss2"
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb",
+        "nextNodeType": "marblesandwall6"
     },
     {
         "dungeonRunId": "178849",
