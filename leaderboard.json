@@ -32,7 +32,7 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-26 17:53:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,melee_armor_break,epic_epicaspirations,armored_damage_1,artillery_maxpower,epic_armored_armoredgiants,ranged_rangergloves,monk_selfless_prayer,spell_empower_stronghold,support_healingsong,flag_holdfast,gladiator_war_machine,tank_tungstenswords,armored_heavyblades,berserker_frenzy,paladin_layonhands,undead_undeadresilience,phantom_thehaunting,melee_damage_1,fairy_hocuspocus,orcslayer_worldrazer",
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,melee_armor_break,epic_epicaspirations,armored_damage_1,artillery_maxpower,epic_armored_armoredgiants,ranged_rangergloves,monk_selfless_prayer,spell_empower_stronghold,support_healingsong,flag_holdfast,gladiator_war_machine,tank_tungstenswords,armored_heavyblades,berserker_frenzy,paladin_layonhands,undead_undeadresilience,phantom_thehaunting,melee_damage_1,fairy_hocuspocus,orcslayer_worldrazer,flagbearer_bannerofvitality",
         "nextNodeType": "marblesandoasis6"
     },
     {
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178884",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-26 20:07:00",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry,art_siege_weapons",
-        "nextNodeType": "marbleradiocircle4"
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry,art_siege_weapons,ranged_rangergloves",
+        "nextNodeType": "marbletoastyspringhoriz2"
     },
     {
         "dungeonRunId": "178874",
