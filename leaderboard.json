@@ -45,15 +45,6 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
-        "dungeonRunId": "178864",
-        "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-02-26 07:01:20",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,support_healingsong",
-        "nextNodeType": "marblesandoasis6"
-    },
-    {
         "dungeonRunId": "178859",
         "completedLevels": "1",
         "twitchDisplayName": "Trovatores_Theater",
@@ -61,5 +52,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_4",
         "nextNodeType": "marbleicecentericehoriz6"
+    },
+    {
+        "dungeonRunId": "178864",
+        "completedLevels": "1",
+        "twitchDisplayName": "Tebble",
+        "startTime": "2025-02-26 07:01:20",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_healingsong",
+        "nextNodeType": "marblesandoasis6"
     }
 ]
