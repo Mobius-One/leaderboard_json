@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "178854",
+        "completedLevels": "10",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-02-26 00:12:29",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_5,artillery_maxpower,shinobi_blink,armored_damage_1,saint_missionary,healer_healing_bloom,support_doomingsong,musk_golden_rounds,common_specialists,healer_combatmedic",
+        "nextNodeType": "marblesandpath6"
+    },
+    {
         "dungeonRunId": "178846",
         "completedLevels": "10",
         "twitchDisplayName": "Hooks",
@@ -16,15 +25,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
         "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
-        "dungeonRunId": "178854",
-        "completedLevels": "9",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-26 00:12:29",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_5,artillery_maxpower,shinobi_blink,armored_damage_1,saint_missionary,healer_healing_bloom,support_doomingsong,musk_golden_rounds,common_specialists",
-        "nextNodeType": "marbleicepuddle6"
     },
     {
         "dungeonRunId": "178849",
