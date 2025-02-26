@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178875",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "LITheoss",
         "startTime": "2025-02-26 16:37:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed",
+        "nextNodeType": "marblesandwall6"
     },
     {
         "dungeonRunId": "178845",
