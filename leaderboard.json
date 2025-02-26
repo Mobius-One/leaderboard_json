@@ -10,21 +10,12 @@
     },
     {
         "dungeonRunId": "178879",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-26 17:53:13",
         "endTime": null,
         "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,melee_armor_break,epic_epicaspirations,armored_damage_1,artillery_maxpower,epic_armored_armoredgiants,ranged_rangergloves,monk_selfless_prayer,spell_empower_stronghold,support_healingsong,flag_holdfast,gladiator_war_machine,tank_tungstenswords,armored_heavyblades,berserker_frenzy,paladin_layonhands,undead_undeadresilience,phantom_thehaunting,melee_damage_1,fairy_hocuspocus,orcslayer_worldrazer,flagbearer_bannerofvitality,tank_ironclad,musk_volley_tactics,general_1,assassin_deathmark,warlock_inferno,archer_zephyrstride,elf_elvenimmortality",
-        "nextNodeType": "dungeons_jerry"
-    },
-    {
-        "dungeonRunId": "178875",
-        "completedLevels": "26",
-        "twitchDisplayName": "LITheoss",
-        "startTime": "2025-02-26 16:37:59",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy,support_doomingsong,tank_ironclad",
-        "nextNodeType": "marbleicemorbie5"
+        "nextNodeType": "marblesandcrossroad6"
     },
     {
         "dungeonRunId": "178863",
@@ -34,6 +25,15 @@
         "endTime": "2025-02-26 10:23:12",
         "captainBoons": "common_classic_comeback,melee_damage_1,archer_enchantedammo,templar_1,ranged_rangergloves,berserker_enrage,saint_godspeed,general_5,warbeast_1,common_specialists,rogue_sneakattack,ranged_preciseshot,ensouled_bravespirits,melee_charge,orcs_inpenetrable,epic_ranged_dragonarrows,assassin_spynetwork,support_defensivetraining,mage_clone,general_4,elf_elvenimmortality,epic_armored_armoredgiants,ranged_ironbreakballistics,assassin_deathmark,ensouled_heroicspirits,support_doomingsong,musk_golden_rounds",
         "nextNodeType": "marblesandmorbie8"
+    },
+    {
+        "dungeonRunId": "178875",
+        "completedLevels": "26",
+        "twitchDisplayName": "LITheoss",
+        "startTime": "2025-02-26 16:37:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy,support_doomingsong,tank_ironclad",
+        "nextNodeType": "marbleicemorbie5"
     },
     {
         "dungeonRunId": "178884",
