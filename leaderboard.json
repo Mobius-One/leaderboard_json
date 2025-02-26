@@ -61,5 +61,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_4",
         "nextNodeType": "marbleicecentericehoriz6"
+    },
+    {
+        "dungeonRunId": "178874",
+        "completedLevels": "1",
+        "twitchDisplayName": "PiaPiUFO",
+        "startTime": "2025-02-26 16:15:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_5",
+        "nextNodeType": "marbletoastyspringhoriz2"
     }
 ]
