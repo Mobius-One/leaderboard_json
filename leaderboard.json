@@ -61,14 +61,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_4",
         "nextNodeType": "marbleicecentericehoriz6"
-    },
-    {
-        "dungeonRunId": "178869",
-        "completedLevels": "1",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-02-26 13:20:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_damage_1",
-        "nextNodeType": "marbleiceriver6"
     }
 ]
