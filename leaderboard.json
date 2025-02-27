@@ -45,6 +45,15 @@
         "nextNodeType": "marblesandwall6"
     },
     {
+        "dungeonRunId": "178900",
+        "completedLevels": "16",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-27 02:45:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality",
+        "nextNodeType": "marblesandcrossroad6"
+    },
+    {
         "dungeonRunId": "178884",
         "completedLevels": "16",
         "twitchDisplayName": "ohitsneb",
@@ -52,15 +61,6 @@
         "endTime": "2025-02-26 23:37:26",
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry,art_siege_weapons,ranged_rangergloves,armored_heavyblades,amazon_vineclone,barbarian_gloriousdeath,necromancer_necronomicon,healer_healing_bloom,melee_charge",
         "nextNodeType": "marbletoastyisland2"
-    },
-    {
-        "dungeonRunId": "178900",
-        "completedLevels": "15",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-27 02:45:09",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground",
-        "nextNodeType": "marbletoastypuddle2"
     },
     {
         "dungeonRunId": "178882",
