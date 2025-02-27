@@ -45,6 +45,15 @@
         "nextNodeType": "marbleicemorbie5"
     },
     {
+        "dungeonRunId": "178915",
+        "completedLevels": "21",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-02-27 10:17:59",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,healer_healing_bloom,ranged_ironbreakballistics,bomber_ricochet,warbeast_underworldbeast,lancer_sarissaspears,melee_armor_break,flag_1,paladin_layonhands,berserker_enrage,gladiator_war_machine,saint_exalt,necromancer_necronomicon,spell_empower_highground,melee_damage_1,musk_golden_rounds,bomber_living_bomb,armored_damage_1,tank_ironclad,ensouled_bravespirits",
+        "nextNodeType": "marblesandwall6"
+    },
+    {
         "dungeonRunId": "178869",
         "completedLevels": "21",
         "twitchDisplayName": "MsChezaDarling",
@@ -63,13 +72,13 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
-        "dungeonRunId": "178915",
-        "completedLevels": "20",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-27 10:17:59",
+        "dungeonRunId": "178893",
+        "completedLevels": "19",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-26 23:37:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,healer_healing_bloom,ranged_ironbreakballistics,bomber_ricochet,warbeast_underworldbeast,lancer_sarissaspears,melee_armor_break,flag_1,paladin_layonhands,berserker_enrage,gladiator_war_machine,saint_exalt,necromancer_necronomicon,spell_empower_highground,melee_damage_1,musk_golden_rounds,bomber_living_bomb,armored_damage_1,tank_ironclad",
-        "nextNodeType": "marblesandboss8"
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords,saint_missionary,tank_hoarfrost_armor",
+        "nextNodeType": "marbletoastyisland2"
     },
     {
         "dungeonRunId": "178911",
@@ -79,14 +88,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_unyieldingdefense,robot_robotauthority,orcslayer_worldrazer,general_2,templar_commanding_presence,blob_parasite,melee_damage_1,vampire_spectralpresence,epic_ranged_dragonarrows,armored_damage_1,bomber_ricochet,epic_epicaspirations,healer_combatmedic,necromancer_necronomicon,art_siege_weapons,rogue_sneakattack,undead_undeadresilience,ensouled_bravespirits",
         "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
-        "dungeonRunId": "178893",
-        "completedLevels": "18",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-26 23:37:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords,saint_missionary,tank_hoarfrost_armor",
-        "nextNodeType": "marbleradiorock4"
     }
 ]
