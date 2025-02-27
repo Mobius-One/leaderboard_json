@@ -18,6 +18,15 @@
         "nextNodeType": "marbleradiomorbie4"
     },
     {
+        "dungeonRunId": "178929",
+        "completedLevels": "41",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-02-27 18:53:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,epic_melee_gloryofvictory,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,warrior_swordofruin,saint_exalt,healer_giftofregeneration,ensouled_heroicspirits,lancer_sarissaspears,barb_warcry",
+        "nextNodeType": "marblesandboss8"
+    },
+    {
         "dungeonRunId": "178906",
         "completedLevels": "40",
         "twitchDisplayName": "RealAlize",
@@ -25,15 +34,6 @@
         "endTime": "2025-02-27 10:49:49",
         "captainBoons": "common_classic_comeback,warrior_bladedancer,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,epic_armored_armoredgiants,ranged_rangergloves,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,lancer_spearwall,armored_damage_1,ranged_preciseshot,warrior_swordofruin,ranged_ironbreakballistics,berserker_enrage,blob_parasite,general_1,archer_enchantedammo",
         "nextNodeType": "marbleicecentericehoriz6"
-    },
-    {
-        "dungeonRunId": "178929",
-        "completedLevels": "40",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-02-27 18:53:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,epic_melee_gloryofvictory,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,warrior_swordofruin,saint_exalt,healer_giftofregeneration,ensouled_heroicspirits,lancer_sarissaspears,barb_warcry",
-        "nextNodeType": "marbletoastyspringhoriz2"
     },
     {
         "dungeonRunId": "178891",
@@ -72,13 +72,13 @@
         "nextNodeType": "marbleicepuddle6"
     },
     {
-        "dungeonRunId": "178893",
-        "completedLevels": "20",
+        "dungeonRunId": "178933",
+        "completedLevels": "21",
         "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-26 23:37:58",
-        "endTime": "2025-02-27 14:51:35",
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords,saint_missionary,tank_hoarfrost_armor,flagbearer_bannerofvitality,support_defensivetraining",
-        "nextNodeType": "marbletoastymorbieboss2"
+        "startTime": "2025-02-27 20:09:02",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_charge,saint_missionary,human_humandestiny,ranged_ironbreakballistics,elf_elvenimmortality,centurion_shieldofbones,tank_tungstenswords,melee_armor_break,warrior_swordofruin,general_1,healer_giftofregeneration,monk_heavenskarma,archer_zephyrstride,ranged_preciseshot,flag_1,armored_unyieldingdefense,artillery_maxpower,epic_armored_armoredgiants,saint_exalt,armored_heavyblades,amazon_vineclone",
+        "nextNodeType": "marbleicecentericehoriz6"
     },
     {
         "dungeonRunId": "178900",
