@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "178906",
-        "completedLevels": "31",
+        "completedLevels": "32",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-02-27 05:14:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,epic_armored_armoredgiants,ranged_rangergloves,robot_robotauthority,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,templar_1,general_4,lancer_spearwall,bomber_living_bomb,armored_damage_1,ranged_preciseshot,warrior_swordofruin,ranged_ironbreakballistics,berserker_enrage,blob_parasite,general_1,archer_enchantedammo",
-        "nextNodeType": "marbleradiorock4"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,epic_armored_armoredgiants,ranged_rangergloves,robot_robotauthority,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,general_4,lancer_spearwall,bomber_living_bomb,armored_damage_1,ranged_preciseshot,warrior_swordofruin,ranged_ironbreakballistics,berserker_enrage,blob_parasite,general_1,archer_enchantedammo",
+        "nextNodeType": "marbleicemorbie5"
     },
     {
         "dungeonRunId": "178875",
@@ -72,6 +72,15 @@
         "nextNodeType": "marbletoastyisland2"
     },
     {
+        "dungeonRunId": "178911",
+        "completedLevels": "13",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-02-27 07:51:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,robot_robotauthority,orcslayer_worldrazer,general_2,templar_commanding_presence,blob_parasite,melee_damage_1,vampire_spectralpresence,epic_ranged_dragonarrows,armored_damage_1,bomber_ricochet,epic_epicaspirations,healer_combatmedic",
+        "nextNodeType": "marbleradiogarden4"
+    },
+    {
         "dungeonRunId": "178882",
         "completedLevels": "12",
         "twitchDisplayName": "Panthergal2018",
@@ -79,14 +88,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride,paladin_skeletalsquire,barbarian_conqueror,ranged_rangergloves,bomber_ricochet,frogue_air_snipers",
         "nextNodeType": "marbleiceriver6"
-    },
-    {
-        "dungeonRunId": "178911",
-        "completedLevels": "12",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-02-27 07:51:16",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,robot_robotauthority,orcslayer_worldrazer,general_2,templar_commanding_presence,blob_parasite,melee_damage_1,vampire_spectralpresence,epic_ranged_dragonarrows,armored_damage_1,bomber_ricochet,epic_epicaspirations",
-        "nextNodeType": "marblesandpath6"
     }
 ]
