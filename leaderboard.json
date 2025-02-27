@@ -9,6 +9,15 @@
         "nextNodeType": "marblesandwall6"
     },
     {
+        "dungeonRunId": "178929",
+        "completedLevels": "42",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-02-27 18:53:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,epic_melee_gloryofvictory,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,warrior_swordofruin,saint_exalt,healer_giftofregeneration,ensouled_heroicspirits,lancer_sarissaspears,barb_warcry",
+        "nextNodeType": "marblesandpath6"
+    },
+    {
         "dungeonRunId": "178879",
         "completedLevels": "41",
         "twitchDisplayName": "Hooks",
@@ -16,15 +25,6 @@
         "endTime": "2025-02-27 00:58:33",
         "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,melee_armor_break,armored_damage_1,epic_armored_armoredgiants,ranged_rangergloves,spell_empower_stronghold,support_healingsong,flag_holdfast,gladiator_war_machine,tank_tungstenswords,armored_heavyblades,berserker_frenzy,paladin_layonhands,undead_undeadresilience,phantom_thehaunting,melee_damage_1,fairy_hocuspocus,tank_ironclad,general_1,assassin_deathmark,warlock_inferno,archer_zephyrstride,elf_elvenimmortality",
         "nextNodeType": "marbleradiomorbie4"
-    },
-    {
-        "dungeonRunId": "178929",
-        "completedLevels": "41",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-02-27 18:53:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,epic_melee_gloryofvictory,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,warrior_swordofruin,saint_exalt,healer_giftofregeneration,ensouled_heroicspirits,lancer_sarissaspears,barb_warcry",
-        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178906",
