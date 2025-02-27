@@ -81,12 +81,12 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
-        "dungeonRunId": "178906",
-        "completedLevels": "8",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-02-27 05:14:56",
+        "dungeonRunId": "178859",
+        "completedLevels": "9",
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-02-26 04:10:31",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break",
-        "nextNodeType": "marbletoastymorbieboss2"
+        "captainBoons": "common_classic_comeback,general_4,support_defensivetraining,warrior_swordofruin,support_doomingsong,lancer_spearwall,lancer_ignitingstrike,support_healingsong,paladin_skeletalsquire,blob_parasite",
+        "nextNodeType": "marblesandpath6"
     }
 ]
