@@ -36,6 +36,15 @@
         "nextNodeType": "marbleicemorbie5"
     },
     {
+        "dungeonRunId": "178869",
+        "completedLevels": "16",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-02-26 13:20:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1,musk_golden_rounds,mage_clone,flagbearer_bannerofvitality,mage_elementalsummoning,archer_steadybow,saint_exalt,bomber_ricochet,lancer_ignitingstrike,archer_zephyrstride",
+        "nextNodeType": "marbletoastypuddle2"
+    },
+    {
         "dungeonRunId": "178884",
         "completedLevels": "16",
         "twitchDisplayName": "ohitsneb",
@@ -43,15 +52,6 @@
         "endTime": "2025-02-26 23:37:26",
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry,art_siege_weapons,ranged_rangergloves,armored_heavyblades,amazon_vineclone,barbarian_gloriousdeath,necromancer_necronomicon,healer_healing_bloom,melee_charge",
         "nextNodeType": "marbletoastyisland2"
-    },
-    {
-        "dungeonRunId": "178869",
-        "completedLevels": "15",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-02-26 13:20:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1,musk_golden_rounds,mage_clone,flagbearer_bannerofvitality,mage_elementalsummoning,archer_steadybow,saint_exalt,bomber_ricochet,lancer_ignitingstrike",
-        "nextNodeType": "marbleradiogarden4"
     },
     {
         "dungeonRunId": "178882",
