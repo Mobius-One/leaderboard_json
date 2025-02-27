@@ -63,6 +63,15 @@
         "nextNodeType": "marbletoastyisland2"
     },
     {
+        "dungeonRunId": "178906",
+        "completedLevels": "12",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-02-27 05:14:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1,epic_armored_armoredgiants",
+        "nextNodeType": "marbleradiogarden4"
+    },
+    {
         "dungeonRunId": "178882",
         "completedLevels": "12",
         "twitchDisplayName": "Panthergal2018",
@@ -70,15 +79,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride,paladin_skeletalsquire,barbarian_conqueror,ranged_rangergloves,bomber_ricochet,frogue_air_snipers",
         "nextNodeType": "marbleiceriver6"
-    },
-    {
-        "dungeonRunId": "178906",
-        "completedLevels": "11",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-02-27 05:14:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1",
-        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178845",
