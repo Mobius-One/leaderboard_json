@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178879",
-        "completedLevels": "36",
+        "completedLevels": "37",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-26 17:53:13",
         "endTime": null,
         "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,melee_armor_break,armored_damage_1,artillery_maxpower,epic_armored_armoredgiants,ranged_rangergloves,spell_empower_stronghold,support_healingsong,flag_holdfast,gladiator_war_machine,tank_tungstenswords,armored_heavyblades,berserker_frenzy,paladin_layonhands,undead_undeadresilience,phantom_thehaunting,melee_damage_1,fairy_hocuspocus,flagbearer_bannerofvitality,tank_ironclad,general_1,assassin_deathmark,warlock_inferno,archer_zephyrstride,elf_elvenimmortality",
-        "nextNodeType": "marbletoastypuddle2"
+        "nextNodeType": "marblesandoasis6"
     },
     {
         "dungeonRunId": "178863",
@@ -63,6 +63,15 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
+        "dungeonRunId": "178869",
+        "completedLevels": "8",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-02-26 13:20:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1,musk_golden_rounds",
+        "nextNodeType": "marbletoastymorbieboss2"
+    },
+    {
         "dungeonRunId": "178874",
         "completedLevels": "8",
         "twitchDisplayName": "PiaPiUFO",
@@ -70,15 +79,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,general_5,orcs_inpenetrable,tank_hoarfrost_armor,flagbearer_bannerofvitality,archer_enchantedammo,spell_empower_killingfield,support_healingsong,undead_undeadresilience",
         "nextNodeType": "marbleradiomorbie4"
-    },
-    {
-        "dungeonRunId": "178869",
-        "completedLevels": "7",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-02-26 13:20:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1",
-        "nextNodeType": "marbleicepuddle6"
     },
     {
         "dungeonRunId": "178849",
