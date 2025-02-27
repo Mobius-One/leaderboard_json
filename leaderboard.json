@@ -72,6 +72,15 @@
         "nextNodeType": "marbleiceriver6"
     },
     {
+        "dungeonRunId": "178906",
+        "completedLevels": "11",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-02-27 05:14:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1",
+        "nextNodeType": "marblesandboss8"
+    },
+    {
         "dungeonRunId": "178845",
         "completedLevels": "10",
         "twitchDisplayName": "booklovinbuilder",
@@ -79,14 +88,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
         "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
-        "dungeonRunId": "178906",
-        "completedLevels": "10",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-02-27 05:14:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt",
-        "nextNodeType": "marbletoastyisland2"
     }
 ]
