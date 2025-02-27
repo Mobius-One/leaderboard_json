@@ -81,12 +81,12 @@
         "nextNodeType": "marbleiceriver6"
     },
     {
-        "dungeonRunId": "178845",
+        "dungeonRunId": "178859",
         "completedLevels": "10",
-        "twitchDisplayName": "booklovinbuilder",
-        "startTime": "2025-02-25 19:02:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
-        "nextNodeType": "marbletoastyplainhoriz2"
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-02-26 04:10:31",
+        "endTime": "2025-02-27 06:29:33",
+        "captainBoons": "common_classic_comeback,general_4,support_defensivetraining,warrior_swordofruin,support_doomingsong,lancer_spearwall,lancer_ignitingstrike,support_healingsong,paladin_skeletalsquire,blob_parasite,rogue_sneakattack",
+        "nextNodeType": "marbletoastyisland2"
     }
 ]
