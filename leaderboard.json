@@ -63,6 +63,15 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
+        "dungeonRunId": "178911",
+        "completedLevels": "17",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-02-27 07:51:16",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,robot_robotauthority,orcslayer_worldrazer,general_2,templar_commanding_presence,blob_parasite,melee_damage_1,vampire_spectralpresence,epic_ranged_dragonarrows,armored_damage_1,bomber_ricochet,epic_epicaspirations,healer_combatmedic,necromancer_necronomicon,art_siege_weapons,rogue_sneakattack,undead_undeadresilience",
+        "nextNodeType": "marblesandboss8"
+    },
+    {
         "dungeonRunId": "178884",
         "completedLevels": "16",
         "twitchDisplayName": "ohitsneb",
@@ -70,15 +79,6 @@
         "endTime": "2025-02-26 23:37:26",
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry,art_siege_weapons,ranged_rangergloves,armored_heavyblades,amazon_vineclone,barbarian_gloriousdeath,necromancer_necronomicon,healer_healing_bloom,melee_charge",
         "nextNodeType": "marbletoastyisland2"
-    },
-    {
-        "dungeonRunId": "178911",
-        "completedLevels": "16",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-02-27 07:51:16",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,robot_robotauthority,orcslayer_worldrazer,general_2,templar_commanding_presence,blob_parasite,melee_damage_1,vampire_spectralpresence,epic_ranged_dragonarrows,armored_damage_1,bomber_ricochet,epic_epicaspirations,healer_combatmedic,necromancer_necronomicon,art_siege_weapons,rogue_sneakattack",
-        "nextNodeType": "marbleiceisland6"
     },
     {
         "dungeonRunId": "178882",
