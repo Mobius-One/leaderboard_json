@@ -72,13 +72,13 @@
         "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
-        "dungeonRunId": "178884",
-        "completedLevels": "16",
+        "dungeonRunId": "178893",
+        "completedLevels": "17",
         "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-26 20:07:00",
-        "endTime": "2025-02-26 23:37:26",
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_selfless_prayer,spell_empower_killingfield,saint_exalt,bomber_ricochet,bomber_living_bomb,melee_damage_1,barb_warcry,art_siege_weapons,ranged_rangergloves,armored_heavyblades,amazon_vineclone,barbarian_gloriousdeath,necromancer_necronomicon,healer_healing_bloom,melee_charge",
-        "nextNodeType": "marbletoastyisland2"
+        "startTime": "2025-02-26 23:37:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords",
+        "nextNodeType": "marblesandmorbie8"
     },
     {
         "dungeonRunId": "178915",
@@ -86,7 +86,7 @@
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-27 10:17:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,healer_healing_bloom,ranged_ironbreakballistics,bomber_ricochet,warbeast_underworldbeast,lancer_sarissaspears,melee_armor_break,flag_1,paladin_layonhands,berserker_enrage,gladiator_war_machine,saint_exalt",
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,healer_healing_bloom,ranged_ironbreakballistics,bomber_ricochet,warbeast_underworldbeast,lancer_sarissaspears,melee_armor_break,flag_1,paladin_layonhands,berserker_enrage,gladiator_war_machine,saint_exalt,necromancer_necronomicon",
         "nextNodeType": "dungeons_jerry"
     }
 ]
