@@ -27,6 +27,15 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
+        "dungeonRunId": "178929",
+        "completedLevels": "36",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-02-27 18:53:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,epic_melee_gloryofvictory,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,saint_missionary,warrior_swordofruin,saint_exalt,healer_giftofregeneration,ensouled_heroicspirits,lancer_sarissaspears,barb_warcry",
+        "nextNodeType": "marblesandcrossroad6"
+    },
+    {
         "dungeonRunId": "178891",
         "completedLevels": "36",
         "twitchDisplayName": "MozzyAuzzy",
@@ -34,15 +43,6 @@
         "endTime": "2025-02-27 03:18:26",
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,archer_enchantedammo,warbeast_underworldbeast,support_doomingsong,melee_armor_break,spell_empower_highground,armored_unyieldingdefense,fairy_hocuspocus,templar_1,ranged_rangergloves,musk_golden_rounds,musk_volley_tactics,assassin_spynetwork,spell_empower_haste,support_defensivetraining,saint_godspeed,archer_zephyrstride,monk_selfless_prayer,art_siege_weapons,human_humandestiny,armored_damage_1,ranged_preciseshot,amazon_vineclone,warrior_bladedancer,centurion_juggernaut",
         "nextNodeType": "marbletoastyspringhoriz2"
-    },
-    {
-        "dungeonRunId": "178929",
-        "completedLevels": "35",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-02-27 18:53:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,necromancer_necronomicon,epic_melee_gloryofvictory,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,saint_missionary,warrior_swordofruin,saint_exalt,healer_giftofregeneration,ensouled_heroicspirits,lancer_sarissaspears,barb_warcry",
-        "nextNodeType": "marbleradiomorbie4"
     },
     {
         "dungeonRunId": "178918",
@@ -72,15 +72,6 @@
         "nextNodeType": "marbleicepuddle6"
     },
     {
-        "dungeonRunId": "178900",
-        "completedLevels": "20",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-27 02:45:09",
-        "endTime": "2025-02-27 04:50:42",
-        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality,archer_enchantedammo,bomber_living_bomb,lancer_sarissaspears,bomber_ricochet",
-        "nextNodeType": "marblesandmorbie8"
-    },
-    {
         "dungeonRunId": "178893",
         "completedLevels": "20",
         "twitchDisplayName": "ohitsneb",
@@ -88,5 +79,14 @@
         "endTime": "2025-02-27 14:51:35",
         "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords,saint_missionary,tank_hoarfrost_armor,flagbearer_bannerofvitality,support_defensivetraining",
         "nextNodeType": "marbletoastymorbieboss2"
+    },
+    {
+        "dungeonRunId": "178900",
+        "completedLevels": "20",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-27 02:45:09",
+        "endTime": "2025-02-27 04:50:42",
+        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality,archer_enchantedammo,bomber_living_bomb,lancer_sarissaspears,bomber_ricochet",
+        "nextNodeType": "marblesandmorbie8"
     }
 ]
