@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "178869",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-02-26 13:20:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1,musk_golden_rounds,mage_clone,flagbearer_bannerofvitality,mage_elementalsummoning,archer_steadybow,saint_exalt,bomber_ricochet,lancer_ignitingstrike,archer_zephyrstride,vampire_spectralpresence,musk_volley_tactics,rogue_sneakattack,shinobi_firetechinique",
-        "nextNodeType": "marblesandmorbie8"
+        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1,musk_golden_rounds,mage_clone,flagbearer_bannerofvitality,mage_elementalsummoning,archer_steadybow,saint_exalt,bomber_ricochet,lancer_ignitingstrike,archer_zephyrstride,vampire_spectralpresence,musk_volley_tactics,rogue_sneakattack,shinobi_firetechinique,saint_godspeed",
+        "nextNodeType": "marblesandwall6"
     },
     {
         "dungeonRunId": "178884",
