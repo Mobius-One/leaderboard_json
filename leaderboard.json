@@ -81,12 +81,12 @@
         "nextNodeType": "marbletoastyisland2"
     },
     {
-        "dungeonRunId": "178882",
-        "completedLevels": "12",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-26 19:51:45",
+        "dungeonRunId": "178915",
+        "completedLevels": "13",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-02-27 10:17:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride,paladin_skeletalsquire,barbarian_conqueror,ranged_rangergloves,bomber_ricochet,frogue_air_snipers",
-        "nextNodeType": "marbleiceriver6"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,healer_healing_bloom,ranged_ironbreakballistics,bomber_ricochet,warbeast_underworldbeast,lancer_sarissaspears,melee_armor_break,flag_1,paladin_layonhands,berserker_enrage,gladiator_war_machine,saint_exalt",
+        "nextNodeType": "marbleradiocircle4"
     }
 ]
