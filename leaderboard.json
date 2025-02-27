@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "178918",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-27 13:57:34",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_damage_1,flag_holdfast,common_specialists,armored_damage_1,lancer_spearwall,saint_godspeed,ranged_rangergloves,artillery_maxpower,spell_empower_highground,barbarian_gloriousdeath,berserker_enrage,blob_parasite,saint_exalt,support_defensivetraining,orcslayer_worldrazer,lancer_sarissaspears,bomber_ricochet,epic_melee_gloryofvictory,rogue_sneakattack,musk_golden_rounds,balloonbuster_pinata,warrior_bladedancer,elf_elvenimmortality,art_siege_weapons,ranged_ironbreakballistics,paladin_skeletalsquire,gladiator_war_machine,flagbearer_bannerofvitality,archer_enchantedammo",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,melee_damage_1,flag_holdfast,common_specialists,armored_damage_1,lancer_spearwall,saint_godspeed,ranged_rangergloves,artillery_maxpower,spell_empower_highground,barbarian_gloriousdeath,berserker_enrage,blob_parasite,saint_exalt,support_defensivetraining,orcslayer_worldrazer,lancer_sarissaspears,bomber_ricochet,epic_melee_gloryofvictory,rogue_sneakattack,musk_golden_rounds,balloonbuster_pinata,warrior_bladedancer,elf_elvenimmortality,art_siege_weapons,paladin_skeletalsquire,gladiator_war_machine,flagbearer_bannerofvitality,archer_enchantedammo",
+        "nextNodeType": "marblesandwall6"
     },
     {
         "dungeonRunId": "178875",
