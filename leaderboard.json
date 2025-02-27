@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178869",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-02-26 13:20:36",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom",
-        "nextNodeType": "marbleicecentericehoriz6"
+        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1",
+        "nextNodeType": "marbleicepuddle6"
     },
     {
         "dungeonRunId": "178849",
