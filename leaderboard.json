@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "178906",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-02-27 05:14:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1,epic_armored_armoredgiants,ranged_rangergloves",
-        "nextNodeType": "marblesandoasis6"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1,epic_armored_armoredgiants,ranged_rangergloves,robot_robotauthority",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178882",
