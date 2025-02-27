@@ -45,13 +45,13 @@
         "nextNodeType": "marbleicemorbie5"
     },
     {
-        "dungeonRunId": "178915",
-        "completedLevels": "24",
+        "dungeonRunId": "178918",
+        "completedLevels": "25",
         "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-27 10:17:59",
-        "endTime": "2025-02-27 13:57:19",
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,healer_healing_bloom,ranged_ironbreakballistics,bomber_ricochet,warbeast_underworldbeast,lancer_sarissaspears,melee_armor_break,flag_1,paladin_layonhands,berserker_enrage,gladiator_war_machine,saint_exalt,necromancer_necronomicon,spell_empower_highground,melee_damage_1,musk_golden_rounds,bomber_living_bomb,armored_damage_1,tank_ironclad,ensouled_bravespirits,tank_tungstenswords,ranged_preciseshot,saint_godspeed",
-        "nextNodeType": "marbleicecentericehoriz6"
+        "startTime": "2025-02-27 13:57:34",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_damage_1,flag_holdfast,common_specialists,armored_damage_1,lancer_spearwall,saint_godspeed,ranged_rangergloves,artillery_maxpower,spell_empower_highground,barbarian_gloriousdeath,berserker_enrage,blob_parasite,saint_exalt,support_defensivetraining,orcslayer_worldrazer,lancer_sarissaspears,bomber_ricochet,epic_melee_gloryofvictory,rogue_sneakattack,musk_golden_rounds,balloonbuster_pinata,warrior_bladedancer,elf_elvenimmortality,art_siege_weapons",
+        "nextNodeType": "marblesandoasis6"
     },
     {
         "dungeonRunId": "178869",
