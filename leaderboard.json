@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178900",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-02-27 02:45:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower",
-        "nextNodeType": "marblesandmorbie8"
+        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow",
+        "nextNodeType": "marbleiceriver6"
     },
     {
         "dungeonRunId": "178874",
