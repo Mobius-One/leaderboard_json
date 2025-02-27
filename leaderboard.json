@@ -45,6 +45,15 @@
         "nextNodeType": "marblesandwall6"
     },
     {
+        "dungeonRunId": "178929",
+        "completedLevels": "26",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-02-27 18:53:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,amazon_vineclone,armored_unyieldingdefense,necromancer_necronomicon,epic_melee_gloryofvictory,general_2,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,saint_missionary,warrior_swordofruin,saint_exalt,healer_giftofregeneration",
+        "nextNodeType": "marblesandboss8"
+    },
+    {
         "dungeonRunId": "178875",
         "completedLevels": "26",
         "twitchDisplayName": "LITheoss",
@@ -52,15 +61,6 @@
         "endTime": "2025-02-27 17:59:19",
         "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy,support_doomingsong,tank_ironclad",
         "nextNodeType": "marbleicemorbie5"
-    },
-    {
-        "dungeonRunId": "178929",
-        "completedLevels": "25",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-02-27 18:53:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,amazon_vineclone,armored_unyieldingdefense,necromancer_necronomicon,epic_melee_gloryofvictory,general_2,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,saint_missionary,warrior_swordofruin,saint_exalt",
-        "nextNodeType": "marbleicecentericehoriz6"
     },
     {
         "dungeonRunId": "178928",
