@@ -36,6 +36,15 @@
         "nextNodeType": "marbletoastyspringhoriz2"
     },
     {
+        "dungeonRunId": "178918",
+        "completedLevels": "26",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-02-27 13:57:34",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_damage_1,flag_holdfast,common_specialists,armored_damage_1,lancer_spearwall,saint_godspeed,ranged_rangergloves,artillery_maxpower,spell_empower_highground,barbarian_gloriousdeath,berserker_enrage,blob_parasite,saint_exalt,support_defensivetraining,orcslayer_worldrazer,lancer_sarissaspears,bomber_ricochet,epic_melee_gloryofvictory,rogue_sneakattack,musk_golden_rounds,balloonbuster_pinata,warrior_bladedancer,elf_elvenimmortality,art_siege_weapons,ranged_ironbreakballistics,paladin_skeletalsquire",
+        "nextNodeType": "marblesandmorbie8"
+    },
+    {
         "dungeonRunId": "178875",
         "completedLevels": "26",
         "twitchDisplayName": "LITheoss",
@@ -43,15 +52,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy,support_doomingsong,tank_ironclad",
         "nextNodeType": "marbleicemorbie5"
-    },
-    {
-        "dungeonRunId": "178918",
-        "completedLevels": "25",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-27 13:57:34",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_damage_1,flag_holdfast,common_specialists,armored_damage_1,lancer_spearwall,saint_godspeed,ranged_rangergloves,artillery_maxpower,spell_empower_highground,barbarian_gloriousdeath,berserker_enrage,blob_parasite,saint_exalt,support_defensivetraining,orcslayer_worldrazer,lancer_sarissaspears,bomber_ricochet,epic_melee_gloryofvictory,rogue_sneakattack,musk_golden_rounds,balloonbuster_pinata,warrior_bladedancer,elf_elvenimmortality,art_siege_weapons,ranged_ironbreakballistics",
-        "nextNodeType": "marblesandoasis6"
     },
     {
         "dungeonRunId": "178869",
