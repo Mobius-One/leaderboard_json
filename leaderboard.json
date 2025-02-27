@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "178879",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-02-26 17:53:13",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,melee_armor_break,armored_damage_1,artillery_maxpower,epic_armored_armoredgiants,ranged_rangergloves,spell_empower_stronghold,support_healingsong,flag_holdfast,gladiator_war_machine,tank_tungstenswords,armored_heavyblades,berserker_frenzy,paladin_layonhands,undead_undeadresilience,phantom_thehaunting,melee_damage_1,fairy_hocuspocus,tank_ironclad,general_1,assassin_deathmark,warlock_inferno,archer_zephyrstride,elf_elvenimmortality",
-        "nextNodeType": "marbletoastyspringhoriz2"
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,melee_armor_break,armored_damage_1,epic_armored_armoredgiants,ranged_rangergloves,spell_empower_stronghold,support_healingsong,flag_holdfast,gladiator_war_machine,tank_tungstenswords,armored_heavyblades,berserker_frenzy,paladin_layonhands,undead_undeadresilience,phantom_thehaunting,melee_damage_1,fairy_hocuspocus,tank_ironclad,general_1,assassin_deathmark,warlock_inferno,archer_zephyrstride,elf_elvenimmortality",
+        "nextNodeType": "marblesandwall6"
     },
     {
         "dungeonRunId": "178863",
@@ -45,6 +45,15 @@
         "nextNodeType": "marbletoastyisland2"
     },
     {
+        "dungeonRunId": "178869",
+        "completedLevels": "12",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-02-26 13:20:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1,musk_golden_rounds,mage_clone,flagbearer_bannerofvitality,mage_elementalsummoning,archer_steadybow",
+        "nextNodeType": "marblesandcrossroad6"
+    },
+    {
         "dungeonRunId": "178882",
         "completedLevels": "12",
         "twitchDisplayName": "Panthergal2018",
@@ -52,15 +61,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,armored_unyieldingdefense,warrior_flameslash,warrior_swordofruin,melee_charge,centurion_juggernaut,saint_godspeed,archer_zephyrstride,paladin_skeletalsquire,barbarian_conqueror,ranged_rangergloves,bomber_ricochet,frogue_air_snipers",
         "nextNodeType": "marbleiceriver6"
-    },
-    {
-        "dungeonRunId": "178869",
-        "completedLevels": "11",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-02-26 13:20:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1,musk_golden_rounds,mage_clone,flagbearer_bannerofvitality,mage_elementalsummoning",
-        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178845",
