@@ -54,13 +54,13 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
-        "dungeonRunId": "178906",
-        "completedLevels": "19",
+        "dungeonRunId": "178871",
+        "completedLevels": "20",
         "twitchDisplayName": "RealAlize",
-        "startTime": "2025-02-27 05:14:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1,epic_armored_armoredgiants,ranged_rangergloves,robot_robotauthority,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,templar_1,general_4",
-        "nextNodeType": "marbleicecentericehoriz6"
+        "startTime": "2025-02-26 15:12:45",
+        "endTime": "2025-02-27 03:22:35",
+        "captainBoons": "common_classic_comeback,archer_zephyrstride,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,amazon_vineclone,ranged_ironbreakballistics,berserker_enrage,berserker_frenzy,warrior_bladedancer,lancer_spearwall,epic_epicaspirations,general_5,artillery_maxpower,epic_melee_gloryofvictory,general_2,melee_armor_break,rogue_shadowcloak,armored_damage_1,barb_warcry",
+        "nextNodeType": "marblesandmorbie8"
     },
     {
         "dungeonRunId": "178884",
