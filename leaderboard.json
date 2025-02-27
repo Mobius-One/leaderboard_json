@@ -45,21 +45,21 @@
         "nextNodeType": "marblesandwall6"
     },
     {
+        "dungeonRunId": "178906",
+        "completedLevels": "21",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-02-27 05:14:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1,epic_armored_armoredgiants,ranged_rangergloves,robot_robotauthority,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,templar_1,general_4,lancer_spearwall,bomber_living_bomb",
+        "nextNodeType": "marblesandpath6"
+    },
+    {
         "dungeonRunId": "178900",
         "completedLevels": "20",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-02-27 02:45:09",
         "endTime": "2025-02-27 04:50:42",
         "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality,archer_enchantedammo,bomber_living_bomb,lancer_sarissaspears,bomber_ricochet",
-        "nextNodeType": "marblesandmorbie8"
-    },
-    {
-        "dungeonRunId": "178871",
-        "completedLevels": "20",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-02-26 15:12:45",
-        "endTime": "2025-02-27 03:22:35",
-        "captainBoons": "common_classic_comeback,archer_zephyrstride,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,amazon_vineclone,ranged_ironbreakballistics,berserker_enrage,berserker_frenzy,warrior_bladedancer,lancer_spearwall,epic_epicaspirations,general_5,artillery_maxpower,epic_melee_gloryofvictory,general_2,melee_armor_break,rogue_shadowcloak,armored_damage_1,barb_warcry",
         "nextNodeType": "marblesandmorbie8"
     },
     {
