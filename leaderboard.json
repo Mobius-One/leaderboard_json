@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "178906",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-02-27 05:14:56",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1,epic_armored_armoredgiants,ranged_rangergloves,robot_robotauthority,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,templar_1,general_4,lancer_spearwall,bomber_living_bomb,armored_damage_1,ranged_preciseshot,warrior_swordofruin,ranged_ironbreakballistics",
-        "nextNodeType": "marbleradiocircle4"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1,epic_armored_armoredgiants,ranged_rangergloves,robot_robotauthority,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,templar_1,general_4,lancer_spearwall,bomber_living_bomb,armored_damage_1,ranged_preciseshot,warrior_swordofruin,ranged_ironbreakballistics,berserker_enrage",
+        "nextNodeType": "marbletoastymorbieboss2"
     },
     {
         "dungeonRunId": "178869",
