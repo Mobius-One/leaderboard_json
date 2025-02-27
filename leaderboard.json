@@ -63,15 +63,6 @@
         "nextNodeType": "marblesandwall6"
     },
     {
-        "dungeonRunId": "178893",
-        "completedLevels": "20",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-26 23:37:58",
-        "endTime": "2025-02-27 14:51:35",
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords,saint_missionary,tank_hoarfrost_armor,flagbearer_bannerofvitality,support_defensivetraining",
-        "nextNodeType": "marbletoastymorbieboss2"
-    },
-    {
         "dungeonRunId": "178900",
         "completedLevels": "20",
         "twitchDisplayName": "elcanadiano",
@@ -81,12 +72,21 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
+        "dungeonRunId": "178893",
+        "completedLevels": "20",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-26 23:37:58",
+        "endTime": "2025-02-27 14:51:35",
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords,saint_missionary,tank_hoarfrost_armor,flagbearer_bannerofvitality,support_defensivetraining",
+        "nextNodeType": "marbletoastymorbieboss2"
+    },
+    {
         "dungeonRunId": "178929",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-27 18:53:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,amazon_vineclone,armored_unyieldingdefense,necromancer_necronomicon,epic_melee_gloryofvictory,general_2",
-        "nextNodeType": "marbleradiopillar4"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,amazon_vineclone,armored_unyieldingdefense,necromancer_necronomicon,epic_melee_gloryofvictory,general_2,lancer_spearwall",
+        "nextNodeType": "marblesandmorbie8"
     }
 ]
