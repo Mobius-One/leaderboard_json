@@ -27,6 +27,15 @@
         "nextNodeType": "marbletoastyspringhoriz2"
     },
     {
+        "dungeonRunId": "178906",
+        "completedLevels": "27",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-02-27 05:14:56",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1,epic_armored_armoredgiants,ranged_rangergloves,robot_robotauthority,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,templar_1,general_4,lancer_spearwall,bomber_living_bomb,armored_damage_1,ranged_preciseshot,warrior_swordofruin,ranged_ironbreakballistics,berserker_enrage,blob_parasite",
+        "nextNodeType": "marbleradiopillar4"
+    },
+    {
         "dungeonRunId": "178875",
         "completedLevels": "26",
         "twitchDisplayName": "LITheoss",
@@ -34,15 +43,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy,support_doomingsong,tank_ironclad",
         "nextNodeType": "marbleicemorbie5"
-    },
-    {
-        "dungeonRunId": "178906",
-        "completedLevels": "26",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-02-27 05:14:56",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,mage_elementalsummoning,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,warbeast_1,epic_armored_armoredgiants,ranged_rangergloves,robot_robotauthority,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,templar_1,general_4,lancer_spearwall,bomber_living_bomb,armored_damage_1,ranged_preciseshot,warrior_swordofruin,ranged_ironbreakballistics,berserker_enrage",
-        "nextNodeType": "marbletoastymorbieboss2"
     },
     {
         "dungeonRunId": "178869",
@@ -81,12 +81,12 @@
         "nextNodeType": "marbleiceriver6"
     },
     {
-        "dungeonRunId": "178845",
+        "dungeonRunId": "178859",
         "completedLevels": "10",
-        "twitchDisplayName": "booklovinbuilder",
-        "startTime": "2025-02-25 19:02:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
-        "nextNodeType": "marbletoastyplainhoriz2"
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-02-26 04:10:31",
+        "endTime": "2025-02-27 06:29:33",
+        "captainBoons": "common_classic_comeback,general_4,support_defensivetraining,warrior_swordofruin,support_doomingsong,lancer_spearwall,lancer_ignitingstrike,support_healingsong,paladin_skeletalsquire,blob_parasite,rogue_sneakattack",
+        "nextNodeType": "marbletoastyisland2"
     }
 ]
