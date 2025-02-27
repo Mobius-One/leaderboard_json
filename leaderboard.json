@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "178911",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "MrShadowseer",
         "startTime": "2025-02-27 07:51:16",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,robot_robotauthority,orcslayer_worldrazer,general_2,templar_commanding_presence,blob_parasite,melee_damage_1,vampire_spectralpresence,epic_ranged_dragonarrows,armored_damage_1,bomber_ricochet,epic_epicaspirations,healer_combatmedic",
-        "nextNodeType": "marbleradiogarden4"
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,robot_robotauthority,orcslayer_worldrazer,general_2,templar_commanding_presence,blob_parasite,melee_damage_1,vampire_spectralpresence,epic_ranged_dragonarrows,armored_damage_1,bomber_ricochet,epic_epicaspirations,healer_combatmedic,necromancer_necronomicon",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178882",
