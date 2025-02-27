@@ -63,15 +63,6 @@
         "nextNodeType": "marblesandwall6"
     },
     {
-        "dungeonRunId": "178900",
-        "completedLevels": "20",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-27 02:45:09",
-        "endTime": "2025-02-27 04:50:42",
-        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality,archer_enchantedammo,bomber_living_bomb,lancer_sarissaspears,bomber_ricochet",
-        "nextNodeType": "marblesandmorbie8"
-    },
-    {
         "dungeonRunId": "178893",
         "completedLevels": "20",
         "twitchDisplayName": "ohitsneb",
@@ -79,6 +70,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords,saint_missionary,tank_hoarfrost_armor,flagbearer_bannerofvitality,support_defensivetraining",
         "nextNodeType": "marbletoastymorbieboss2"
+    },
+    {
+        "dungeonRunId": "178900",
+        "completedLevels": "20",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-27 02:45:09",
+        "endTime": "2025-02-27 04:50:42",
+        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality,archer_enchantedammo,bomber_living_bomb,lancer_sarissaspears,bomber_ricochet",
+        "nextNodeType": "marblesandmorbie8"
     },
     {
         "dungeonRunId": "178911",
