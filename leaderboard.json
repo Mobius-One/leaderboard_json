@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "178929",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-27 18:53:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,amazon_vineclone,armored_unyieldingdefense,necromancer_necronomicon,epic_melee_gloryofvictory",
-        "nextNodeType": "marbletoastyisland2"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,amazon_vineclone,armored_unyieldingdefense,necromancer_necronomicon,epic_melee_gloryofvictory,general_2",
+        "nextNodeType": "marbleradiopillar4"
     }
 ]
