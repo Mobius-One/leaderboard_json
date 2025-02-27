@@ -77,16 +77,16 @@
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-02-26 23:37:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords",
+        "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords,saint_missionary",
         "nextNodeType": "marblesandmorbie8"
     },
     {
         "dungeonRunId": "178915",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-27 10:17:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,healer_healing_bloom,ranged_ironbreakballistics,bomber_ricochet,warbeast_underworldbeast,lancer_sarissaspears,melee_armor_break,flag_1,paladin_layonhands,berserker_enrage,gladiator_war_machine,saint_exalt,necromancer_necronomicon",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,support_defensivetraining,healer_healing_bloom,ranged_ironbreakballistics,bomber_ricochet,warbeast_underworldbeast,lancer_sarissaspears,melee_armor_break,flag_1,paladin_layonhands,berserker_enrage,gladiator_war_machine,saint_exalt,necromancer_necronomicon,spell_empower_highground",
+        "nextNodeType": "marblesandcrossroad6"
     }
 ]
