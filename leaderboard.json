@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "178900",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-02-27 02:45:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality,archer_enchantedammo,bomber_living_bomb",
-        "nextNodeType": "marbleradiorock4"
+        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality,archer_enchantedammo,bomber_living_bomb,lancer_sarissaspears",
+        "nextNodeType": "marblesandoasis6"
     },
     {
         "dungeonRunId": "178884",
