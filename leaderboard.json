@@ -55,30 +55,21 @@
     },
     {
         "dungeonRunId": "178929",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-02-27 18:53:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,amazon_vineclone,armored_unyieldingdefense,necromancer_necronomicon,epic_melee_gloryofvictory,general_2,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,saint_missionary,warrior_swordofruin",
-        "nextNodeType": "marbleradiorock4"
+        "captainBoons": "common_classic_comeback,warrior_bladedancer,berserker_enrage,art_siege_weapons,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,support_doomingsong,orcs_inpenetrable,bomber_living_bomb,healer_combatmedic,bomber_ricochet,spell_empower_highground,ranged_ironbreakballistics,gladiator_sonofthunder,amazon_vineclone,armored_unyieldingdefense,necromancer_necronomicon,epic_melee_gloryofvictory,general_2,lancer_spearwall,musk_volley_tactics,ranged_rangergloves,saint_missionary,warrior_swordofruin,saint_exalt",
+        "nextNodeType": "marbleicecentericehoriz6"
     },
     {
         "dungeonRunId": "178928",
         "completedLevels": "22",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-02-27 18:47:49",
-        "endTime": null,
+        "endTime": "2025-02-27 21:42:36",
         "captainBoons": "common_classic_comeback,general_4,vampire_spectralpresence,vampire_swarmcoffin,melee_damage_1,ranged_preciseshot,art_siege_weapons,rogue_sneakattack,mage_elementalsummoning,mage_clone,saint_exalt,bomber_ricochet,archer_steadybow,melee_charge,musk_golden_rounds,epic_epicaspirations,archer_zephyrstride,necromancer_necronomicon,common_specialists,armored_damage_1,rogue_momentum,epic_armored_armoredgiants,ranged_rangergloves",
         "nextNodeType": "marbleicepuddle6"
-    },
-    {
-        "dungeonRunId": "178900",
-        "completedLevels": "20",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-27 02:45:09",
-        "endTime": "2025-02-27 04:50:42",
-        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality,archer_enchantedammo,bomber_living_bomb,lancer_sarissaspears,bomber_ricochet",
-        "nextNodeType": "marblesandmorbie8"
     },
     {
         "dungeonRunId": "178893",
@@ -88,5 +79,14 @@
         "endTime": "2025-02-27 14:51:35",
         "captainBoons": "common_classic_comeback,ranged_rangergloves,armored_heavyblades,bomber_living_bomb,melee_damage_1,elf_elvenimmortality,epic_melee_gloryofvictory,ranged_ironbreakballistics,ranged_preciseshot,ensouled_heroicspirits,archer_zephyrstride,warrior_flameslash,amazon_vineclone,healer_combatmedic,barb_warcry,epic_armored_armoredgiants,tank_tungstenswords,saint_missionary,tank_hoarfrost_armor,flagbearer_bannerofvitality,support_defensivetraining",
         "nextNodeType": "marbletoastymorbieboss2"
+    },
+    {
+        "dungeonRunId": "178900",
+        "completedLevels": "20",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-27 02:45:09",
+        "endTime": "2025-02-27 04:50:42",
+        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds,spell_empower_highground,flagbearer_bannerofvitality,archer_enchantedammo,bomber_living_bomb,lancer_sarissaspears,bomber_ricochet",
+        "nextNodeType": "marblesandmorbie8"
     }
 ]
