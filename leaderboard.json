@@ -54,6 +54,15 @@
         "nextNodeType": "marbleiceriver6"
     },
     {
+        "dungeonRunId": "178869",
+        "completedLevels": "11",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-02-26 13:20:36",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1,musk_golden_rounds,mage_clone,flagbearer_bannerofvitality,mage_elementalsummoning",
+        "nextNodeType": "marblesandboss8"
+    },
+    {
         "dungeonRunId": "178845",
         "completedLevels": "10",
         "twitchDisplayName": "booklovinbuilder",
@@ -61,15 +70,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_charge,mage_elementalsummoning,orcslayer_worldrazer,paladin_layonhands,necromancer_necronomicon,blob_parasite,ranged_ironbreakballistics,tank_ironclad,berserker_frenzy,general_3",
         "nextNodeType": "marbletoastyplainhoriz2"
-    },
-    {
-        "dungeonRunId": "178869",
-        "completedLevels": "10",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-02-26 13:20:36",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_damage_1,gladiator_sonofthunder,monk_heavenskarma,armored_unyieldingdefense,saint_missionary,healer_healing_bloom,melee_damage_1,musk_golden_rounds,mage_clone,flagbearer_bannerofvitality",
-        "nextNodeType": "marbleradiopillar4"
     },
     {
         "dungeonRunId": "178874",
@@ -81,12 +81,12 @@
         "nextNodeType": "marbleradiomorbie4"
     },
     {
-        "dungeonRunId": "178849",
-        "completedLevels": "4",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-02-25 19:41:24",
+        "dungeonRunId": "178895",
+        "completedLevels": "5",
+        "twitchDisplayName": "HuFySTeR",
+        "startTime": "2025-02-26 23:55:32",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,bomber_ricochet,bomber_living_bomb",
-        "nextNodeType": "marbletoastyplainhoriz2"
+        "captainBoons": "common_classic_comeback,melee_damage_1,healer_giftofregeneration,necromancer_ectoplosion,armored_unyieldingdefense,necromancer_necronomicon",
+        "nextNodeType": "marblesandboss8"
     }
 ]
