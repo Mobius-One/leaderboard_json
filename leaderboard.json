@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "178900",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-02-27 02:45:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1",
-        "nextNodeType": "marbleiceisland6"
+        "captainBoons": "common_classic_comeback,general_1,barb_warcry,musk_volley_tactics,saint_exalt,armored_heavyblades,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,archer_steadybow,tank_tungstenswords,orcs_inpenetrable,art_siege_weapons,melee_damage_1,musk_golden_rounds",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "178882",
