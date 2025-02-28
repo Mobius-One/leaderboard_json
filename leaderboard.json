@@ -72,15 +72,6 @@
         "nextNodeType": "marbletoastyisland2"
     },
     {
-        "dungeonRunId": "178956",
-        "completedLevels": "26",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-28 16:50:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,warbeast_1,archer_steadybow,melee_charge,ranged_preciseshot,saint_godspeed,armored_unyieldingdefense,frogue_preparation,musk_volley_tactics,general_1,gladiator_sonofthunder,warrior_swordofruin,paladin_layonhands,melee_armor_break,orcslayer_worldrazer,ranged_rangergloves,saint_missionary,blob_parasite,saint_exalt,bomber_ricochet,paladin_holyforce,general_5,artillery_maxpower,frogue_air_snipers,flagbearer_bannerofvitality,rogue_momentum",
-        "nextNodeType": "marbletoastymorbieboss2"
-    },
-    {
         "dungeonRunId": "178875",
         "completedLevels": "26",
         "twitchDisplayName": "LITheoss",
@@ -88,5 +79,14 @@
         "endTime": "2025-02-27 17:59:19",
         "captainBoons": "common_classic_comeback,warrior_bladedancer,vampire_spectralpresence,spell_empower_killingfield,tank_tungstenswords,ranged_preciseshot,archer_steadybow,ranged_ironbreakballistics,archer_enchantedammo,common_specialists,archer_zephyrstride,necromancer_necronomicon,art_siege_weapons,armored_damage_1,undead_undeadresilience,saint_godspeed,saint_exalt,artillery_maxpower,warbeast_underworldbeast,general_5,fairy_hocuspocus,epic_ranged_dragonarrows,general_2,healer_giftofregeneration,berserker_frenzy,support_doomingsong,tank_ironclad",
         "nextNodeType": "marbleicemorbie5"
+    },
+    {
+        "dungeonRunId": "178956",
+        "completedLevels": "26",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-02-28 16:50:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,warbeast_1,archer_steadybow,melee_charge,ranged_preciseshot,saint_godspeed,armored_unyieldingdefense,frogue_preparation,musk_volley_tactics,general_1,gladiator_sonofthunder,warrior_swordofruin,paladin_layonhands,melee_armor_break,orcslayer_worldrazer,ranged_rangergloves,saint_missionary,blob_parasite,saint_exalt,bomber_ricochet,paladin_holyforce,general_5,artillery_maxpower,frogue_air_snipers,flagbearer_bannerofvitality,rogue_momentum",
+        "nextNodeType": "marbletoastymorbieboss2"
     }
 ]
