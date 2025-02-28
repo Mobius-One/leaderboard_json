@@ -36,13 +36,13 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178891",
-        "completedLevels": "36",
+        "dungeonRunId": "178947",
+        "completedLevels": "37",
         "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-26 22:24:40",
-        "endTime": "2025-02-27 03:18:26",
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,archer_enchantedammo,warbeast_underworldbeast,support_doomingsong,melee_armor_break,spell_empower_highground,armored_unyieldingdefense,fairy_hocuspocus,templar_1,ranged_rangergloves,musk_golden_rounds,musk_volley_tactics,assassin_spynetwork,spell_empower_haste,support_defensivetraining,saint_godspeed,archer_zephyrstride,monk_selfless_prayer,art_siege_weapons,human_humandestiny,armored_damage_1,ranged_preciseshot,amazon_vineclone,warrior_bladedancer,centurion_juggernaut",
-        "nextNodeType": "marbletoastyspringhoriz2"
+        "startTime": "2025-02-28 05:23:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,paladin_layonhands,fairy_hocuspocus,ensouled_heroicspirits,ranged_rangergloves,saint_missionary,archer_steadybow,general_4,rogue_shadowcloak,assassin_deathmark,epic_armored_armoredgiants,ranged_ironbreakballistics,templar_commanding_presence,ensouled_bravespirits,general_5,centurion_juggernaut,epic_melee_gloryofvictory,archer_enchantedammo,human_humandestiny,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,healer_combatmedic,centurion_shieldofbones,tank_tungstenswords,ranged_preciseshot",
+        "nextNodeType": "marbleiceisland6"
     },
     {
         "dungeonRunId": "178918",
