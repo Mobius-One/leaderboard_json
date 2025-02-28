@@ -72,15 +72,6 @@
         "nextNodeType": "marbleicemorbie5"
     },
     {
-        "dungeonRunId": "178942",
-        "completedLevels": "22",
-        "twitchDisplayName": "5mokeGhost",
-        "startTime": "2025-02-28 01:06:21",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,armored_heavyblades,epic_ranged_dragonarrows,saint_exalt,bomber_ricochet,blob_parasite,general_3,frogue_preparation,necromancer_ectoplosion,general_2,assassin_deathmark,warbeast_underworldbeast,warrior_bladedancer,musk_golden_rounds,musk_volley_tactics,vampire_darkwings,tank_ironclad,bomber_living_bomb,support_doomingsong,warrior_flameslash,epic_epicaspirations,ranged_ironbreakballistics",
-        "nextNodeType": "marbletoastyspringhoriz2"
-    },
-    {
         "dungeonRunId": "178928",
         "completedLevels": "22",
         "twitchDisplayName": "MsChezaDarling",
@@ -88,5 +79,14 @@
         "endTime": "2025-02-27 21:42:36",
         "captainBoons": "common_classic_comeback,general_4,vampire_spectralpresence,vampire_swarmcoffin,melee_damage_1,ranged_preciseshot,art_siege_weapons,rogue_sneakattack,mage_elementalsummoning,mage_clone,saint_exalt,bomber_ricochet,archer_steadybow,melee_charge,musk_golden_rounds,epic_epicaspirations,archer_zephyrstride,necromancer_necronomicon,common_specialists,armored_damage_1,rogue_momentum,epic_armored_armoredgiants,ranged_rangergloves",
         "nextNodeType": "marbleicepuddle6"
+    },
+    {
+        "dungeonRunId": "178942",
+        "completedLevels": "22",
+        "twitchDisplayName": "5mokeGhost",
+        "startTime": "2025-02-28 01:06:21",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,armored_heavyblades,epic_ranged_dragonarrows,saint_exalt,bomber_ricochet,blob_parasite,general_3,frogue_preparation,necromancer_ectoplosion,general_2,assassin_deathmark,warbeast_underworldbeast,warrior_bladedancer,musk_golden_rounds,musk_volley_tactics,vampire_darkwings,tank_ironclad,bomber_living_bomb,support_doomingsong,warrior_flameslash,epic_epicaspirations,ranged_ironbreakballistics",
+        "nextNodeType": "marbletoastyspringhoriz2"
     }
 ]
