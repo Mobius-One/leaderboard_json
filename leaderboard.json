@@ -36,6 +36,15 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
+        "dungeonRunId": "178947",
+        "completedLevels": "37",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-02-28 05:23:44",
+        "endTime": "2025-02-28 10:17:47",
+        "captainBoons": "common_classic_comeback,paladin_layonhands,fairy_hocuspocus,ensouled_heroicspirits,ranged_rangergloves,saint_missionary,archer_steadybow,general_4,rogue_shadowcloak,assassin_deathmark,epic_armored_armoredgiants,ranged_ironbreakballistics,templar_commanding_presence,ensouled_bravespirits,general_5,centurion_juggernaut,epic_melee_gloryofvictory,archer_enchantedammo,human_humandestiny,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,healer_combatmedic,centurion_shieldofbones,tank_tungstenswords,ranged_preciseshot",
+        "nextNodeType": "marbleiceisland6"
+    },
+    {
         "dungeonRunId": "178956",
         "completedLevels": "37",
         "twitchDisplayName": "Panthergal2018",
@@ -45,13 +54,13 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178947",
-        "completedLevels": "37",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-28 05:23:44",
-        "endTime": "2025-02-28 10:17:47",
-        "captainBoons": "common_classic_comeback,paladin_layonhands,fairy_hocuspocus,ensouled_heroicspirits,ranged_rangergloves,saint_missionary,archer_steadybow,general_4,rogue_shadowcloak,assassin_deathmark,epic_armored_armoredgiants,ranged_ironbreakballistics,templar_commanding_presence,ensouled_bravespirits,general_5,centurion_juggernaut,epic_melee_gloryofvictory,archer_enchantedammo,human_humandestiny,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,healer_combatmedic,centurion_shieldofbones,tank_tungstenswords,ranged_preciseshot",
-        "nextNodeType": "marbleiceisland6"
+        "dungeonRunId": "178904",
+        "completedLevels": "32",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-27 04:51:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,bomber_ricochet,bomber_living_bomb,ranged_ironbreakballistics,centurion_juggernaut,musk_volley_tactics,paladin_layonhands,warrior_flameslash,healer_healing_bloom,warrior_bladedancer,necromancer_necronomicon,general_5,musk_golden_rounds,art_siege_weapons,templar_commanding_presence,gladiator_war_machine,lancer_sarissaspears,archer_enchantedammo,epic_melee_gloryofvictory,armored_unyieldingdefense,tank_ironclad,ensouled_heroicspirits,ranged_rangergloves,gladiator_sonofthunder,blob_parasite,support_healingsong,buster_healing_bomb",
+        "nextNodeType": "marbleradiomorbie4"
     },
     {
         "dungeonRunId": "178951",
@@ -70,15 +79,6 @@
         "endTime": "2025-02-28 16:32:49",
         "captainBoons": "common_classic_comeback,melee_damage_1,archer_enchantedammo,saint_godspeed,assassin_spynetwork,assassin_deathmark,archer_steadybow,rogue_sneakattack,musk_golden_rounds,epic_armored_armoredgiants,artillery_maxpower,ensouled_heroicspirits,ranged_rangergloves,lancer_spearwall,shinobi_blink,saint_exalt,melee_armor_break,barbarian_conqueror,flagbearer_bannerofvitality,bomber_ricochet,epic_melee_gloryofvictory,armored_unyieldingdefense,flag_holdfast,spell_empower_highground,healer_combatmedic,gladiator_sonofthunder,ensouled_bravespirits,saint_missionary",
         "nextNodeType": "marblesandmorbie8"
-    },
-    {
-        "dungeonRunId": "178904",
-        "completedLevels": "31",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-27 04:51:06",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,bomber_ricochet,bomber_living_bomb,ranged_ironbreakballistics,centurion_juggernaut,musk_volley_tactics,paladin_layonhands,warrior_flameslash,healer_healing_bloom,warrior_bladedancer,necromancer_necronomicon,general_5,musk_golden_rounds,art_siege_weapons,general_4,templar_commanding_presence,gladiator_war_machine,lancer_sarissaspears,archer_enchantedammo,epic_melee_gloryofvictory,armored_unyieldingdefense,tank_ironclad,ensouled_heroicspirits,ranged_rangergloves,gladiator_sonofthunder,blob_parasite,support_healingsong,buster_healing_bomb",
-        "nextNodeType": "marblesandoasis6"
     },
     {
         "dungeonRunId": "178942",
