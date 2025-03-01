@@ -72,21 +72,21 @@
         "nextNodeType": "marblesandwall6"
     },
     {
-        "dungeonRunId": "178951",
-        "completedLevels": "32",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-28 13:36:01",
-        "endTime": "2025-03-01 01:55:55",
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,saint_godspeed,support_defensivetraining,art_siege_weapons,general_2,musk_golden_rounds,centurion_shieldofbones,armored_unyieldingdefense,armored_heavyblades,fairy_nixiepops,general_1,ranged_preciseshot,epic_melee_gloryofvictory,support_healingsong,bomber_ricochet,musk_volley_tactics,armored_damage_1,artillery_maxpower,common_specialists,melee_charge,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,phantom_thehaunting,saint_exalt,centurion_juggernaut",
-        "nextNodeType": "marblesandmorbie8"
-    },
-    {
         "dungeonRunId": "178950",
         "completedLevels": "32",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-02-28 12:03:02",
         "endTime": "2025-02-28 16:32:49",
         "captainBoons": "common_classic_comeback,melee_damage_1,archer_enchantedammo,saint_godspeed,assassin_spynetwork,assassin_deathmark,archer_steadybow,rogue_sneakattack,musk_golden_rounds,epic_armored_armoredgiants,artillery_maxpower,ensouled_heroicspirits,ranged_rangergloves,lancer_spearwall,shinobi_blink,saint_exalt,melee_armor_break,barbarian_conqueror,flagbearer_bannerofvitality,bomber_ricochet,epic_melee_gloryofvictory,armored_unyieldingdefense,flag_holdfast,spell_empower_highground,healer_combatmedic,gladiator_sonofthunder,ensouled_bravespirits,saint_missionary",
+        "nextNodeType": "marblesandmorbie8"
+    },
+    {
+        "dungeonRunId": "178951",
+        "completedLevels": "32",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-28 13:36:01",
+        "endTime": "2025-03-01 01:55:55",
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,saint_godspeed,support_defensivetraining,art_siege_weapons,general_2,musk_golden_rounds,centurion_shieldofbones,armored_unyieldingdefense,armored_heavyblades,fairy_nixiepops,general_1,ranged_preciseshot,epic_melee_gloryofvictory,support_healingsong,bomber_ricochet,musk_volley_tactics,armored_damage_1,artillery_maxpower,common_specialists,melee_charge,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,phantom_thehaunting,saint_exalt,centurion_juggernaut",
         "nextNodeType": "marblesandmorbie8"
     }
 ]
