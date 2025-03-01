@@ -81,12 +81,12 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
-        "dungeonRunId": "178942",
+        "dungeonRunId": "178971",
         "completedLevels": "28",
-        "twitchDisplayName": "5mokeGhost",
-        "startTime": "2025-02-28 01:06:21",
-        "endTime": "2025-02-28 04:48:54",
-        "captainBoons": "common_classic_comeback,armored_unyieldingdefense,armored_heavyblades,epic_ranged_dragonarrows,saint_exalt,bomber_ricochet,blob_parasite,general_3,frogue_preparation,necromancer_ectoplosion,general_2,assassin_deathmark,warbeast_underworldbeast,warrior_bladedancer,musk_golden_rounds,musk_volley_tactics,vampire_darkwings,tank_ironclad,bomber_living_bomb,support_doomingsong,warrior_flameslash,epic_epicaspirations,ranged_ironbreakballistics,templar_commanding_presence,amazon_vineclone,ranged_rangergloves,saint_missionary,spy_fromcaptainwithlove,armored_damage_1",
-        "nextNodeType": "marbletoastyisland2"
+        "twitchDisplayName": "snoozebuttontv",
+        "startTime": "2025-03-01 04:01:49",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,support_healingsong,rogue_momentum,human_humandestiny,general_1,necromancer_necronomicon,lancer_ignitingstrike,general_3,paladin_skeletalsquire,paladin_holyforce,flagbearer_bannerofvitality,saint_missionary,epic_epicaspirations,melee_charge,warrior_flameslash,necromancer_ectoplosion,melee_damage_1,assassin_deathmark,spell_empower_stronghold,warrior_bladedancer,shinobi_firetechinique,bomber_living_bomb,ranged_ironbreakballistics,barb_warcry,common_specialists,general_5,armored_heavyblades,archer_steadybow,vampire_darkwings",
+        "nextNodeType": "marbletoastyspringhoriz2"
     }
 ]
