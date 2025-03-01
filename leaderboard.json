@@ -45,15 +45,6 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178947",
-        "completedLevels": "37",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-28 05:23:44",
-        "endTime": "2025-02-28 10:17:47",
-        "captainBoons": "common_classic_comeback,paladin_layonhands,fairy_hocuspocus,ensouled_heroicspirits,ranged_rangergloves,saint_missionary,archer_steadybow,general_4,rogue_shadowcloak,assassin_deathmark,epic_armored_armoredgiants,ranged_ironbreakballistics,templar_commanding_presence,ensouled_bravespirits,general_5,centurion_juggernaut,epic_melee_gloryofvictory,archer_enchantedammo,human_humandestiny,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,healer_combatmedic,centurion_shieldofbones,tank_tungstenswords,ranged_preciseshot",
-        "nextNodeType": "marbleiceisland6"
-    },
-    {
         "dungeonRunId": "178956",
         "completedLevels": "37",
         "twitchDisplayName": "Panthergal2018",
@@ -63,13 +54,13 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178951",
-        "completedLevels": "32",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-28 13:36:01",
-        "endTime": "2025-03-01 01:55:55",
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,saint_godspeed,support_defensivetraining,art_siege_weapons,general_2,musk_golden_rounds,centurion_shieldofbones,armored_unyieldingdefense,armored_heavyblades,fairy_nixiepops,general_1,ranged_preciseshot,epic_melee_gloryofvictory,support_healingsong,bomber_ricochet,musk_volley_tactics,armored_damage_1,artillery_maxpower,common_specialists,melee_charge,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,phantom_thehaunting,saint_exalt,centurion_juggernaut",
-        "nextNodeType": "marblesandmorbie8"
+        "dungeonRunId": "178947",
+        "completedLevels": "37",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-02-28 05:23:44",
+        "endTime": "2025-02-28 10:17:47",
+        "captainBoons": "common_classic_comeback,paladin_layonhands,fairy_hocuspocus,ensouled_heroicspirits,ranged_rangergloves,saint_missionary,archer_steadybow,general_4,rogue_shadowcloak,assassin_deathmark,epic_armored_armoredgiants,ranged_ironbreakballistics,templar_commanding_presence,ensouled_bravespirits,general_5,centurion_juggernaut,epic_melee_gloryofvictory,archer_enchantedammo,human_humandestiny,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,healer_combatmedic,centurion_shieldofbones,tank_tungstenswords,ranged_preciseshot",
+        "nextNodeType": "marbleiceisland6"
     },
     {
         "dungeonRunId": "178950",
@@ -81,12 +72,21 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
+        "dungeonRunId": "178951",
+        "completedLevels": "32",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-28 13:36:01",
+        "endTime": "2025-03-01 01:55:55",
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,saint_godspeed,support_defensivetraining,art_siege_weapons,general_2,musk_golden_rounds,centurion_shieldofbones,armored_unyieldingdefense,armored_heavyblades,fairy_nixiepops,general_1,ranged_preciseshot,epic_melee_gloryofvictory,support_healingsong,bomber_ricochet,musk_volley_tactics,armored_damage_1,artillery_maxpower,common_specialists,melee_charge,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,phantom_thehaunting,saint_exalt,centurion_juggernaut",
+        "nextNodeType": "marblesandmorbie8"
+    },
+    {
         "dungeonRunId": "178978",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2025-03-01 08:53:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,undead_undeadresilience,flag_1,ranged_ironbreakballistics,healer_giftofregeneration,warrior_swordofruin,warrior_bladedancer,berserker_enrage,saint_godspeed,ranged_rangergloves,melee_armor_break,common_specialists,assassin_spynetwork,vampire_spectralpresence,epic_epicaspirations,healer_combatmedic,musk_golden_rounds,phantom_thehaunting,support_doomingsong,mage_elementalsummoning,epic_ranged_dragonarrows,archer_zephyrstride,tank_ironclad,blob_parasite,melee_damage_1,flag_holdfast,centurion_shieldofbones,flagbearer_bannerofvitality,templar_commanding_presence",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,saint_exalt,undead_undeadresilience,ranged_ironbreakballistics,healer_giftofregeneration,warrior_swordofruin,warrior_bladedancer,berserker_enrage,saint_godspeed,ranged_rangergloves,melee_armor_break,common_specialists,assassin_spynetwork,vampire_spectralpresence,epic_epicaspirations,healer_combatmedic,musk_golden_rounds,phantom_thehaunting,support_doomingsong,mage_elementalsummoning,epic_ranged_dragonarrows,archer_zephyrstride,tank_ironclad,blob_parasite,melee_damage_1,flag_holdfast,centurion_shieldofbones,flagbearer_bannerofvitality,templar_commanding_presence",
+        "nextNodeType": "marbleiceisland6"
     }
 ]
