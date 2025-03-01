@@ -63,6 +63,15 @@
         "nextNodeType": "marbleiceisland6"
     },
     {
+        "dungeonRunId": "178978",
+        "completedLevels": "33",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2025-03-01 08:53:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,undead_undeadresilience,ranged_ironbreakballistics,healer_giftofregeneration,warrior_swordofruin,warrior_bladedancer,berserker_enrage,saint_godspeed,ranged_rangergloves,melee_armor_break,common_specialists,assassin_spynetwork,vampire_spectralpresence,epic_epicaspirations,healer_combatmedic,musk_golden_rounds,phantom_thehaunting,support_doomingsong,mage_elementalsummoning,epic_ranged_dragonarrows,archer_zephyrstride,tank_ironclad,blob_parasite,melee_damage_1,flag_holdfast,flagbearer_bannerofvitality,templar_commanding_presence",
+        "nextNodeType": "marblesandwall6"
+    },
+    {
         "dungeonRunId": "178951",
         "completedLevels": "32",
         "twitchDisplayName": "ohitsneb",
@@ -70,15 +79,6 @@
         "endTime": "2025-03-01 01:55:55",
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,saint_godspeed,support_defensivetraining,art_siege_weapons,general_2,musk_golden_rounds,centurion_shieldofbones,armored_unyieldingdefense,armored_heavyblades,fairy_nixiepops,general_1,ranged_preciseshot,epic_melee_gloryofvictory,support_healingsong,bomber_ricochet,musk_volley_tactics,armored_damage_1,artillery_maxpower,common_specialists,melee_charge,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,phantom_thehaunting,saint_exalt,centurion_juggernaut",
         "nextNodeType": "marblesandmorbie8"
-    },
-    {
-        "dungeonRunId": "178978",
-        "completedLevels": "32",
-        "twitchDisplayName": "ImmerBock",
-        "startTime": "2025-03-01 08:53:52",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,undead_undeadresilience,ranged_ironbreakballistics,healer_giftofregeneration,warrior_swordofruin,warrior_bladedancer,berserker_enrage,saint_godspeed,ranged_rangergloves,melee_armor_break,common_specialists,assassin_spynetwork,vampire_spectralpresence,epic_epicaspirations,healer_combatmedic,musk_golden_rounds,phantom_thehaunting,support_doomingsong,mage_elementalsummoning,epic_ranged_dragonarrows,archer_zephyrstride,tank_ironclad,blob_parasite,melee_damage_1,flag_holdfast,flagbearer_bannerofvitality,templar_commanding_presence",
-        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178950",
