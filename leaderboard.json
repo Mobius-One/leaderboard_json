@@ -63,15 +63,6 @@
         "nextNodeType": "marbleiceisland6"
     },
     {
-        "dungeonRunId": "178950",
-        "completedLevels": "32",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-28 12:03:02",
-        "endTime": "2025-02-28 16:32:49",
-        "captainBoons": "common_classic_comeback,melee_damage_1,archer_enchantedammo,saint_godspeed,assassin_spynetwork,assassin_deathmark,archer_steadybow,rogue_sneakattack,musk_golden_rounds,epic_armored_armoredgiants,artillery_maxpower,ensouled_heroicspirits,ranged_rangergloves,lancer_spearwall,shinobi_blink,saint_exalt,melee_armor_break,barbarian_conqueror,flagbearer_bannerofvitality,bomber_ricochet,epic_melee_gloryofvictory,armored_unyieldingdefense,flag_holdfast,spell_empower_highground,healer_combatmedic,gladiator_sonofthunder,ensouled_bravespirits,saint_missionary",
-        "nextNodeType": "marblesandmorbie8"
-    },
-    {
         "dungeonRunId": "178951",
         "completedLevels": "32",
         "twitchDisplayName": "ohitsneb",
@@ -81,12 +72,21 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
+        "dungeonRunId": "178950",
+        "completedLevels": "32",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-02-28 12:03:02",
+        "endTime": "2025-02-28 16:32:49",
+        "captainBoons": "common_classic_comeback,melee_damage_1,archer_enchantedammo,saint_godspeed,assassin_spynetwork,assassin_deathmark,archer_steadybow,rogue_sneakattack,musk_golden_rounds,epic_armored_armoredgiants,artillery_maxpower,ensouled_heroicspirits,ranged_rangergloves,lancer_spearwall,shinobi_blink,saint_exalt,melee_armor_break,barbarian_conqueror,flagbearer_bannerofvitality,bomber_ricochet,epic_melee_gloryofvictory,armored_unyieldingdefense,flag_holdfast,spell_empower_highground,healer_combatmedic,gladiator_sonofthunder,ensouled_bravespirits,saint_missionary",
+        "nextNodeType": "marblesandmorbie8"
+    },
+    {
         "dungeonRunId": "178978",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "ImmerBock",
         "startTime": "2025-03-01 08:53:52",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_exalt,undead_undeadresilience,ranged_ironbreakballistics,healer_giftofregeneration,warrior_swordofruin,warrior_bladedancer,berserker_enrage,saint_godspeed,ranged_rangergloves,melee_armor_break,common_specialists,assassin_spynetwork,vampire_spectralpresence,epic_epicaspirations,healer_combatmedic,musk_golden_rounds,phantom_thehaunting,support_doomingsong,mage_elementalsummoning,epic_ranged_dragonarrows,archer_zephyrstride,tank_ironclad,blob_parasite,melee_damage_1,flag_holdfast,centurion_shieldofbones,flagbearer_bannerofvitality,templar_commanding_presence",
-        "nextNodeType": "marbleiceisland6"
+        "nextNodeType": "marbleicecentericehoriz6"
     }
 ]
