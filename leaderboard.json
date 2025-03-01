@@ -63,15 +63,6 @@
         "nextNodeType": "marbleiceisland6"
     },
     {
-        "dungeonRunId": "178951",
-        "completedLevels": "32",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-02-28 13:36:01",
-        "endTime": "2025-03-01 01:55:55",
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,saint_godspeed,support_defensivetraining,art_siege_weapons,general_2,musk_golden_rounds,centurion_shieldofbones,armored_unyieldingdefense,armored_heavyblades,fairy_nixiepops,general_1,ranged_preciseshot,epic_melee_gloryofvictory,support_healingsong,bomber_ricochet,musk_volley_tactics,armored_damage_1,artillery_maxpower,common_specialists,melee_charge,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,phantom_thehaunting,saint_exalt,centurion_juggernaut",
-        "nextNodeType": "marblesandmorbie8"
-    },
-    {
         "dungeonRunId": "178950",
         "completedLevels": "32",
         "twitchDisplayName": "JayEmDee",
@@ -81,11 +72,20 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
+        "dungeonRunId": "178951",
+        "completedLevels": "32",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-02-28 13:36:01",
+        "endTime": "2025-03-01 01:55:55",
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,saint_godspeed,support_defensivetraining,art_siege_weapons,general_2,musk_golden_rounds,centurion_shieldofbones,armored_unyieldingdefense,armored_heavyblades,fairy_nixiepops,general_1,ranged_preciseshot,epic_melee_gloryofvictory,support_healingsong,bomber_ricochet,musk_volley_tactics,armored_damage_1,artillery_maxpower,common_specialists,melee_charge,gladiator_sonofthunder,bomber_living_bomb,healer_combatmedic,phantom_thehaunting,saint_exalt,centurion_juggernaut",
+        "nextNodeType": "marblesandmorbie8"
+    },
+    {
         "dungeonRunId": "178971",
         "completedLevels": "29",
         "twitchDisplayName": "snoozebuttontv",
         "startTime": "2025-03-01 04:01:49",
-        "endTime": null,
+        "endTime": "2025-03-01 08:12:26",
         "captainBoons": "common_classic_comeback,support_healingsong,rogue_momentum,human_humandestiny,general_1,necromancer_necronomicon,lancer_ignitingstrike,general_3,paladin_skeletalsquire,paladin_holyforce,flagbearer_bannerofvitality,saint_missionary,epic_epicaspirations,melee_charge,warrior_flameslash,necromancer_ectoplosion,melee_damage_1,assassin_deathmark,spell_empower_stronghold,warrior_bladedancer,shinobi_firetechinique,bomber_living_bomb,ranged_ironbreakballistics,barb_warcry,common_specialists,general_5,armored_heavyblades,archer_steadybow,vampire_darkwings,orcs_inpenetrable",
         "nextNodeType": "dungeons_jerry"
     }
