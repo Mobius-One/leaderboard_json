@@ -45,15 +45,6 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178956",
-        "completedLevels": "37",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-02-28 16:50:33",
-        "endTime": "2025-02-28 21:45:55",
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,warbeast_1,archer_steadybow,melee_charge,ranged_preciseshot,saint_godspeed,armored_unyieldingdefense,frogue_preparation,musk_volley_tactics,general_1,gladiator_sonofthunder,warrior_swordofruin,melee_armor_break,ranged_rangergloves,saint_missionary,blob_parasite,saint_exalt,bomber_ricochet,paladin_holyforce,artillery_maxpower,frogue_air_snipers,flagbearer_bannerofvitality,rogue_momentum,armored_damage_1,centurion_juggernaut",
-        "nextNodeType": "marbleicecentericehoriz6"
-    },
-    {
         "dungeonRunId": "178947",
         "completedLevels": "37",
         "twitchDisplayName": "MozzyAuzzy",
@@ -61,6 +52,15 @@
         "endTime": "2025-02-28 10:17:47",
         "captainBoons": "common_classic_comeback,paladin_layonhands,fairy_hocuspocus,ensouled_heroicspirits,ranged_rangergloves,saint_missionary,archer_steadybow,general_4,rogue_shadowcloak,assassin_deathmark,epic_armored_armoredgiants,ranged_ironbreakballistics,templar_commanding_presence,ensouled_bravespirits,general_5,centurion_juggernaut,epic_melee_gloryofvictory,archer_enchantedammo,human_humandestiny,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,healer_combatmedic,centurion_shieldofbones,tank_tungstenswords,ranged_preciseshot",
         "nextNodeType": "marbleiceisland6"
+    },
+    {
+        "dungeonRunId": "178956",
+        "completedLevels": "37",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-02-28 16:50:33",
+        "endTime": "2025-02-28 21:45:55",
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,warbeast_1,archer_steadybow,melee_charge,ranged_preciseshot,saint_godspeed,armored_unyieldingdefense,frogue_preparation,musk_volley_tactics,general_1,gladiator_sonofthunder,warrior_swordofruin,melee_armor_break,ranged_rangergloves,saint_missionary,blob_parasite,saint_exalt,bomber_ricochet,paladin_holyforce,artillery_maxpower,frogue_air_snipers,flagbearer_bannerofvitality,rogue_momentum,armored_damage_1,centurion_juggernaut",
+        "nextNodeType": "marbleicecentericehoriz6"
     },
     {
         "dungeonRunId": "178951",
@@ -81,12 +81,12 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
-        "dungeonRunId": "178971",
+        "dungeonRunId": "178978",
         "completedLevels": "29",
-        "twitchDisplayName": "snoozebuttontv",
-        "startTime": "2025-03-01 04:01:49",
-        "endTime": "2025-03-01 08:12:26",
-        "captainBoons": "common_classic_comeback,support_healingsong,rogue_momentum,human_humandestiny,general_1,necromancer_necronomicon,lancer_ignitingstrike,general_3,paladin_skeletalsquire,paladin_holyforce,flagbearer_bannerofvitality,saint_missionary,epic_epicaspirations,melee_charge,warrior_flameslash,necromancer_ectoplosion,melee_damage_1,assassin_deathmark,spell_empower_stronghold,warrior_bladedancer,shinobi_firetechinique,bomber_living_bomb,ranged_ironbreakballistics,barb_warcry,common_specialists,general_5,armored_heavyblades,archer_steadybow,vampire_darkwings,orcs_inpenetrable",
+        "twitchDisplayName": "ImmerBock",
+        "startTime": "2025-03-01 08:53:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,undead_undeadresilience,flag_1,ranged_ironbreakballistics,healer_giftofregeneration,warrior_swordofruin,warrior_bladedancer,berserker_enrage,saint_godspeed,ranged_rangergloves,melee_armor_break,common_specialists,assassin_spynetwork,vampire_spectralpresence,epic_epicaspirations,healer_combatmedic,musk_golden_rounds,phantom_thehaunting,support_doomingsong,mage_elementalsummoning,epic_ranged_dragonarrows,archer_zephyrstride,tank_ironclad,blob_parasite,melee_damage_1,flag_holdfast,centurion_shieldofbones,flagbearer_bannerofvitality,templar_commanding_presence",
         "nextNodeType": "dungeons_jerry"
     }
 ]
