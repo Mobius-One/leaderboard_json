@@ -18,6 +18,15 @@
         "nextNodeType": "marbleiceriver6"
     },
     {
+        "dungeonRunId": "178904",
+        "completedLevels": "44",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-02-27 04:51:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,bomber_living_bomb,ranged_ironbreakballistics,centurion_juggernaut,musk_volley_tactics,paladin_layonhands,warrior_flameslash,warrior_bladedancer,necromancer_necronomicon,musk_golden_rounds,art_siege_weapons,templar_commanding_presence,gladiator_war_machine,lancer_sarissaspears,archer_enchantedammo,epic_melee_gloryofvictory,armored_unyieldingdefense,ensouled_heroicspirits,gladiator_sonofthunder,blob_parasite,buster_healing_bomb",
+        "nextNodeType": "marblesandboss8"
+    },
+    {
         "dungeonRunId": "178938",
         "completedLevels": "44",
         "twitchDisplayName": "Hooks",
@@ -25,15 +34,6 @@
         "endTime": "2025-02-28 07:27:05",
         "captainBoons": "common_classic_comeback,armored_damage_1,paladin_skeletalsquire,warrior_flameslash,phantom_thehaunting,flagbearer_bannerofvitality,mage_elementalsummoning,epic_ranged_dragonarrows,flag_1,epic_melee_gloryofvictory,general_1,artillery_maxpower,bomber_living_bomb,melee_damage_1,assassin_deathmark,warbeast_underworldbeast,melee_charge,archer_enchantedammo,undead_undeadresilience,tank_hoarfrost_armor,ranged_rangergloves,healer_giftofregeneration",
         "nextNodeType": "marblesandmorbie8"
-    },
-    {
-        "dungeonRunId": "178904",
-        "completedLevels": "43",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-02-27 04:51:06",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,bomber_living_bomb,ranged_ironbreakballistics,centurion_juggernaut,musk_volley_tactics,paladin_layonhands,warrior_flameslash,warrior_bladedancer,necromancer_necronomicon,musk_golden_rounds,art_siege_weapons,templar_commanding_presence,gladiator_war_machine,lancer_sarissaspears,archer_enchantedammo,epic_melee_gloryofvictory,armored_unyieldingdefense,tank_ironclad,ensouled_heroicspirits,gladiator_sonofthunder,blob_parasite,buster_healing_bomb",
-        "nextNodeType": "marbletoastypuddle2"
     },
     {
         "dungeonRunId": "178906",
