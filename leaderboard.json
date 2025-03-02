@@ -45,15 +45,6 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178947",
-        "completedLevels": "37",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-02-28 05:23:44",
-        "endTime": "2025-02-28 10:17:47",
-        "captainBoons": "common_classic_comeback,paladin_layonhands,fairy_hocuspocus,ensouled_heroicspirits,ranged_rangergloves,saint_missionary,archer_steadybow,general_4,rogue_shadowcloak,assassin_deathmark,epic_armored_armoredgiants,ranged_ironbreakballistics,templar_commanding_presence,ensouled_bravespirits,general_5,centurion_juggernaut,epic_melee_gloryofvictory,archer_enchantedammo,human_humandestiny,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,healer_combatmedic,centurion_shieldofbones,tank_tungstenswords,ranged_preciseshot",
-        "nextNodeType": "marbleiceisland6"
-    },
-    {
         "dungeonRunId": "178983",
         "completedLevels": "37",
         "twitchDisplayName": "ImmerBock",
@@ -72,11 +63,20 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
+        "dungeonRunId": "178947",
+        "completedLevels": "37",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-02-28 05:23:44",
+        "endTime": "2025-02-28 10:17:47",
+        "captainBoons": "common_classic_comeback,paladin_layonhands,fairy_hocuspocus,ensouled_heroicspirits,ranged_rangergloves,saint_missionary,archer_steadybow,general_4,rogue_shadowcloak,assassin_deathmark,epic_armored_armoredgiants,ranged_ironbreakballistics,templar_commanding_presence,ensouled_bravespirits,general_5,centurion_juggernaut,epic_melee_gloryofvictory,archer_enchantedammo,human_humandestiny,support_healingsong,musk_golden_rounds,warbeast_underworldbeast,healer_combatmedic,centurion_shieldofbones,tank_tungstenswords,ranged_preciseshot",
+        "nextNodeType": "marbleiceisland6"
+    },
+    {
         "dungeonRunId": "178985",
         "completedLevels": "34",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-01 14:30:01",
-        "endTime": null,
+        "endTime": "2025-03-02 11:48:24",
         "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,balloonbuster_pinata,paladin_skeletalsquire,epic_ranged_dragonarrows,archer_zephyrstride,saint_missionary,bomber_living_bomb,ranged_ironbreakballistics,bomber_ricochet,epic_melee_gloryofvictory,warrior_bladedancer,robot_robotauthority,barbarian_conqueror,paladin_layonhands,musk_volley_tactics,general_1,support_defensivetraining,epic_armored_armoredgiants,ranged_rangergloves,monk_selfless_prayer,ensouled_heroicspirits,support_doomingsong,artillery_maxpower,ensouled_bravespirits,berserker_enrage",
         "nextNodeType": "marbleiceriver6"
     },
