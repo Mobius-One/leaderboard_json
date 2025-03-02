@@ -72,13 +72,13 @@
         "nextNodeType": "marbleicecentericehoriz6"
     },
     {
-        "dungeonRunId": "178950",
-        "completedLevels": "32",
+        "dungeonRunId": "178985",
+        "completedLevels": "33",
         "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-02-28 12:03:02",
-        "endTime": "2025-02-28 16:32:49",
-        "captainBoons": "common_classic_comeback,melee_damage_1,archer_enchantedammo,saint_godspeed,assassin_spynetwork,assassin_deathmark,archer_steadybow,rogue_sneakattack,musk_golden_rounds,epic_armored_armoredgiants,artillery_maxpower,ensouled_heroicspirits,ranged_rangergloves,lancer_spearwall,shinobi_blink,saint_exalt,melee_armor_break,barbarian_conqueror,flagbearer_bannerofvitality,bomber_ricochet,epic_melee_gloryofvictory,armored_unyieldingdefense,flag_holdfast,spell_empower_highground,healer_combatmedic,gladiator_sonofthunder,ensouled_bravespirits,saint_missionary",
-        "nextNodeType": "marblesandmorbie8"
+        "startTime": "2025-03-01 14:30:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,balloonbuster_pinata,paladin_skeletalsquire,epic_ranged_dragonarrows,archer_zephyrstride,saint_missionary,bomber_living_bomb,ranged_ironbreakballistics,bomber_ricochet,epic_melee_gloryofvictory,warrior_bladedancer,robot_robotauthority,barbarian_conqueror,paladin_layonhands,orcs_inpenetrable,musk_volley_tactics,general_1,support_defensivetraining,epic_armored_armoredgiants,ranged_rangergloves,monk_selfless_prayer,ensouled_heroicspirits,support_doomingsong,artillery_maxpower,ensouled_bravespirits,berserker_enrage",
+        "nextNodeType": "marbletoastyplainhoriz2"
     },
     {
         "dungeonRunId": "178951",
