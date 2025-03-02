@@ -72,13 +72,13 @@
         "nextNodeType": "marbleiceisland6"
     },
     {
-        "dungeonRunId": "178985",
-        "completedLevels": "34",
+        "dungeonRunId": "179018",
+        "completedLevels": "35",
         "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-01 14:30:01",
-        "endTime": "2025-03-02 11:48:24",
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,balloonbuster_pinata,paladin_skeletalsquire,epic_ranged_dragonarrows,archer_zephyrstride,saint_missionary,bomber_living_bomb,ranged_ironbreakballistics,bomber_ricochet,epic_melee_gloryofvictory,warrior_bladedancer,robot_robotauthority,barbarian_conqueror,paladin_layonhands,musk_volley_tactics,general_1,support_defensivetraining,epic_armored_armoredgiants,ranged_rangergloves,monk_selfless_prayer,ensouled_heroicspirits,support_doomingsong,artillery_maxpower,ensouled_bravespirits,berserker_enrage",
-        "nextNodeType": "marbleiceriver6"
+        "startTime": "2025-03-02 11:48:37",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,musk_golden_rounds,melee_damage_1,undead_undeadresilience,epic_epicaspirations,healer_combatmedic,armored_heavyblades,gladiator_war_machine,armored_damage_1,saint_missionary,bomber_living_bomb,saint_exalt,common_specialists,flagbearer_bannerofvitality,assassin_deathmark,ensouled_heroicspirits,armored_unyieldingdefense,melee_armor_break,spell_empower_highground,paladin_layonhands,warbeast_1,epic_ranged_dragonarrows,ranged_ironbreakballistics,elf_elvenimmortality,orcslayer_worldrazer,flag_holdfast",
+        "nextNodeType": "marbletoastymorbieboss2"
     },
     {
         "dungeonRunId": "178951",
