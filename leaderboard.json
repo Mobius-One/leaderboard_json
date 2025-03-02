@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "178904",
-        "completedLevels": "57",
+        "completedLevels": "58",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-02-27 04:51:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,bomber_living_bomb,ranged_ironbreakballistics,centurion_juggernaut,musk_volley_tactics,paladin_layonhands,warrior_bladedancer,necromancer_necronomicon,musk_golden_rounds,art_siege_weapons,gladiator_war_machine,lancer_sarissaspears,epic_melee_gloryofvictory,gladiator_sonofthunder,blob_parasite",
-        "nextNodeType": "marbletoastyspringhoriz2"
+        "captainBoons": "common_classic_comeback,saint_exalt,bomber_living_bomb,ranged_ironbreakballistics,centurion_juggernaut,musk_volley_tactics,paladin_layonhands,warrior_bladedancer,necromancer_necronomicon,musk_golden_rounds,art_siege_weapons,gladiator_war_machine,lancer_sarissaspears,gladiator_sonofthunder,blob_parasite",
+        "nextNodeType": "marbleradiogarden4"
     },
     {
         "dungeonRunId": "178938",
