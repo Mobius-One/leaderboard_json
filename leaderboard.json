@@ -45,13 +45,13 @@
         "nextNodeType": "marblesandmorbie8"
     },
     {
-        "dungeonRunId": "178906",
-        "completedLevels": "40",
+        "dungeonRunId": "179049",
+        "completedLevels": "41",
         "twitchDisplayName": "RealAlize",
-        "startTime": "2025-02-27 05:14:56",
-        "endTime": "2025-02-27 10:49:49",
-        "captainBoons": "common_classic_comeback,warrior_bladedancer,gladiator_war_machine,melee_damage_1,elf_elvenimmortality,berserker_frenzy,general_5,melee_armor_break,ensouled_bravespirits,saint_exalt,epic_armored_armoredgiants,ranged_rangergloves,art_siege_weapons,lancer_sarissaspears,warrior_flameslash,lancer_spearwall,armored_damage_1,ranged_preciseshot,warrior_swordofruin,ranged_ironbreakballistics,berserker_enrage,blob_parasite,general_1,archer_enchantedammo",
-        "nextNodeType": "marbleicecentericehoriz6"
+        "startTime": "2025-03-03 12:32:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_damage_1,blob_parasite,ranged_ironbreakballistics,bomber_ricochet,gladiator_war_machine,saint_exalt,lancer_spearwall,ensouled_heroicspirits,warrior_flameslash,berserker_enrage,berserker_frenzy,archer_zephyrstride,gladiator_sonofthunder,musk_volley_tactics,armored_damage_1,archer_enchantedammo,rogue_shadowcloak,rogue_sneakattack,centurion_juggernaut,bomber_living_bomb,lancer_sarissaspears,warbeast_underworldbeast,ranged_preciseshot",
+        "nextNodeType": "marblesandboss8"
     },
     {
         "dungeonRunId": "178983",
