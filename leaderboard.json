@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179069",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-04 22:28:56",
         "endTime": null,
-        "captainBoons": "ranged_2,warbeast_1,general_super_1",
-        "nextNodeType": "tombpassage"
+        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5",
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "179066",
@@ -34,5 +34,14 @@
         "endTime": null,
         "captainBoons": "tank_1",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179070",
+        "completedLevels": "1",
+        "twitchDisplayName": "IlpegasuslI",
+        "startTime": "2025-03-04 22:47:30",
+        "endTime": null,
+        "captainBoons": "dagger_6",
+        "nextNodeType": "oasisruins"
     }
 ]
