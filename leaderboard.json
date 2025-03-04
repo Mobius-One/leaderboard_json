@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179058",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-04 19:02:51",
         "endTime": null,
         "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1,archer_2,melee_super_1,tank_1,buster_firestarter,dagger_super_2,ranged_3,healer_shadowword,warrior_2,melee_5,armored_3,common_super_1,melee_2,flag_2,epic_super_1,barb_1,ranged_4,berserker_2,armored_1,melee_4,support_super_2",
-        "nextNodeType": "retroriver"
+        "nextNodeType": "tombpassage"
     },
     {
         "dungeonRunId": "179060",
@@ -18,12 +18,21 @@
         "nextNodeType": "mothershiphangar"
     },
     {
+        "dungeonRunId": "179065",
+        "completedLevels": "1",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-03-04 21:53:00",
+        "endTime": "2025-03-04 22:07:00",
+        "captainBoons": "support_2",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "179066",
         "completedLevels": "1",
         "twitchDisplayName": "de_rage_gamer",
         "startTime": "2025-03-04 22:03:42",
         "endTime": null,
-        "captainBoons": null,
+        "captainBoons": "tank_1",
         "nextNodeType": "oasisruins"
     }
 ]
