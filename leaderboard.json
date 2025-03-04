@@ -18,15 +18,6 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "179067",
-        "completedLevels": "2",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-04 22:08:11",
-        "endTime": "2025-03-04 22:28:43",
-        "captainBoons": "general_4,archer_2",
-        "nextNodeType": "winterboss"
-    },
-    {
         "dungeonRunId": "179066",
         "completedLevels": "2",
         "twitchDisplayName": "de_rage_gamer",
@@ -34,5 +25,14 @@
         "endTime": null,
         "captainBoons": "tank_1",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179067",
+        "completedLevels": "2",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-03-04 22:08:11",
+        "endTime": "2025-03-04 22:28:43",
+        "captainBoons": "general_4,archer_2",
+        "nextNodeType": "winterboss"
     }
 ]
