@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "179060",
+        "completedLevels": "13",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-04 19:06:52",
+        "endTime": null,
+        "captainBoons": "ranged_2,archer_2,berserker_2,epic_1,warbeast_1,armored_super_2,ranged_3,buster_firestarter,general_super_2,centurion_1,healer_shadowword,barb_2,general_2",
+        "nextNodeType": "wintericeberg"
+    },
+    {
         "dungeonRunId": "179058",
         "completedLevels": "13",
         "twitchDisplayName": "Rafipi",
@@ -7,14 +16,5 @@
         "endTime": null,
         "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1,archer_2,melee_super_1,tank_1,buster_firestarter,dagger_super_2,ranged_3,healer_shadowword,warrior_2,melee_5",
         "nextNodeType": "mothershiparmory"
-    },
-    {
-        "dungeonRunId": "179060",
-        "completedLevels": "12",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-03-04 19:06:52",
-        "endTime": null,
-        "captainBoons": "ranged_2,archer_2,berserker_2,epic_1,warbeast_1,armored_super_2,ranged_3,buster_firestarter,general_super_2,centurion_1,healer_shadowword,barb_2",
-        "nextNodeType": "plagueblight"
     }
 ]
