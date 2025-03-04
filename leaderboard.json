@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179060",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-04 19:06:52",
         "endTime": null,
-        "captainBoons": "ranged_2,archer_2,berserker_2,epic_1",
-        "nextNodeType": "tabletopboard"
+        "captainBoons": "ranged_2,archer_2,berserker_2,epic_1,warbeast_1",
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "179058",
@@ -14,7 +14,7 @@
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-04 19:02:51",
         "endTime": null,
-        "captainBoons": "musk_1,warbeast_1,musk_2",
+        "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1",
         "nextNodeType": "tombpassage"
     }
 ]
