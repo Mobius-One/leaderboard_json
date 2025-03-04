@@ -10,11 +10,11 @@
     },
     {
         "dungeonRunId": "179060",
-        "completedLevels": "17",
+        "completedLevels": "18",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-04 19:06:52",
         "endTime": null,
-        "captainBoons": "ranged_2,archer_2,berserker_2,epic_1,warbeast_1,armored_super_2,ranged_3,buster_firestarter,general_super_2,centurion_1,healer_shadowword,barb_2,general_2,dagger_3,bbuster_1,dagger_5,armored_1",
-        "nextNodeType": "retroboss"
+        "captainBoons": "ranged_2,archer_2,berserker_2,epic_1,warbeast_1,armored_super_2,ranged_3,buster_firestarter,general_super_2,centurion_1,healer_shadowword,barb_2,general_2,dagger_3,bbuster_1,dagger_5,armored_1,mage_2",
+        "nextNodeType": "winterdinos"
     }
 ]
