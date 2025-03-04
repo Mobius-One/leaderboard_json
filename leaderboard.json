@@ -1,20 +1,20 @@
 [
     {
+        "dungeonRunId": "179058",
+        "completedLevels": "7",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-03-04 19:02:51",
+        "endTime": null,
+        "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1,archer_2,melee_super_1,tank_1",
+        "nextNodeType": "boardlandiachoke"
+    },
+    {
         "dungeonRunId": "179060",
         "completedLevels": "7",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-04 19:06:52",
         "endTime": null,
-        "captainBoons": "ranged_2,archer_2,berserker_2,epic_1,warbeast_1,armored_super_2",
+        "captainBoons": "ranged_2,archer_2,berserker_2,epic_1,warbeast_1,armored_super_2,ranged_3",
         "nextNodeType": "retroriver"
-    },
-    {
-        "dungeonRunId": "179058",
-        "completedLevels": "6",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-03-04 19:02:51",
-        "endTime": null,
-        "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1,archer_2,melee_super_1",
-        "nextNodeType": "oasisruins"
     }
 ]
