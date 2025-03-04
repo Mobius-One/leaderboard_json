@@ -23,17 +23,8 @@
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-04 22:28:56",
         "endTime": null,
-        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1",
+        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1,dagger_5",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "179070",
-        "completedLevels": "2",
-        "twitchDisplayName": "IlpegasuslI",
-        "startTime": "2025-03-04 22:47:30",
-        "endTime": null,
-        "captainBoons": "dagger_6",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179066",
@@ -42,6 +33,15 @@
         "startTime": "2025-03-04 22:03:42",
         "endTime": null,
         "captainBoons": "tank_1",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179070",
+        "completedLevels": "2",
+        "twitchDisplayName": "IlpegasuslI",
+        "startTime": "2025-03-04 22:47:30",
+        "endTime": null,
+        "captainBoons": "dagger_6",
         "nextNodeType": "orctotem"
     }
 ]
