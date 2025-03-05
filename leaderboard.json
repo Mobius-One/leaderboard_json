@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179077",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-05 01:24:11",
         "endTime": null,
         "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3,healer_shadowword,armored_super_2,armored_5,warbeast_1",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "179073",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179081",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "ZeeXplorer",
         "startTime": "2025-03-05 02:33:20",
         "endTime": null,
-        "captainBoons": "general_5,archer_2",
-        "nextNodeType": "crashzoneconversion"
+        "captainBoons": "general_5,archer_2,healer_1",
+        "nextNodeType": "retroriver"
     },
     {
         "dungeonRunId": "179070",
