@@ -13,7 +13,7 @@
         "completedLevels": "28",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-05 04:56:14",
-        "endTime": null,
+        "endTime": "2025-03-05 07:42:16",
         "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1,armored_super_1,barb_1,archer_2,general_super_1,armored_5,buster_firestarter,melee_super_2,ranged_1,paladin_1,musk_2,flag_2,armored_4,ranged_super_1,melee_5,archer_deadshot,armored_super_2,bomber_1,melee_2,frogue_2,support_2,dagger_6,rogue_2,armored_2",
         "nextNodeType": "mothershiparmory"
     },
@@ -45,6 +45,15 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "179085",
+        "completedLevels": "16",
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-03-05 04:11:51",
+        "endTime": null,
+        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1,rogue_2,dagger_2,armored_3,templar_1,armored_2",
+        "nextNodeType": "boardlandiachoke"
+    },
+    {
         "dungeonRunId": "179081",
         "completedLevels": "16",
         "twitchDisplayName": "ZeeXplorer",
@@ -52,15 +61,6 @@
         "endTime": "2025-03-05 04:00:57",
         "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5,buster_firestarter,common_super_1,support_3,melee_2,berserker_2,general_2",
         "nextNodeType": "boardlandiachoke"
-    },
-    {
-        "dungeonRunId": "179085",
-        "completedLevels": "15",
-        "twitchDisplayName": "Trovatores_Theater",
-        "startTime": "2025-03-05 04:11:51",
-        "endTime": null,
-        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1,rogue_2,dagger_2,armored_3,templar_1",
-        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "179077",
