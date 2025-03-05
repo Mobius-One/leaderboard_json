@@ -46,21 +46,12 @@
     },
     {
         "dungeonRunId": "179092",
-        "completedLevels": "17",
+        "completedLevels": "18",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-05 10:38:22",
         "endTime": null,
-        "captainBoons": "ranged_2,archer_2,common_super_1,armored_4,warbeast_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2,dagger_2,general_5",
-        "nextNodeType": "retroboss"
-    },
-    {
-        "dungeonRunId": "179081",
-        "completedLevels": "16",
-        "twitchDisplayName": "ZeeXplorer",
-        "startTime": "2025-03-05 02:33:20",
-        "endTime": "2025-03-05 04:00:57",
-        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5,buster_firestarter,common_super_1,support_3,melee_2,berserker_2,general_2",
-        "nextNodeType": "boardlandiachoke"
+        "captainBoons": "ranged_2,archer_2,common_super_1,armored_4,warbeast_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2,dagger_2,general_5,armored_super_1",
+        "nextNodeType": "wintericeberg"
     },
     {
         "dungeonRunId": "179085",
@@ -69,6 +60,15 @@
         "startTime": "2025-03-05 04:11:51",
         "endTime": "2025-03-05 07:51:48",
         "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1,rogue_2,dagger_2,armored_3,templar_1,armored_2",
+        "nextNodeType": "boardlandiachoke"
+    },
+    {
+        "dungeonRunId": "179081",
+        "completedLevels": "16",
+        "twitchDisplayName": "ZeeXplorer",
+        "startTime": "2025-03-05 02:33:20",
+        "endTime": "2025-03-05 04:00:57",
+        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5,buster_firestarter,common_super_1,support_3,melee_2,berserker_2,general_2",
         "nextNodeType": "boardlandiachoke"
     },
     {
