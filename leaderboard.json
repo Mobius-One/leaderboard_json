@@ -27,6 +27,15 @@
         "nextNodeType": "gravedeath"
     },
     {
+        "dungeonRunId": "179076",
+        "completedLevels": "7",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-03-05 01:20:39",
+        "endTime": null,
+        "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1,bomber_1",
+        "nextNodeType": "tombpassage"
+    },
+    {
         "dungeonRunId": "179073",
         "completedLevels": "7",
         "twitchDisplayName": "KyosChick",
@@ -36,31 +45,13 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "179076",
-        "completedLevels": "6",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-05 01:20:39",
-        "endTime": null,
-        "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1",
-        "nextNodeType": "tabletophold"
-    },
-    {
         "dungeonRunId": "179077",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-05 01:24:11",
         "endTime": null,
         "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3,healer_shadowword",
-        "nextNodeType": "gravedeath"
-    },
-    {
-        "dungeonRunId": "179066",
-        "completedLevels": "2",
-        "twitchDisplayName": "de_rage_gamer",
-        "startTime": "2025-03-04 22:03:42",
-        "endTime": null,
-        "captainBoons": "tank_1",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "179070",
@@ -69,6 +60,15 @@
         "startTime": "2025-03-04 22:47:30",
         "endTime": null,
         "captainBoons": "dagger_6",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179066",
+        "completedLevels": "2",
+        "twitchDisplayName": "de_rage_gamer",
+        "startTime": "2025-03-04 22:03:42",
+        "endTime": null,
+        "captainBoons": "tank_1",
         "nextNodeType": "orctotem"
     }
 ]
