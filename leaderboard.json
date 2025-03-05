@@ -32,17 +32,8 @@
         "twitchDisplayName": "KyosChick",
         "startTime": "2025-03-04 23:53:58",
         "endTime": null,
-        "captainBoons": "explosive_3,archer_2,common_super_1,epic_1,buster_firestarter,explosive_super_1",
+        "captainBoons": "explosive_3,archer_2,common_super_1,epic_1,buster_firestarter,explosive_super_1,melee_1",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "179066",
-        "completedLevels": "2",
-        "twitchDisplayName": "de_rage_gamer",
-        "startTime": "2025-03-04 22:03:42",
-        "endTime": null,
-        "captainBoons": "tank_1",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179070",
@@ -51,6 +42,15 @@
         "startTime": "2025-03-04 22:47:30",
         "endTime": null,
         "captainBoons": "dagger_6",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179066",
+        "completedLevels": "2",
+        "twitchDisplayName": "de_rage_gamer",
+        "startTime": "2025-03-04 22:03:42",
+        "endTime": null,
+        "captainBoons": "tank_1",
         "nextNodeType": "orctotem"
     }
 ]
