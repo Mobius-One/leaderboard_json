@@ -45,6 +45,15 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "179092",
+        "completedLevels": "16",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-05 10:38:22",
+        "endTime": null,
+        "captainBoons": "ranged_2,archer_2,common_super_1,armored_4,warbeast_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2,dagger_2",
+        "nextNodeType": "tombpassage"
+    },
+    {
         "dungeonRunId": "179085",
         "completedLevels": "16",
         "twitchDisplayName": "Trovatores_Theater",
@@ -63,22 +72,13 @@
         "nextNodeType": "boardlandiachoke"
     },
     {
-        "dungeonRunId": "179092",
-        "completedLevels": "16",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-05 10:38:22",
-        "endTime": null,
-        "captainBoons": "ranged_2,archer_2,common_super_1,armored_4,warbeast_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2",
-        "nextNodeType": "tombpassage"
-    },
-    {
         "dungeonRunId": "179077",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-05 01:24:11",
         "endTime": null,
         "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3,healer_shadowword,armored_super_2,armored_5,warbeast_1,centurion_2",
-        "nextNodeType": "tabletophold"
+        "nextNodeType": "plagueblight"
     },
     {
         "dungeonRunId": "179073",
