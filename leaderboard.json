@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179094",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "TrippyTigress",
         "startTime": "2025-03-05 14:09:44",
         "endTime": null,
-        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword",
-        "nextNodeType": "orctotem"
+        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3",
+        "nextNodeType": "oasisruins"
     }
 ]
