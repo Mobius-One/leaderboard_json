@@ -64,19 +64,19 @@
     },
     {
         "dungeonRunId": "179085",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-03-05 04:11:51",
         "endTime": null,
         "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2",
-        "nextNodeType": "crashzoneconversion"
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179087",
         "completedLevels": "3",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-05 04:37:07",
-        "endTime": null,
+        "endTime": "2025-03-05 04:55:59",
         "captainBoons": "bomber_1,healer_shadowword,musk_2",
         "nextNodeType": "tabletophold"
     },
