@@ -36,6 +36,15 @@
         "nextNodeType": "tabletophold"
     },
     {
+        "dungeonRunId": "179076",
+        "completedLevels": "3",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-03-05 01:20:39",
+        "endTime": null,
+        "captainBoons": "dagger_2,archer_2,general_super_1",
+        "nextNodeType": "retroriver"
+    },
+    {
         "dungeonRunId": "179070",
         "completedLevels": "2",
         "twitchDisplayName": "IlpegasuslI",
@@ -43,15 +52,6 @@
         "endTime": null,
         "captainBoons": "dagger_6",
         "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "179076",
-        "completedLevels": "2",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-05 01:20:39",
-        "endTime": null,
-        "captainBoons": "dagger_2,archer_2",
-        "nextNodeType": "retroboss"
     },
     {
         "dungeonRunId": "179066",
