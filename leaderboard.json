@@ -18,15 +18,6 @@
         "nextNodeType": "mothershiparmory"
     },
     {
-        "dungeonRunId": "179092",
-        "completedLevels": "26",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-05 10:38:22",
-        "endTime": null,
-        "captainBoons": "ranged_2,archer_2,common_super_1,armored_4,warbeast_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2,dagger_2,general_5,armored_super_1,flag_2,ranged_1,barb_2,epic_1,ranged_3,epic_super_1,general_3,melee_4",
-        "nextNodeType": "winterboss"
-    },
-    {
         "dungeonRunId": "179058",
         "completedLevels": "26",
         "twitchDisplayName": "Rafipi",
@@ -34,6 +25,15 @@
         "endTime": "2025-03-04 22:29:37",
         "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1,archer_2,melee_super_1,tank_1,buster_firestarter,dagger_super_2,ranged_3,healer_shadowword,warrior_2,melee_5,armored_3,common_super_1,melee_2,flag_2,epic_super_1,barb_1,ranged_4,berserker_2,armored_1,melee_4,support_super_2,armored_4,centurion_1",
         "nextNodeType": "mothershiphangar"
+    },
+    {
+        "dungeonRunId": "179092",
+        "completedLevels": "26",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-05 10:38:22",
+        "endTime": null,
+        "captainBoons": "ranged_2,archer_2,common_super_1,armored_4,warbeast_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2,dagger_2,general_5,armored_super_1,flag_2,ranged_1,barb_2,epic_1,ranged_3,epic_super_1,general_3,melee_4",
+        "nextNodeType": "winterboss"
     },
     {
         "dungeonRunId": "179060",
