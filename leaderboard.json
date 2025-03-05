@@ -36,6 +36,15 @@
         "nextNodeType": "mothershiphangar"
     },
     {
+        "dungeonRunId": "179094",
+        "completedLevels": "24",
+        "twitchDisplayName": "TrippyTigress",
+        "startTime": "2025-03-05 14:09:44",
+        "endTime": null,
+        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3,armored_1,warbeast_1,frogue_1,support_2,warrior_1,ranged_super_1,archer_deadshot,ranged_3,general_super_2,general_2,dagger_7,healer_1,general_4,melee_5",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "179060",
         "completedLevels": "24",
         "twitchDisplayName": "MsChezaDarling",
@@ -54,13 +63,13 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "179094",
-        "completedLevels": "23",
-        "twitchDisplayName": "TrippyTigress",
-        "startTime": "2025-03-05 14:09:44",
-        "endTime": null,
-        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3,armored_1,warbeast_1,frogue_1,support_2,warrior_1,ranged_super_1,archer_deadshot,ranged_3,general_super_2,general_2,dagger_7,healer_1,general_4,melee_5",
-        "nextNodeType": "gravedeath"
+        "dungeonRunId": "179085",
+        "completedLevels": "16",
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-03-05 04:11:51",
+        "endTime": "2025-03-05 07:51:48",
+        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1,rogue_2,dagger_2,armored_3,templar_1,armored_2",
+        "nextNodeType": "boardlandiachoke"
     },
     {
         "dungeonRunId": "179081",
@@ -69,15 +78,6 @@
         "startTime": "2025-03-05 02:33:20",
         "endTime": "2025-03-05 04:00:57",
         "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5,buster_firestarter,common_super_1,support_3,melee_2,berserker_2,general_2",
-        "nextNodeType": "boardlandiachoke"
-    },
-    {
-        "dungeonRunId": "179085",
-        "completedLevels": "16",
-        "twitchDisplayName": "Trovatores_Theater",
-        "startTime": "2025-03-05 04:11:51",
-        "endTime": "2025-03-05 07:51:48",
-        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1,rogue_2,dagger_2,armored_3,templar_1,armored_2",
         "nextNodeType": "boardlandiachoke"
     },
     {
