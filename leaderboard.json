@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179078",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-05 01:31:10",
         "endTime": null,
-        "captainBoons": "melee_5,archer_2,berserker_2,archer_deadshot,healer_shadowword,tank_2,dagger_5,warbeast_1,epic_super_1,ranged_1,buster_firestarter,armored_super_1,support_4,ranged_4,art_1,ranged_2,armored_5,support_super_1,general_4,melee_2,ranged_super_1,general_2,general_5,ranged_super_2,ranged_3,warrior_1,support_super_2,epic_1",
-        "nextNodeType": "tabletophold"
+        "captainBoons": "melee_5,archer_2,berserker_2,archer_deadshot,healer_shadowword,tank_2,dagger_5,warbeast_1,epic_super_1,ranged_1,buster_firestarter,armored_super_1,support_4,ranged_4,art_1,ranged_2,armored_5,support_super_1,general_4,melee_2,ranged_super_1,general_2,general_5,ranged_super_2,ranged_3,warrior_1,support_super_2,epic_1,melee_3",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179058",
@@ -73,20 +73,20 @@
     },
     {
         "dungeonRunId": "179088",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-05 04:56:14",
         "endTime": null,
-        "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3",
-        "nextNodeType": "retroriver"
+        "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1",
+        "nextNodeType": "mothershiphangar"
     },
     {
-        "dungeonRunId": "179066",
+        "dungeonRunId": "179070",
         "completedLevels": "2",
-        "twitchDisplayName": "de_rage_gamer",
-        "startTime": "2025-03-04 22:03:42",
+        "twitchDisplayName": "IlpegasuslI",
+        "startTime": "2025-03-04 22:47:30",
         "endTime": null,
-        "captainBoons": "tank_1",
+        "captainBoons": "dagger_6",
         "nextNodeType": "orctotem"
     }
 ]
