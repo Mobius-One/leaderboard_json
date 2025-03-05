@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179069",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-04 22:28:56",
         "endTime": null,
-        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1,dagger_5,healer_shadowword,berserker_2,support_4,buster_firestarter,ranged_super_1,general_1,melee_2,ranged_super_2,berserker_1,monk_1,dagger_super_1,archer_deadshot,general_5,armored_super_1,general_4",
-        "nextNodeType": "icecaveportals"
+        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1,dagger_5,healer_shadowword,berserker_2,support_4,buster_firestarter,ranged_super_1,general_1,melee_2,ranged_super_2,berserker_1,monk_1,dagger_super_1,archer_deadshot,general_5,armored_super_1,general_4,armored_1",
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "179073",
