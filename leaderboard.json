@@ -45,6 +45,15 @@
         "nextNodeType": "retroriver"
     },
     {
+        "dungeonRunId": "179077",
+        "completedLevels": "3",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-03-05 01:24:11",
+        "endTime": null,
+        "captainBoons": "ranged_2,archer_2,epic_super_1",
+        "nextNodeType": "tombpassage"
+    },
+    {
         "dungeonRunId": "179070",
         "completedLevels": "2",
         "twitchDisplayName": "IlpegasuslI",
@@ -61,14 +70,5 @@
         "endTime": null,
         "captainBoons": "tank_1",
         "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "179077",
-        "completedLevels": "2",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-05 01:24:11",
-        "endTime": null,
-        "captainBoons": "ranged_2,archer_2",
-        "nextNodeType": "retroboss"
     }
 ]
