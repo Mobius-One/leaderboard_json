@@ -28,21 +28,12 @@
     },
     {
         "dungeonRunId": "179073",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "KyosChick",
         "startTime": "2025-03-04 23:53:58",
         "endTime": null,
-        "captainBoons": "explosive_3,archer_2,common_super_1",
-        "nextNodeType": "retroriver"
-    },
-    {
-        "dungeonRunId": "179070",
-        "completedLevels": "2",
-        "twitchDisplayName": "IlpegasuslI",
-        "startTime": "2025-03-04 22:47:30",
-        "endTime": null,
-        "captainBoons": "dagger_6",
-        "nextNodeType": "orctotem"
+        "captainBoons": "explosive_3,archer_2,common_super_1,epic_1",
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "179066",
@@ -51,6 +42,15 @@
         "startTime": "2025-03-04 22:03:42",
         "endTime": null,
         "captainBoons": "tank_1",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179070",
+        "completedLevels": "2",
+        "twitchDisplayName": "IlpegasuslI",
+        "startTime": "2025-03-04 22:47:30",
+        "endTime": null,
+        "captainBoons": "dagger_6",
         "nextNodeType": "orctotem"
     }
 ]
