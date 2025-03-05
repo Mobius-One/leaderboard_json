@@ -81,12 +81,12 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "179070",
-        "completedLevels": "2",
-        "twitchDisplayName": "IlpegasuslI",
-        "startTime": "2025-03-04 22:47:30",
+        "dungeonRunId": "179092",
+        "completedLevels": "3",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-05 10:38:22",
         "endTime": null,
-        "captainBoons": "dagger_6",
-        "nextNodeType": "orctotem"
+        "captainBoons": "ranged_2,archer_2,common_super_1",
+        "nextNodeType": "oasisruins"
     }
 ]
