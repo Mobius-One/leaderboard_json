@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "179076",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-05 01:20:39",
         "endTime": null,
-        "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1,bomber_1,healer_shadowword,flag_1,dagger_6,warbeast_1,general_super_2",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1,bomber_1,healer_shadowword,flag_1,dagger_6,warbeast_1,general_super_2,dagger_5",
+        "nextNodeType": "oasisruins"
     },
     {
         "dungeonRunId": "179077",
@@ -45,6 +45,15 @@
         "nextNodeType": "tabletophold"
     },
     {
+        "dungeonRunId": "179081",
+        "completedLevels": "8",
+        "twitchDisplayName": "ZeeXplorer",
+        "startTime": "2025-03-05 02:33:20",
+        "endTime": null,
+        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword",
+        "nextNodeType": "mothershiphangar"
+    },
+    {
         "dungeonRunId": "179073",
         "completedLevels": "7",
         "twitchDisplayName": "KyosChick",
@@ -52,15 +61,6 @@
         "endTime": "2025-03-05 01:08:19",
         "captainBoons": "explosive_3,archer_2,common_super_1,epic_1,buster_firestarter,explosive_super_1,melee_1",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "179081",
-        "completedLevels": "7",
-        "twitchDisplayName": "ZeeXplorer",
-        "startTime": "2025-03-05 02:33:20",
-        "endTime": null,
-        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2",
-        "nextNodeType": "wintericeberg"
     },
     {
         "dungeonRunId": "179070",
