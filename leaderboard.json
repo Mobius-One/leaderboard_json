@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179088",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-05 04:56:14",
         "endTime": null,
         "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1,armored_super_1,barb_1,archer_2,general_super_1,armored_5,buster_firestarter,melee_super_2,ranged_1,paladin_1,musk_2,flag_2",
-        "nextNodeType": "plagueblight"
+        "nextNodeType": "retroboss"
     },
     {
         "dungeonRunId": "179081",
