@@ -59,7 +59,7 @@
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-03-05 04:11:51",
         "endTime": null,
-        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4",
+        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1",
         "nextNodeType": "mothershiphangar"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "179070",
+        "dungeonRunId": "179066",
         "completedLevels": "2",
-        "twitchDisplayName": "IlpegasuslI",
-        "startTime": "2025-03-04 22:47:30",
+        "twitchDisplayName": "de_rage_gamer",
+        "startTime": "2025-03-04 22:03:42",
         "endTime": null,
-        "captainBoons": "dagger_6",
+        "captainBoons": "tank_1",
         "nextNodeType": "orctotem"
     }
 ]
