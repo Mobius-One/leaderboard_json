@@ -27,6 +27,15 @@
         "nextNodeType": "mothershiparmory"
     },
     {
+        "dungeonRunId": "179070",
+        "completedLevels": "2",
+        "twitchDisplayName": "IlpegasuslI",
+        "startTime": "2025-03-04 22:47:30",
+        "endTime": null,
+        "captainBoons": "dagger_6",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179066",
         "completedLevels": "2",
         "twitchDisplayName": "de_rage_gamer",
@@ -36,12 +45,12 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "179070",
-        "completedLevels": "2",
-        "twitchDisplayName": "IlpegasuslI",
-        "startTime": "2025-03-04 22:47:30",
+        "dungeonRunId": "179073",
+        "completedLevels": "1",
+        "twitchDisplayName": "KyosChick",
+        "startTime": "2025-03-04 23:53:58",
         "endTime": null,
-        "captainBoons": "dagger_6",
-        "nextNodeType": "orctotem"
+        "captainBoons": "explosive_3",
+        "nextNodeType": "tombpassage"
     }
 ]
