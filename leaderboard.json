@@ -27,6 +27,15 @@
         "nextNodeType": "tabletophold"
     },
     {
+        "dungeonRunId": "179088",
+        "completedLevels": "23",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-05 04:56:14",
+        "endTime": null,
+        "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1,armored_super_1,barb_1,archer_2,general_super_1,armored_5,buster_firestarter,melee_super_2,ranged_1,paladin_1,musk_2,flag_2,armored_4,ranged_super_1,melee_5,archer_deadshot,armored_super_2,bomber_1,melee_2",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179076",
         "completedLevels": "23",
         "twitchDisplayName": "Hooks",
@@ -34,15 +43,6 @@
         "endTime": "2025-03-05 05:10:31",
         "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1,bomber_1,healer_shadowword,flag_1,dagger_6,warbeast_1,general_super_2,dagger_5,dagger_7,melee_super_1,general_2,paladin_1,warrior_2,armored_2,epic_1,epic_super_1,melee_2,flag_2",
         "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "179088",
-        "completedLevels": "22",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-03-05 04:56:14",
-        "endTime": null,
-        "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1,armored_super_1,barb_1,archer_2,general_super_1,armored_5,buster_firestarter,melee_super_2,ranged_1,paladin_1,musk_2,flag_2,armored_4,ranged_super_1,melee_5,archer_deadshot,armored_super_2,bomber_1",
-        "nextNodeType": "crashzoneconversion"
     },
     {
         "dungeonRunId": "179081",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179085",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-03-05 04:11:51",
         "endTime": null,
-        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1,rogue_2,dagger_2",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1,rogue_2,dagger_2,armored_3",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179077",
