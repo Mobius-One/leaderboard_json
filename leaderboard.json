@@ -23,7 +23,7 @@
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-04 22:28:56",
         "endTime": null,
-        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1,dagger_5,healer_shadowword,berserker_2,support_4,buster_firestarter,ranged_super_1,general_1,melee_2,ranged_super_2,berserker_1,monk_1,dagger_super_1,archer_deadshot,general_5,armored_super_1",
+        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1,dagger_5,healer_shadowword,berserker_2,support_4,buster_firestarter,ranged_super_1,general_1,melee_2,ranged_super_2,berserker_1,monk_1,dagger_super_1,archer_deadshot,general_5,armored_super_1,general_4",
         "nextNodeType": "icecaveportals"
     },
     {
@@ -36,21 +36,21 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "179070",
-        "completedLevels": "2",
-        "twitchDisplayName": "IlpegasuslI",
-        "startTime": "2025-03-04 22:47:30",
-        "endTime": null,
-        "captainBoons": "dagger_6",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "179066",
         "completedLevels": "2",
         "twitchDisplayName": "de_rage_gamer",
         "startTime": "2025-03-04 22:03:42",
         "endTime": null,
         "captainBoons": "tank_1",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179070",
+        "completedLevels": "2",
+        "twitchDisplayName": "IlpegasuslI",
+        "startTime": "2025-03-04 22:47:30",
+        "endTime": null,
+        "captainBoons": "dagger_6",
         "nextNodeType": "orctotem"
     }
 ]
