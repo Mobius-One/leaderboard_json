@@ -41,26 +41,17 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-05 01:20:39",
         "endTime": null,
-        "captainBoons": "dagger_2,archer_2,general_super_1,general_1",
+        "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter",
         "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "179077",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-05 01:24:11",
         "endTime": null,
         "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3",
-        "nextNodeType": "mothershiparmory"
-    },
-    {
-        "dungeonRunId": "179070",
-        "completedLevels": "2",
-        "twitchDisplayName": "IlpegasuslI",
-        "startTime": "2025-03-04 22:47:30",
-        "endTime": null,
-        "captainBoons": "dagger_6",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "179066",
@@ -69,6 +60,15 @@
         "startTime": "2025-03-04 22:03:42",
         "endTime": null,
         "captainBoons": "tank_1",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179070",
+        "completedLevels": "2",
+        "twitchDisplayName": "IlpegasuslI",
+        "startTime": "2025-03-04 22:47:30",
+        "endTime": null,
+        "captainBoons": "dagger_6",
         "nextNodeType": "orctotem"
     }
 ]
