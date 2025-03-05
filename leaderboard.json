@@ -22,7 +22,7 @@
         "completedLevels": "23",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-04 22:28:56",
-        "endTime": null,
+        "endTime": "2025-03-05 01:30:49",
         "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1,dagger_5,healer_shadowword,berserker_2,support_4,buster_firestarter,ranged_super_1,general_1,melee_2,ranged_super_2,berserker_1,monk_1,dagger_super_1,archer_deadshot,general_5,armored_super_1,general_4,armored_1",
         "nextNodeType": "gravedeath"
     },
@@ -36,15 +36,6 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "179066",
-        "completedLevels": "2",
-        "twitchDisplayName": "de_rage_gamer",
-        "startTime": "2025-03-04 22:03:42",
-        "endTime": null,
-        "captainBoons": "tank_1",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "179070",
         "completedLevels": "2",
         "twitchDisplayName": "IlpegasuslI",
@@ -54,12 +45,30 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "179066",
+        "completedLevels": "2",
+        "twitchDisplayName": "de_rage_gamer",
+        "startTime": "2025-03-04 22:03:42",
+        "endTime": null,
+        "captainBoons": "tank_1",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179076",
         "completedLevels": "1",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-05 01:20:39",
         "endTime": null,
         "captainBoons": "dagger_2",
+        "nextNodeType": "boardlandiachoke"
+    },
+    {
+        "dungeonRunId": "179077",
+        "completedLevels": "1",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-03-05 01:24:11",
+        "endTime": null,
+        "captainBoons": "ranged_2",
         "nextNodeType": "boardlandiachoke"
     }
 ]
