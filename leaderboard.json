@@ -36,15 +36,6 @@
         "nextNodeType": "mothershiphangar"
     },
     {
-        "dungeonRunId": "179073",
-        "completedLevels": "7",
-        "twitchDisplayName": "KyosChick",
-        "startTime": "2025-03-04 23:53:58",
-        "endTime": "2025-03-05 01:08:19",
-        "captainBoons": "explosive_3,archer_2,common_super_1,epic_1,buster_firestarter,explosive_super_1,melee_1",
-        "nextNodeType": "tabletophold"
-    },
-    {
         "dungeonRunId": "179077",
         "completedLevels": "7",
         "twitchDisplayName": "ohitsneb",
@@ -52,6 +43,15 @@
         "endTime": null,
         "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3,healer_shadowword,armored_super_2,armored_5",
         "nextNodeType": "wintericeberg"
+    },
+    {
+        "dungeonRunId": "179073",
+        "completedLevels": "7",
+        "twitchDisplayName": "KyosChick",
+        "startTime": "2025-03-04 23:53:58",
+        "endTime": "2025-03-05 01:08:19",
+        "captainBoons": "explosive_3,archer_2,common_super_1,epic_1,buster_firestarter,explosive_super_1,melee_1",
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "179070",
@@ -70,5 +70,14 @@
         "endTime": null,
         "captainBoons": "tank_1",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179081",
+        "completedLevels": "1",
+        "twitchDisplayName": "ZeeXplorer",
+        "startTime": "2025-03-05 02:33:20",
+        "endTime": null,
+        "captainBoons": "general_5",
+        "nextNodeType": "plagueblight"
     }
 ]
