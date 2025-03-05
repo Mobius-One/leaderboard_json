@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179078",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-05 01:31:10",
         "endTime": null,
         "captainBoons": "melee_5,archer_2,berserker_2,archer_deadshot,healer_shadowword,tank_2,dagger_5,warbeast_1,epic_super_1,ranged_1,buster_firestarter,armored_super_1,support_4,ranged_4,art_1,ranged_2,armored_5,support_super_1,general_4,melee_2,ranged_super_1,general_2,general_5,ranged_super_2,ranged_3,warrior_1,support_super_2,epic_1",
-        "nextNodeType": "icecaveportals"
+        "nextNodeType": "boardlandiachoke"
     },
     {
         "dungeonRunId": "179058",
@@ -55,21 +55,21 @@
     },
     {
         "dungeonRunId": "179085",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-03-05 04:11:51",
         "endTime": null,
         "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1",
-        "nextNodeType": "plagueblight"
+        "nextNodeType": "winterboss"
     },
     {
         "dungeonRunId": "179088",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-05 04:56:14",
         "endTime": null,
-        "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1,armored_super_1",
-        "nextNodeType": "hauntedknight"
+        "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1,armored_super_1,barb_1",
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "179073",
