@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179081",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "ZeeXplorer",
         "startTime": "2025-03-05 02:33:20",
         "endTime": null,
-        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5",
-        "nextNodeType": "hauntedknight"
+        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5,buster_firestarter",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179077",
