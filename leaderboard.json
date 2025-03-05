@@ -9,6 +9,15 @@
         "nextNodeType": "mothershiphangar"
     },
     {
+        "dungeonRunId": "179078",
+        "completedLevels": "24",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-03-05 01:31:10",
+        "endTime": null,
+        "captainBoons": "melee_5,archer_2,berserker_2,archer_deadshot,healer_shadowword,tank_2,dagger_5,warbeast_1,epic_super_1,ranged_1,buster_firestarter,armored_super_1,support_4,ranged_4,art_1,ranged_2,armored_5,support_super_1,general_4,melee_2,ranged_super_1,general_2,general_5,ranged_super_2",
+        "nextNodeType": "hauntedknight"
+    },
+    {
         "dungeonRunId": "179060",
         "completedLevels": "24",
         "twitchDisplayName": "MsChezaDarling",
@@ -18,22 +27,13 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "179069",
-        "completedLevels": "23",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-04 22:28:56",
-        "endTime": "2025-03-05 01:30:49",
-        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1,dagger_5,healer_shadowword,berserker_2,support_4,buster_firestarter,ranged_super_1,general_1,melee_2,ranged_super_2,berserker_1,monk_1,dagger_super_1,archer_deadshot,general_5,armored_super_1,general_4,armored_1",
-        "nextNodeType": "gravedeath"
-    },
-    {
         "dungeonRunId": "179076",
-        "completedLevels": "19",
+        "completedLevels": "20",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-05 01:20:39",
         "endTime": null,
-        "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1,bomber_1,healer_shadowword,flag_1,dagger_6,warbeast_1,general_super_2,dagger_5,dagger_7,melee_super_1,general_2,paladin_1,warrior_2,armored_2",
-        "nextNodeType": "plagueblight"
+        "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1,bomber_1,healer_shadowword,flag_1,dagger_6,warbeast_1,general_super_2,dagger_5,dagger_7,melee_super_1,general_2,paladin_1,warrior_2,armored_2,epic_1",
+        "nextNodeType": "mothershiphangar"
     },
     {
         "dungeonRunId": "179081",
@@ -63,22 +63,13 @@
         "nextNodeType": "tabletophold"
     },
     {
-        "dungeonRunId": "179066",
-        "completedLevels": "2",
-        "twitchDisplayName": "de_rage_gamer",
-        "startTime": "2025-03-04 22:03:42",
-        "endTime": null,
-        "captainBoons": "tank_1",
-        "nextNodeType": "orctotem"
-    },
-    {
         "dungeonRunId": "179085",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-03-05 04:11:51",
         "endTime": null,
-        "captainBoons": "armored_1,healer_shadowword",
-        "nextNodeType": "gravedeath"
+        "captainBoons": "armored_1,healer_shadowword,explosive_super_2",
+        "nextNodeType": "wintericeberg"
     },
     {
         "dungeonRunId": "179070",
@@ -87,6 +78,15 @@
         "startTime": "2025-03-04 22:47:30",
         "endTime": null,
         "captainBoons": "dagger_6",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179066",
+        "completedLevels": "2",
+        "twitchDisplayName": "de_rage_gamer",
+        "startTime": "2025-03-04 22:03:42",
+        "endTime": null,
+        "captainBoons": "tank_1",
         "nextNodeType": "orctotem"
     }
 ]
