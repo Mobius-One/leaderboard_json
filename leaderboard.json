@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "179092",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-05 10:38:22",
         "endTime": null,
-        "captainBoons": "ranged_2,archer_2,common_super_1,armored_4,warbeast_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2,dagger_2,general_5,armored_super_1,flag_2,ranged_1",
-        "nextNodeType": "mothershiphangar"
+        "captainBoons": "ranged_2,archer_2,common_super_1,armored_4,warbeast_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2,dagger_2,general_5,armored_super_1,flag_2,ranged_1,barb_2",
+        "nextNodeType": "plagueblight"
     },
     {
         "dungeonRunId": "179085",
