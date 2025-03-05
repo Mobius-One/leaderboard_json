@@ -52,5 +52,14 @@
         "endTime": null,
         "captainBoons": "dagger_6",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179076",
+        "completedLevels": "1",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-03-05 01:20:39",
+        "endTime": null,
+        "captainBoons": "dagger_2",
+        "nextNodeType": "boardlandiachoke"
     }
 ]
