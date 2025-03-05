@@ -28,21 +28,21 @@
     },
     {
         "dungeonRunId": "179076",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-05 01:20:39",
         "endTime": null,
         "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1,bomber_1,healer_shadowword,flag_1,dagger_6,warbeast_1,general_super_2,dagger_5,dagger_7,melee_super_1",
-        "nextNodeType": "plagueblight"
+        "nextNodeType": "hauntedknight"
     },
     {
         "dungeonRunId": "179081",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "ZeeXplorer",
         "startTime": "2025-03-05 02:33:20",
         "endTime": null,
-        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5,buster_firestarter,common_super_1,support_3",
-        "nextNodeType": "tabletophold"
+        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5,buster_firestarter,common_super_1,support_3,melee_2",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179077",
