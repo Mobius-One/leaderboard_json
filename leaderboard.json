@@ -50,17 +50,8 @@
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-05 01:24:11",
         "endTime": null,
-        "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3,healer_shadowword",
+        "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3,healer_shadowword,armored_super_2",
         "nextNodeType": "winterdinos"
-    },
-    {
-        "dungeonRunId": "179070",
-        "completedLevels": "2",
-        "twitchDisplayName": "IlpegasuslI",
-        "startTime": "2025-03-04 22:47:30",
-        "endTime": null,
-        "captainBoons": "dagger_6",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179066",
@@ -69,6 +60,15 @@
         "startTime": "2025-03-04 22:03:42",
         "endTime": null,
         "captainBoons": "tank_1",
+        "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179070",
+        "completedLevels": "2",
+        "twitchDisplayName": "IlpegasuslI",
+        "startTime": "2025-03-04 22:47:30",
+        "endTime": null,
+        "captainBoons": "dagger_6",
         "nextNodeType": "orctotem"
     }
 ]
