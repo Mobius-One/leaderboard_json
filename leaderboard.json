@@ -36,6 +36,15 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "179088",
+        "completedLevels": "16",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-05 04:56:14",
+        "endTime": null,
+        "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1,armored_super_1,barb_1,archer_2,general_super_1,armored_5,buster_firestarter,melee_super_2,ranged_1,paladin_1,musk_2,flag_2",
+        "nextNodeType": "plagueblight"
+    },
+    {
         "dungeonRunId": "179081",
         "completedLevels": "16",
         "twitchDisplayName": "ZeeXplorer",
@@ -43,15 +52,6 @@
         "endTime": "2025-03-05 04:00:57",
         "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5,buster_firestarter,common_super_1,support_3,melee_2,berserker_2,general_2",
         "nextNodeType": "boardlandiachoke"
-    },
-    {
-        "dungeonRunId": "179088",
-        "completedLevels": "15",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-03-05 04:56:14",
-        "endTime": null,
-        "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1,armored_super_1,barb_1,archer_2,general_super_1,armored_5,buster_firestarter,melee_super_2,ranged_1,paladin_1,musk_2",
-        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "179085",
