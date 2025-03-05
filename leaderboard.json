@@ -32,7 +32,7 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-05 01:20:39",
         "endTime": null,
-        "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1,bomber_1,healer_shadowword,flag_1,dagger_6,warbeast_1,general_super_2,dagger_5,dagger_7,melee_super_1,general_2,paladin_1,warrior_2",
+        "captainBoons": "dagger_2,archer_2,general_super_1,general_1,buster_firestarter,ranged_super_1,bomber_1,healer_shadowword,flag_1,dagger_6,warbeast_1,general_super_2,dagger_5,dagger_7,melee_super_1,general_2,paladin_1,warrior_2,armored_2",
         "nextNodeType": "plagueblight"
     },
     {
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179085",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-03-05 04:11:51",
         "endTime": null,
         "captainBoons": "armored_1",
-        "nextNodeType": "retroriver"
+        "nextNodeType": "gravedeath"
     }
 ]
