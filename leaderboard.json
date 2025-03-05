@@ -19,21 +19,21 @@
     },
     {
         "dungeonRunId": "179069",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-04 22:28:56",
         "endTime": null,
-        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1,dagger_5,healer_shadowword,berserker_2,support_4,buster_firestarter,ranged_super_1,general_1,melee_2,ranged_super_2,berserker_1,monk_1,dagger_super_1",
-        "nextNodeType": "retroriver"
+        "captainBoons": "ranged_2,warbeast_1,general_super_1,melee_5,archer_2,art_1,dagger_5,healer_shadowword,berserker_2,support_4,buster_firestarter,ranged_super_1,general_1,melee_2,ranged_super_2,berserker_1,monk_1,dagger_super_1,archer_deadshot",
+        "nextNodeType": "boardlandiachoke"
     },
     {
         "dungeonRunId": "179073",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "KyosChick",
         "startTime": "2025-03-04 23:53:58",
         "endTime": null,
-        "captainBoons": "explosive_3,archer_2,common_super_1,epic_1,buster_firestarter",
-        "nextNodeType": "orctotem"
+        "captainBoons": "explosive_3,archer_2,common_super_1,epic_1,buster_firestarter,explosive_super_1",
+        "nextNodeType": "boardlandiachoke"
     },
     {
         "dungeonRunId": "179066",
