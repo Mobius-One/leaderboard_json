@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "179092",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-05 10:38:22",
         "endTime": null,
         "captainBoons": "ranged_2,archer_2,common_super_1,armored_4,warbeast_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2,dagger_2,general_5,armored_super_1",
-        "nextNodeType": "wintericeberg"
+        "nextNodeType": "hauntedknight"
     },
     {
         "dungeonRunId": "179085",
