@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179078",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-05 01:31:10",
         "endTime": null,
         "captainBoons": "melee_5,archer_2,berserker_2,archer_deadshot,healer_shadowword,tank_2,dagger_5,warbeast_1,epic_super_1,ranged_1,buster_firestarter,armored_super_1,support_4,ranged_4,art_1,ranged_2,armored_5,support_super_1,general_4,melee_2,ranged_super_1,general_2,general_5,ranged_super_2,ranged_3,warrior_1,support_super_2,epic_1,melee_3",
-        "nextNodeType": "dungeons_jerry"
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "179058",
@@ -64,29 +64,29 @@
     },
     {
         "dungeonRunId": "179085",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "Trovatores_Theater",
         "startTime": "2025-03-05 04:11:51",
         "endTime": null,
-        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2",
-        "nextNodeType": "tabletophold"
+        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1",
+        "nextNodeType": "plagueblight"
     },
     {
         "dungeonRunId": "179088",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-05 04:56:14",
         "endTime": null,
         "captainBoons": "dagger_5,healer_shadowword,common_super_1,dagger_3,warbeast_1",
-        "nextNodeType": "mothershiphangar"
+        "nextNodeType": "tabletopboard"
     },
     {
-        "dungeonRunId": "179070",
+        "dungeonRunId": "179066",
         "completedLevels": "2",
-        "twitchDisplayName": "IlpegasuslI",
-        "startTime": "2025-03-04 22:47:30",
+        "twitchDisplayName": "de_rage_gamer",
+        "startTime": "2025-03-04 22:03:42",
         "endTime": null,
-        "captainBoons": "dagger_6",
+        "captainBoons": "tank_1",
         "nextNodeType": "orctotem"
     }
 ]
