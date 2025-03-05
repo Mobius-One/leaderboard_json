@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179081",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "ZeeXplorer",
         "startTime": "2025-03-05 02:33:20",
         "endTime": null,
-        "captainBoons": "general_5,archer_2,healer_1",
-        "nextNodeType": "retroriver"
+        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1",
+        "nextNodeType": "retroboss"
     },
     {
         "dungeonRunId": "179070",
