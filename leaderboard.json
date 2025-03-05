@@ -37,21 +37,21 @@
     },
     {
         "dungeonRunId": "179076",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-05 01:20:39",
         "endTime": null,
         "captainBoons": "dagger_2,archer_2,general_super_1,general_1",
-        "nextNodeType": "icecaveportals"
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "179077",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-05 01:24:11",
         "endTime": null,
-        "captainBoons": "ranged_2,archer_2,epic_super_1",
-        "nextNodeType": "tombpassage"
+        "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3",
+        "nextNodeType": "mothershiparmory"
     },
     {
         "dungeonRunId": "179070",
