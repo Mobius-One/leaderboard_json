@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179092",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-05 10:38:22",
         "endTime": null,
-        "captainBoons": "ranged_2,archer_2,common_super_1",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "ranged_2,archer_2,common_super_1,armored_4",
+        "nextNodeType": "boardlandiachoke"
     }
 ]
