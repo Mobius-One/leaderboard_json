@@ -81,12 +81,12 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
-        "dungeonRunId": "179073",
-        "completedLevels": "7",
-        "twitchDisplayName": "KyosChick",
-        "startTime": "2025-03-04 23:53:58",
-        "endTime": "2025-03-05 01:08:19",
-        "captainBoons": "explosive_3,archer_2,common_super_1,epic_1,buster_firestarter,explosive_super_1,melee_1",
-        "nextNodeType": "tabletophold"
+        "dungeonRunId": "179094",
+        "completedLevels": "8",
+        "twitchDisplayName": "TrippyTigress",
+        "startTime": "2025-03-05 14:09:44",
+        "endTime": null,
+        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword",
+        "nextNodeType": "orctotem"
     }
 ]
