@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179092",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-05 10:38:22",
         "endTime": null,
         "captainBoons": "ranged_2,archer_2,common_super_1,melee_super_2,melee_5,buster_firestarter,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,armored_1,musk_1,mage_2,dagger_2,general_5,armored_super_1,flag_2,ranged_1,barb_2,epic_1,ranged_3,epic_super_1,general_3,melee_4,general_super_1,archer_deadshot,bomber_1",
-        "nextNodeType": "gravedeath"
+        "nextNodeType": "boardlandiachoke"
     },
     {
         "dungeonRunId": "179078",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179094",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "TrippyTigress",
         "startTime": "2025-03-05 14:09:44",
         "endTime": null,
-        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3,armored_1",
-        "nextNodeType": "retroriver"
+        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3,armored_1,warbeast_1",
+        "nextNodeType": "winterboss"
     }
 ]
