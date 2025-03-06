@@ -36,15 +36,6 @@
         "nextNodeType": "plagueblight"
     },
     {
-        "dungeonRunId": "179058",
-        "completedLevels": "26",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-03-04 19:02:51",
-        "endTime": "2025-03-04 22:29:37",
-        "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1,archer_2,melee_super_1,tank_1,buster_firestarter,dagger_super_2,ranged_3,healer_shadowword,warrior_2,melee_5,armored_3,common_super_1,melee_2,flag_2,epic_super_1,barb_1,ranged_4,berserker_2,armored_1,melee_4,support_super_2,armored_4,centurion_1",
-        "nextNodeType": "mothershiphangar"
-    },
-    {
         "dungeonRunId": "179089",
         "completedLevels": "26",
         "twitchDisplayName": "Hooks",
@@ -52,6 +43,15 @@
         "endTime": "2025-03-05 19:05:07",
         "captainBoons": "armored_4,archer_2,common_super_1,armored_2,buster_firestarter,general_super_2,dagger_2,healer_shadowword,general_super_1,dagger_6,warbeast_1,ranged_super_1,dagger_7,musk_1,barb_2,ranged_2,dagger_3,bomber_2,epic_1,support_2,art_1,explosive_2,dagger_5,flag_1,rogue_1,archer_deadshot",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179058",
+        "completedLevels": "26",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-03-04 19:02:51",
+        "endTime": "2025-03-04 22:29:37",
+        "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1,archer_2,melee_super_1,tank_1,buster_firestarter,dagger_super_2,ranged_3,healer_shadowword,warrior_2,melee_5,armored_3,common_super_1,melee_2,flag_2,epic_super_1,barb_1,ranged_4,berserker_2,armored_1,melee_4,support_super_2,armored_4,centurion_1",
+        "nextNodeType": "mothershiphangar"
     },
     {
         "dungeonRunId": "179060",
@@ -72,6 +72,15 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "179081",
+        "completedLevels": "16",
+        "twitchDisplayName": "ZeeXplorer",
+        "startTime": "2025-03-05 02:33:20",
+        "endTime": "2025-03-05 04:00:57",
+        "captainBoons": "general_5,archer_2,healer_1,dagger_3,warbeast_1,ranged_super_1,armored_2,healer_shadowword,armored_super_1,melee_5,buster_firestarter,common_super_1,support_3,melee_2,berserker_2,general_2",
+        "nextNodeType": "boardlandiachoke"
+    },
+    {
         "dungeonRunId": "179077",
         "completedLevels": "16",
         "twitchDisplayName": "ohitsneb",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-05 20:16:58",
         "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3,healer_shadowword,armored_super_2,armored_5,warbeast_1,centurion_2,ranged_4,buster_firestarter,flag_1,ranged_1,melee_3,bomber_2,melee_2",
         "nextNodeType": "crashzoneconversion"
-    },
-    {
-        "dungeonRunId": "179085",
-        "completedLevels": "16",
-        "twitchDisplayName": "Trovatores_Theater",
-        "startTime": "2025-03-05 04:11:51",
-        "endTime": "2025-03-05 07:51:48",
-        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1,rogue_2,dagger_2,armored_3,templar_1,armored_2",
-        "nextNodeType": "boardlandiachoke"
     }
 ]
