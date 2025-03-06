@@ -54,6 +54,15 @@
         "nextNodeType": "mothershiphangar"
     },
     {
+        "dungeonRunId": "179163",
+        "completedLevels": "25",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-06 07:40:11",
+        "endTime": null,
+        "captainBoons": "flag_2,archer_2,art_1,melee_1,healer_shadowword,common_super_1,musk_1,warbeast_1,armored_super_1,ranged_1,buster_firestarter,rogue_2,barb_1,archer_deadshot,warrior_2,bomber_1,dagger_6,epic_super_1,warrior_1,support_3,ranged_super_1,melee_2,dagger_2,barb_2,epic_1",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "179060",
         "completedLevels": "24",
         "twitchDisplayName": "MsChezaDarling",
@@ -61,15 +70,6 @@
         "endTime": "2025-03-04 22:25:55",
         "captainBoons": "ranged_2,archer_2,berserker_2,epic_1,warbeast_1,armored_super_2,ranged_3,buster_firestarter,general_super_2,centurion_1,healer_shadowword,barb_2,general_2,dagger_3,bbuster_1,dagger_5,armored_1,mage_2,general_3,general_1,healer_1,dagger_4,archer_deadshot,templar_1",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "179163",
-        "completedLevels": "24",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-06 07:40:11",
-        "endTime": null,
-        "captainBoons": "flag_2,archer_2,art_1,melee_1,healer_shadowword,common_super_1,musk_1,warbeast_1,armored_super_1,ranged_1,buster_firestarter,rogue_2,barb_1,archer_deadshot,warrior_2,bomber_1,dagger_6,epic_super_1,warrior_1,support_3,ranged_super_1,melee_2,dagger_2,barb_2",
-        "nextNodeType": "boardlandiachoke"
     },
     {
         "dungeonRunId": "179121",
