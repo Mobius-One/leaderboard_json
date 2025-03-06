@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179163",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-03-06 07:40:11",
         "endTime": null,
-        "captainBoons": "flag_2,archer_2,art_1,melee_1,healer_shadowword,common_super_1,musk_1,warbeast_1,armored_super_1,ranged_1,buster_firestarter,rogue_2,barb_1,archer_deadshot,warrior_2,bomber_1,dagger_6,epic_super_1,warrior_1,support_3",
-        "nextNodeType": "retroboss"
+        "captainBoons": "flag_2,archer_2,art_1,melee_1,healer_shadowword,common_super_1,musk_1,warbeast_1,armored_super_1,ranged_1,buster_firestarter,rogue_2,barb_1,archer_deadshot,warrior_2,bomber_1,dagger_6,epic_super_1,warrior_1,support_3,ranged_super_1",
+        "nextNodeType": "tombpassage"
     },
     {
         "dungeonRunId": "179121",
