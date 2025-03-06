@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179155",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-06 04:05:56",
         "endTime": null,
         "captainBoons": "support_2,healer_shadowword,ranged_super_2,ranged_3,archer_2,healer_1,general_2,buster_firestarter,general_super_2,ranged_1,warbeast_1,common_super_1,epic_1,melee_2,musk_2,support_3,general_4,berserker_2",
-        "nextNodeType": "oasisruins"
+        "nextNodeType": "tabletopboard"
     }
 ]
