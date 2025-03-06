@@ -63,6 +63,15 @@
         "nextNodeType": "tabletophold"
     },
     {
+        "dungeonRunId": "179163",
+        "completedLevels": "18",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-06 07:40:11",
+        "endTime": null,
+        "captainBoons": "flag_2,archer_2,art_1,melee_1,healer_shadowword,common_super_1,musk_1,warbeast_1,armored_super_1,ranged_1,buster_firestarter,rogue_2,barb_1,archer_deadshot,warrior_2,bomber_1,dagger_6,epic_super_1",
+        "nextNodeType": "hauntedknight"
+    },
+    {
         "dungeonRunId": "179121",
         "completedLevels": "17",
         "twitchDisplayName": "FleaOnaLeaf",
@@ -72,21 +81,12 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "179163",
-        "completedLevels": "17",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-06 07:40:11",
-        "endTime": null,
-        "captainBoons": "flag_2,archer_2,art_1,melee_1,healer_shadowword,common_super_1,musk_1,warbeast_1,armored_super_1,ranged_1,buster_firestarter,rogue_2,barb_1,archer_deadshot,warrior_2,bomber_1,dagger_6",
-        "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "179077",
+        "dungeonRunId": "179085",
         "completedLevels": "16",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-05 01:24:11",
-        "endTime": "2025-03-05 20:16:58",
-        "captainBoons": "ranged_2,archer_2,epic_super_1,armored_3,healer_shadowword,armored_super_2,armored_5,warbeast_1,centurion_2,ranged_4,buster_firestarter,flag_1,ranged_1,melee_3,bomber_2,melee_2",
-        "nextNodeType": "crashzoneconversion"
+        "twitchDisplayName": "Trovatores_Theater",
+        "startTime": "2025-03-05 04:11:51",
+        "endTime": "2025-03-05 07:51:48",
+        "captainBoons": "armored_1,healer_shadowword,explosive_super_2,support_2,archer_2,warrior_2,rogue_1,buster_firestarter,frogue_2,armored_4,warbeast_1,rogue_2,dagger_2,armored_3,templar_1,armored_2",
+        "nextNodeType": "boardlandiachoke"
     }
 ]
