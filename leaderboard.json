@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179174",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "ZeeXplorer",
         "startTime": "2025-03-06 13:30:27",
         "endTime": null,
-        "captainBoons": "ranged_3,archer_2,frogue_1,general_5,warbeast_1,musk_2,musk_1,healer_shadowword,ranged_super_1,ranged_4,buster_firestarter,rogue_2,dagger_2,dagger_5,orcs_1,general_1,armored_1",
-        "nextNodeType": "plagueblight"
+        "captainBoons": "ranged_3,archer_2,frogue_1,general_5,warbeast_1,musk_2,musk_1,healer_shadowword,ranged_super_1,ranged_4,buster_firestarter,rogue_2,dagger_2,dagger_5,orcs_1,general_1,armored_1,ranged_super_2,armored_5",
+        "nextNodeType": "retroriver"
     },
     {
         "dungeonRunId": "179121",
