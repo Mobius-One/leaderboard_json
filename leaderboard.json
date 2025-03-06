@@ -9,13 +9,13 @@
         "nextNodeType": "crashzoneconversion"
     },
     {
-        "dungeonRunId": "179078",
-        "completedLevels": "31",
+        "dungeonRunId": "179135",
+        "completedLevels": "32",
         "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-05 01:31:10",
-        "endTime": "2025-03-05 05:41:32",
-        "captainBoons": "melee_5,archer_2,berserker_2,archer_deadshot,healer_shadowword,tank_2,dagger_5,warbeast_1,epic_super_1,ranged_1,buster_firestarter,armored_super_1,support_4,ranged_4,art_1,ranged_2,armored_5,support_super_1,general_4,melee_2,ranged_super_1,general_2,general_5,ranged_super_2,ranged_3,warrior_1,support_super_2,epic_1",
-        "nextNodeType": "boardlandiachoke"
+        "startTime": "2025-03-05 22:50:27",
+        "endTime": null,
+        "captainBoons": "general_4,archer_2,ranged_super_1,dagger_3,healer_shadowword,art_1,melee_2,general_super_2,dagger_5,buster_firestarter,support_super_1,musk_1,berserker_2,general_1,general_5,ranged_super_2,ranged_2,general_2,general_super_1,barb_1,dagger_7,armored_super_1,melee_1,melee_4,tank_2,ranged_3,melee_3",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179088",
@@ -36,15 +36,6 @@
         "nextNodeType": "plagueblight"
     },
     {
-        "dungeonRunId": "179058",
-        "completedLevels": "26",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-03-04 19:02:51",
-        "endTime": "2025-03-04 22:29:37",
-        "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1,archer_2,melee_super_1,tank_1,buster_firestarter,dagger_super_2,ranged_3,healer_shadowword,warrior_2,melee_5,armored_3,common_super_1,melee_2,flag_2,epic_super_1,barb_1,ranged_4,berserker_2,armored_1,melee_4,support_super_2,armored_4,centurion_1",
-        "nextNodeType": "mothershiphangar"
-    },
-    {
         "dungeonRunId": "179089",
         "completedLevels": "26",
         "twitchDisplayName": "Hooks",
@@ -52,6 +43,15 @@
         "endTime": "2025-03-05 19:05:07",
         "captainBoons": "armored_4,archer_2,common_super_1,armored_2,buster_firestarter,general_super_2,dagger_2,healer_shadowword,general_super_1,dagger_6,warbeast_1,ranged_super_1,dagger_7,musk_1,barb_2,ranged_2,dagger_3,bomber_2,epic_1,support_2,art_1,explosive_2,dagger_5,flag_1,rogue_1,archer_deadshot",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179058",
+        "completedLevels": "26",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-03-04 19:02:51",
+        "endTime": "2025-03-04 22:29:37",
+        "captainBoons": "musk_1,warbeast_1,musk_2,rogue_1,archer_2,melee_super_1,tank_1,buster_firestarter,dagger_super_2,ranged_3,healer_shadowword,warrior_2,melee_5,armored_3,common_super_1,melee_2,flag_2,epic_super_1,barb_1,ranged_4,berserker_2,armored_1,melee_4,support_super_2,armored_4,centurion_1",
+        "nextNodeType": "mothershiphangar"
     },
     {
         "dungeonRunId": "179060",
