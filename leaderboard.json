@@ -27,15 +27,6 @@
         "nextNodeType": "winterdinos"
     },
     {
-        "dungeonRunId": "179174",
-        "completedLevels": "32",
-        "twitchDisplayName": "ZeeXplorer",
-        "startTime": "2025-03-06 13:30:27",
-        "endTime": "2025-03-06 16:11:58",
-        "captainBoons": "ranged_3,archer_2,frogue_1,general_5,warbeast_1,musk_2,musk_1,ranged_super_1,ranged_4,buster_firestarter,rogue_2,dagger_2,dagger_5,orcs_1,general_1,armored_1,ranged_super_2,dagger_7,dagger_super_2,rogue_1,general_3,enemy_4,melee_2,melee_1,common_super_1,general_2,dagger_3",
-        "nextNodeType": "gravedeath"
-    },
-    {
         "dungeonRunId": "179236",
         "completedLevels": "32",
         "twitchDisplayName": "RealAlize",
@@ -43,6 +34,15 @@
         "endTime": null,
         "captainBoons": "bomber_1,archer_2,armored_super_1,warbeast_1,enemy_4,healer_shadowword,flag_1,ranged_2,buster_firestarter,rogue_2,warrior_1,rogue_1,epic_super_1,berserker_1,melee_2,common_super_1,ranged_4,melee_1,ranged_super_2,armored_2,armored_5,bomber_2,support_3,musk_1,musk_2,dagger_7,general_1",
         "nextNodeType": "winterboss"
+    },
+    {
+        "dungeonRunId": "179174",
+        "completedLevels": "32",
+        "twitchDisplayName": "ZeeXplorer",
+        "startTime": "2025-03-06 13:30:27",
+        "endTime": "2025-03-06 16:11:58",
+        "captainBoons": "ranged_3,archer_2,frogue_1,general_5,warbeast_1,musk_2,musk_1,ranged_super_1,ranged_4,buster_firestarter,rogue_2,dagger_2,dagger_5,orcs_1,general_1,armored_1,ranged_super_2,dagger_7,dagger_super_2,rogue_1,general_3,enemy_4,melee_2,melee_1,common_super_1,general_2,dagger_3",
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "179205",
