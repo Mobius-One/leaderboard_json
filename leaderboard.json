@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179227",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-08 02:15:03",
         "endTime": null,
-        "captainBoons": "rogue_1,general_super_2,ranged_2,archer_2,monk_1,buster_firestarter,common_super_1,ranged_super_1,musk_1,barb_1,berserker_2,melee_5,ranged_4,monk_2,bomber_1,support_2,epic_super_1,berserker_1,general_5,archer_deadshot,barb_2,melee_3,armored_2",
-        "nextNodeType": "mothershiphangar"
+        "captainBoons": "general_super_2,ranged_2,archer_2,monk_1,buster_firestarter,common_super_1,ranged_super_1,musk_1,barb_1,berserker_2,melee_5,ranged_4,monk_2,bomber_1,support_2,epic_super_1,berserker_1,general_5,archer_deadshot,barb_2,melee_3,armored_2",
+        "nextNodeType": "tabletopboard"
     },
     {
         "dungeonRunId": "179092",
