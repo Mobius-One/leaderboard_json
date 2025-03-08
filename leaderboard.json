@@ -9,6 +9,15 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "179236",
+        "completedLevels": "40",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-08 04:53:54",
+        "endTime": null,
+        "captainBoons": "bomber_1,archer_2,armored_super_1,warbeast_1,enemy_4,healer_shadowword,flag_1,ranged_2,buster_firestarter,epic_super_1,berserker_1,melee_2,common_super_1,ranged_4,melee_1,ranged_super_2,armored_5,bomber_2,support_3,musk_1,musk_2,dagger_7,general_1",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "179092",
         "completedLevels": "40",
         "twitchDisplayName": "JayEmDee",
@@ -16,15 +25,6 @@
         "endTime": "2025-03-05 16:55:34",
         "captainBoons": "ranged_2,archer_2,common_super_1,melee_super_2,melee_5,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,musk_1,mage_2,dagger_2,armored_super_1,flag_2,ranged_1,barb_2,epic_1,epic_super_1,general_3,melee_4,general_super_1,archer_deadshot,bomber_1",
         "nextNodeType": "crashzoneconversion"
-    },
-    {
-        "dungeonRunId": "179236",
-        "completedLevels": "39",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-08 04:53:54",
-        "endTime": null,
-        "captainBoons": "bomber_1,archer_2,armored_super_1,warbeast_1,enemy_4,healer_shadowword,flag_1,ranged_2,buster_firestarter,epic_super_1,berserker_1,melee_2,common_super_1,ranged_4,melee_1,ranged_super_2,armored_2,armored_5,bomber_2,support_3,musk_1,musk_2,dagger_7,general_1",
-        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "179135",
