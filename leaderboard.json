@@ -63,21 +63,21 @@
         "nextNodeType": "plagueblight"
     },
     {
+        "dungeonRunId": "179227",
+        "completedLevels": "27",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-08 02:15:03",
+        "endTime": null,
+        "captainBoons": "rogue_1,warbeast_1,general_super_2,ranged_2,archer_2,ranged_super_2,monk_1,buster_firestarter,common_super_1,centurion_1,healer_shadowword,ranged_super_1,musk_1,barb_1,berserker_2,melee_5,ranged_4,monk_2,bomber_1,support_2,epic_super_1,berserker_1,general_4,dagger_super_1,general_5,archer_deadshot,barb_2",
+        "nextNodeType": "tombpassage"
+    },
+    {
         "dungeonRunId": "179089",
         "completedLevels": "26",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-05 05:10:44",
         "endTime": "2025-03-05 19:05:07",
         "captainBoons": "armored_4,archer_2,common_super_1,armored_2,buster_firestarter,general_super_2,dagger_2,healer_shadowword,general_super_1,dagger_6,warbeast_1,ranged_super_1,dagger_7,musk_1,barb_2,ranged_2,dagger_3,bomber_2,epic_1,support_2,art_1,explosive_2,dagger_5,flag_1,rogue_1,archer_deadshot",
-        "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "179227",
-        "completedLevels": "26",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-08 02:15:03",
-        "endTime": null,
-        "captainBoons": "rogue_1,warbeast_1,general_super_2,ranged_2,archer_2,ranged_super_2,monk_1,buster_firestarter,common_super_1,centurion_1,healer_shadowword,ranged_super_1,musk_1,barb_1,berserker_2,melee_5,ranged_4,monk_2,bomber_1,support_2,epic_super_1,berserker_1,general_4,dagger_super_1,general_5,archer_deadshot",
         "nextNodeType": "orctotem"
     },
     {
