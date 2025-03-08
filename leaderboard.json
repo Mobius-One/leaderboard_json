@@ -54,6 +54,15 @@
         "nextNodeType": "gravedeath"
     },
     {
+        "dungeonRunId": "179247",
+        "completedLevels": "28",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-03-08 13:21:09",
+        "endTime": null,
+        "captainBoons": "archer_deadshot,healer_shadowword,ranged_super_2,melee_3,archer_2,support_super_2,general_4,warbeast_1,general_super_1,melee_4,buster_firestarter,art_1,tank_1,ranged_2,armored_super_1,general_2,warrior_1,flag_1,ranged_4,ranged_1,barb_2,centurion_1,support_4,tank_2,armored_5,general_1,melee_super_2,armored_3",
+        "nextNodeType": "crashzoneconversion"
+    },
+    {
         "dungeonRunId": "179177",
         "completedLevels": "27",
         "twitchDisplayName": "Rafipi",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-05 19:05:07",
         "captainBoons": "armored_4,archer_2,common_super_1,armored_2,buster_firestarter,general_super_2,dagger_2,healer_shadowword,general_super_1,dagger_6,warbeast_1,ranged_super_1,dagger_7,musk_1,barb_2,ranged_2,dagger_3,bomber_2,epic_1,support_2,art_1,explosive_2,dagger_5,flag_1,rogue_1,archer_deadshot",
         "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "179218",
-        "completedLevels": "25",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-03-07 23:40:30",
-        "endTime": "2025-03-08 03:26:49",
-        "captainBoons": "ranged_3,warbeast_1,berserker_2,armored_2,archer_2,melee_super_1,melee_1,healer_shadowword,general_super_2,ranged_4,buster_firestarter,melee_super_2,general_1,general_4,mage_2,dagger_5,armored_1,bomber_2,explosive_2,melee_3,musk_2,rogue_1,explosive_4,explosive_super_3,support_2",
-        "nextNodeType": "winterdinos"
     }
 ]
