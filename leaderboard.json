@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "179227",
+        "completedLevels": "41",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-08 02:15:03",
+        "endTime": null,
+        "captainBoons": "rogue_1,general_super_2,ranged_2,archer_2,monk_1,buster_firestarter,common_super_1,ranged_super_1,musk_1,barb_1,berserker_2,melee_5,ranged_4,monk_2,bomber_1,support_2,epic_super_1,berserker_1,general_5,archer_deadshot,barb_2,melee_3,armored_2",
+        "nextNodeType": "mothershiphangar"
+    },
+    {
         "dungeonRunId": "179092",
         "completedLevels": "40",
         "twitchDisplayName": "JayEmDee",
@@ -7,15 +16,6 @@
         "endTime": "2025-03-05 16:55:34",
         "captainBoons": "ranged_2,archer_2,common_super_1,melee_super_2,melee_5,ranged_super_2,armored_3,healer_shadowword,ranged_super_1,musk_1,mage_2,dagger_2,armored_super_1,flag_2,ranged_1,barb_2,epic_1,epic_super_1,general_3,melee_4,general_super_1,archer_deadshot,bomber_1",
         "nextNodeType": "crashzoneconversion"
-    },
-    {
-        "dungeonRunId": "179227",
-        "completedLevels": "40",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-08 02:15:03",
-        "endTime": null,
-        "captainBoons": "rogue_1,general_super_2,ranged_2,archer_2,monk_1,buster_firestarter,common_super_1,ranged_super_1,musk_1,barb_1,berserker_2,melee_5,ranged_4,monk_2,bomber_1,support_2,epic_super_1,berserker_1,general_5,archer_deadshot,barb_2,melee_3,armored_2",
-        "nextNodeType": "mothershiparmory"
     },
     {
         "dungeonRunId": "179135",
