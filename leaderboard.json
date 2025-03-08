@@ -45,15 +45,6 @@
         "nextNodeType": "tabletopboard"
     },
     {
-        "dungeonRunId": "179094",
-        "completedLevels": "27",
-        "twitchDisplayName": "TrippyTigress",
-        "startTime": "2025-03-05 14:09:44",
-        "endTime": "2025-03-05 18:13:58",
-        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3,armored_1,warbeast_1,frogue_1,support_2,warrior_1,ranged_super_1,archer_deadshot,ranged_3,general_super_2,general_2,dagger_7,healer_1,general_4,melee_5,ranged_super_2,tank_1,armored_4,armored_super_1",
-        "nextNodeType": "plagueblight"
-    },
-    {
         "dungeonRunId": "179177",
         "completedLevels": "27",
         "twitchDisplayName": "Rafipi",
@@ -61,6 +52,15 @@
         "endTime": "2025-03-06 18:33:31",
         "captainBoons": "melee_2,archer_2,musk_2,melee_5,warbeast_1,common_super_1,melee_3,healer_shadowword,flag_1,general_4,buster_firestarter,general_super_2,dagger_6,support_3,berserker_2,bomber_1,melee_4,ranged_super_2,dagger_5,tank_1,art_1,berserker_1,ranged_2,melee_super_1,support_4,ranged_3,healer_1",
         "nextNodeType": "mothershiparmory"
+    },
+    {
+        "dungeonRunId": "179094",
+        "completedLevels": "27",
+        "twitchDisplayName": "TrippyTigress",
+        "startTime": "2025-03-05 14:09:44",
+        "endTime": "2025-03-05 18:13:58",
+        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3,armored_1,warbeast_1,frogue_1,support_2,warrior_1,ranged_super_1,archer_deadshot,ranged_3,general_super_2,general_2,dagger_7,healer_1,general_4,melee_5,ranged_super_2,tank_1,armored_4,armored_super_1",
+        "nextNodeType": "plagueblight"
     },
     {
         "dungeonRunId": "179089",
@@ -76,7 +76,7 @@
         "completedLevels": "25",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-07 23:40:30",
-        "endTime": null,
+        "endTime": "2025-03-08 03:26:49",
         "captainBoons": "ranged_3,warbeast_1,berserker_2,armored_2,archer_2,melee_super_1,melee_1,healer_shadowword,general_super_2,ranged_4,buster_firestarter,melee_super_2,general_1,general_4,mage_2,dagger_5,armored_1,bomber_2,explosive_2,melee_3,musk_2,rogue_1,explosive_4,explosive_super_3,support_2",
         "nextNodeType": "winterdinos"
     },
