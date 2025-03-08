@@ -9,6 +9,15 @@
         "nextNodeType": "crashzoneconversion"
     },
     {
+        "dungeonRunId": "179227",
+        "completedLevels": "37",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-08 02:15:03",
+        "endTime": null,
+        "captainBoons": "rogue_1,general_super_2,ranged_2,archer_2,ranged_super_2,monk_1,buster_firestarter,common_super_1,ranged_super_1,musk_1,barb_1,berserker_2,melee_5,ranged_4,monk_2,bomber_1,support_2,epic_super_1,berserker_1,dagger_super_1,general_5,archer_deadshot,barb_2,melee_3,armored_2",
+        "nextNodeType": "tabletophold"
+    },
+    {
         "dungeonRunId": "179135",
         "completedLevels": "37",
         "twitchDisplayName": "MozzyAuzzy",
@@ -16,15 +25,6 @@
         "endTime": "2025-03-06 03:54:02",
         "captainBoons": "general_4,archer_2,ranged_super_1,dagger_3,healer_shadowword,art_1,melee_2,general_super_2,dagger_5,buster_firestarter,support_super_1,musk_1,berserker_2,general_1,general_5,ranged_super_2,ranged_2,general_2,general_super_1,barb_1,dagger_7,armored_super_1,melee_1,melee_4,melee_3",
         "nextNodeType": "winterdinos"
-    },
-    {
-        "dungeonRunId": "179227",
-        "completedLevels": "36",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-08 02:15:03",
-        "endTime": null,
-        "captainBoons": "rogue_1,general_super_2,ranged_2,archer_2,ranged_super_2,monk_1,buster_firestarter,common_super_1,ranged_super_1,musk_1,barb_1,berserker_2,melee_5,ranged_4,monk_2,bomber_1,support_2,epic_super_1,berserker_1,dagger_super_1,general_5,archer_deadshot,barb_2,melee_3,armored_2",
-        "nextNodeType": "mothershiparmory"
     },
     {
         "dungeonRunId": "179174",
