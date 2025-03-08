@@ -36,6 +36,15 @@
         "nextNodeType": "gravedeath"
     },
     {
+        "dungeonRunId": "179236",
+        "completedLevels": "30",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-08 04:53:54",
+        "endTime": null,
+        "captainBoons": "bomber_1,archer_2,armored_super_1,ranged_3,warbeast_1,enemy_4,healer_shadowword,flag_1,ranged_2,buster_firestarter,rogue_2,warrior_1,rogue_1,epic_super_1,berserker_1,melee_2,common_super_1,ranged_4,melee_1,ranged_super_2,armored_2,armored_5,bomber_2,support_3,musk_1,musk_2,dagger_7,general_1",
+        "nextNodeType": "plagueblight"
+    },
+    {
         "dungeonRunId": "179205",
         "completedLevels": "30",
         "twitchDisplayName": "chiquik",
@@ -43,15 +52,6 @@
         "endTime": null,
         "captainBoons": "paladin_1,archer_2,musk_2,melee_4,warbeast_1,epic_super_1,barb_1,healer_shadowword,ranged_super_1,melee_1,buster_firestarter,barb_2,bomber_1,epic_1,explosive_super_2,melee_5,flag_2,healer_1,armored_3,ranged_2,common_super_1,ranged_1,archer_deadshot,rogue_2,armored_2,ranged_super_2,armored_1,musk_1",
         "nextNodeType": "plagueblight"
-    },
-    {
-        "dungeonRunId": "179236",
-        "completedLevels": "29",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-08 04:53:54",
-        "endTime": null,
-        "captainBoons": "bomber_1,archer_2,armored_super_1,ranged_3,warbeast_1,enemy_4,barb_1,healer_shadowword,flag_1,ranged_2,buster_firestarter,rogue_2,warrior_1,rogue_1,epic_super_1,berserker_1,melee_2,common_super_1,ranged_4,melee_1,ranged_super_2,armored_2,armored_5,bomber_2,support_3,musk_1,musk_2,dagger_7,general_1",
-        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179177",
