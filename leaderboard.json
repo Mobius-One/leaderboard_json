@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179236",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-03-08 04:53:54",
         "endTime": null,
         "captainBoons": "bomber_1,archer_2,armored_super_1,warbeast_1,enemy_4,healer_shadowword,flag_1,ranged_2,buster_firestarter,epic_super_1,berserker_1,melee_2,common_super_1,ranged_4,melee_1,ranged_super_2,armored_2,armored_5,bomber_2,support_3,musk_1,musk_2,dagger_7,general_1",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "179135",
