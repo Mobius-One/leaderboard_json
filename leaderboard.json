@@ -18,6 +18,15 @@
         "nextNodeType": "crashzoneconversion"
     },
     {
+        "dungeonRunId": "179236",
+        "completedLevels": "37",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-08 04:53:54",
+        "endTime": null,
+        "captainBoons": "bomber_1,archer_2,armored_super_1,warbeast_1,enemy_4,healer_shadowword,flag_1,ranged_2,buster_firestarter,warrior_1,epic_super_1,berserker_1,melee_2,common_super_1,ranged_4,melee_1,ranged_super_2,armored_2,armored_5,bomber_2,support_3,musk_1,musk_2,dagger_7,general_1",
+        "nextNodeType": "crashzoneconversion"
+    },
+    {
         "dungeonRunId": "179135",
         "completedLevels": "37",
         "twitchDisplayName": "MozzyAuzzy",
@@ -25,15 +34,6 @@
         "endTime": "2025-03-06 03:54:02",
         "captainBoons": "general_4,archer_2,ranged_super_1,dagger_3,healer_shadowword,art_1,melee_2,general_super_2,dagger_5,buster_firestarter,support_super_1,musk_1,berserker_2,general_1,general_5,ranged_super_2,ranged_2,general_2,general_super_1,barb_1,dagger_7,armored_super_1,melee_1,melee_4,melee_3",
         "nextNodeType": "winterdinos"
-    },
-    {
-        "dungeonRunId": "179236",
-        "completedLevels": "36",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-08 04:53:54",
-        "endTime": null,
-        "captainBoons": "bomber_1,archer_2,armored_super_1,warbeast_1,enemy_4,healer_shadowword,flag_1,ranged_2,buster_firestarter,warrior_1,epic_super_1,berserker_1,melee_2,common_super_1,ranged_4,melee_1,ranged_super_2,armored_2,armored_5,bomber_2,support_3,musk_1,musk_2,dagger_7,general_1",
-        "nextNodeType": "retroriver"
     },
     {
         "dungeonRunId": "179174",
