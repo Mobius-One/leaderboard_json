@@ -81,12 +81,12 @@
         "nextNodeType": "winterdinos"
     },
     {
-        "dungeonRunId": "179184",
+        "dungeonRunId": "179227",
         "completedLevels": "25",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-06 20:50:15",
-        "endTime": "2025-03-07 01:36:13",
-        "captainBoons": "armored_3,archer_2,art_1,armored_4,healer_shadowword,general_super_2,general_1,warbeast_1,musk_2,support_3,buster_firestarter,ranged_super_1,ranged_3,epic_1,epic_super_1,barb_1,centurion_1,bomber_2,general_2,armored_1,support_super_2,ranged_2,berserker_1,armored_super_2,archer_deadshot",
-        "nextNodeType": "tabletophold"
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-08 02:15:03",
+        "endTime": null,
+        "captainBoons": "rogue_1,warbeast_1,general_super_2,ranged_2,archer_2,ranged_super_2,monk_1,buster_firestarter,common_super_1,centurion_1,healer_shadowword,ranged_super_1,musk_1,barb_1,berserker_2,melee_5,ranged_4,monk_2,bomber_1,support_2,epic_super_1,berserker_1,general_4,dagger_super_1,general_5",
+        "nextNodeType": "hauntedknight"
     }
 ]
