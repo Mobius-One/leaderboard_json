@@ -36,15 +36,6 @@
         "nextNodeType": "winterdinos"
     },
     {
-        "dungeonRunId": "179174",
-        "completedLevels": "32",
-        "twitchDisplayName": "ZeeXplorer",
-        "startTime": "2025-03-06 13:30:27",
-        "endTime": "2025-03-06 16:11:58",
-        "captainBoons": "ranged_3,archer_2,frogue_1,general_5,warbeast_1,musk_2,musk_1,ranged_super_1,ranged_4,buster_firestarter,rogue_2,dagger_2,dagger_5,orcs_1,general_1,armored_1,ranged_super_2,dagger_7,dagger_super_2,rogue_1,general_3,enemy_4,melee_2,melee_1,common_super_1,general_2,dagger_3",
-        "nextNodeType": "gravedeath"
-    },
-    {
         "dungeonRunId": "179247",
         "completedLevels": "32",
         "twitchDisplayName": "ohitsneb",
@@ -63,13 +54,13 @@
         "nextNodeType": "mothershiphangar"
     },
     {
-        "dungeonRunId": "179094",
-        "completedLevels": "27",
-        "twitchDisplayName": "TrippyTigress",
-        "startTime": "2025-03-05 14:09:44",
-        "endTime": "2025-03-05 18:13:58",
-        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3,armored_1,warbeast_1,frogue_1,support_2,warrior_1,ranged_super_1,archer_deadshot,ranged_3,general_super_2,general_2,dagger_7,healer_1,general_4,melee_5,ranged_super_2,tank_1,armored_4,armored_super_1",
-        "nextNodeType": "plagueblight"
+        "dungeonRunId": "179174",
+        "completedLevels": "32",
+        "twitchDisplayName": "ZeeXplorer",
+        "startTime": "2025-03-06 13:30:27",
+        "endTime": "2025-03-06 16:11:58",
+        "captainBoons": "ranged_3,archer_2,frogue_1,general_5,warbeast_1,musk_2,musk_1,ranged_super_1,ranged_4,buster_firestarter,rogue_2,dagger_2,dagger_5,orcs_1,general_1,armored_1,ranged_super_2,dagger_7,dagger_super_2,rogue_1,general_3,enemy_4,melee_2,melee_1,common_super_1,general_2,dagger_3",
+        "nextNodeType": "gravedeath"
     },
     {
         "dungeonRunId": "179177",
@@ -81,12 +72,21 @@
         "nextNodeType": "mothershiparmory"
     },
     {
-        "dungeonRunId": "179089",
+        "dungeonRunId": "179094",
+        "completedLevels": "27",
+        "twitchDisplayName": "TrippyTigress",
+        "startTime": "2025-03-05 14:09:44",
+        "endTime": "2025-03-05 18:13:58",
+        "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3,armored_1,warbeast_1,frogue_1,support_2,warrior_1,ranged_super_1,archer_deadshot,ranged_3,general_super_2,general_2,dagger_7,healer_1,general_4,melee_5,ranged_super_2,tank_1,armored_4,armored_super_1",
+        "nextNodeType": "plagueblight"
+    },
+    {
+        "dungeonRunId": "179286",
         "completedLevels": "26",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-05 05:10:44",
-        "endTime": "2025-03-05 19:05:07",
-        "captainBoons": "armored_4,archer_2,common_super_1,armored_2,buster_firestarter,general_super_2,dagger_2,healer_shadowword,general_super_1,dagger_6,warbeast_1,ranged_super_1,dagger_7,musk_1,barb_2,ranged_2,dagger_3,bomber_2,epic_1,support_2,art_1,explosive_2,dagger_5,flag_1,rogue_1,archer_deadshot",
+        "twitchDisplayName": "Jibbikus",
+        "startTime": "2025-03-09 12:34:38",
+        "endTime": "2025-03-09 17:29:12",
+        "captainBoons": "melee_5,healer_shadowword,bomber_2,monk_1,archer_2,general_super_2,armored_5,buster_firestarter,ranged_super_2,ranged_3,warbeast_1,common_super_1,epic_1,bomber_1,healer_1,support_3,barb_1,melee_super_2,armored_4,general_2,explosive_super_1,melee_4,general_4,barb_2,musk_1,centurion_1",
         "nextNodeType": "orctotem"
     }
 ]
