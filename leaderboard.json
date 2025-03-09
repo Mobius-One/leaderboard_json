@@ -36,15 +36,6 @@
         "nextNodeType": "winterdinos"
     },
     {
-        "dungeonRunId": "179205",
-        "completedLevels": "32",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-03-07 13:33:01",
-        "endTime": "2025-03-08 13:10:16",
-        "captainBoons": "paladin_1,archer_2,musk_2,melee_4,warbeast_1,epic_super_1,barb_1,healer_shadowword,ranged_super_1,melee_1,buster_firestarter,barb_2,bomber_1,epic_1,explosive_super_2,melee_5,flag_2,healer_1,armored_3,ranged_2,common_super_1,ranged_1,archer_deadshot,rogue_2,armored_2,armored_1,musk_1",
-        "nextNodeType": "mothershiphangar"
-    },
-    {
         "dungeonRunId": "179174",
         "completedLevels": "32",
         "twitchDisplayName": "ZeeXplorer",
@@ -61,6 +52,15 @@
         "endTime": "2025-03-09 01:05:24",
         "captainBoons": "archer_deadshot,healer_shadowword,ranged_super_2,melee_3,archer_2,support_super_2,general_4,warbeast_1,general_super_1,melee_4,buster_firestarter,art_1,tank_1,armored_super_1,warrior_1,flag_1,ranged_4,ranged_1,barb_2,centurion_1,support_4,tank_2,armored_5,general_1,melee_super_2,armored_3,epic_1",
         "nextNodeType": "orctotem"
+    },
+    {
+        "dungeonRunId": "179205",
+        "completedLevels": "32",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-07 13:33:01",
+        "endTime": "2025-03-08 13:10:16",
+        "captainBoons": "paladin_1,archer_2,musk_2,melee_4,warbeast_1,epic_super_1,barb_1,healer_shadowword,ranged_super_1,melee_1,buster_firestarter,barb_2,bomber_1,epic_1,explosive_super_2,melee_5,flag_2,healer_1,armored_3,ranged_2,common_super_1,ranged_1,archer_deadshot,rogue_2,armored_2,armored_1,musk_1",
+        "nextNodeType": "mothershiphangar"
     },
     {
         "dungeonRunId": "179177",
