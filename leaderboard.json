@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179247",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-08 13:21:09",
         "endTime": null,
         "captainBoons": "archer_deadshot,healer_shadowword,ranged_super_2,melee_3,archer_2,support_super_2,general_4,warbeast_1,general_super_1,melee_4,buster_firestarter,art_1,tank_1,armored_super_1,general_2,warrior_1,flag_1,ranged_4,ranged_1,barb_2,centurion_1,support_4,tank_2,armored_5,general_1,melee_super_2,armored_3,epic_1",
-        "nextNodeType": "tombpassage"
+        "nextNodeType": "retroriver"
     },
     {
         "dungeonRunId": "179177",
