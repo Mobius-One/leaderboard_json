@@ -36,6 +36,15 @@
         "nextNodeType": "winterdinos"
     },
     {
+        "dungeonRunId": "179247",
+        "completedLevels": "32",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-03-08 13:21:09",
+        "endTime": "2025-03-09 01:05:24",
+        "captainBoons": "archer_deadshot,healer_shadowword,ranged_super_2,melee_3,archer_2,support_super_2,general_4,warbeast_1,general_super_1,melee_4,buster_firestarter,art_1,tank_1,armored_super_1,warrior_1,flag_1,ranged_4,ranged_1,barb_2,centurion_1,support_4,tank_2,armored_5,general_1,melee_super_2,armored_3,epic_1",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179205",
         "completedLevels": "32",
         "twitchDisplayName": "chiquik",
@@ -54,13 +63,13 @@
         "nextNodeType": "gravedeath"
     },
     {
-        "dungeonRunId": "179247",
-        "completedLevels": "32",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-08 13:21:09",
-        "endTime": "2025-03-09 01:05:24",
-        "captainBoons": "archer_deadshot,healer_shadowword,ranged_super_2,melee_3,archer_2,support_super_2,general_4,warbeast_1,general_super_1,melee_4,buster_firestarter,art_1,tank_1,armored_super_1,warrior_1,flag_1,ranged_4,ranged_1,barb_2,centurion_1,support_4,tank_2,armored_5,general_1,melee_super_2,armored_3,epic_1",
-        "nextNodeType": "orctotem"
+        "dungeonRunId": "179323",
+        "completedLevels": "27",
+        "twitchDisplayName": "Fuegojos",
+        "startTime": "2025-03-10 14:19:01",
+        "endTime": null,
+        "captainBoons": "melee_3,healer_shadowword,rogue_2,general_5,archer_2,general_super_1,support_2,warbeast_1,monk_2,armored_5,buster_firestarter,armored_super_1,melee_2,ranged_4,support_super_2,dagger_7,ranged_2,enemy_4,general_4,general_2,melee_super_1,armored_2,dagger_4,common_super_1,armored_3,support_4,art_1",
+        "nextNodeType": "mothershiparmory"
     },
     {
         "dungeonRunId": "179177",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-05 18:13:58",
         "captainBoons": "dagger_5,buster_firestarter,general_super_1,rogue_1,archer_2,dagger_super_2,ranged_1,healer_shadowword,explosive_super_3,armored_1,warbeast_1,frogue_1,support_2,warrior_1,ranged_super_1,archer_deadshot,ranged_3,general_super_2,general_2,dagger_7,healer_1,general_4,melee_5,ranged_super_2,tank_1,armored_4,armored_super_1",
         "nextNodeType": "plagueblight"
-    },
-    {
-        "dungeonRunId": "179323",
-        "completedLevels": "26",
-        "twitchDisplayName": "Fuegojos",
-        "startTime": "2025-03-10 14:19:01",
-        "endTime": null,
-        "captainBoons": "melee_3,healer_shadowword,rogue_2,general_5,archer_2,general_super_1,support_2,warbeast_1,monk_2,armored_5,buster_firestarter,armored_super_1,melee_2,ranged_4,support_super_2,dagger_7,ranged_2,enemy_4,general_4,general_2,melee_super_1,armored_2,dagger_4,common_super_1,armored_3,support_4",
-        "nextNodeType": "winterboss"
     }
 ]
