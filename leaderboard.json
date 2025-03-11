@@ -1,11 +1,11 @@
 [
     {
         "dungeonRunId": "179338",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-11 19:06:43",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,bomber_ricochet",
+        "nextNodeType": "lavafurnace"
     }
 ]
