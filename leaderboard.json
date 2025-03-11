@@ -28,11 +28,11 @@
     },
     {
         "dungeonRunId": "179345",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-11 23:23:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits",
         "nextNodeType": "orctotem"
     }
 ]
