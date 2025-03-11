@@ -10,11 +10,11 @@
     },
     {
         "dungeonRunId": "179341",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-11 19:55:03",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,orcs_inpenetrable,bomber_living_bomb",
-        "nextNodeType": "moboatx"
+        "nextNodeType": "shogunateAmbush"
     }
 ]
