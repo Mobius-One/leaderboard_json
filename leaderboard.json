@@ -19,11 +19,11 @@
     },
     {
         "dungeonRunId": "179344",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-03-11 23:11:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality",
+        "nextNodeType": "starboss"
     }
 ]
