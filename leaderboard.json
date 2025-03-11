@@ -19,20 +19,20 @@
     },
     {
         "dungeonRunId": "179344",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-03-11 23:11:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179345",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-11 23:23:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits",
-        "nextNodeType": "orctotem"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons",
+        "nextNodeType": "steampunkgear"
     }
 ]
