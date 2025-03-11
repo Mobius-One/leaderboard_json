@@ -1,11 +1,11 @@
 [
     {
         "dungeonRunId": "179338",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-11 19:06:43",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,bomber_ricochet,phantom_thehaunting,flagbearer_bannerofvitality,barb_warcry,musk_volley_tactics",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,bomber_ricochet,phantom_thehaunting,flagbearer_bannerofvitality,barb_warcry,musk_volley_tactics,support_healingsong",
+        "nextNodeType": "orctotem"
     }
 ]
