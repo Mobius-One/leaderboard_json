@@ -64,11 +64,11 @@
     },
     {
         "dungeonRunId": "179358",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-12 08:34:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer",
-        "nextNodeType": "shogunateAmbush"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,paladin_skeletalsquire",
+        "nextNodeType": "starboss"
     }
 ]
