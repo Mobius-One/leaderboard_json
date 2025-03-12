@@ -73,11 +73,11 @@
     },
     {
         "dungeonRunId": "179363",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-12 11:35:55",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer",
-        "nextNodeType": "raidhallalake"
+        "nextNodeType": "starboss"
     }
 ]
