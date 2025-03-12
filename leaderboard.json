@@ -63,6 +63,15 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179376",
+        "completedLevels": "9",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-12 18:11:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow",
+        "nextNodeType": "shrinkeningpuddles"
+    },
+    {
         "dungeonRunId": "179344",
         "completedLevels": "9",
         "twitchDisplayName": "JayelDraco",
@@ -70,15 +79,6 @@
         "endTime": "2025-03-12 02:52:49",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash,rogue_shadowcloak,archer_zephyrstride,lancer_spearwall,archer_steadybow",
         "nextNodeType": "raidhallapath"
-    },
-    {
-        "dungeonRunId": "179376",
-        "completedLevels": "8",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-03-12 18:11:42",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1",
-        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "179366",
