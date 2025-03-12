@@ -9,6 +9,15 @@
         "nextNodeType": "shogunateAmbush"
     },
     {
+        "dungeonRunId": "179363",
+        "completedLevels": "23",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-12 11:35:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,orcslayer_worldrazer,saint_exalt,archer_enchantedammo,musk_volley_tactics,tank_tungstenswords,paladin_skeletalsquire,flag_1,ranged_rangergloves,saint_missionary,shinobi_blink,general_5,musk_golden_rounds,barbarian_conqueror,general_4",
+        "nextNodeType": "crystalcavethrone"
+    },
+    {
         "dungeonRunId": "179338",
         "completedLevels": "23",
         "twitchDisplayName": "Rafipi",
@@ -16,15 +25,6 @@
         "endTime": "2025-03-11 22:05:31",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,bomber_ricochet,phantom_thehaunting,flagbearer_bannerofvitality,barb_warcry,musk_volley_tactics,support_healingsong,undead_undeadresilience,warbeast_underworldbeast,general_2,artillery_maxpower,berserker_frenzy,lancer_sarissaspears,saint_missionary,frogue_air_snipers,armored_unyieldingdefense,warbeast_1,art_siege_weapons,assassin_spynetwork,musk_golden_rounds,archer_steadybow,general_3,tank_ironclad",
         "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179363",
-        "completedLevels": "22",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-12 11:35:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,orcslayer_worldrazer,saint_exalt,archer_enchantedammo,musk_volley_tactics,tank_tungstenswords,paladin_skeletalsquire,flag_1,ranged_rangergloves,saint_missionary,shinobi_blink,general_5,musk_golden_rounds,barbarian_conqueror,general_4",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179342",
