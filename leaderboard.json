@@ -54,22 +54,22 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "179345",
-        "completedLevels": "11",
+        "dungeonRunId": "179371",
+        "completedLevels": "12",
         "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-11 23:23:22",
-        "endTime": "2025-03-12 01:22:28",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves,armored_heavyblades,archer_steadybow,archer_zephyrstride,archer_enchantedammo",
-        "nextNodeType": "steampunksiege"
+        "startTime": "2025-03-12 16:14:26",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,centurion_juggernaut,healer_healing_bloom,ranged_rangergloves,musk_golden_rounds,paladin_holyforce,armored_unyieldingdefense,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet",
+        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "179376",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-12 18:11:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt",
+        "nextNodeType": "beastlandsbeast05"
     },
     {
         "dungeonRunId": "179344",
