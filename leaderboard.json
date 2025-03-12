@@ -45,6 +45,15 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
+        "dungeonRunId": "179363",
+        "completedLevels": "11",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-12 11:35:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,orcslayer_worldrazer,saint_exalt,archer_enchantedammo",
+        "nextNodeType": "lavafurnace"
+    },
+    {
         "dungeonRunId": "179345",
         "completedLevels": "11",
         "twitchDisplayName": "ohitsneb",
@@ -52,15 +61,6 @@
         "endTime": "2025-03-12 01:22:28",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves,armored_heavyblades,archer_steadybow,archer_zephyrstride,archer_enchantedammo",
         "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179363",
-        "completedLevels": "11",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-12 11:35:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,orcslayer_worldrazer,saint_exalt",
-        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "179344",
