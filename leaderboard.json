@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179363",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-12 11:35:55",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,saint_exalt,archer_enchantedammo,musk_volley_tactics,tank_tungstenswords,flag_1,ranged_rangergloves,saint_missionary,shinobi_blink,general_5,musk_golden_rounds,barbarian_conqueror,general_4,assassin_deathmark,saint_godspeed,lancer_sarissaspears,orcs_inpenetrable,paladin_holyforce,ranged_ironbreakballistics,necromancer_necronomicon",
-        "nextNodeType": "starboss"
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "179348",
