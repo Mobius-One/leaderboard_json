@@ -28,11 +28,11 @@
     },
     {
         "dungeonRunId": "179345",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-11 23:23:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons",
-        "nextNodeType": "steampunkgear"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense",
+        "nextNodeType": "beastlandsbeast05"
     }
 ]
