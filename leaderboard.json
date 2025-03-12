@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "179348",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-12 01:25:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo,archer_steadybow,general_4,mage_elementalsummoning,saint_godspeed,general_3,melee_armor_break,rogue_shadowcloak,barbarian_gloriousdeath",
-        "nextNodeType": "shogunateBasic"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo,archer_steadybow,general_4,mage_elementalsummoning,saint_godspeed,general_3,melee_armor_break,rogue_shadowcloak,barbarian_gloriousdeath,ensouled_fatedspirits",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179345",
