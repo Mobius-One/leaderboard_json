@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179358",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-12 08:34:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,paladin_skeletalsquire,warlock_inferno,healer_combatmedic,ranged_preciseshot,monk_heavenskarma",
-        "nextNodeType": "beastlandsbeast05"
+        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "179353",
