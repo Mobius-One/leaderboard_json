@@ -72,6 +72,15 @@
         "nextNodeType": "raidhallapath"
     },
     {
+        "dungeonRunId": "179376",
+        "completedLevels": "8",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-12 18:11:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1",
+        "nextNodeType": "lavafurnace"
+    },
+    {
         "dungeonRunId": "179366",
         "completedLevels": "8",
         "twitchDisplayName": "catclouuud",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-12 15:51:17",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,berserker_enrage,frogue_air_snipers,warrior_bladedancer,frogue_preparation,fairy_nixiepops,melee_damage_1,vampire_spectralpresence",
         "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179376",
-        "completedLevels": "7",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-03-12 18:11:42",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands",
-        "nextNodeType": "orctotem"
     }
 ]
