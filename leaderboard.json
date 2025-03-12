@@ -45,6 +45,15 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179358",
+        "completedLevels": "9",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-12 08:34:08",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,paladin_skeletalsquire,warlock_inferno,healer_combatmedic,ranged_preciseshot,monk_heavenskarma,melee_charge,rogue_momentum,necromancer_ectoplosion",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "179344",
         "completedLevels": "9",
         "twitchDisplayName": "JayelDraco",
@@ -52,15 +61,6 @@
         "endTime": "2025-03-12 02:52:49",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash,rogue_shadowcloak,archer_zephyrstride,lancer_spearwall,archer_steadybow",
         "nextNodeType": "raidhallapath"
-    },
-    {
-        "dungeonRunId": "179358",
-        "completedLevels": "9",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-03-12 08:34:08",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,paladin_skeletalsquire,warlock_inferno,healer_combatmedic,ranged_preciseshot,monk_heavenskarma,melee_charge,rogue_momentum",
-        "nextNodeType": "oasisruins"
     },
     {
         "dungeonRunId": "179353",
