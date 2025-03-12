@@ -18,6 +18,15 @@
         "nextNodeType": "orctotem"
     },
     {
+        "dungeonRunId": "179345",
+        "completedLevels": "5",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-03-11 23:23:22",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits",
+        "nextNodeType": "lavafurnace"
+    },
+    {
         "dungeonRunId": "179344",
         "completedLevels": "5",
         "twitchDisplayName": "JayelDraco",
@@ -25,14 +34,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash",
         "nextNodeType": "crystalcavethrone"
-    },
-    {
-        "dungeonRunId": "179345",
-        "completedLevels": "4",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-11 23:23:22",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense",
-        "nextNodeType": "beastlandsbeast05"
     }
 ]
