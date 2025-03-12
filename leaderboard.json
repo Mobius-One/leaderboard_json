@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179345",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-11 23:23:22",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves",
-        "nextNodeType": "lavachamber"
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "179344",
@@ -37,11 +37,11 @@
     },
     {
         "dungeonRunId": "179347",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "HopesAreWonky",
         "startTime": "2025-03-12 00:10:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark",
+        "nextNodeType": "steampunksiege"
     }
 ]
