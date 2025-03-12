@@ -32,7 +32,7 @@
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-12 16:14:26",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,centurion_juggernaut,healer_healing_bloom,ranged_rangergloves,musk_golden_rounds,paladin_holyforce,armored_unyieldingdefense,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,blob_parasite,archer_zephyrstride,armored_heavyblades,warrior_swordofruin,flagbearer_bannerofvitality,vampire_spectralpresence,musk_volley_tactics,epic_giantsbrewzero,undead_undeadresilience",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,centurion_juggernaut,healer_healing_bloom,ranged_rangergloves,musk_golden_rounds,paladin_holyforce,armored_unyieldingdefense,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,blob_parasite,archer_zephyrstride,armored_heavyblades,warrior_swordofruin,flagbearer_bannerofvitality,vampire_spectralpresence,musk_volley_tactics,epic_giantsbrewzero,undead_undeadresilience,rogue_shadowcloak",
         "nextNodeType": "orctotem"
     },
     {
@@ -81,12 +81,12 @@
         "nextNodeType": "raidhallapath"
     },
     {
-        "dungeonRunId": "179366",
+        "dungeonRunId": "179379",
         "completedLevels": "8",
-        "twitchDisplayName": "catclouuud",
-        "startTime": "2025-03-12 12:53:50",
-        "endTime": "2025-03-12 15:51:17",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,berserker_enrage,frogue_air_snipers,warrior_bladedancer,frogue_preparation,fairy_nixiepops,melee_damage_1,vampire_spectralpresence",
-        "nextNodeType": "steampunksiege"
+        "twitchDisplayName": "Exaler",
+        "startTime": "2025-03-12 19:25:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_healingsong,bomber_ricochet,rogue_shadowcloak,assassin_spynetwork,lancer_spearwall,shinobi_blink,paladin_layonhands,barb_warcry",
+        "nextNodeType": "crystalcavethrone"
     }
 ]
