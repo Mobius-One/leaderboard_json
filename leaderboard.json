@@ -70,5 +70,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofvitality,tank_ironclad,blob_parasite",
         "nextNodeType": "shogunateBasic"
+    },
+    {
+        "dungeonRunId": "179363",
+        "completedLevels": "1",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-12 11:35:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer",
+        "nextNodeType": "raidhallalake"
     }
 ]
