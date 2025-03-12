@@ -63,6 +63,15 @@
         "nextNodeType": "raidhallapath"
     },
     {
+        "dungeonRunId": "179363",
+        "completedLevels": "4",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-12 11:35:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero",
+        "nextNodeType": "shogunateBasic"
+    },
+    {
         "dungeonRunId": "179353",
         "completedLevels": "3",
         "twitchDisplayName": "Tebble",
@@ -70,14 +79,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofvitality,tank_ironclad,blob_parasite",
         "nextNodeType": "shogunateBasic"
-    },
-    {
-        "dungeonRunId": "179363",
-        "completedLevels": "3",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-12 11:35:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers",
-        "nextNodeType": "moboatx"
     }
 ]
