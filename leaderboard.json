@@ -55,21 +55,21 @@
     },
     {
         "dungeonRunId": "179376",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-12 18:11:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire,lancer_ignitingstrike",
-        "nextNodeType": "raidhallapath"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire,lancer_ignitingstrike,rogue_sneakattack",
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "179371",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-12 16:14:26",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,centurion_juggernaut,healer_healing_bloom,ranged_rangergloves,musk_golden_rounds,paladin_holyforce,armored_unyieldingdefense,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,blob_parasite,archer_zephyrstride",
-        "nextNodeType": "oasisruins"
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179344",
