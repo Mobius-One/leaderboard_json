@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "179342",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-11 21:11:00",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,barb_warcry,musk_volley_tactics,general_2,mage_elementalsummoning,paladin_holyforce,ranged_rangergloves,armored_heavyblades,mage_clone,melee_damage_1,flag_holdfast,phantom_thehaunting,general_4,tank_ironclad,warbeast_underworldbeast,ranged_ironbreakballistics,ensouled_enragedspirits,art_siege_weapons",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,barb_warcry,musk_volley_tactics,general_2,mage_elementalsummoning,paladin_holyforce,ranged_rangergloves,armored_heavyblades,mage_clone,melee_damage_1,flag_holdfast,phantom_thehaunting,general_4,tank_ironclad,warbeast_underworldbeast,ranged_ironbreakballistics,ensouled_enragedspirits,art_siege_weapons,paladin_layonhands",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "179345",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-11 23:23:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves,armored_heavyblades,archer_steadybow,archer_zephyrstride",
-        "nextNodeType": "oasisvalley"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves,armored_heavyblades,archer_steadybow,archer_zephyrstride,archer_enchantedammo",
+        "nextNodeType": "steampunksiege"
     },
     {
         "dungeonRunId": "179344",
