@@ -72,6 +72,15 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
+        "dungeonRunId": "179379",
+        "completedLevels": "10",
+        "twitchDisplayName": "Exaler",
+        "startTime": "2025-03-12 19:25:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_healingsong,bomber_ricochet,rogue_shadowcloak,assassin_spynetwork,lancer_spearwall,shinobi_blink,paladin_layonhands,barb_warcry,warlock_inferno,ranged_rangergloves",
+        "nextNodeType": "tabletophold"
+    },
+    {
         "dungeonRunId": "179344",
         "completedLevels": "9",
         "twitchDisplayName": "JayelDraco",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-12 02:52:49",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash,rogue_shadowcloak,archer_zephyrstride,lancer_spearwall,archer_steadybow",
         "nextNodeType": "raidhallapath"
-    },
-    {
-        "dungeonRunId": "179379",
-        "completedLevels": "9",
-        "twitchDisplayName": "Exaler",
-        "startTime": "2025-03-12 19:25:42",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_healingsong,bomber_ricochet,rogue_shadowcloak,assassin_spynetwork,lancer_spearwall,shinobi_blink,paladin_layonhands,barb_warcry,warlock_inferno",
-        "nextNodeType": "wildorcs"
     }
 ]
