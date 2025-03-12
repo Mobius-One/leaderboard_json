@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "179342",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-11 21:11:00",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,barb_warcry,musk_volley_tactics,general_2,mage_elementalsummoning,paladin_holyforce,ranged_rangergloves,armored_heavyblades,mage_clone,melee_damage_1,flag_holdfast,phantom_thehaunting",
-        "nextNodeType": "icecaveportals"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,barb_warcry,musk_volley_tactics,general_2,mage_elementalsummoning,paladin_holyforce,ranged_rangergloves,armored_heavyblades,mage_clone,melee_damage_1,flag_holdfast,phantom_thehaunting,general_4",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179344",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-03-11 23:11:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords",
-        "nextNodeType": "orctotem"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "179345",
