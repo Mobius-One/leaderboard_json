@@ -32,7 +32,7 @@
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-12 18:11:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire,lancer_ignitingstrike,rogue_sneakattack,ranged_preciseshot,blob_parasite,support_healingsong",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire,lancer_ignitingstrike,rogue_sneakattack,ranged_preciseshot,blob_parasite,support_healingsong,rogue_momentum",
         "nextNodeType": "orctotem"
     },
     {
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179371",
-        "completedLevels": "15",
+        "completedLevels": "16",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-12 16:14:26",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,centurion_juggernaut,healer_healing_bloom,ranged_rangergloves,musk_golden_rounds,paladin_holyforce,armored_unyieldingdefense,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,blob_parasite,archer_zephyrstride,armored_heavyblades,warrior_swordofruin",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,centurion_juggernaut,healer_healing_bloom,ranged_rangergloves,musk_golden_rounds,paladin_holyforce,armored_unyieldingdefense,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,blob_parasite,archer_zephyrstride,armored_heavyblades,warrior_swordofruin,flagbearer_bannerofvitality",
+        "nextNodeType": "moboatx"
     },
     {
         "dungeonRunId": "179344",
