@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179347",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "HopesAreWonky",
         "startTime": "2025-03-12 00:10:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics,general_1,centurion_juggernaut,tank_hoarfrost_armor,general_5,melee_armor_break,warbeast_underworldbeast,archer_zephyrstride,orcs_inpenetrable,archer_steadybow,flagbearer_bannerofvitality",
-        "nextNodeType": "beastlandsbeast05"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics,general_1,centurion_juggernaut,tank_hoarfrost_armor,general_5,melee_armor_break,warbeast_underworldbeast,archer_zephyrstride,orcs_inpenetrable,archer_steadybow,flagbearer_bannerofvitality,templar_commanding_presence",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179345",
@@ -37,20 +37,20 @@
     },
     {
         "dungeonRunId": "179348",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-12 01:25:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo",
-        "nextNodeType": "steampunksiege"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo,archer_steadybow",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "179344",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-03-11 23:11:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash,rogue_shadowcloak,archer_zephyrstride",
-        "nextNodeType": "steampunkgear"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash,rogue_shadowcloak,archer_zephyrstride,lancer_spearwall",
+        "nextNodeType": "steampunksiege"
     }
 ]
