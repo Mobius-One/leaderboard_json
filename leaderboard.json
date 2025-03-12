@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "179348",
+        "completedLevels": "23",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-03-12 01:25:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo,archer_steadybow,general_4,mage_elementalsummoning,saint_godspeed,general_3,melee_armor_break,rogue_shadowcloak,barbarian_gloriousdeath,ensouled_fatedspirits,musk_volley_tactics,tank_tungstenswords,ensouled_enragedspirits,spy_fromcaptainwithlove,ranged_rangergloves,healer_giftofregeneration",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179338",
         "completedLevels": "23",
         "twitchDisplayName": "Rafipi",
@@ -7,15 +16,6 @@
         "endTime": "2025-03-11 22:05:31",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,bomber_ricochet,phantom_thehaunting,flagbearer_bannerofvitality,barb_warcry,musk_volley_tactics,support_healingsong,undead_undeadresilience,warbeast_underworldbeast,general_2,artillery_maxpower,berserker_frenzy,lancer_sarissaspears,saint_missionary,frogue_air_snipers,armored_unyieldingdefense,warbeast_1,art_siege_weapons,assassin_spynetwork,musk_golden_rounds,archer_steadybow,general_3,tank_ironclad",
         "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179348",
-        "completedLevels": "22",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-12 01:25:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo,archer_steadybow,general_4,mage_elementalsummoning,saint_godspeed,general_3,melee_armor_break,rogue_shadowcloak,barbarian_gloriousdeath,ensouled_fatedspirits,musk_volley_tactics,tank_tungstenswords,ensouled_enragedspirits,spy_fromcaptainwithlove,ranged_rangergloves",
-        "nextNodeType": "beastlandsbeast05"
     },
     {
         "dungeonRunId": "179342",
