@@ -18,6 +18,15 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179347",
+        "completedLevels": "12",
+        "twitchDisplayName": "HopesAreWonky",
+        "startTime": "2025-03-12 00:10:51",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics,general_1,centurion_juggernaut,tank_hoarfrost_armor,general_5,melee_armor_break,warbeast_underworldbeast,archer_zephyrstride,orcs_inpenetrable,archer_steadybow",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "179345",
         "completedLevels": "11",
         "twitchDisplayName": "ohitsneb",
@@ -25,15 +34,6 @@
         "endTime": "2025-03-12 01:22:28",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves,armored_heavyblades,archer_steadybow,archer_zephyrstride,archer_enchantedammo",
         "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179347",
-        "completedLevels": "11",
-        "twitchDisplayName": "HopesAreWonky",
-        "startTime": "2025-03-12 00:10:51",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics,general_1,centurion_juggernaut,tank_hoarfrost_armor,general_5,melee_armor_break,warbeast_underworldbeast,archer_zephyrstride,orcs_inpenetrable",
-        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179344",
@@ -46,11 +46,11 @@
     },
     {
         "dungeonRunId": "179348",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-12 01:25:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1",
+        "nextNodeType": "orctotem"
     }
 ]
