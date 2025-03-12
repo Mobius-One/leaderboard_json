@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179359",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-12 08:45:24",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,centurion_juggernaut,blob_parasite,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_2,melee_armor_break,art_siege_weapons,melee_damage_1,necromancer_necronomicon,lancer_ignitingstrike,melee_charge,flag_holdfast,paladin_holyforce,assassin_spynetwork,healer_giftofregeneration,templar_1,tank_tungstenswords,mage_elementalsummoning,berserker_frenzy,healer_combatmedic,barb_warcry,flag_1",
-        "nextNodeType": "tabletophold"
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179338",
