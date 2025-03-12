@@ -18,6 +18,15 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179348",
+        "completedLevels": "20",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-03-12 01:25:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo,archer_steadybow,general_4,mage_elementalsummoning,saint_godspeed,general_3,melee_armor_break,rogue_shadowcloak,barbarian_gloriousdeath,ensouled_fatedspirits,musk_volley_tactics,tank_tungstenswords,ensouled_enragedspirits",
+        "nextNodeType": "lavafurnace"
+    },
+    {
         "dungeonRunId": "179347",
         "completedLevels": "19",
         "twitchDisplayName": "HopesAreWonky",
@@ -25,15 +34,6 @@
         "endTime": "2025-03-12 03:10:22",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics,general_1,centurion_juggernaut,tank_hoarfrost_armor,general_5,melee_armor_break,warbeast_underworldbeast,archer_zephyrstride,orcs_inpenetrable,archer_steadybow,flagbearer_bannerofvitality,templar_commanding_presence,blob_parasite,saint_exalt,necromancer_necronomicon,centurion_shieldofbones,rogue_sneakattack",
         "nextNodeType": "lavachamber"
-    },
-    {
-        "dungeonRunId": "179348",
-        "completedLevels": "19",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-12 01:25:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo,archer_steadybow,general_4,mage_elementalsummoning,saint_godspeed,general_3,melee_armor_break,rogue_shadowcloak,barbarian_gloriousdeath,ensouled_fatedspirits,musk_volley_tactics,tank_tungstenswords",
-        "nextNodeType": "beastlandsbeast05"
     },
     {
         "dungeonRunId": "179345",
