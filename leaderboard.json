@@ -36,21 +36,21 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179348",
+        "completedLevels": "8",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-03-12 01:25:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo",
+        "nextNodeType": "steampunksiege"
+    },
+    {
         "dungeonRunId": "179344",
         "completedLevels": "7",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-03-11 23:11:29",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash,rogue_shadowcloak",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash,rogue_shadowcloak,archer_zephyrstride",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179348",
-        "completedLevels": "7",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-12 01:25:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1",
-        "nextNodeType": "orctotem"
     }
 ]
