@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179342",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-11 21:11:00",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,barb_warcry,musk_volley_tactics,general_2,mage_elementalsummoning,paladin_holyforce,ranged_rangergloves,armored_heavyblades,mage_clone,melee_damage_1,flag_holdfast,phantom_thehaunting,general_4,tank_ironclad,warbeast_underworldbeast,ranged_ironbreakballistics",
-        "nextNodeType": "oasisvalley"
+        "nextNodeType": "steampunksiege"
     },
     {
         "dungeonRunId": "179345",
@@ -23,7 +23,7 @@
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-11 23:23:22",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves,armored_heavyblades",
         "nextNodeType": "crystalcavethrone"
     },
     {
@@ -37,11 +37,11 @@
     },
     {
         "dungeonRunId": "179347",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "HopesAreWonky",
         "startTime": "2025-03-12 00:10:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark",
-        "nextNodeType": "steampunksiege"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics",
+        "nextNodeType": "shrinkeningpuddles"
     }
 ]
