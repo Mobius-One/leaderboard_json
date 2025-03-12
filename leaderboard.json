@@ -36,6 +36,15 @@
         "nextNodeType": "beastlandsbeast05"
     },
     {
+        "dungeonRunId": "179359",
+        "completedLevels": "22",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-03-12 08:45:24",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,centurion_juggernaut,blob_parasite,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_2,melee_armor_break,art_siege_weapons,melee_damage_1,necromancer_necronomicon,lancer_ignitingstrike,melee_charge,flag_holdfast,paladin_holyforce,assassin_spynetwork,healer_giftofregeneration,templar_1,tank_tungstenswords,mage_elementalsummoning,berserker_frenzy,healer_combatmedic",
+        "nextNodeType": "oasisruins"
+    },
+    {
         "dungeonRunId": "179376",
         "completedLevels": "21",
         "twitchDisplayName": "chiquik",
@@ -43,15 +52,6 @@
         "endTime": "2025-03-12 20:08:06",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire,lancer_ignitingstrike,rogue_sneakattack,ranged_preciseshot,blob_parasite,support_healingsong,rogue_momentum,bomber_living_bomb",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179359",
-        "completedLevels": "21",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-12 08:45:24",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,centurion_juggernaut,blob_parasite,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_2,melee_armor_break,art_siege_weapons,melee_damage_1,necromancer_necronomicon,lancer_ignitingstrike,melee_charge,flag_holdfast,paladin_holyforce,assassin_spynetwork,healer_giftofregeneration,templar_1,tank_tungstenswords,mage_elementalsummoning,berserker_frenzy",
-        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "179347",
