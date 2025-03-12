@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179363",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-12 11:35:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage",
+        "nextNodeType": "steampunksiege"
     },
     {
         "dungeonRunId": "179353",
