@@ -81,12 +81,12 @@
         "nextNodeType": "steampunksiege"
     },
     {
-        "dungeonRunId": "179369",
+        "dungeonRunId": "179376",
         "completedLevels": "5",
-        "twitchDisplayName": "CanadianX",
-        "startTime": "2025-03-12 15:06:41",
-        "endTime": "2025-03-12 15:52:04",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves,ranged_preciseshot,gladiator_war_machine,general_5,healer_giftofregeneration",
-        "nextNodeType": "steampunksiege"
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-12 18:11:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet",
+        "nextNodeType": "orctotem"
     }
 ]
