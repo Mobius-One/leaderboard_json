@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179376",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-12 18:11:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire,lancer_ignitingstrike",
+        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "179371",
