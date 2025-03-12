@@ -22,7 +22,7 @@
         "completedLevels": "11",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-11 23:23:22",
-        "endTime": null,
+        "endTime": "2025-03-12 01:22:28",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves,armored_heavyblades,archer_steadybow,archer_zephyrstride,archer_enchantedammo",
         "nextNodeType": "steampunksiege"
     },
@@ -37,11 +37,11 @@
     },
     {
         "dungeonRunId": "179347",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "HopesAreWonky",
         "startTime": "2025-03-12 00:10:51",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics,general_1,centurion_juggernaut,tank_hoarfrost_armor",
-        "nextNodeType": "tabletophold"
+        "nextNodeType": "moboatx"
     }
 ]
