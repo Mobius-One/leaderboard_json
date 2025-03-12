@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179345",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-11 23:23:22",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_4,ensouled_fatedspirits,art_siege_weapons,armored_unyieldingdefense,ensouled_enragedspirits,flag_1,ranged_rangergloves,armored_heavyblades",
-        "nextNodeType": "crystalcavethrone"
+        "nextNodeType": "tabletophold"
     },
     {
         "dungeonRunId": "179344",
@@ -37,11 +37,11 @@
     },
     {
         "dungeonRunId": "179347",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "HopesAreWonky",
         "startTime": "2025-03-12 00:10:51",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics,general_1",
+        "nextNodeType": "steampunkgear"
     }
 ]
