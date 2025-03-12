@@ -55,11 +55,11 @@
     },
     {
         "dungeonRunId": "179353",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Tebble",
         "startTime": "2025-03-12 07:07:21",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofvitality",
-        "nextNodeType": "lavachamber"
+        "nextNodeType": "starboss"
     }
 ]
