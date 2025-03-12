@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179363",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-12 11:35:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,orcslayer_worldrazer,saint_exalt,archer_enchantedammo,musk_volley_tactics,tank_tungstenswords,paladin_skeletalsquire,flag_1,ranged_rangergloves,saint_missionary,shinobi_blink",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,orcslayer_worldrazer,saint_exalt,archer_enchantedammo,musk_volley_tactics,tank_tungstenswords,paladin_skeletalsquire,flag_1,ranged_rangergloves,saint_missionary,shinobi_blink,general_5",
+        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "179360",
@@ -77,7 +77,7 @@
         "twitchDisplayName": "catclouuud",
         "startTime": "2025-03-12 12:53:50",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,berserker_enrage,frogue_air_snipers,warrior_bladedancer,frogue_preparation",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,berserker_enrage,frogue_air_snipers,warrior_bladedancer,frogue_preparation,fairy_nixiepops",
         "nextNodeType": "icecaveportals"
     },
     {
