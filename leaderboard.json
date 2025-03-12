@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "179363",
+        "completedLevels": "29",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-12 11:35:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,orcslayer_worldrazer,saint_exalt,archer_enchantedammo,musk_volley_tactics,tank_tungstenswords,paladin_skeletalsquire,flag_1,ranged_rangergloves,saint_missionary,shinobi_blink,general_5,musk_golden_rounds,barbarian_conqueror,general_4,assassin_deathmark,saint_godspeed,lancer_sarissaspears,orcs_inpenetrable,paladin_holyforce,ranged_ironbreakballistics,necromancer_necronomicon",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
         "dungeonRunId": "179348",
         "completedLevels": "28",
         "twitchDisplayName": "MozzyAuzzy",
@@ -7,15 +16,6 @@
         "endTime": "2025-03-12 04:53:03",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo,archer_steadybow,general_4,mage_elementalsummoning,saint_godspeed,general_3,melee_armor_break,rogue_shadowcloak,barbarian_gloriousdeath,ensouled_fatedspirits,musk_volley_tactics,tank_tungstenswords,ensouled_enragedspirits,spy_fromcaptainwithlove,ranged_rangergloves,healer_giftofregeneration,healer_healing_bloom,support_doomingsong,fairy_hocuspocus,mage_clone,general_2",
         "nextNodeType": "shogunateAmbush"
-    },
-    {
-        "dungeonRunId": "179363",
-        "completedLevels": "28",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-12 11:35:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,orcslayer_worldrazer,saint_exalt,archer_enchantedammo,musk_volley_tactics,tank_tungstenswords,paladin_skeletalsquire,flag_1,ranged_rangergloves,saint_missionary,shinobi_blink,general_5,musk_golden_rounds,barbarian_conqueror,general_4,assassin_deathmark,saint_godspeed,lancer_sarissaspears,orcs_inpenetrable,paladin_holyforce,ranged_ironbreakballistics",
-        "nextNodeType": "oasisvalley"
     },
     {
         "dungeonRunId": "179338",
