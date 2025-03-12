@@ -36,6 +36,15 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179376",
+        "completedLevels": "19",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-12 18:11:42",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire,lancer_ignitingstrike,rogue_sneakattack,ranged_preciseshot,blob_parasite,support_healingsong",
+        "nextNodeType": "lavachamber"
+    },
+    {
         "dungeonRunId": "179347",
         "completedLevels": "19",
         "twitchDisplayName": "HopesAreWonky",
@@ -43,15 +52,6 @@
         "endTime": "2025-03-12 03:10:22",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics,general_1,centurion_juggernaut,tank_hoarfrost_armor,general_5,melee_armor_break,warbeast_underworldbeast,archer_zephyrstride,orcs_inpenetrable,archer_steadybow,flagbearer_bannerofvitality,templar_commanding_presence,blob_parasite,saint_exalt,necromancer_necronomicon,centurion_shieldofbones,rogue_sneakattack",
         "nextNodeType": "lavachamber"
-    },
-    {
-        "dungeonRunId": "179376",
-        "completedLevels": "18",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-03-12 18:11:42",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire,lancer_ignitingstrike,rogue_sneakattack,ranged_preciseshot,blob_parasite",
-        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "179360",
@@ -68,7 +68,7 @@
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-12 16:14:26",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,centurion_juggernaut,healer_healing_bloom,ranged_rangergloves,musk_golden_rounds,paladin_holyforce,armored_unyieldingdefense,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,blob_parasite,archer_zephyrstride,armored_heavyblades",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,centurion_juggernaut,healer_healing_bloom,ranged_rangergloves,musk_golden_rounds,paladin_holyforce,armored_unyieldingdefense,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,blob_parasite,archer_zephyrstride,armored_heavyblades,warrior_swordofruin",
         "nextNodeType": "shrinkeningpuddles"
     },
     {
