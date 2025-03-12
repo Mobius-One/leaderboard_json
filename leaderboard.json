@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179366",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "catclouuud",
         "startTime": "2025-03-12 12:53:50",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,berserker_enrage,frogue_air_snipers,warrior_bladedancer,frogue_preparation,fairy_nixiepops",
-        "nextNodeType": "icecaveportals"
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "179353",
