@@ -64,11 +64,11 @@
     },
     {
         "dungeonRunId": "179358",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-12 08:34:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,paladin_skeletalsquire",
-        "nextNodeType": "starboss"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,paladin_skeletalsquire,warlock_inferno",
+        "nextNodeType": "shrinkeningpuddles"
     }
 ]
