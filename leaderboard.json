@@ -9,15 +9,6 @@
         "nextNodeType": "steampunksiege"
     },
     {
-        "dungeonRunId": "179393",
-        "completedLevels": "35",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-13 01:38:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves,bomber_ricochet,ranged_ironbreakballistics,warbeast_1,warlock_inferno,armored_unyieldingdefense,berserker_enrage,warrior_swordofruin,lancer_sarissaspears,elf_elvenimmortality,healer_healing_bloom,epic_giantsbrewzero,artillery_maxpower",
-        "nextNodeType": "crystalcavethrone"
-    },
-    {
         "dungeonRunId": "179386",
         "completedLevels": "35",
         "twitchDisplayName": "MozzyAuzzy",
@@ -25,6 +16,15 @@
         "endTime": "2025-03-13 03:23:07",
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
         "nextNodeType": "steampunksiege"
+    },
+    {
+        "dungeonRunId": "179393",
+        "completedLevels": "35",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-13 01:38:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves,bomber_ricochet,ranged_ironbreakballistics,warbeast_1,warlock_inferno,armored_unyieldingdefense,berserker_enrage,warrior_swordofruin,lancer_sarissaspears,elf_elvenimmortality,healer_healing_bloom,epic_giantsbrewzero,artillery_maxpower",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "179359",
