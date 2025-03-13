@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179386",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-12 22:55:39",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,healer_giftofregeneration,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,general_2,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
-        "nextNodeType": "dungeons_jerry"
+        "nextNodeType": "shogunateAmbush"
     },
     {
         "dungeonRunId": "179359",
