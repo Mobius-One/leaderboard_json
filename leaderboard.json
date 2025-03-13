@@ -63,6 +63,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179401",
+        "completedLevels": "20",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-13 06:23:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,bomber_ricochet,art_siege_weapons,general_1,ensouled_fatedspirits,gladiator_war_machine,flagbearer_bannerofvitality,paladin_skeletalsquire,archer_steadybow,general_4,artillery_maxpower,blob_parasite,epic_giantsbrewzero,ranged_preciseshot,flag_1,vampire_darkwings,warrior_flameslash,rogue_shadowcloak,melee_damage_1,armored_heavyblades",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179388",
         "completedLevels": "20",
         "twitchDisplayName": "HopesAreWonky",
@@ -70,15 +79,6 @@
         "endTime": "2025-03-13 02:53:18",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_doomingsong,saint_missionary,gladiator_war_machine,general_3,berserker_enrage,berserker_frenzy,healer_combatmedic,melee_armor_break,buster_carbonplating,general_1,necromancer_necronomicon,rogue_shadowcloak,warrior_bladedancer,armored_heavyblades,paladin_holyforce,general_5,artillery_maxpower,blob_parasite,ranged_rangergloves,healer_giftofregeneration",
         "nextNodeType": "lavafurnace"
-    },
-    {
-        "dungeonRunId": "179401",
-        "completedLevels": "19",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-13 06:23:15",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,bomber_ricochet,art_siege_weapons,general_1,ensouled_fatedspirits,gladiator_war_machine,flagbearer_bannerofvitality,paladin_skeletalsquire,archer_steadybow,general_4,artillery_maxpower,blob_parasite,epic_giantsbrewzero,ranged_preciseshot,flag_1,vampire_darkwings,warrior_flameslash,rogue_shadowcloak,melee_damage_1",
-        "nextNodeType": "beastlandsbeast05"
     },
     {
         "dungeonRunId": "179360",
