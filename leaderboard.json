@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179401",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-03-13 06:23:15",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,bomber_ricochet,art_siege_weapons,general_1,ensouled_fatedspirits,gladiator_war_machine,flagbearer_bannerofvitality,paladin_skeletalsquire,archer_steadybow,general_4,artillery_maxpower,blob_parasite,epic_giantsbrewzero,ranged_preciseshot,flag_1,vampire_darkwings,warrior_flameslash,rogue_shadowcloak,melee_damage_1,armored_heavyblades",
-        "nextNodeType": "orctotem"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,bomber_ricochet,art_siege_weapons,general_1,ensouled_fatedspirits,gladiator_war_machine,flagbearer_bannerofvitality,paladin_skeletalsquire,archer_steadybow,general_4,artillery_maxpower,blob_parasite,epic_giantsbrewzero,ranged_preciseshot,flag_1,vampire_darkwings,warrior_flameslash,rogue_shadowcloak,melee_damage_1,armored_heavyblades,bomber_living_bomb",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179388",
