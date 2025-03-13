@@ -81,12 +81,12 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "179355",
-        "completedLevels": "14",
+        "dungeonRunId": "179401",
+        "completedLevels": "15",
         "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-12 07:35:44",
-        "endTime": "2025-03-13 06:15:04",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,elf_elvenimmortality,berserker_frenzy,armored_unyieldingdefense,support_defensivetraining,bomber_living_bomb,melee_damage_1,armored_heavyblades,rogue_shadowcloak,archer_zephyrstride,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,necromancer_necronomicon",
-        "nextNodeType": "dungeons_jerry"
+        "startTime": "2025-03-13 06:23:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,bomber_ricochet,art_siege_weapons,general_1,ensouled_fatedspirits,gladiator_war_machine,flagbearer_bannerofvitality,paladin_skeletalsquire,archer_steadybow,general_4,artillery_maxpower,blob_parasite,epic_giantsbrewzero,ranged_preciseshot",
+        "nextNodeType": "raidhallalake"
     }
 ]
