@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179386",
-        "completedLevels": "30",
+        "completedLevels": "31",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-12 22:55:39",
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,general_2,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
-        "nextNodeType": "shogunateAmbush"
+        "nextNodeType": "icecaveportals"
     },
     {
         "dungeonRunId": "179359",
@@ -54,13 +54,13 @@
         "nextNodeType": "steampunkgear"
     },
     {
-        "dungeonRunId": "179347",
-        "completedLevels": "19",
+        "dungeonRunId": "179388",
+        "completedLevels": "20",
         "twitchDisplayName": "HopesAreWonky",
-        "startTime": "2025-03-12 00:10:51",
-        "endTime": "2025-03-12 03:10:22",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,armored_unyieldingdefense,assassin_deathmark,musk_volley_tactics,general_1,centurion_juggernaut,tank_hoarfrost_armor,general_5,melee_armor_break,warbeast_underworldbeast,archer_zephyrstride,orcs_inpenetrable,archer_steadybow,flagbearer_bannerofvitality,templar_commanding_presence,blob_parasite,saint_exalt,necromancer_necronomicon,centurion_shieldofbones,rogue_sneakattack",
-        "nextNodeType": "lavachamber"
+        "startTime": "2025-03-12 23:45:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_doomingsong,saint_missionary,gladiator_war_machine,general_3,berserker_enrage,berserker_frenzy,healer_combatmedic,melee_armor_break,buster_carbonplating,general_1,necromancer_necronomicon,rogue_shadowcloak,warrior_bladedancer,armored_heavyblades,paladin_holyforce,general_5,artillery_maxpower,blob_parasite,ranged_rangergloves",
+        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "179360",
@@ -77,7 +77,7 @@
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-13 01:38:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry",
         "nextNodeType": "lavafurnace"
     },
     {
