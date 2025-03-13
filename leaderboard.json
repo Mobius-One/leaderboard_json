@@ -36,6 +36,15 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179393",
+        "completedLevels": "22",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-13 01:38:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves,bomber_ricochet,warbeast_underworldbeast,ranged_ironbreakballistics,warbeast_1,warlock_inferno,armored_unyieldingdefense",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179371",
         "completedLevels": "22",
         "twitchDisplayName": "ohitsneb",
@@ -43,15 +52,6 @@
         "endTime": "2025-03-12 21:07:45",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,centurion_juggernaut,healer_healing_bloom,ranged_rangergloves,musk_golden_rounds,paladin_holyforce,armored_unyieldingdefense,warrior_flameslash,bomber_living_bomb,saint_exalt,bomber_ricochet,blob_parasite,archer_zephyrstride,armored_heavyblades,warrior_swordofruin,flagbearer_bannerofvitality,vampire_spectralpresence,musk_volley_tactics,epic_giantsbrewzero,undead_undeadresilience,rogue_shadowcloak,healer_combatmedic",
         "nextNodeType": "beastlandsbeast05"
-    },
-    {
-        "dungeonRunId": "179393",
-        "completedLevels": "21",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-13 01:38:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves,bomber_ricochet,warbeast_underworldbeast,ranged_ironbreakballistics,warbeast_1,warlock_inferno",
-        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179376",
