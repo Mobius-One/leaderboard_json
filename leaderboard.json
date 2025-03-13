@@ -54,6 +54,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179393",
+        "completedLevels": "20",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-13 01:38:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves,bomber_ricochet,warbeast_underworldbeast,ranged_ironbreakballistics,warbeast_1",
+        "nextNodeType": "steampunksiege"
+    },
+    {
         "dungeonRunId": "179388",
         "completedLevels": "20",
         "twitchDisplayName": "HopesAreWonky",
@@ -61,15 +70,6 @@
         "endTime": "2025-03-13 02:53:18",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_doomingsong,saint_missionary,gladiator_war_machine,general_3,berserker_enrage,berserker_frenzy,healer_combatmedic,melee_armor_break,buster_carbonplating,general_1,necromancer_necronomicon,rogue_shadowcloak,warrior_bladedancer,armored_heavyblades,paladin_holyforce,general_5,artillery_maxpower,blob_parasite,ranged_rangergloves,healer_giftofregeneration",
         "nextNodeType": "lavafurnace"
-    },
-    {
-        "dungeonRunId": "179393",
-        "completedLevels": "19",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-13 01:38:23",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves,bomber_ricochet,warbeast_underworldbeast,ranged_ironbreakballistics",
-        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "179360",
