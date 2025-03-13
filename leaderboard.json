@@ -81,12 +81,12 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
-        "dungeonRunId": "179379",
+        "dungeonRunId": "179401",
         "completedLevels": "10",
-        "twitchDisplayName": "Exaler",
-        "startTime": "2025-03-12 19:25:42",
-        "endTime": "2025-03-12 21:17:54",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_healingsong,bomber_ricochet,rogue_shadowcloak,assassin_spynetwork,lancer_spearwall,shinobi_blink,paladin_layonhands,barb_warcry,warlock_inferno,ranged_rangergloves",
-        "nextNodeType": "tabletophold"
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-13 06:23:15",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,bomber_ricochet,art_siege_weapons,general_1,ensouled_fatedspirits,gladiator_war_machine,flagbearer_bannerofvitality,paladin_skeletalsquire,archer_steadybow,general_4",
+        "nextNodeType": "wildorcs"
     }
 ]
