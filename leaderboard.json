@@ -14,7 +14,7 @@
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-12 22:55:39",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,healer_giftofregeneration,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,general_2,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,general_2,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
         "nextNodeType": "shogunateAmbush"
     },
     {
@@ -72,6 +72,15 @@
         "nextNodeType": "crystalcavethrone"
     },
     {
+        "dungeonRunId": "179393",
+        "completedLevels": "11",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-13 01:38:23",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1",
+        "nextNodeType": "lavafurnace"
+    },
+    {
         "dungeonRunId": "179379",
         "completedLevels": "10",
         "twitchDisplayName": "Exaler",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-12 21:17:54",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_healingsong,bomber_ricochet,rogue_shadowcloak,assassin_spynetwork,lancer_spearwall,shinobi_blink,paladin_layonhands,barb_warcry,warlock_inferno,ranged_rangergloves",
         "nextNodeType": "tabletophold"
-    },
-    {
-        "dungeonRunId": "179344",
-        "completedLevels": "9",
-        "twitchDisplayName": "JayelDraco",
-        "startTime": "2025-03-11 23:11:29",
-        "endTime": "2025-03-12 02:52:49",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,elf_elvenimmortality,musk_volley_tactics,tank_tungstenswords,warrior_flameslash,rogue_shadowcloak,archer_zephyrstride,lancer_spearwall,archer_steadybow",
-        "nextNodeType": "raidhallapath"
     }
 ]
