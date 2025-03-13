@@ -9,13 +9,13 @@
         "nextNodeType": "steampunksiege"
     },
     {
-        "dungeonRunId": "179348",
-        "completedLevels": "28",
+        "dungeonRunId": "179386",
+        "completedLevels": "29",
         "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-12 01:25:03",
-        "endTime": "2025-03-12 04:53:03",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,healer_combatmedic,elf_elvenimmortality,art_siege_weapons,armored_unyieldingdefense,support_defensivetraining,orcslayer_worldrazer,general_1,archer_enchantedammo,archer_steadybow,general_4,mage_elementalsummoning,saint_godspeed,general_3,melee_armor_break,rogue_shadowcloak,barbarian_gloriousdeath,ensouled_fatedspirits,musk_volley_tactics,tank_tungstenswords,ensouled_enragedspirits,spy_fromcaptainwithlove,ranged_rangergloves,healer_giftofregeneration,healer_healing_bloom,support_doomingsong,fairy_hocuspocus,mage_clone,general_2",
-        "nextNodeType": "shogunateAmbush"
+        "startTime": "2025-03-12 22:55:39",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_ironbreakballistics,healer_giftofregeneration,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,general_2,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179359",
