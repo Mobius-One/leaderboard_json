@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179386",
-        "completedLevels": "34",
+        "completedLevels": "35",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-12 22:55:39",
         "endTime": null,
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
-        "nextNodeType": "moboatx"
+        "nextNodeType": "steampunksiege"
     },
     {
         "dungeonRunId": "179359",
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179393",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-13 01:38:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves",
-        "nextNodeType": "oasisruins"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves,bomber_ricochet",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "179379",
