@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179393",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-13 01:38:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves,bomber_ricochet,warbeast_underworldbeast,ranged_ironbreakballistics,warbeast_1,warlock_inferno,armored_unyieldingdefense,berserker_enrage,warrior_swordofruin,lancer_sarissaspears,elf_elvenimmortality,healer_healing_bloom,epic_giantsbrewzero",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics,rogue_sneakattack,gladiator_sonofthunder,blob_parasite,ranged_rangergloves,bomber_ricochet,warbeast_underworldbeast,ranged_ironbreakballistics,warbeast_1,warlock_inferno,armored_unyieldingdefense,berserker_enrage,warrior_swordofruin,lancer_sarissaspears,elf_elvenimmortality,healer_healing_bloom,epic_giantsbrewzero,artillery_maxpower",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179359",
