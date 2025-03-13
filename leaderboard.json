@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179386",
-        "completedLevels": "31",
+        "completedLevels": "32",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-12 22:55:39",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,healer_giftofregeneration,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,general_2,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
-        "nextNodeType": "icecaveportals"
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,general_2,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "179359",
@@ -58,7 +58,7 @@
         "completedLevels": "20",
         "twitchDisplayName": "HopesAreWonky",
         "startTime": "2025-03-12 23:45:33",
-        "endTime": null,
+        "endTime": "2025-03-13 02:53:18",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_doomingsong,saint_missionary,gladiator_war_machine,general_3,berserker_enrage,berserker_frenzy,healer_combatmedic,melee_armor_break,buster_carbonplating,general_1,necromancer_necronomicon,rogue_shadowcloak,warrior_bladedancer,armored_heavyblades,paladin_holyforce,general_5,artillery_maxpower,blob_parasite,ranged_rangergloves,healer_giftofregeneration",
         "nextNodeType": "lavafurnace"
     },
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179393",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-13 01:38:23",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics",
-        "nextNodeType": "shrinkeningpuddles"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,orcs_inpenetrable,amazon_vineclone,saint_exalt,melee_armor_break,necromancer_ectoplosion,assassin_spynetwork,musk_golden_rounds,phantom_thehaunting,melee_damage_1,barb_warcry,musk_volley_tactics,rogue_sneakattack",
+        "nextNodeType": "shogunateBasic"
     },
     {
         "dungeonRunId": "179379",
