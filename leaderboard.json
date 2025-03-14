@@ -63,6 +63,15 @@
         "nextNodeType": "beastlandsbeast05"
     },
     {
+        "dungeonRunId": "179435",
+        "completedLevels": "21",
+        "twitchDisplayName": "HopesAreWonky",
+        "startTime": "2025-03-14 00:06:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,armored_heavyblades,blob_parasite,archer_zephyrstride,melee_armor_break,flag_1,ranged_rangergloves,monk_selfless_prayer,art_siege_weapons,healer_combatmedic,artillery_maxpower,musk_volley_tactics,melee_damage_1,orcs_inpenetrable,vampire_swarmcoffin,general_4,ranged_preciseshot,buster_carbonplating,general_1,musk_golden_rounds,saint_godspeed",
+        "nextNodeType": "steampunkgear"
+    },
+    {
         "dungeonRunId": "179376",
         "completedLevels": "21",
         "twitchDisplayName": "chiquik",
@@ -70,15 +79,6 @@
         "endTime": "2025-03-12 20:08:06",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,flag_holdfast,centurion_shieldofbones,tank_tungstenswords,bomber_ricochet,art_siege_weapons,paladin_layonhands,warbeast_1,archer_steadybow,saint_exalt,warrior_flameslash,musk_volley_tactics,epic_giantsbrewzero,paladin_skeletalsquire,lancer_ignitingstrike,rogue_sneakattack,ranged_preciseshot,blob_parasite,support_healingsong,rogue_momentum,bomber_living_bomb",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179388",
-        "completedLevels": "20",
-        "twitchDisplayName": "HopesAreWonky",
-        "startTime": "2025-03-12 23:45:33",
-        "endTime": "2025-03-13 02:53:18",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,support_doomingsong,saint_missionary,gladiator_war_machine,general_3,berserker_enrage,berserker_frenzy,healer_combatmedic,melee_armor_break,buster_carbonplating,general_1,necromancer_necronomicon,rogue_shadowcloak,warrior_bladedancer,armored_heavyblades,paladin_holyforce,general_5,artillery_maxpower,blob_parasite,ranged_rangergloves,healer_giftofregeneration",
-        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "179360",
