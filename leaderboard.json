@@ -36,13 +36,13 @@
         "nextNodeType": "lavachamber"
     },
     {
-        "dungeonRunId": "179359",
-        "completedLevels": "26",
+        "dungeonRunId": "179464",
+        "completedLevels": "27",
         "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-12 08:45:24",
-        "endTime": "2025-03-12 23:12:49",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,centurion_juggernaut,blob_parasite,ranged_rangergloves,armored_heavyblades,warbeast_underworldbeast,general_2,melee_armor_break,art_siege_weapons,melee_damage_1,necromancer_necronomicon,lancer_ignitingstrike,melee_charge,flag_holdfast,paladin_holyforce,assassin_spynetwork,healer_giftofregeneration,templar_1,tank_tungstenswords,mage_elementalsummoning,berserker_frenzy,healer_combatmedic,barb_warcry,flag_1,support_doomingsong,shinobi_firetechinique",
-        "nextNodeType": "steampunksiege"
+        "startTime": "2025-03-14 18:28:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,saint_missionary,archer_steadybow,melee_damage_1,artillery_maxpower,flag_1,ranged_rangergloves,ranged_preciseshot,monk_heavenskarma,general_2,armored_heavyblades,necromancer_ectoplosion,epic_giantsbrewzero,paladin_skeletalsquire,warbeast_underworldbeast,general_5,healer_giftofregeneration,art_siege_weapons,lancer_sarissaspears,orcs_inpenetrable,gladiator_war_machine,flagbearer_bannerofvitality,ensouled_fatedspirits,amazon_vineclone,support_doomingsong,elf_elvenimmortality,buster_carbonplating",
+        "nextNodeType": "shogunateBasic"
     },
     {
         "dungeonRunId": "179450",
