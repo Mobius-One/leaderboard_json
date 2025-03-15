@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179472",
-        "completedLevels": "47",
+        "completedLevels": "48",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-15 00:05:59",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,bomber_ricochet,amazon_vineclone,berserker_enrage,archer_steadybow,artillery_maxpower,warrior_swordofruin,epic_giantsbrewzero,orcs_inpenetrable,warrior_bladedancer,ranged_ironbreakballistics,ensouled_enragedspirits,bomber_living_bomb,lancer_sarissaspears,necromancer_ectoplosion,general_5,barb_warcry,armored_unyieldingdefense,melee_armor_break,art_siege_weapons,buster_healing_bomb",
-        "nextNodeType": "crystalcavethrone"
+        "captainBoons": "common_classic_comeback,saint_exalt,bomber_ricochet,amazon_vineclone,berserker_enrage,archer_steadybow,artillery_maxpower,warrior_swordofruin,epic_giantsbrewzero,orcs_inpenetrable,ranged_ironbreakballistics,ensouled_enragedspirits,bomber_living_bomb,lancer_sarissaspears,necromancer_ectoplosion,general_5,barb_warcry,armored_unyieldingdefense,melee_armor_break,art_siege_weapons,buster_healing_bomb",
+        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "179363",
