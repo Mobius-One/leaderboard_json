@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179464",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-14 18:28:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,saint_missionary,archer_steadybow,melee_damage_1,artillery_maxpower,flag_1,ranged_rangergloves,ranged_preciseshot,monk_heavenskarma,general_2,armored_heavyblades,necromancer_ectoplosion,epic_giantsbrewzero,paladin_skeletalsquire,warbeast_underworldbeast,general_5,healer_giftofregeneration,art_siege_weapons,lancer_sarissaspears,orcs_inpenetrable,gladiator_war_machine,flagbearer_bannerofvitality,ensouled_fatedspirits,amazon_vineclone,support_doomingsong,elf_elvenimmortality,buster_carbonplating,assassin_spynetwork",
-        "nextNodeType": "icecaveportals"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,saint_missionary,archer_steadybow,melee_damage_1,artillery_maxpower,flag_1,ranged_rangergloves,ranged_preciseshot,monk_heavenskarma,general_2,armored_heavyblades,necromancer_ectoplosion,epic_giantsbrewzero,paladin_skeletalsquire,warbeast_underworldbeast,general_5,healer_giftofregeneration,art_siege_weapons,lancer_sarissaspears,orcs_inpenetrable,gladiator_war_machine,flagbearer_bannerofvitality,ensouled_fatedspirits,amazon_vineclone,support_doomingsong,elf_elvenimmortality,buster_carbonplating,assassin_spynetwork,assassin_deathmark",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179488",
