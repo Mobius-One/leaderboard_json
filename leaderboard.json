@@ -63,6 +63,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179531",
+        "completedLevels": "24",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2025-03-16 16:22:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,archer_enchantedammo,archer_steadybow,general_3,bomber_ricochet,warrior_swordofruin,ranged_rangergloves,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,rogue_momentum,shinobi_blink,rogue_sneakattack,necromancer_necronomicon,barbarian_conqueror,general_2,ensouled_fatedspirits,rogue_shadowcloak,assassin_spynetwork,ensouled_enragedspirits,musk_volley_tactics,warrior_bladedancer,tank_ironclad,fairy_nixiepops",
+        "nextNodeType": "tabletophold"
+    },
+    {
         "dungeonRunId": "179450",
         "completedLevels": "24",
         "twitchDisplayName": "DewInBlack",
@@ -70,15 +79,6 @@
         "endTime": "2025-03-16 07:36:06",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_3,shinobi_firetechinique,warlock_inferno,archer_zephyrstride,ranged_preciseshot,musk_volley_tactics,ranged_ironbreakballistics,artillery_maxpower,blob_parasite,melee_damage_1,warbeast_1,flag_1,epic_giantsbrewzero,undead_undeadresilience,gladiator_war_machine,ranged_rangergloves,paladin_skeletalsquire,fairy_nixiepops,flagbearer_bannerofvitality,archer_enchantedammo,necromancer_ectoplosion,healer_combatmedic,mage_elementalsummoning,berserker_frenzy",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179531",
-        "completedLevels": "23",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2025-03-16 16:22:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,archer_enchantedammo,archer_steadybow,general_3,bomber_ricochet,warrior_swordofruin,ranged_rangergloves,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,rogue_momentum,shinobi_blink,rogue_sneakattack,necromancer_necronomicon,barbarian_conqueror,general_2,ensouled_fatedspirits,rogue_shadowcloak,assassin_spynetwork,ensouled_enragedspirits,musk_volley_tactics,warrior_bladedancer,tank_ironclad",
-        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "179371",
