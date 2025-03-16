@@ -18,15 +18,6 @@
         "nextNodeType": "steampunksiege"
     },
     {
-        "dungeonRunId": "179386",
-        "completedLevels": "35",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-12 22:55:39",
-        "endTime": "2025-03-13 03:23:07",
-        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
-        "nextNodeType": "steampunksiege"
-    },
-    {
         "dungeonRunId": "179518",
         "completedLevels": "35",
         "twitchDisplayName": "chiquik",
@@ -34,6 +25,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,barb_warcry,art_siege_weapons,saint_exalt,flag_holdfast,rogue_shadowcloak,general_5,rogue_momentum,musk_volley_tactics,ranged_rangergloves,gladiator_sonofthunder,blob_parasite,melee_damage_1,necromancer_ectoplosion,epic_giantsbrewzero,shinobi_blink,support_healingsong,lancer_spearwall,flagbearer_bannerofvitality,warbeast_1,bomber_living_bomb,ranged_ironbreakballistics,ranged_preciseshot,healer_healing_bloom,assassin_spynetwork,tank_ironclad",
         "nextNodeType": "starboss"
+    },
+    {
+        "dungeonRunId": "179386",
+        "completedLevels": "35",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-03-12 22:55:39",
+        "endTime": "2025-03-13 03:23:07",
+        "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
+        "nextNodeType": "steampunksiege"
     },
     {
         "dungeonRunId": "179464",
