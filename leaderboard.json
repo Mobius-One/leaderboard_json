@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "179499",
-        "completedLevels": "26",
+        "completedLevels": "27",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-15 19:54:28",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,mage_elementalsummoning,balloonbuster_pinata,melee_damage_1,ensouled_fatedspirits,art_siege_weapons,epic_giantsbrewzero,saint_missionary,mage_clone,ranged_rangergloves,necromancer_necronomicon,phantom_thehaunting,support_healingsong,melee_armor_break,flag_1,rogue_sneakattack,paladin_skeletalsquire,bomber_living_bomb,flagbearer_bannerofvitality,armored_heavyblades,healer_healing_bloom,lancer_sarissaspears,ensouled_enragedspirits,necromancer_ectoplosion,armored_unyieldingdefense,archer_enchantedammo",
-        "nextNodeType": "starboss"
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179450",
