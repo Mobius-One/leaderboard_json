@@ -54,6 +54,15 @@
         "nextNodeType": "lavachamber"
     },
     {
+        "dungeonRunId": "179532",
+        "completedLevels": "27",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2025-03-16 18:38:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofvitality,ensouled_fatedspirits,frogue_air_snipers,rogue_sneakattack,ranged_preciseshot,rogue_shadowcloak,assassin_spynetwork,tank_ironclad,flag_1,warrior_bladedancer,berserker_enrage,blob_parasite,ranged_ironbreakballistics,necromancer_necronomicon,warbeast_underworldbeast,saint_exalt,fairy_hocuspocus,bomber_living_bomb,general_2,bomber_ricochet,lancer_ignitingstrike,melee_damage_1,assassin_deathmark,healer_healing_bloom,paladin_layonhands,gladiator_sonofthunder,vampire_swarmcoffin",
+        "nextNodeType": "wildorcs"
+    },
+    {
         "dungeonRunId": "179499",
         "completedLevels": "27",
         "twitchDisplayName": "Rafipi",
@@ -61,15 +70,6 @@
         "endTime": "2025-03-16 00:11:49",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,mage_elementalsummoning,balloonbuster_pinata,melee_damage_1,ensouled_fatedspirits,art_siege_weapons,epic_giantsbrewzero,saint_missionary,mage_clone,ranged_rangergloves,necromancer_necronomicon,phantom_thehaunting,support_healingsong,melee_armor_break,flag_1,rogue_sneakattack,paladin_skeletalsquire,bomber_living_bomb,flagbearer_bannerofvitality,armored_heavyblades,healer_healing_bloom,lancer_sarissaspears,ensouled_enragedspirits,necromancer_ectoplosion,armored_unyieldingdefense,archer_enchantedammo,musk_volley_tactics",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179532",
-        "completedLevels": "27",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2025-03-16 18:38:27",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofvitality,ensouled_fatedspirits,frogue_air_snipers,rogue_sneakattack,ranged_preciseshot,rogue_shadowcloak,assassin_spynetwork,tank_ironclad,flag_1,warrior_bladedancer,berserker_enrage,blob_parasite,ranged_ironbreakballistics,necromancer_necronomicon,warbeast_underworldbeast,saint_exalt,fairy_hocuspocus,bomber_living_bomb,general_2,bomber_ricochet,lancer_ignitingstrike,melee_damage_1,assassin_deathmark,healer_healing_bloom,paladin_layonhands,gladiator_sonofthunder",
-        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "179450",
