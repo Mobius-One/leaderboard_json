@@ -81,12 +81,12 @@
         "nextNodeType": "beastlandsbeast05"
     },
     {
-        "dungeonRunId": "179435",
+        "dungeonRunId": "179531",
         "completedLevels": "21",
-        "twitchDisplayName": "HopesAreWonky",
-        "startTime": "2025-03-14 00:06:03",
-        "endTime": "2025-03-14 03:21:40",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,armored_heavyblades,blob_parasite,archer_zephyrstride,melee_armor_break,flag_1,ranged_rangergloves,monk_selfless_prayer,art_siege_weapons,healer_combatmedic,artillery_maxpower,musk_volley_tactics,melee_damage_1,orcs_inpenetrable,vampire_swarmcoffin,general_4,ranged_preciseshot,buster_carbonplating,general_1,musk_golden_rounds,saint_godspeed",
-        "nextNodeType": "steampunkgear"
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2025-03-16 16:22:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,archer_enchantedammo,archer_steadybow,general_3,bomber_ricochet,warrior_swordofruin,ranged_rangergloves,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,rogue_momentum,shinobi_blink,rogue_sneakattack,necromancer_necronomicon,barbarian_conqueror,general_2,ensouled_fatedspirits,rogue_shadowcloak,assassin_spynetwork,ensouled_enragedspirits,musk_volley_tactics",
+        "nextNodeType": "icecaveportals"
     }
 ]
