@@ -45,13 +45,13 @@
         "nextNodeType": "lavachamber"
     },
     {
-        "dungeonRunId": "179488",
-        "completedLevels": "25",
+        "dungeonRunId": "179499",
+        "completedLevels": "26",
         "twitchDisplayName": "Rafipi",
-        "startTime": "2025-03-15 16:10:52",
-        "endTime": "2025-03-15 19:45:55",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,melee_damage_1,frogue_preparation,balloonbuster_pinata,epic_giantsbrewzero,berserker_enrage,tank_hoarfrost_armor,ranged_rangergloves,gladiator_sonofthunder,necromancer_ectoplosion,armored_unyieldingdefense,artillery_maxpower,phantom_thehaunting,lancer_sarissaspears,armored_heavyblades,warlock_inferno,saint_exalt,saint_missionary,frogue_air_snipers,warrior_bladedancer,rogue_momentum,flag_1,paladin_layonhands,orcs_inpenetrable,warrior_swordofruin,support_doomingsong",
-        "nextNodeType": "steampunkgear"
+        "startTime": "2025-03-15 19:54:28",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,mage_elementalsummoning,balloonbuster_pinata,melee_damage_1,ensouled_fatedspirits,art_siege_weapons,epic_giantsbrewzero,saint_missionary,mage_clone,ranged_rangergloves,necromancer_necronomicon,phantom_thehaunting,support_healingsong,melee_armor_break,flag_1,rogue_sneakattack,paladin_skeletalsquire,bomber_living_bomb,flagbearer_bannerofvitality,armored_heavyblades,healer_healing_bloom,lancer_sarissaspears,ensouled_enragedspirits,necromancer_ectoplosion,armored_unyieldingdefense,archer_enchantedammo",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179450",
