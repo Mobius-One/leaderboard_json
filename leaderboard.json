@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "179518",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-16 06:42:42",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,barb_warcry,art_siege_weapons,saint_exalt,flag_holdfast,rogue_shadowcloak,general_5,rogue_momentum,musk_volley_tactics,ranged_rangergloves,gladiator_sonofthunder,blob_parasite,melee_damage_1,necromancer_ectoplosion,epic_giantsbrewzero,templar_commanding_presence,shinobi_blink,support_healingsong,lancer_spearwall,flagbearer_bannerofvitality,warbeast_1,bomber_living_bomb,ranged_ironbreakballistics,ranged_preciseshot,healer_healing_bloom,assassin_spynetwork,tank_ironclad",
-        "nextNodeType": "moboatx"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,barb_warcry,art_siege_weapons,saint_exalt,flag_holdfast,rogue_shadowcloak,general_5,rogue_momentum,musk_volley_tactics,ranged_rangergloves,gladiator_sonofthunder,blob_parasite,melee_damage_1,necromancer_ectoplosion,epic_giantsbrewzero,shinobi_blink,support_healingsong,lancer_spearwall,flagbearer_bannerofvitality,warbeast_1,bomber_living_bomb,ranged_ironbreakballistics,ranged_preciseshot,healer_healing_bloom,assassin_spynetwork,tank_ironclad",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179464",
