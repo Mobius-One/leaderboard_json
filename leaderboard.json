@@ -63,13 +63,13 @@
         "nextNodeType": "steampunkgear"
     },
     {
-        "dungeonRunId": "179531",
-        "completedLevels": "24",
+        "dungeonRunId": "179532",
+        "completedLevels": "25",
         "twitchDisplayName": "Hyf1re",
-        "startTime": "2025-03-16 16:22:13",
-        "endTime": "2025-03-16 18:38:12",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_5,archer_enchantedammo,archer_steadybow,general_3,bomber_ricochet,warrior_swordofruin,ranged_rangergloves,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,rogue_momentum,shinobi_blink,rogue_sneakattack,necromancer_necronomicon,barbarian_conqueror,general_2,ensouled_fatedspirits,rogue_shadowcloak,assassin_spynetwork,ensouled_enragedspirits,musk_volley_tactics,warrior_bladedancer,tank_ironclad,fairy_nixiepops",
-        "nextNodeType": "tabletophold"
+        "startTime": "2025-03-16 18:38:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofvitality,ensouled_fatedspirits,frogue_air_snipers,rogue_sneakattack,ranged_preciseshot,rogue_shadowcloak,assassin_spynetwork,tank_ironclad,flag_1,warrior_bladedancer,berserker_enrage,blob_parasite,ranged_ironbreakballistics,necromancer_necronomicon,warbeast_underworldbeast,saint_exalt,fairy_hocuspocus,bomber_living_bomb,general_2,bomber_ricochet,lancer_ignitingstrike,melee_damage_1,assassin_deathmark,healer_healing_bloom",
+        "nextNodeType": "raidhallapath"
     },
     {
         "dungeonRunId": "179450",
