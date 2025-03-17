@@ -27,6 +27,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179536",
+        "completedLevels": "35",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2025-03-16 21:26:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,tank_ironclad,saint_godspeed,support_healingsong,frogue_air_snipers,ranged_ironbreakballistics,ensouled_enragedspirits,tank_hoarfrost_armor,ensouled_fatedspirits,warlock_inferno,armored_unyieldingdefense,warrior_flameslash,fairy_nixiepops,general_1,armored_heavyblades,epic_giantsbrewzero,ranged_preciseshot,art_siege_weapons,general_3,support_defensivetraining,paladin_holyforce,lancer_sarissaspears,archer_enchantedammo",
+        "nextNodeType": "crystalcavethrone"
+    },
+    {
         "dungeonRunId": "179386",
         "completedLevels": "35",
         "twitchDisplayName": "MozzyAuzzy",
@@ -34,15 +43,6 @@
         "endTime": "2025-03-13 03:23:07",
         "captainBoons": "common_classic_comeback,ranged_ironbreakballistics,monk_heavenskarma,general_4,archer_enchantedammo,berserker_frenzy,warbeast_1,fairy_nixiepops,armored_unyieldingdefense,armored_heavyblades,templar_1,general_5,fairy_hocuspocus,archer_steadybow,melee_damage_1,centurion_juggernaut,paladin_holyforce,ranged_rangergloves,ensouled_fatedspirits,saint_godspeed,archer_zephyrstride,artillery_maxpower,mage_clone,epic_giantsbrewzero,saint_missionary,centurion_shieldofbones,general_1,templar_commanding_presence",
         "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179536",
-        "completedLevels": "34",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2025-03-16 21:26:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,tank_ironclad,saint_godspeed,support_healingsong,frogue_air_snipers,ranged_ironbreakballistics,ensouled_enragedspirits,tank_hoarfrost_armor,ensouled_fatedspirits,warlock_inferno,armored_unyieldingdefense,warrior_flameslash,fairy_nixiepops,general_1,armored_heavyblades,epic_giantsbrewzero,ranged_preciseshot,art_siege_weapons,general_3,support_defensivetraining,paladin_holyforce,lancer_sarissaspears,archer_enchantedammo",
-        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179464",
