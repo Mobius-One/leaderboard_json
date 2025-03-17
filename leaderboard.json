@@ -54,13 +54,13 @@
         "nextNodeType": "lavachamber"
     },
     {
-        "dungeonRunId": "179532",
-        "completedLevels": "28",
+        "dungeonRunId": "179536",
+        "completedLevels": "29",
         "twitchDisplayName": "Hyf1re",
-        "startTime": "2025-03-16 18:38:27",
-        "endTime": "2025-03-16 21:25:25",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofvitality,ensouled_fatedspirits,frogue_air_snipers,rogue_sneakattack,ranged_preciseshot,rogue_shadowcloak,assassin_spynetwork,tank_ironclad,flag_1,warrior_bladedancer,berserker_enrage,blob_parasite,ranged_ironbreakballistics,necromancer_necronomicon,warbeast_underworldbeast,saint_exalt,fairy_hocuspocus,bomber_living_bomb,general_2,bomber_ricochet,lancer_ignitingstrike,melee_damage_1,assassin_deathmark,healer_healing_bloom,paladin_layonhands,gladiator_sonofthunder,vampire_swarmcoffin,epic_giantsbrewzero",
-        "nextNodeType": "icecaveportals"
+        "startTime": "2025-03-16 21:26:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,tank_ironclad,saint_godspeed,support_healingsong,templar_commanding_presence,frogue_air_snipers,ranged_ironbreakballistics,ensouled_enragedspirits,tank_hoarfrost_armor,support_doomingsong,ensouled_fatedspirits,warlock_inferno,armored_unyieldingdefense,warrior_flameslash,fairy_nixiepops,general_1,armored_heavyblades,archer_steadybow,epic_giantsbrewzero,ranged_preciseshot,art_siege_weapons,general_3,support_defensivetraining,paladin_holyforce,lancer_sarissaspears,archer_enchantedammo",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179499",
