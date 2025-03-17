@@ -36,6 +36,15 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179536",
+        "completedLevels": "31",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2025-03-16 21:26:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,tank_ironclad,saint_godspeed,support_healingsong,templar_commanding_presence,frogue_air_snipers,ranged_ironbreakballistics,ensouled_enragedspirits,tank_hoarfrost_armor,support_doomingsong,ensouled_fatedspirits,warlock_inferno,armored_unyieldingdefense,warrior_flameslash,fairy_nixiepops,general_1,armored_heavyblades,epic_giantsbrewzero,ranged_preciseshot,art_siege_weapons,general_3,support_defensivetraining,paladin_holyforce,lancer_sarissaspears,archer_enchantedammo",
+        "nextNodeType": "raidhallapath"
+    },
+    {
         "dungeonRunId": "179464",
         "completedLevels": "31",
         "twitchDisplayName": "Hooks",
@@ -52,15 +61,6 @@
         "endTime": "2025-03-13 11:49:17",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,bomber_ricochet,shinobi_blink,saint_exalt,archer_enchantedammo,archer_steadybow,general_5,rogue_momentum,balloonbuster_pinata,general_2,vampire_spectralpresence,musk_volley_tactics,epic_giantsbrewzero,artillery_maxpower,tank_hoarfrost_armor,melee_damage_1,ranged_preciseshot,blob_parasite,general_1,saint_missionary,flagbearer_bannerofvitality,necromancer_necronomicon,fairy_nixiepops,rogue_sneakattack,berserker_enrage,berserker_frenzy,ranged_rangergloves,barb_warcry",
         "nextNodeType": "lavachamber"
-    },
-    {
-        "dungeonRunId": "179536",
-        "completedLevels": "30",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2025-03-16 21:26:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,tank_ironclad,saint_godspeed,support_healingsong,templar_commanding_presence,frogue_air_snipers,ranged_ironbreakballistics,ensouled_enragedspirits,tank_hoarfrost_armor,support_doomingsong,ensouled_fatedspirits,warlock_inferno,armored_unyieldingdefense,warrior_flameslash,fairy_nixiepops,general_1,armored_heavyblades,epic_giantsbrewzero,ranged_preciseshot,art_siege_weapons,general_3,support_defensivetraining,paladin_holyforce,lancer_sarissaspears,archer_enchantedammo",
-        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179499",
