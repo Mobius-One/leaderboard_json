@@ -9,6 +9,15 @@
         "nextNodeType": "beastlandsbeast05"
     },
     {
+        "dungeonRunId": "179536",
+        "completedLevels": "42",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2025-03-16 21:26:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,tank_ironclad,saint_godspeed,support_healingsong,frogue_air_snipers,ranged_ironbreakballistics,ensouled_enragedspirits,ensouled_fatedspirits,warlock_inferno,warrior_flameslash,general_1,armored_heavyblades,epic_giantsbrewzero,ranged_preciseshot,art_siege_weapons,general_3,support_defensivetraining,paladin_holyforce,lancer_sarissaspears,archer_enchantedammo",
+        "nextNodeType": "beastlandsbeast05"
+    },
+    {
         "dungeonRunId": "179363",
         "completedLevels": "41",
         "twitchDisplayName": "JayEmDee",
@@ -16,15 +25,6 @@
         "endTime": "2025-03-12 18:09:41",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,warrior_bladedancer,artillery_maxpower,frogue_air_snipers,epic_giantsbrewzero,melee_armor_break,gladiator_war_machine,armored_unyieldingdefense,berserker_enrage,saint_exalt,musk_volley_tactics,flag_1,ranged_rangergloves,saint_missionary,shinobi_blink,general_5,musk_golden_rounds,barbarian_conqueror,assassin_deathmark,saint_godspeed,lancer_sarissaspears,paladin_holyforce,ranged_ironbreakballistics,necromancer_necronomicon",
         "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179536",
-        "completedLevels": "41",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2025-03-16 21:26:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,tank_ironclad,saint_godspeed,support_healingsong,frogue_air_snipers,ranged_ironbreakballistics,ensouled_enragedspirits,ensouled_fatedspirits,warlock_inferno,armored_unyieldingdefense,warrior_flameslash,general_1,armored_heavyblades,epic_giantsbrewzero,ranged_preciseshot,art_siege_weapons,general_3,support_defensivetraining,paladin_holyforce,lancer_sarissaspears,archer_enchantedammo",
-        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "179518",
