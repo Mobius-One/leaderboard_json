@@ -18,6 +18,15 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179536",
+        "completedLevels": "40",
+        "twitchDisplayName": "Hyf1re",
+        "startTime": "2025-03-16 21:26:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,tank_ironclad,saint_godspeed,support_healingsong,frogue_air_snipers,ranged_ironbreakballistics,ensouled_enragedspirits,ensouled_fatedspirits,warlock_inferno,armored_unyieldingdefense,warrior_flameslash,general_1,armored_heavyblades,epic_giantsbrewzero,ranged_preciseshot,art_siege_weapons,general_3,support_defensivetraining,paladin_holyforce,lancer_sarissaspears,archer_enchantedammo",
+        "nextNodeType": "lavachamber"
+    },
+    {
         "dungeonRunId": "179518",
         "completedLevels": "39",
         "twitchDisplayName": "chiquik",
@@ -25,15 +34,6 @@
         "endTime": "2025-03-16 10:50:58",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_1,barb_warcry,art_siege_weapons,saint_exalt,flag_holdfast,rogue_shadowcloak,general_5,rogue_momentum,musk_volley_tactics,ranged_rangergloves,blob_parasite,melee_damage_1,necromancer_ectoplosion,epic_giantsbrewzero,support_healingsong,lancer_spearwall,flagbearer_bannerofvitality,warbeast_1,bomber_living_bomb,ranged_ironbreakballistics,ranged_preciseshot,healer_healing_bloom,assassin_spynetwork,tank_ironclad",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179536",
-        "completedLevels": "39",
-        "twitchDisplayName": "Hyf1re",
-        "startTime": "2025-03-16 21:26:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_exalt,elf_elvenimmortality,warbeast_underworldbeast,melee_damage_1,tank_ironclad,saint_godspeed,support_healingsong,frogue_air_snipers,ranged_ironbreakballistics,ensouled_enragedspirits,ensouled_fatedspirits,warlock_inferno,armored_unyieldingdefense,warrior_flameslash,fairy_nixiepops,general_1,armored_heavyblades,epic_giantsbrewzero,ranged_preciseshot,art_siege_weapons,general_3,support_defensivetraining,paladin_holyforce,lancer_sarissaspears,archer_enchantedammo",
-        "nextNodeType": "wildorcs"
     },
     {
         "dungeonRunId": "179386",
