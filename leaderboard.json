@@ -72,6 +72,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179566",
+        "completedLevels": "24",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-17 11:56:49",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,ranged_preciseshot,saint_godspeed,general_5,berserker_enrage,blob_parasite,general_1,musk_golden_rounds,fairy_nixiepops,healer_combatmedic,armored_heavyblades,musk_volley_tactics,general_4,paladin_skeletalsquire,archer_steadybow,vampire_darkwings,bomber_ricochet,mage_clone,melee_damage_1,saint_missionary,shinobi_blink,ranged_ironbreakballistics,shinobi_firetechinique,phantom_thehaunting",
+        "nextNodeType": "wildorcs"
+    },
+    {
         "dungeonRunId": "179450",
         "completedLevels": "24",
         "twitchDisplayName": "DewInBlack",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-16 07:36:06",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,general_3,shinobi_firetechinique,warlock_inferno,archer_zephyrstride,ranged_preciseshot,musk_volley_tactics,ranged_ironbreakballistics,artillery_maxpower,blob_parasite,melee_damage_1,warbeast_1,flag_1,epic_giantsbrewzero,undead_undeadresilience,gladiator_war_machine,ranged_rangergloves,paladin_skeletalsquire,fairy_nixiepops,flagbearer_bannerofvitality,archer_enchantedammo,necromancer_ectoplosion,healer_combatmedic,mage_elementalsummoning,berserker_frenzy",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179566",
-        "completedLevels": "23",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-03-17 11:56:49",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_zephyrstride,ranged_preciseshot,saint_godspeed,general_5,berserker_enrage,blob_parasite,general_1,musk_golden_rounds,fairy_nixiepops,healer_combatmedic,armored_heavyblades,musk_volley_tactics,general_4,paladin_skeletalsquire,archer_steadybow,vampire_darkwings,bomber_ricochet,mage_clone,melee_damage_1,saint_missionary,shinobi_blink,ranged_ironbreakballistics,shinobi_firetechinique",
-        "nextNodeType": "starboss"
     }
 ]
