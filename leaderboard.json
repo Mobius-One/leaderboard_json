@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179582",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus",
-        "nextNodeType": "crucibleboss"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,paladin_holyforce",
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "179584",
