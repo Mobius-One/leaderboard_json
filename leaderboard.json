@@ -10,11 +10,11 @@
     },
     {
         "dungeonRunId": "179584",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,spell_empower_killingfield,bomber_dangerzone,warrior_flameslash,orcs_building_rage,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,barbarian_gloriousdeath,support_enchantedstaves,spell_empower_highground,epic_giantsbrewzero,berserker_enrage,archer_steadybow,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,spell_empower_killingfield,bomber_dangerzone,warrior_flameslash,orcs_building_rage,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,barbarian_gloriousdeath,support_enchantedstaves,spell_empower_highground,epic_giantsbrewzero,berserker_enrage,archer_steadybow,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack",
+        "nextNodeType": "thehivecarmeet"
     }
 ]
