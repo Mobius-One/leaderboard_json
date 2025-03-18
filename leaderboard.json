@@ -1,20 +1,20 @@
 [
     {
         "dungeonRunId": "179582",
-        "completedLevels": "11",
+        "completedLevels": "12",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,paladin_holyforce,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact",
-        "nextNodeType": "mothershiphangar"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,paladin_holyforce,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground",
+        "nextNodeType": "graveriver"
     },
     {
         "dungeonRunId": "179584",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck",
-        "nextNodeType": "tomblandsquicksand"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence",
+        "nextNodeType": "wildsboss"
     }
 ]
