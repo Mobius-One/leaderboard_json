@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179582",
-        "completedLevels": "39",
+        "completedLevels": "40",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground,monk_stoptheflow,warrior_flameslash,blob_parasite,flyingrogue_aggravate,flagbearer_focused_morale,warrior_soldieroffortune,barbarian_bringthepain,ensouled_bravespirits,bomber_dangerzone,lancer_ignitingstrike,paladin_layonhands,archer_venomarrows,rogue_sneakattack,musketeer_grapeshot",
-        "nextNodeType": "tomblandsquicksand"
+        "nextNodeType": "libraryorcs"
     },
     {
         "dungeonRunId": "179584",
@@ -19,29 +19,29 @@
     },
     {
         "dungeonRunId": "179588",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-18 22:00:48",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold,centurion_tactician",
-        "nextNodeType": "moboohm"
+        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "179590",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-03-18 22:54:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot",
-        "nextNodeType": "thehiveconveyor"
+        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder",
+        "nextNodeType": "raidhallamuspelheimboss"
     },
     {
         "dungeonRunId": "179591",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-18 23:03:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,melee_followup,warbeast_terrifying_presence,saint_exalt",
-        "nextNodeType": "cruciblemeltdown"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,melee_followup,warbeast_terrifying_presence,saint_exalt,musketeer_grapeshot",
+        "nextNodeType": "crucibleboss"
     }
 ]
