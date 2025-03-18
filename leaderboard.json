@@ -1,20 +1,20 @@
 [
     {
         "dungeonRunId": "179582",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence",
-        "nextNodeType": "crashzoneboss"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "179584",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": null,
         "captainBoons": "common_classic_comeback,healer_combatmedic",
-        "nextNodeType": "dungeonexperiment"
+        "nextNodeType": "crashzoneboss"
     }
 ]
