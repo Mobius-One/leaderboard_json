@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179582",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,paladin_holyforce,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground,monk_stoptheflow,warrior_flameslash,blob_parasite,flyingrogue_aggravate,gladiator_sonofthunder,flagbearer_focused_morale,warrior_soldieroffortune,barbarian_bringthepain,ensouled_bravespirits,bomber_dangerzone,melee_followup,lancer_ignitingstrike,paladin_layonhands,archer_venomarrows,common_specialists,rogue_sneakattack",
-        "nextNodeType": "olympiadgodgroupFullCD"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,paladin_holyforce,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground,monk_stoptheflow,warrior_flameslash,blob_parasite,flyingrogue_aggravate,gladiator_sonofthunder,flagbearer_focused_morale,warrior_soldieroffortune,barbarian_bringthepain,ensouled_bravespirits,bomber_dangerzone,melee_followup,lancer_ignitingstrike,paladin_layonhands,archer_venomarrows,common_specialists,rogue_sneakattack,musketeer_grapeshot",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179584",
