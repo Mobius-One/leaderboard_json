@@ -5,17 +5,17 @@
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground,monk_stoptheflow,warrior_flameslash,blob_parasite,flyingrogue_aggravate,flagbearer_focused_morale,warrior_soldieroffortune,barbarian_bringthepain,ensouled_bravespirits,bomber_dangerzone,lancer_ignitingstrike,paladin_layonhands,archer_venomarrows,rogue_sneakattack,musketeer_grapeshot",
+        "captainBoons": "common_classic_comeback,saint_surgeofconfidence,musk_hunters_mark,fairy_hocuspocus,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground,monk_stoptheflow,warrior_flameslash,blob_parasite,flyingrogue_aggravate,flagbearer_focused_morale,warrior_soldieroffortune,barbarian_bringthepain,ensouled_bravespirits,bomber_dangerzone,lancer_ignitingstrike,paladin_layonhands,archer_venomarrows,rogue_sneakattack,musketeer_grapeshot",
         "nextNodeType": "libraryorcs"
     },
     {
         "dungeonRunId": "179584",
-        "completedLevels": "34",
+        "completedLevels": "35",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": null,
         "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,spell_empower_killingfield,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,barbarian_gloriousdeath,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
-        "nextNodeType": "moboohm"
+        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "179588",
