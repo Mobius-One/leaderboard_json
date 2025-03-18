@@ -10,21 +10,21 @@
     },
     {
         "dungeonRunId": "179584",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": null,
         "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,spell_empower_killingfield,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,barbarian_gloriousdeath,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,archer_steadybow,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
-        "nextNodeType": "raidhallamuspelheimboss"
+        "nextNodeType": "graveriver"
     },
     {
         "dungeonRunId": "179588",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-18 22:00:48",
         "endTime": null,
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold",
-        "nextNodeType": "thehiveconveyor"
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179590",
