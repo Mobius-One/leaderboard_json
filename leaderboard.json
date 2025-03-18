@@ -1,20 +1,20 @@
 [
     {
         "dungeonRunId": "179582",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,paladin_holyforce",
-        "nextNodeType": "cruciblemeltdown"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,paladin_holyforce,epic_giantsbrewzero",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "179584",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb",
-        "nextNodeType": "elementaliceroad"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune",
+        "nextNodeType": "wildshunter"
     }
 ]
