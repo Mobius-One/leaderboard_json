@@ -1,20 +1,20 @@
 [
     {
         "dungeonRunId": "179582",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,paladin_holyforce,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground,monk_stoptheflow",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,paladin_holyforce,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground,monk_stoptheflow,warrior_flameslash,blob_parasite",
+        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "179584",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,spell_empower_killingfield",
-        "nextNodeType": "frontierroundup"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,spell_empower_killingfield,bomber_dangerzone",
+        "nextNodeType": "libraryorcs"
     }
 ]
