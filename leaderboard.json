@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "179582",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_surgeofconfidence,musk_hunters_mark,gladiator_browbeat,fairy_hocuspocus,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground,monk_stoptheflow,warrior_flameslash,blob_parasite,flyingrogue_aggravate,flagbearer_focused_morale,warrior_soldieroffortune,barbarian_bringthepain,ensouled_bravespirits,bomber_dangerzone,lancer_ignitingstrike,paladin_layonhands,archer_venomarrows,rogue_sneakattack,musketeer_grapeshot",
-        "nextNodeType": "mothershiphangar"
+        "nextNodeType": "tomblandsquicksand"
     },
     {
         "dungeonRunId": "179584",
-        "completedLevels": "33",
+        "completedLevels": "34",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,spell_empower_killingfield,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,barbarian_gloriousdeath,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,archer_steadybow,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
-        "nextNodeType": "graveriver"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,spell_empower_killingfield,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,barbarian_gloriousdeath,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179588",
@@ -23,25 +23,25 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-18 22:00:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold",
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold,centurion_tactician",
         "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179590",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-03-18 22:54:06",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja",
-        "nextNodeType": "dungeonlair"
+        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "179591",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-18 23:03:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,melee_followup,warbeast_terrifying_presence",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,melee_followup,warbeast_terrifying_presence,saint_exalt",
+        "nextNodeType": "cruciblemeltdown"
     }
 ]
