@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179611",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "oOJadewolfOo",
         "startTime": "2025-03-19 19:41:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack",
-        "nextNodeType": "olympiadgodgroupFullEF"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation",
+        "nextNodeType": "crucibleboss"
     },
     {
         "dungeonRunId": "179599",
