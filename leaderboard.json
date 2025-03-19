@@ -63,15 +63,6 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "179610",
-        "completedLevels": "1",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-19 17:51:01",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback",
-        "nextNodeType": "dungeonlair"
-    },
-    {
         "dungeonRunId": "179599",
         "completedLevels": "1",
         "twitchDisplayName": "Tebble",
@@ -79,5 +70,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
         "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "179610",
+        "completedLevels": "1",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-03-19 17:51:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,vampire_darkwings",
+        "nextNodeType": "dungeonlair"
     }
 ]
