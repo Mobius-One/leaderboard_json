@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179611",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "oOJadewolfOo",
         "startTime": "2025-03-19 19:41:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor",
+        "nextNodeType": "sugarhill"
     },
     {
         "dungeonRunId": "179599",
