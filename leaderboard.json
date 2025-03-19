@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "179603",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-19 11:22:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179599",
@@ -61,5 +61,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
         "nextNodeType": "cruciblemeltdown"
+    },
+    {
+        "dungeonRunId": "179604",
+        "completedLevels": "1",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-19 12:24:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune",
+        "nextNodeType": "tombsummoning"
     }
 ]
