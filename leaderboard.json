@@ -50,7 +50,7 @@
         "twitchDisplayName": "Tebble",
         "startTime": "2025-03-19 07:04:14",
         "endTime": null,
-        "captainBoons": "common_classic_comeback",
+        "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
         "nextNodeType": "cruciblemeltdown"
     }
 ]
