@@ -19,12 +19,21 @@
     },
     {
         "dungeonRunId": "179592",
-        "completedLevels": "32",
+        "completedLevels": "33",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-19 00:31:20",
         "endTime": null,
         "captainBoons": "common_classic_comeback,centurion_tactician,assassin_disappearingact,blob_parasite,archer_rapidshot,common_specialists,flyingrogue_aggravate,monk_snakestyle,templar_beaconofhope,fairy_fireflyconjuration,ranged_damage_2,musk_hunters_mark,saint_exalt,fairy_hocuspocus,bomber_living_bomb,rogue_sneakattack,saint_surgeofconfidence,archer_steadybow,warrior_soldieroffortune,healer_shadowword,fairy_gift_of_the_wind,epic_giantsbrewzero,warbeast_terrifying_presence,bomber_dangerzone,bomber_concentrated_burst,phantom_thehaunting,musketeer_rapidreload,centurion_juggernaut",
-        "nextNodeType": "mothershiphangar"
+        "nextNodeType": "elementaliceroad"
+    },
+    {
+        "dungeonRunId": "179595",
+        "completedLevels": "15",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-03-19 01:03:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash",
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "179590",
@@ -34,14 +43,5 @@
         "endTime": "2025-03-19 01:56:48",
         "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload,melee_followup,vampire_swarmcoffin,shinobi_shadowstrike,centurion_juggernaut,centurion_2",
         "nextNodeType": "elementalwaterstream"
-    },
-    {
-        "dungeonRunId": "179595",
-        "completedLevels": "14",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-19 01:03:09",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash",
-        "nextNodeType": "dungeons_jerry"
     }
 ]
