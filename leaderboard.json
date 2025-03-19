@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179592",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-19 00:31:20",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,assassin_disappearingact,blob_parasite,archer_rapidshot,gladiator_sonofthunder,common_specialists,flyingrogue_aggravate,monk_snakestyle,templar_beaconofhope,fairy_fireflyconjuration,ranged_damage_2,musk_hunters_mark,saint_exalt,fairy_hocuspocus,bomber_living_bomb,rogue_sneakattack,saint_surgeofconfidence,archer_steadybow,warrior_soldieroffortune,healer_shadowword,fairy_gift_of_the_wind,epic_giantsbrewzero,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,bomber_concentrated_burst,phantom_thehaunting,musketeer_rapidreload",
-        "nextNodeType": "frontierroundup"
+        "captainBoons": "common_classic_comeback,centurion_tactician,assassin_disappearingact,blob_parasite,archer_rapidshot,gladiator_sonofthunder,common_specialists,flyingrogue_aggravate,monk_snakestyle,templar_beaconofhope,fairy_fireflyconjuration,ranged_damage_2,musk_hunters_mark,saint_exalt,fairy_hocuspocus,bomber_living_bomb,rogue_sneakattack,saint_surgeofconfidence,archer_steadybow,warrior_soldieroffortune,healer_shadowword,fairy_gift_of_the_wind,epic_giantsbrewzero,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,bomber_concentrated_burst,phantom_thehaunting,musketeer_rapidreload,centurion_juggernaut",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179590",
@@ -36,12 +36,12 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "179588",
-        "completedLevels": "11",
+        "dungeonRunId": "179595",
+        "completedLevels": "12",
         "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-18 22:00:48",
-        "endTime": "2025-03-19 01:01:49",
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold,centurion_tactician,frogue_cloakingfield,spell_empower_haste,shinobi_shadowstrike,ranged_damage_2",
-        "nextNodeType": "mothershiphangar"
+        "startTime": "2025-03-19 01:03:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle",
+        "nextNodeType": "crystalcavetreasure"
     }
 ]
