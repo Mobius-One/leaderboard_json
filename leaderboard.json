@@ -18,21 +18,21 @@
         "nextNodeType": "sugarhill"
     },
     {
+        "dungeonRunId": "179603",
+        "completedLevels": "39",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-19 11:22:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence,warbeast_terrifying_presence,bomber_dangerzone,melee_followup,flagbearer_focused_morale,saint_exalt,ranged_damage_2,amazon_vineclone,berserker_enrage,berserker_rancor,ensouled_heroicspirits,tank_tungstenswords",
+        "nextNodeType": "sportiabasket"
+    },
+    {
         "dungeonRunId": "179584",
         "completedLevels": "38",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": "2025-03-19 00:13:03",
         "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
-        "nextNodeType": "crashzoneboss"
-    },
-    {
-        "dungeonRunId": "179603",
-        "completedLevels": "38",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-19 11:22:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence,warbeast_terrifying_presence,bomber_dangerzone,melee_followup,flagbearer_focused_morale,saint_exalt,ranged_damage_2,amazon_vineclone,berserker_enrage,berserker_rancor,ensouled_heroicspirits,tank_tungstenswords",
         "nextNodeType": "crashzoneboss"
     },
     {
