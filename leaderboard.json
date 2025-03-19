@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179603",
-        "completedLevels": "42",
+        "completedLevels": "43",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-19 11:22:58",
         "endTime": null,
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence,warbeast_terrifying_presence,bomber_dangerzone,melee_followup,flagbearer_focused_morale,saint_exalt,ranged_damage_2,amazon_vineclone,berserker_enrage,berserker_rancor,ensouled_heroicspirits",
-        "nextNodeType": "sugarhill"
+        "nextNodeType": "thehiveconveyor"
     },
     {
         "dungeonRunId": "179592",
@@ -50,7 +50,7 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-19 01:03:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician,flagbearer_bannerofexaltation,monk_heavenskarma,epic_giantsbrewzero",
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician,flagbearer_bannerofexaltation,monk_heavenskarma,epic_giantsbrewzero,warrior_flameslash",
         "nextNodeType": "raidhallamuspelheimboss"
     },
     {
