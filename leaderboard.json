@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "179603",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-19 11:22:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration",
-        "nextNodeType": "wildshunter"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst",
+        "nextNodeType": "raidhallamuspelheimboss"
     },
     {
         "dungeonRunId": "179599",
