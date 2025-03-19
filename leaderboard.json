@@ -50,7 +50,7 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-19 01:03:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician,flagbearer_bannerofexaltation,monk_heavenskarma,epic_giantsbrewzero,warrior_flameslash,spell_empower_highground",
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician,flagbearer_bannerofexaltation,monk_heavenskarma,epic_giantsbrewzero,warrior_flameslash,spell_empower_highground,archer_rapidshot",
         "nextNodeType": "libraryorcs"
     },
     {
@@ -63,15 +63,6 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "179599",
-        "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-03-19 07:04:14",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
-        "nextNodeType": "cruciblemeltdown"
-    },
-    {
         "dungeonRunId": "179610",
         "completedLevels": "1",
         "twitchDisplayName": "ohitsneb",
@@ -79,5 +70,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback",
         "nextNodeType": "dungeonlair"
+    },
+    {
+        "dungeonRunId": "179599",
+        "completedLevels": "1",
+        "twitchDisplayName": "Tebble",
+        "startTime": "2025-03-19 07:04:14",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
+        "nextNodeType": "cruciblemeltdown"
     }
 ]
