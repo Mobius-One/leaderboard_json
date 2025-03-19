@@ -50,7 +50,7 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-19 01:03:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician,flagbearer_bannerofexaltation,monk_heavenskarma,epic_giantsbrewzero,warrior_flameslash,spell_empower_highground,archer_rapidshot,musketeer_grapeshot,warrior_falltodarkness,bomber_dangerzone,lancer_spearofvengeance",
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician,flagbearer_bannerofexaltation,monk_heavenskarma,epic_giantsbrewzero,warrior_flameslash,spell_empower_highground,archer_rapidshot,musketeer_grapeshot,warrior_falltodarkness,bomber_dangerzone,lancer_spearofvengeance,vampire_swarmcoffin",
         "nextNodeType": "sportiabasket"
     },
     {
@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179610",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-19 17:51:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,vampire_darkwings,warrior_flameslash,artillery_machine_gun,healer_combatmedic,bomber_concentrated_burst,bomber_living_bomb",
-        "nextNodeType": "frontierroundup"
+        "nextNodeType": "elementaliceroad"
     },
     {
         "dungeonRunId": "179599",
