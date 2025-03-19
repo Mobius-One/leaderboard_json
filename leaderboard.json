@@ -36,6 +36,15 @@
         "nextNodeType": "raidhallamuspelheimboss"
     },
     {
+        "dungeonRunId": "179603",
+        "completedLevels": "16",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-19 11:22:58",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence,warbeast_terrifying_presence,bomber_dangerzone",
+        "nextNodeType": "elementalwaterstream"
+    },
+    {
         "dungeonRunId": "179590",
         "completedLevels": "15",
         "twitchDisplayName": "JayelDraco",
@@ -43,15 +52,6 @@
         "endTime": "2025-03-19 01:56:48",
         "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload,melee_followup,vampire_swarmcoffin,shinobi_shadowstrike,centurion_juggernaut,centurion_2",
         "nextNodeType": "elementalwaterstream"
-    },
-    {
-        "dungeonRunId": "179603",
-        "completedLevels": "15",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-19 11:22:58",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence,warbeast_terrifying_presence",
-        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "179604",
