@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179604",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-19 12:24:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret",
-        "nextNodeType": "mothershiphangar"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "179599",
