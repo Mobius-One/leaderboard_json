@@ -32,8 +32,17 @@
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-19 11:22:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence,warbeast_terrifying_presence,bomber_dangerzone,melee_followup,flagbearer_focused_morale,saint_exalt,ranged_damage_2,amazon_vineclone,rogue_sneakattack,berserker_enrage,paladin_holyforce,berserker_rancor,tank_truetank",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence,warbeast_terrifying_presence,bomber_dangerzone,melee_followup,flagbearer_focused_morale,saint_exalt,ranged_damage_2,amazon_vineclone,rogue_sneakattack,berserker_enrage,paladin_holyforce,berserker_rancor,tank_truetank,ensouled_heroicspirits",
         "nextNodeType": "heartscelestialabyrinth"
+    },
+    {
+        "dungeonRunId": "179604",
+        "completedLevels": "21",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-19 12:24:10",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield,musketeer_rapidreload,healer_shadowword,saint_godspeed,barbarian_gloriousdeath,ranged_damage_2,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,barbarian_conqueror,healer_combatmedic,tank_truetank,ensouled_bravespirits,saint_exalt,paladin_avengingsmite,epic_epicaspirations",
+        "nextNodeType": "alpharaiderssquare"
     },
     {
         "dungeonRunId": "179595",
@@ -42,15 +51,6 @@
         "startTime": "2025-03-19 01:03:09",
         "endTime": null,
         "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician,flagbearer_bannerofexaltation,monk_heavenskarma,epic_giantsbrewzero",
-        "nextNodeType": "raidhallamuspelheimboss"
-    },
-    {
-        "dungeonRunId": "179604",
-        "completedLevels": "20",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-03-19 12:24:10",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield,musketeer_rapidreload,healer_shadowword,saint_godspeed,barbarian_gloriousdeath,ranged_damage_2,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,barbarian_conqueror,healer_combatmedic,tank_truetank,ensouled_bravespirits,saint_exalt,paladin_avengingsmite",
         "nextNodeType": "raidhallamuspelheimboss"
     },
     {
