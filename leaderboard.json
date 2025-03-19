@@ -50,7 +50,7 @@
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-19 01:03:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician,flagbearer_bannerofexaltation,monk_heavenskarma,epic_giantsbrewzero,warrior_flameslash,spell_empower_highground,archer_rapidshot,musketeer_grapeshot,warrior_falltodarkness,bomber_dangerzone,lancer_spearofvengeance,vampire_swarmcoffin,musketeer_rapidreload",
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician,flagbearer_bannerofexaltation,monk_heavenskarma,epic_giantsbrewzero,warrior_flameslash,spell_empower_highground,archer_rapidshot,musketeer_grapeshot,warrior_falltodarkness,bomber_dangerzone,lancer_spearofvengeance,vampire_swarmcoffin,musketeer_rapidreload,centurion_juggernaut",
         "nextNodeType": "dungeons_jerry"
     },
     {
@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179611",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "oOJadewolfOo",
         "startTime": "2025-03-19 19:41:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield",
-        "nextNodeType": "lavachamber"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack",
+        "nextNodeType": "olympiadgodgroupFullEF"
     },
     {
         "dungeonRunId": "179599",
