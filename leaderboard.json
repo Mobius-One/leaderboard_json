@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179604",
-        "completedLevels": "21",
+        "completedLevels": "22",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-19 12:24:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield,musketeer_rapidreload,healer_shadowword,saint_godspeed,barbarian_gloriousdeath,ranged_damage_2,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,barbarian_conqueror,healer_combatmedic,tank_truetank,ensouled_bravespirits,saint_exalt,paladin_avengingsmite,epic_epicaspirations",
-        "nextNodeType": "alpharaiderssquare"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield,musketeer_rapidreload,healer_shadowword,saint_godspeed,barbarian_gloriousdeath,ranged_damage_2,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,barbarian_conqueror,healer_combatmedic,tank_truetank,ensouled_bravespirits,saint_exalt,paladin_avengingsmite,epic_epicaspirations,flagbearer_bannerofluck",
+        "nextNodeType": "graveriver"
     },
     {
         "dungeonRunId": "179595",
