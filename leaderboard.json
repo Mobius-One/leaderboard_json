@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179584",
-        "completedLevels": "37",
+        "completedLevels": "38",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-18 19:11:09",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,spell_empower_killingfield,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
-        "nextNodeType": "tombsummoning"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
+        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "179588",
@@ -27,6 +27,15 @@
         "nextNodeType": "dungeonexperiment"
     },
     {
+        "dungeonRunId": "179591",
+        "completedLevels": "8",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-03-18 23:03:55",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,healer_combatmedic,melee_followup,warbeast_terrifying_presence,saint_exalt,musketeer_grapeshot,saint_godspeed,archer_rapidshot,support_enchantedstaves",
+        "nextNodeType": "raidhallamuspelheimboss"
+    },
+    {
         "dungeonRunId": "179590",
         "completedLevels": "7",
         "twitchDisplayName": "JayelDraco",
@@ -34,14 +43,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings",
         "nextNodeType": "moboohm"
-    },
-    {
-        "dungeonRunId": "179591",
-        "completedLevels": "7",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-18 23:03:55",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,melee_followup,warbeast_terrifying_presence,saint_exalt,musketeer_grapeshot,saint_godspeed,archer_rapidshot",
-        "nextNodeType": "elementalwaterstream"
     }
 ]
