@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179603",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-19 11:22:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence,warbeast_terrifying_presence,bomber_dangerzone",
-        "nextNodeType": "elementalwaterstream"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence,warbeast_terrifying_presence,bomber_dangerzone,melee_followup",
+        "nextNodeType": "mothershiphangar"
     },
     {
         "dungeonRunId": "179590",
@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179604",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-19 12:24:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield,musketeer_rapidreload,healer_shadowword,saint_godspeed",
-        "nextNodeType": "steampunkgear"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield,musketeer_rapidreload,healer_shadowword,saint_godspeed,barbarian_gloriousdeath",
+        "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
         "dungeonRunId": "179599",
