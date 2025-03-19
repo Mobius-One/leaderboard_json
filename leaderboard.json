@@ -64,21 +64,21 @@
     },
     {
         "dungeonRunId": "179610",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-19 17:51:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,vampire_darkwings,warrior_flameslash,artillery_machine_gun,healer_combatmedic,bomber_concentrated_burst,bomber_living_bomb,tank_tungstenswords,ranged_damage_2,healer_healing_bloom,bomber_dangerzone",
-        "nextNodeType": "wildshunter"
+        "nextNodeType": "raidhallamuspelheimboss"
     },
     {
         "dungeonRunId": "179611",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "oOJadewolfOo",
         "startTime": "2025-03-19 19:41:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation",
-        "nextNodeType": "crucibleboss"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits",
+        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "179599",
