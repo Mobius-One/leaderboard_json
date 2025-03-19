@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "179592",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-19 00:31:20",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,assassin_disappearingact,blob_parasite,archer_rapidshot,gladiator_sonofthunder,common_specialists,flyingrogue_aggravate,monk_snakestyle,templar_beaconofhope,fairy_fireflyconjuration,ranged_damage_2,musk_hunters_mark",
-        "nextNodeType": "wildshunter"
+        "captainBoons": "common_classic_comeback,centurion_tactician,assassin_disappearingact,blob_parasite,archer_rapidshot,gladiator_sonofthunder,common_specialists,flyingrogue_aggravate,monk_snakestyle,templar_beaconofhope,fairy_fireflyconjuration,ranged_damage_2,musk_hunters_mark,saint_exalt",
+        "nextNodeType": "graveriver"
     },
     {
         "dungeonRunId": "179588",
