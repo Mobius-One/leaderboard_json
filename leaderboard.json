@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179582",
-        "completedLevels": "44",
+        "completedLevels": "45",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-18 19:04:08",
         "endTime": null,
         "captainBoons": "common_classic_comeback,saint_surgeofconfidence,musk_hunters_mark,fairy_hocuspocus,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,spell_empower_highground,monk_stoptheflow,warrior_flameslash,blob_parasite,flyingrogue_aggravate,flagbearer_focused_morale,warrior_soldieroffortune,barbarian_bringthepain,ensouled_bravespirits,bomber_dangerzone,lancer_ignitingstrike,archer_venomarrows,musketeer_grapeshot",
-        "nextNodeType": "crashzoneboss"
+        "nextNodeType": "frontierroundup"
     },
     {
         "dungeonRunId": "179584",
@@ -19,12 +19,21 @@
     },
     {
         "dungeonRunId": "179591",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-18 23:03:55",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,healer_combatmedic,melee_followup,warbeast_terrifying_presence,saint_exalt,musketeer_grapeshot,saint_godspeed,archer_rapidshot,support_enchantedstaves,barbarian_conqueror,fairy_fireflyconjuration",
-        "nextNodeType": "libraryorcs"
+        "captainBoons": "common_classic_comeback,healer_combatmedic,melee_followup,warbeast_terrifying_presence,saint_exalt,musketeer_grapeshot,saint_godspeed,archer_rapidshot,support_enchantedstaves,barbarian_conqueror,fairy_fireflyconjuration,fairy_hocuspocus",
+        "nextNodeType": "crashzoneboss"
+    },
+    {
+        "dungeonRunId": "179588",
+        "completedLevels": "10",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-03-18 22:00:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold,centurion_tactician,frogue_cloakingfield,spell_empower_haste",
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "179590",
@@ -34,14 +43,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow",
         "nextNodeType": "glitchedretrotown"
-    },
-    {
-        "dungeonRunId": "179588",
-        "completedLevels": "9",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-18 22:00:48",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold,centurion_tactician,frogue_cloakingfield,spell_empower_haste",
-        "nextNodeType": "dungeonexperiment"
     }
 ]
