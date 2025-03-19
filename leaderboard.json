@@ -27,21 +27,21 @@
         "nextNodeType": "crashzoneboss"
     },
     {
+        "dungeonRunId": "179590",
+        "completedLevels": "10",
+        "twitchDisplayName": "JayelDraco",
+        "startTime": "2025-03-18 22:54:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload",
+        "nextNodeType": "steampunkgear"
+    },
+    {
         "dungeonRunId": "179588",
         "completedLevels": "10",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-18 22:00:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold,centurion_tactician,frogue_cloakingfield,spell_empower_haste",
-        "nextNodeType": "glitchedretrotown"
-    },
-    {
-        "dungeonRunId": "179590",
-        "completedLevels": "9",
-        "twitchDisplayName": "JayelDraco",
-        "startTime": "2025-03-18 22:54:06",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow",
+        "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold,centurion_tactician,frogue_cloakingfield,spell_empower_haste,shinobi_shadowstrike",
         "nextNodeType": "glitchedretrotown"
     }
 ]
