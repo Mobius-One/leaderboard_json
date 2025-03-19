@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179592",
-        "completedLevels": "29",
+        "completedLevels": "30",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-19 00:31:20",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,assassin_disappearingact,blob_parasite,archer_rapidshot,gladiator_sonofthunder,common_specialists,flyingrogue_aggravate,monk_snakestyle,templar_beaconofhope,fairy_fireflyconjuration,ranged_damage_2,musk_hunters_mark,saint_exalt,fairy_hocuspocus,bomber_living_bomb,rogue_sneakattack,saint_surgeofconfidence,archer_steadybow,warrior_soldieroffortune,healer_shadowword,fairy_gift_of_the_wind,epic_giantsbrewzero,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,bomber_concentrated_burst,phantom_thehaunting,musketeer_rapidreload,centurion_juggernaut",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,centurion_tactician,assassin_disappearingact,blob_parasite,archer_rapidshot,common_specialists,flyingrogue_aggravate,monk_snakestyle,templar_beaconofhope,fairy_fireflyconjuration,ranged_damage_2,musk_hunters_mark,saint_exalt,fairy_hocuspocus,bomber_living_bomb,rogue_sneakattack,saint_surgeofconfidence,archer_steadybow,warrior_soldieroffortune,healer_shadowword,fairy_gift_of_the_wind,epic_giantsbrewzero,musketeer_grapeshot,warbeast_terrifying_presence,bomber_dangerzone,bomber_concentrated_burst,phantom_thehaunting,musketeer_rapidreload,centurion_juggernaut",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "179590",
