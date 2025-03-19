@@ -18,21 +18,21 @@
         "nextNodeType": "crashzoneboss"
     },
     {
+        "dungeonRunId": "179590",
+        "completedLevels": "12",
+        "twitchDisplayName": "JayelDraco",
+        "startTime": "2025-03-18 22:54:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload,melee_followup,vampire_swarmcoffin",
+        "nextNodeType": "graveriver"
+    },
+    {
         "dungeonRunId": "179588",
         "completedLevels": "11",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-18 22:00:48",
         "endTime": "2025-03-19 01:01:49",
         "captainBoons": "common_classic_comeback,epic_giantsbrewzero,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload,paladin_avengingsmite,spell_empower_stronghold,centurion_tactician,frogue_cloakingfield,spell_empower_haste,shinobi_shadowstrike,ranged_damage_2",
-        "nextNodeType": "mothershiphangar"
-    },
-    {
-        "dungeonRunId": "179590",
-        "completedLevels": "11",
-        "twitchDisplayName": "JayelDraco",
-        "startTime": "2025-03-18 22:54:06",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload,melee_followup",
         "nextNodeType": "mothershiphangar"
     },
     {
