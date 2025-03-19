@@ -18,6 +18,15 @@
         "nextNodeType": "crashzoneboss"
     },
     {
+        "dungeonRunId": "179592",
+        "completedLevels": "16",
+        "twitchDisplayName": "MozzyAuzzy",
+        "startTime": "2025-03-19 00:31:20",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,centurion_tactician,assassin_disappearingact,blob_parasite,archer_rapidshot,gladiator_sonofthunder,common_specialists,flyingrogue_aggravate,monk_snakestyle,templar_beaconofhope,fairy_fireflyconjuration,ranged_damage_2,musk_hunters_mark,saint_exalt,fairy_hocuspocus,bomber_living_bomb,rogue_sneakattack",
+        "nextNodeType": "retroforest"
+    },
+    {
         "dungeonRunId": "179590",
         "completedLevels": "15",
         "twitchDisplayName": "JayelDraco",
@@ -25,15 +34,6 @@
         "endTime": "2025-03-19 01:56:48",
         "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload,melee_followup,vampire_swarmcoffin,shinobi_shadowstrike,centurion_juggernaut,centurion_2",
         "nextNodeType": "elementalwaterstream"
-    },
-    {
-        "dungeonRunId": "179592",
-        "completedLevels": "15",
-        "twitchDisplayName": "MozzyAuzzy",
-        "startTime": "2025-03-19 00:31:20",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,centurion_tactician,assassin_disappearingact,blob_parasite,archer_rapidshot,gladiator_sonofthunder,common_specialists,flyingrogue_aggravate,monk_snakestyle,templar_beaconofhope,fairy_fireflyconjuration,ranged_damage_2,musk_hunters_mark,saint_exalt,fairy_hocuspocus,bomber_living_bomb",
-        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179588",
