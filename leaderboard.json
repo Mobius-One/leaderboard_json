@@ -46,21 +46,21 @@
     },
     {
         "dungeonRunId": "179603",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-19 11:22:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic",
-        "nextNodeType": "frontierroundup"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic,armored_shieldbash",
+        "nextNodeType": "wildsboss"
     },
     {
         "dungeonRunId": "179604",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-19 12:24:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero",
-        "nextNodeType": "retrotown"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret",
+        "nextNodeType": "mothershiphangar"
     },
     {
         "dungeonRunId": "179599",
