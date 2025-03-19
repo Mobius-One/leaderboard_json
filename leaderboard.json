@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "179603",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-19 11:22:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload",
-        "nextNodeType": "glitchedretrotown"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash",
+        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "179599",
