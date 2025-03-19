@@ -63,6 +63,15 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
+        "dungeonRunId": "179611",
+        "completedLevels": "14",
+        "twitchDisplayName": "oOJadewolfOo",
+        "startTime": "2025-03-19 19:41:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor,tank_truetank,warlock_inferno,flyingrogue_aggravate,bomber_concentrated_burst,mage_darkmagic,healer_combatmedic,musketeer_grapeshot",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
         "dungeonRunId": "179610",
         "completedLevels": "13",
         "twitchDisplayName": "ohitsneb",
@@ -70,15 +79,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,vampire_darkwings,warrior_flameslash,artillery_machine_gun,healer_combatmedic,bomber_concentrated_burst,bomber_living_bomb,tank_tungstenswords,ranged_damage_2,healer_healing_bloom,bomber_dangerzone,lancer_spearofvengeance,saint_godspeed,berserker_rancor",
         "nextNodeType": "olympiadgodgroupFullCD"
-    },
-    {
-        "dungeonRunId": "179611",
-        "completedLevels": "13",
-        "twitchDisplayName": "oOJadewolfOo",
-        "startTime": "2025-03-19 19:41:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor,tank_truetank,warlock_inferno,flyingrogue_aggravate,bomber_concentrated_burst,mage_darkmagic,healer_combatmedic",
-        "nextNodeType": "elementaliceroad"
     },
     {
         "dungeonRunId": "179599",
