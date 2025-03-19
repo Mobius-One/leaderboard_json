@@ -46,21 +46,21 @@
     },
     {
         "dungeonRunId": "179603",
-        "completedLevels": "13",
+        "completedLevels": "14",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-19 11:22:58",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands",
-        "nextNodeType": "libraryorcs"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,bomber_concentrated_burst,mage_darkmagic,musketeer_rapidreload,warrior_flameslash,artillery_machine_gun,epic_giantsbrewzero,centurion_juggernaut,common_specialists,healer_combatmedic,armored_shieldbash,gladiator_war_machine,paladin_layonhands,saint_surgeofconfidence",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179604",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-19 12:24:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield,musketeer_rapidreload",
-        "nextNodeType": "tomblandsorcflank"
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield,musketeer_rapidreload,healer_shadowword",
+        "nextNodeType": "wildsboss"
     },
     {
         "dungeonRunId": "179599",
