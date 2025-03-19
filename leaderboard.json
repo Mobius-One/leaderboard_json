@@ -27,6 +27,15 @@
         "nextNodeType": "raidhallalake"
     },
     {
+        "dungeonRunId": "179595",
+        "completedLevels": "16",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-03-19 01:03:09",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite,centurion_tactician",
+        "nextNodeType": "retroforest"
+    },
+    {
         "dungeonRunId": "179590",
         "completedLevels": "15",
         "twitchDisplayName": "JayelDraco",
@@ -34,14 +43,5 @@
         "endTime": "2025-03-19 01:56:48",
         "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload,melee_followup,vampire_swarmcoffin,shinobi_shadowstrike,centurion_juggernaut,centurion_2",
         "nextNodeType": "elementalwaterstream"
-    },
-    {
-        "dungeonRunId": "179595",
-        "completedLevels": "15",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-19 01:03:09",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,barbarian_gloriousdeath,saint_surgeofconfidence,frogue_vanishing_powder,gladiator_browbeat,ranged_damage_2,saint_godspeed,healer_combatmedic,frogue_cloakingfield,phantom_thehaunting,shinobi_shadowstrike,monk_snakestyle,common_specialists,paladin_layonhands,armored_shieldbash,blob_parasite",
-        "nextNodeType": "thehiveconveyor"
     }
 ]
