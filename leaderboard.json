@@ -54,6 +54,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "179611",
+        "completedLevels": "16",
+        "twitchDisplayName": "oOJadewolfOo",
+        "startTime": "2025-03-19 19:41:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor,tank_truetank,warlock_inferno,flyingrogue_aggravate,bomber_concentrated_burst,mage_darkmagic,healer_combatmedic,musketeer_grapeshot,archer_steadybow,shinobi_shadowstrike",
+        "nextNodeType": "dungeonlair"
+    },
+    {
         "dungeonRunId": "179590",
         "completedLevels": "15",
         "twitchDisplayName": "JayelDraco",
@@ -61,15 +70,6 @@
         "endTime": "2025-03-19 01:56:48",
         "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload,melee_followup,vampire_swarmcoffin,shinobi_shadowstrike,centurion_juggernaut,centurion_2",
         "nextNodeType": "elementalwaterstream"
-    },
-    {
-        "dungeonRunId": "179611",
-        "completedLevels": "15",
-        "twitchDisplayName": "oOJadewolfOo",
-        "startTime": "2025-03-19 19:41:54",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor,tank_truetank,warlock_inferno,flyingrogue_aggravate,bomber_concentrated_burst,mage_darkmagic,healer_combatmedic,musketeer_grapeshot,archer_steadybow",
-        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179610",
