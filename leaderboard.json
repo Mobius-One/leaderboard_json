@@ -81,12 +81,12 @@
         "nextNodeType": "frontiercavalry"
     },
     {
-        "dungeonRunId": "179590",
-        "completedLevels": "15",
-        "twitchDisplayName": "JayelDraco",
-        "startTime": "2025-03-18 22:54:06",
-        "endTime": "2025-03-19 01:56:48",
-        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload,melee_followup,vampire_swarmcoffin,shinobi_shadowstrike,centurion_juggernaut,centurion_2",
-        "nextNodeType": "elementalwaterstream"
+        "dungeonRunId": "179645",
+        "completedLevels": "16",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-20 10:32:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,gladiator_sonofthunder,musk_hunters_mark,barbarian_gloriousdeath,rogue_skeletonturret,epic_epicaspirations,gladiator_browbeat,lancer_spearofvengeance,berserker_killing_spree,warrior_soldieroffortune,musketeer_grapeshot,flagbearer_focused_morale,berserker_rancor,saint_surgeofconfidence,monk_heavenskarma",
+        "nextNodeType": "alpharaiderssquare"
     }
 ]
