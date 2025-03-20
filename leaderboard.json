@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179624",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "HopesAreWonky",
         "startTime": "2025-03-20 01:07:48",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,warlock_inferno,centurion_tactician,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,berserker_enrage,saint_godspeed,flyingrogue_aggravate",
-        "nextNodeType": "retrotown"
+        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,warlock_inferno,centurion_tactician,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,berserker_enrage,saint_godspeed,flyingrogue_aggravate,buster_ghostbuster",
+        "nextNodeType": "mothershiphangar"
     }
 ]
