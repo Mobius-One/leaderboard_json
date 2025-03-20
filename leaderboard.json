@@ -54,6 +54,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "179645",
+        "completedLevels": "23",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-20 10:32:45",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,gladiator_sonofthunder,musk_hunters_mark,barbarian_gloriousdeath,rogue_skeletonturret,epic_epicaspirations,gladiator_browbeat,lancer_spearofvengeance,berserker_killing_spree,warrior_soldieroffortune,musketeer_grapeshot,flagbearer_focused_morale,berserker_rancor,saint_surgeofconfidence,monk_heavenskarma,lancer_sarissaspears,support_enchantedstaves,rogue_shadowcloak,paladin_layonhands,warrior_flameslash,blob_parasite,fairy_fireflyconjuration,monk_snakestyle",
+        "nextNodeType": "wildsboss"
+    },
+    {
         "dungeonRunId": "179614",
         "completedLevels": "23",
         "twitchDisplayName": "ohitsneb",
@@ -61,15 +70,6 @@
         "endTime": "2025-03-20 11:26:51",
         "captainBoons": "common_classic_comeback,archer_rapidshot,archer_venomarrows,musk_hunters_mark,saint_exalt,bomber_concentrated_burst,ensouled_heroicspirits,healer_combatmedic,flagbearer_bannerofexaltation,necromancer_bombasticbones,bomber_dangerzone,melee_followup,common_specialists,musketeer_rapidreload,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,gladiator_sonofthunder,barbarian_conqueror,fairy_fireflyconjuration,centurion_juggernaut,fairy_gift_of_the_wind,barbarian_gloriousdeath,support_enchantedstaves",
         "nextNodeType": "crucibleboss"
-    },
-    {
-        "dungeonRunId": "179645",
-        "completedLevels": "22",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-20 10:32:45",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,gladiator_sonofthunder,musk_hunters_mark,barbarian_gloriousdeath,rogue_skeletonturret,epic_epicaspirations,gladiator_browbeat,lancer_spearofvengeance,berserker_killing_spree,warrior_soldieroffortune,musketeer_grapeshot,flagbearer_focused_morale,berserker_rancor,saint_surgeofconfidence,monk_heavenskarma,lancer_sarissaspears,support_enchantedstaves,rogue_shadowcloak,paladin_layonhands,warrior_flameslash,blob_parasite,fairy_fireflyconjuration",
-        "nextNodeType": "dungeonlair"
     },
     {
         "dungeonRunId": "179611",
