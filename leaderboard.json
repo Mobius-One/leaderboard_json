@@ -1,12 +1,12 @@
 [
     {
-        "dungeonRunId": "179582",
-        "completedLevels": "47",
+        "dungeonRunId": "179647",
+        "completedLevels": "48",
         "twitchDisplayName": "chiquik",
-        "startTime": "2025-03-18 19:04:08",
-        "endTime": "2025-03-19 00:52:36",
-        "captainBoons": "common_classic_comeback,saint_surgeofconfidence,musk_hunters_mark,fairy_hocuspocus,epic_giantsbrewzero,ranged_damage_2,spy_fromcaptainwithlove,lancer_sarissaspears,assassin_disappearingact,monk_stoptheflow,warrior_flameslash,blob_parasite,flyingrogue_aggravate,flagbearer_focused_morale,warrior_soldieroffortune,barbarian_bringthepain,ensouled_bravespirits,bomber_dangerzone,lancer_ignitingstrike,archer_venomarrows,musketeer_grapeshot",
-        "nextNodeType": "crucibleboss"
+        "startTime": "2025-03-20 11:28:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,ranged_damage_2,necromancer_bombasticbones,barbarian_gloriousdeath,shinobi_firetechinique,warbeast_terrifying_presence,bomber_dangerzone,musketeer_grapeshot,ensouled_bravespirits,bomber_living_bomb,berserker_enrage,saint_exalt,assassin_disappearingact,shinobi_lastninja,berserker_rancor,musketeer_rapidreload,support_enchantedstaves,amazon_vineclone,melee_followup",
+        "nextNodeType": "glitchedretrotown"
     },
     {
         "dungeonRunId": "179603",
@@ -67,7 +67,7 @@
         "completedLevels": "25",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-20 11:29:56",
-        "endTime": null,
+        "endTime": "2025-03-20 17:58:40",
         "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,archer_venomarrows,saint_godspeed,bomber_dangerzone,monk_snakestyle,musk_hunters_mark,musketeer_rapidreload,ranged_damage_2,amazon_vineclone,saint_exalt,shinobi_firetechinique,blob_parasite,paladin_layonhands,berserker_enrage,necromancer_bombasticbones,archer_rapidshot,barbarian_bringthepain,centurion_2,tank_tungstenswords,bomber_concentrated_burst,fairy_gift_of_the_wind,epic_giantsbrewzero,flagbearer_bannerofexaltation,ensouled_bravespirits,lancer_sarissaspears",
         "nextNodeType": "sportiabasket"
     },
