@@ -54,6 +54,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "179614",
+        "completedLevels": "22",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-03-19 22:05:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_rapidshot,archer_venomarrows,musk_hunters_mark,saint_exalt,bomber_concentrated_burst,ensouled_heroicspirits,healer_combatmedic,flagbearer_bannerofexaltation,necromancer_bombasticbones,bomber_dangerzone,melee_followup,common_specialists,musketeer_rapidreload,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,gladiator_sonofthunder,barbarian_conqueror,fairy_fireflyconjuration,centurion_juggernaut,fairy_gift_of_the_wind",
+        "nextNodeType": "retroforest"
+    },
+    {
         "dungeonRunId": "179611",
         "completedLevels": "22",
         "twitchDisplayName": "oOJadewolfOo",
@@ -61,15 +70,6 @@
         "endTime": "2025-03-19 23:16:05",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor,tank_truetank,warlock_inferno,flyingrogue_aggravate,bomber_concentrated_burst,mage_darkmagic,healer_combatmedic,musketeer_grapeshot,archer_steadybow,shinobi_shadowstrike,melee_followup,epic_epicaspirations,centurion_tactician,healer_shadowword,spell_empower_stronghold,flagbearer_bannerofluck",
         "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "179614",
-        "completedLevels": "21",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-19 22:05:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_rapidshot,archer_venomarrows,musk_hunters_mark,saint_exalt,bomber_concentrated_burst,ensouled_heroicspirits,healer_combatmedic,flagbearer_bannerofexaltation,necromancer_bombasticbones,bomber_dangerzone,melee_followup,common_specialists,musketeer_rapidreload,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,gladiator_sonofthunder,barbarian_conqueror,fairy_fireflyconjuration,centurion_juggernaut,fairy_gift_of_the_wind",
-        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "179590",
