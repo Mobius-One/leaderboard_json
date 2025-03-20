@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "179594",
-        "completedLevels": "8",
+        "dungeonRunId": "179622",
+        "completedLevels": "9",
         "twitchDisplayName": "HopesAreWonky",
-        "startTime": "2025-03-19 00:57:00",
-        "endTime": "2025-03-19 15:43:18",
-        "captainBoons": "common_classic_comeback,archer_rapidshot,frogue_cloakingfield,frogue_vanishing_powder,rogue_sneakattack,shinobi_firetechinique,blob_parasite,flagbearer_bannerofluck,flagbearer_bannerofexaltation",
-        "nextNodeType": "crucibleboss"
+        "startTime": "2025-03-20 00:08:40",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,frogue_cloakingfield,blob_parasite,rogue_sneakattack,saint_surgeofconfidence,rogue_shadowcloak,warrior_soldieroffortune,ranged_damage_2,warrior_falltodarkness",
+        "nextNodeType": "tomblandsorcflank"
     }
 ]
