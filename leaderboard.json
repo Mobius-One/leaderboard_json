@@ -63,6 +63,15 @@
         "nextNodeType": "sportiabasket"
     },
     {
+        "dungeonRunId": "179614",
+        "completedLevels": "16",
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-03-19 22:05:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,archer_rapidshot,archer_venomarrows,musk_hunters_mark,saint_exalt,bomber_concentrated_burst,ensouled_heroicspirits,healer_combatmedic,flagbearer_bannerofexaltation,necromancer_bombasticbones,bomber_dangerzone,melee_followup,common_specialists,musketeer_rapidreload,ranged_damage_2,saint_godspeed,epic_giantsbrewzero",
+        "nextNodeType": "raidhallalake"
+    },
+    {
         "dungeonRunId": "179590",
         "completedLevels": "15",
         "twitchDisplayName": "JayelDraco",
@@ -70,15 +79,6 @@
         "endTime": "2025-03-19 01:56:48",
         "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,shinobi_lastninja,archer_rapidshot,gladiator_sonofthunder,spell_empower_curse,vampire_darkwings,assassin_disappearingact,archer_steadybow,musketeer_rapidreload,melee_followup,vampire_swarmcoffin,shinobi_shadowstrike,centurion_juggernaut,centurion_2",
         "nextNodeType": "elementalwaterstream"
-    },
-    {
-        "dungeonRunId": "179614",
-        "completedLevels": "15",
-        "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-19 22:05:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_rapidshot,archer_venomarrows,musk_hunters_mark,saint_exalt,bomber_concentrated_burst,ensouled_heroicspirits,healer_combatmedic,flagbearer_bannerofexaltation,necromancer_bombasticbones,bomber_dangerzone,melee_followup,common_specialists,musketeer_rapidreload,ranged_damage_2,saint_godspeed",
-        "nextNodeType": "thehivecarmeet"
     },
     {
         "dungeonRunId": "179622",
