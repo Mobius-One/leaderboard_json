@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179614",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-19 22:05:05",
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_rapidshot,archer_venomarrows,musk_hunters_mark,saint_exalt,bomber_concentrated_burst,ensouled_heroicspirits,healer_combatmedic,flagbearer_bannerofexaltation,necromancer_bombasticbones,bomber_dangerzone,melee_followup,common_specialists,musketeer_rapidreload,ranged_damage_2,saint_godspeed,epic_giantsbrewzero",
-        "nextNodeType": "raidhallalake"
+        "nextNodeType": "raidhallamuspelheimboss"
     },
     {
         "dungeonRunId": "179590",
