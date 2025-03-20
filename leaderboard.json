@@ -63,6 +63,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "179656",
+        "completedLevels": "25",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-03-20 15:43:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,musketeer_grapeshot,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst,lancer_ignitingstrike,centurion_tactician,gladiator_sonofthunder,epic_epicaspirations,bomber_dangerzone",
+        "nextNodeType": "libraryorcs"
+    },
+    {
         "dungeonRunId": "179648",
         "completedLevels": "25",
         "twitchDisplayName": "ohitsneb",
@@ -70,15 +79,6 @@
         "endTime": "2025-03-20 17:58:40",
         "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,archer_venomarrows,saint_godspeed,bomber_dangerzone,monk_snakestyle,musk_hunters_mark,musketeer_rapidreload,ranged_damage_2,amazon_vineclone,saint_exalt,shinobi_firetechinique,blob_parasite,paladin_layonhands,berserker_enrage,necromancer_bombasticbones,archer_rapidshot,barbarian_bringthepain,centurion_2,tank_tungstenswords,bomber_concentrated_burst,fairy_gift_of_the_wind,epic_giantsbrewzero,flagbearer_bannerofexaltation,ensouled_bravespirits,lancer_sarissaspears",
         "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "179656",
-        "completedLevels": "24",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-03-20 15:43:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,musketeer_grapeshot,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst,lancer_ignitingstrike,centurion_tactician,gladiator_sonofthunder,epic_epicaspirations",
-        "nextNodeType": "frontierroundup"
     },
     {
         "dungeonRunId": "179611",
