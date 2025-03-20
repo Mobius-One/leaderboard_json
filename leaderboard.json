@@ -81,12 +81,12 @@
         "nextNodeType": "olympiadgodgroupFullCD"
     },
     {
-        "dungeonRunId": "179599",
+        "dungeonRunId": "179622",
         "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-03-19 07:04:14",
+        "twitchDisplayName": "HopesAreWonky",
+        "startTime": "2025-03-20 00:08:40",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,shinobi_shadowstrike",
-        "nextNodeType": "cruciblemeltdown"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone",
+        "nextNodeType": "lavachamber"
     }
 ]
