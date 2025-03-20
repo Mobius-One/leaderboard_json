@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179656",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-03-20 15:43:44",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,musketeer_grapeshot,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst,lancer_ignitingstrike,centurion_tactician",
-        "nextNodeType": "elementalwaterstream"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,musketeer_grapeshot,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst,lancer_ignitingstrike,centurion_tactician,gladiator_sonofthunder",
+        "nextNodeType": "raidhallamuspelheimboss"
     },
     {
         "dungeonRunId": "179611",
