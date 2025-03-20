@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179645",
-        "completedLevels": "35",
+        "completedLevels": "36",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-03-20 10:32:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,gladiator_sonofthunder,musk_hunters_mark,barbarian_gloriousdeath,gladiator_browbeat,lancer_spearofvengeance,berserker_killing_spree,warrior_soldieroffortune,musketeer_grapeshot,flagbearer_focused_morale,berserker_rancor,saint_surgeofconfidence,monk_heavenskarma,lancer_sarissaspears,support_enchantedstaves,paladin_layonhands,warrior_flameslash,blob_parasite,fairy_fireflyconjuration,monk_snakestyle,gladiator_war_machine,flyingrogue_aggravate,assassin_disappearingact,common_specialists,epic_giantsbrewzero,melee_followup",
-        "nextNodeType": "crucibleboss"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,gladiator_sonofthunder,musk_hunters_mark,gladiator_browbeat,lancer_spearofvengeance,berserker_killing_spree,warrior_soldieroffortune,musketeer_grapeshot,flagbearer_focused_morale,berserker_rancor,saint_surgeofconfidence,monk_heavenskarma,lancer_sarissaspears,support_enchantedstaves,paladin_layonhands,warrior_flameslash,blob_parasite,fairy_fireflyconjuration,monk_snakestyle,gladiator_war_machine,flyingrogue_aggravate,assassin_disappearingact,common_specialists,epic_giantsbrewzero,melee_followup",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179604",
