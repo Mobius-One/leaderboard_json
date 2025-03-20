@@ -72,6 +72,15 @@
         "nextNodeType": "sportiabasket"
     },
     {
+        "dungeonRunId": "179656",
+        "completedLevels": "22",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-03-20 15:43:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,musketeer_grapeshot,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst,lancer_ignitingstrike,centurion_tactician",
+        "nextNodeType": "elementalwaterstream"
+    },
+    {
         "dungeonRunId": "179611",
         "completedLevels": "22",
         "twitchDisplayName": "oOJadewolfOo",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-19 23:16:05",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor,tank_truetank,warlock_inferno,flyingrogue_aggravate,bomber_concentrated_burst,mage_darkmagic,healer_combatmedic,musketeer_grapeshot,archer_steadybow,shinobi_shadowstrike,melee_followup,epic_epicaspirations,centurion_tactician,healer_shadowword,spell_empower_stronghold,flagbearer_bannerofluck",
         "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "179656",
-        "completedLevels": "21",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-03-20 15:43:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,musketeer_grapeshot,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst,lancer_ignitingstrike",
-        "nextNodeType": "moboohm"
     }
 ]
