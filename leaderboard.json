@@ -45,6 +45,15 @@
         "nextNodeType": "moboohm"
     },
     {
+        "dungeonRunId": "179656",
+        "completedLevels": "31",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-03-20 15:43:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst,lancer_ignitingstrike,centurion_tactician,gladiator_sonofthunder,epic_epicaspirations,bomber_dangerzone,saint_surgeofconfidence,templar_beaconofhope,paladin_layonhands,healer_shadowword",
+        "nextNodeType": "tombsummoning"
+    },
+    {
         "dungeonRunId": "179604",
         "completedLevels": "30",
         "twitchDisplayName": "MsChezaDarling",
@@ -52,15 +61,6 @@
         "endTime": "2025-03-20 13:16:44",
         "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,archer_steadybow,epic_giantsbrewzero,rogue_skeletonturret,spell_empower_killingfield,musketeer_rapidreload,healer_shadowword,saint_godspeed,barbarian_gloriousdeath,ranged_damage_2,fairy_gift_of_the_wind,fairy_fireflyconjuration,musketeer_grapeshot,barbarian_conqueror,healer_combatmedic,tank_truetank,ensouled_bravespirits,saint_exalt,paladin_avengingsmite,epic_epicaspirations,flagbearer_bannerofluck,saint_surgeofconfidence,common_specialists,archer_rapidshot,support_enchantedstaves,berserker_rancor,archer_venomarrows",
         "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "179656",
-        "completedLevels": "30",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-03-20 15:43:44",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst,lancer_ignitingstrike,centurion_tactician,gladiator_sonofthunder,epic_epicaspirations,bomber_dangerzone,saint_surgeofconfidence,templar_beaconofhope,paladin_layonhands,healer_shadowword",
-        "nextNodeType": "thehivecarmeet"
     },
     {
         "dungeonRunId": "179595",
