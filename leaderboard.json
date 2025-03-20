@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179647",
-        "completedLevels": "50",
+        "completedLevels": "51",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-20 11:28:54",
         "endTime": null,
         "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,ranged_damage_2,necromancer_bombasticbones,barbarian_gloriousdeath,shinobi_firetechinique,warbeast_terrifying_presence,bomber_dangerzone,musketeer_grapeshot,ensouled_bravespirits,bomber_living_bomb,berserker_enrage,saint_exalt,assassin_disappearingact,shinobi_lastninja,berserker_rancor,support_enchantedstaves,amazon_vineclone,melee_followup",
-        "nextNodeType": "raidhallamuspelheimboss"
+        "nextNodeType": "cruciblemeltdown"
     },
     {
         "dungeonRunId": "179603",
@@ -86,7 +86,7 @@
         "twitchDisplayName": "Panthergal2018",
         "startTime": "2025-03-20 15:43:44",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,musketeer_grapeshot,spell_empower_highground,archer_rapidshot",
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,musketeer_grapeshot,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst",
         "nextNodeType": "crucibleboss"
     }
 ]
