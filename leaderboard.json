@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179622",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "HopesAreWonky",
         "startTime": "2025-03-20 00:08:40",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,frogue_cloakingfield,blob_parasite,rogue_sneakattack,saint_surgeofconfidence,rogue_shadowcloak",
-        "nextNodeType": "retrotown"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,frogue_cloakingfield,blob_parasite,rogue_sneakattack,saint_surgeofconfidence,rogue_shadowcloak,warrior_soldieroffortune",
+        "nextNodeType": "retroforest"
     }
 ]
