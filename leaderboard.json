@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179647",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-20 11:28:54",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,ranged_damage_2,necromancer_bombasticbones,barbarian_gloriousdeath,shinobi_firetechinique,warbeast_terrifying_presence,bomber_dangerzone,musketeer_grapeshot,ensouled_bravespirits,bomber_living_bomb,berserker_enrage,saint_exalt,assassin_disappearingact,shinobi_lastninja,berserker_rancor,musketeer_rapidreload,support_enchantedstaves,amazon_vineclone,melee_followup",
-        "nextNodeType": "tomblandsquicksand"
+        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,ranged_damage_2,necromancer_bombasticbones,barbarian_gloriousdeath,shinobi_firetechinique,warbeast_terrifying_presence,bomber_dangerzone,musketeer_grapeshot,ensouled_bravespirits,bomber_living_bomb,berserker_enrage,saint_exalt,assassin_disappearingact,shinobi_lastninja,berserker_rancor,support_enchantedstaves,amazon_vineclone,melee_followup",
+        "nextNodeType": "raidhallamuspelheimboss"
     },
     {
         "dungeonRunId": "179603",
@@ -81,12 +81,12 @@
         "nextNodeType": "sportiabasket"
     },
     {
-        "dungeonRunId": "179627",
+        "dungeonRunId": "179656",
         "completedLevels": "19",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-20 02:27:08",
-        "endTime": "2025-03-20 04:13:02",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,amazon_vineclone,berserker_rancor,rogue_skeletonturret,ensouled_bravespirits,musketeer_rapidreload,gladiator_sonofthunder,bomber_living_bomb,epic_giantsbrewzero,flagbearer_bannerofexaltation,archer_steadybow,centurion_tactician,melee_followup,flagbearer_focused_morale,warrior_soldieroffortune,barbarian_bringthepain,gladiator_war_machine,saint_exalt",
-        "nextNodeType": "frontiercavalry"
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-03-20 15:43:44",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,monk_stoptheflow,archer_venomarrows,fairy_gift_of_the_wind,lancer_sarissaspears,musketeer_grapeshot,spell_empower_highground,archer_rapidshot",
+        "nextNodeType": "olympiadgodgroupFullCD"
     }
 ]
