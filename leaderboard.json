@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179645",
-        "completedLevels": "26",
+        "completedLevels": "27",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-03-20 10:32:45",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,gladiator_sonofthunder,musk_hunters_mark,barbarian_gloriousdeath,rogue_skeletonturret,epic_epicaspirations,gladiator_browbeat,lancer_spearofvengeance,berserker_killing_spree,warrior_soldieroffortune,musketeer_grapeshot,flagbearer_focused_morale,berserker_rancor,saint_surgeofconfidence,monk_heavenskarma,lancer_sarissaspears,support_enchantedstaves,rogue_shadowcloak,paladin_layonhands,warrior_flameslash,blob_parasite,fairy_fireflyconjuration,monk_snakestyle,gladiator_war_machine,flyingrogue_aggravate,assassin_disappearingact",
-        "nextNodeType": "mothershiphangar"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,gladiator_sonofthunder,musk_hunters_mark,barbarian_gloriousdeath,rogue_skeletonturret,epic_epicaspirations,gladiator_browbeat,lancer_spearofvengeance,berserker_killing_spree,warrior_soldieroffortune,musketeer_grapeshot,flagbearer_focused_morale,berserker_rancor,saint_surgeofconfidence,monk_heavenskarma,lancer_sarissaspears,support_enchantedstaves,rogue_shadowcloak,paladin_layonhands,warrior_flameslash,blob_parasite,fairy_fireflyconjuration,monk_snakestyle,gladiator_war_machine,flyingrogue_aggravate,assassin_disappearingact,common_specialists",
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "179614",
