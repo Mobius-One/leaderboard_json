@@ -54,15 +54,6 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
-        "dungeonRunId": "179611",
-        "completedLevels": "22",
-        "twitchDisplayName": "oOJadewolfOo",
-        "startTime": "2025-03-19 19:41:54",
-        "endTime": "2025-03-19 23:16:05",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor,tank_truetank,warlock_inferno,flyingrogue_aggravate,bomber_concentrated_burst,mage_darkmagic,healer_combatmedic,musketeer_grapeshot,archer_steadybow,shinobi_shadowstrike,melee_followup,epic_epicaspirations,centurion_tactician,healer_shadowword,spell_empower_stronghold,flagbearer_bannerofluck",
-        "nextNodeType": "sportiabasket"
-    },
-    {
         "dungeonRunId": "179614",
         "completedLevels": "22",
         "twitchDisplayName": "ohitsneb",
@@ -70,6 +61,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,archer_rapidshot,archer_venomarrows,musk_hunters_mark,saint_exalt,bomber_concentrated_burst,ensouled_heroicspirits,healer_combatmedic,flagbearer_bannerofexaltation,necromancer_bombasticbones,bomber_dangerzone,melee_followup,common_specialists,musketeer_rapidreload,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,gladiator_sonofthunder,barbarian_conqueror,fairy_fireflyconjuration,centurion_juggernaut,fairy_gift_of_the_wind",
         "nextNodeType": "retroforest"
+    },
+    {
+        "dungeonRunId": "179611",
+        "completedLevels": "22",
+        "twitchDisplayName": "oOJadewolfOo",
+        "startTime": "2025-03-19 19:41:54",
+        "endTime": "2025-03-19 23:16:05",
+        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor,tank_truetank,warlock_inferno,flyingrogue_aggravate,bomber_concentrated_burst,mage_darkmagic,healer_combatmedic,musketeer_grapeshot,archer_steadybow,shinobi_shadowstrike,melee_followup,epic_epicaspirations,centurion_tactician,healer_shadowword,spell_empower_stronghold,flagbearer_bannerofluck",
+        "nextNodeType": "sportiabasket"
     },
     {
         "dungeonRunId": "179590",
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179627",
-        "completedLevels": "11",
+        "completedLevels": "12",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-20 02:27:08",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,amazon_vineclone,berserker_rancor,rogue_skeletonturret,ensouled_bravespirits,musketeer_rapidreload,gladiator_sonofthunder,bomber_living_bomb,epic_giantsbrewzero,flagbearer_bannerofexaltation",
-        "nextNodeType": "mothershiphangar"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,saint_surgeofconfidence,amazon_vineclone,berserker_rancor,rogue_skeletonturret,ensouled_bravespirits,musketeer_rapidreload,gladiator_sonofthunder,bomber_living_bomb,epic_giantsbrewzero,flagbearer_bannerofexaltation,archer_steadybow",
+        "nextNodeType": "cruciblemeltdown"
     }
 ]
