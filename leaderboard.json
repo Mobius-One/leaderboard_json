@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179622",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "HopesAreWonky",
         "startTime": "2025-03-20 00:08:40",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,bomber_dangerzone",
-        "nextNodeType": "lavachamber"
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,frogue_cloakingfield",
+        "nextNodeType": "wildsboss"
     }
 ]
