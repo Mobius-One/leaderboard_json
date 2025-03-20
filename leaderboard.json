@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179614",
-        "completedLevels": "20",
+        "completedLevels": "21",
         "twitchDisplayName": "ohitsneb",
         "startTime": "2025-03-19 22:05:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,archer_rapidshot,archer_venomarrows,musk_hunters_mark,saint_exalt,bomber_concentrated_burst,ensouled_heroicspirits,healer_combatmedic,flagbearer_bannerofexaltation,necromancer_bombasticbones,bomber_dangerzone,melee_followup,common_specialists,musketeer_rapidreload,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,gladiator_sonofthunder,barbarian_conqueror,fairy_fireflyconjuration,centurion_juggernaut",
-        "nextNodeType": "mothershiphangar"
+        "captainBoons": "common_classic_comeback,archer_rapidshot,archer_venomarrows,musk_hunters_mark,saint_exalt,bomber_concentrated_burst,ensouled_heroicspirits,healer_combatmedic,flagbearer_bannerofexaltation,necromancer_bombasticbones,bomber_dangerzone,melee_followup,common_specialists,musketeer_rapidreload,ranged_damage_2,saint_godspeed,epic_giantsbrewzero,gladiator_sonofthunder,barbarian_conqueror,fairy_fireflyconjuration,centurion_juggernaut,fairy_gift_of_the_wind",
+        "nextNodeType": "tombsummoning"
     },
     {
         "dungeonRunId": "179590",
@@ -81,12 +81,12 @@
         "nextNodeType": "elementalwaterstream"
     },
     {
-        "dungeonRunId": "179622",
-        "completedLevels": "9",
+        "dungeonRunId": "179624",
+        "completedLevels": "10",
         "twitchDisplayName": "HopesAreWonky",
-        "startTime": "2025-03-20 00:08:40",
-        "endTime": "2025-03-20 01:07:38",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,frogue_cloakingfield,blob_parasite,rogue_sneakattack,saint_surgeofconfidence,rogue_shadowcloak,warrior_soldieroffortune,ranged_damage_2,warrior_falltodarkness",
-        "nextNodeType": "tomblandsorcflank"
+        "startTime": "2025-03-20 01:07:48",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,shinobi_firetechinique,warlock_inferno,centurion_tactician,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,berserker_enrage,saint_godspeed,flyingrogue_aggravate",
+        "nextNodeType": "retrotown"
     }
 ]
