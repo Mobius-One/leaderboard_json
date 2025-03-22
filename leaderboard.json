@@ -81,12 +81,12 @@
         "nextNodeType": "sportiabasket"
     },
     {
-        "dungeonRunId": "179611",
+        "dungeonRunId": "179713",
         "completedLevels": "22",
-        "twitchDisplayName": "oOJadewolfOo",
-        "startTime": "2025-03-19 19:41:54",
-        "endTime": "2025-03-19 23:16:05",
-        "captainBoons": "common_classic_comeback,warrior_soldieroffortune,shinobi_firetechinique,spell_empower_killingfield,rogue_sneakattack,flagbearer_bannerofexaltation,ensouled_heroicspirits,berserker_rancor,tank_truetank,warlock_inferno,flyingrogue_aggravate,bomber_concentrated_burst,mage_darkmagic,healer_combatmedic,musketeer_grapeshot,archer_steadybow,shinobi_shadowstrike,melee_followup,epic_epicaspirations,centurion_tactician,healer_shadowword,spell_empower_stronghold,flagbearer_bannerofluck",
-        "nextNodeType": "sportiabasket"
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-22 00:27:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,ranged_damage_2,mage_darkmagic,bomber_dangerzone,gladiator_sonofthunder,fairy_gift_of_the_wind,epic_giantsbrewzero,tank_truetank,barbarian_conqueror,gladiator_browbeat,flagbearer_bannerofexaltation,warbeast_terrifying_presence,flagbearer_bannerofluck,rogue_skeletonturret,gladiator_war_machine,warrior_soldieroffortune,warrior_flameslash,archer_steadybow,berserker_rancor,saint_surgeofconfidence,artillery_machine_gun,saint_exalt",
+        "nextNodeType": "heartscelestialabyrinth"
     }
 ]
