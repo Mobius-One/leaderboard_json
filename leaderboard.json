@@ -72,6 +72,15 @@
         "nextNodeType": "sportiabasket"
     },
     {
+        "dungeonRunId": "179713",
+        "completedLevels": "25",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-22 00:27:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,ranged_damage_2,mage_darkmagic,bomber_dangerzone,gladiator_sonofthunder,fairy_gift_of_the_wind,epic_giantsbrewzero,tank_truetank,barbarian_conqueror,gladiator_browbeat,flagbearer_bannerofexaltation,warbeast_terrifying_presence,flagbearer_bannerofluck,rogue_skeletonturret,gladiator_war_machine,warrior_soldieroffortune,warrior_flameslash,archer_steadybow,berserker_rancor,saint_surgeofconfidence,artillery_machine_gun,saint_exalt,melee_followup,ensouled_bravespirits",
+        "nextNodeType": "frontierroundup"
+    },
+    {
         "dungeonRunId": "179648",
         "completedLevels": "25",
         "twitchDisplayName": "ohitsneb",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-20 17:58:40",
         "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,archer_venomarrows,saint_godspeed,bomber_dangerzone,monk_snakestyle,musk_hunters_mark,musketeer_rapidreload,ranged_damage_2,amazon_vineclone,saint_exalt,shinobi_firetechinique,blob_parasite,paladin_layonhands,berserker_enrage,necromancer_bombasticbones,archer_rapidshot,barbarian_bringthepain,centurion_2,tank_tungstenswords,bomber_concentrated_burst,fairy_gift_of_the_wind,epic_giantsbrewzero,flagbearer_bannerofexaltation,ensouled_bravespirits,lancer_sarissaspears",
         "nextNodeType": "sportiabasket"
-    },
-    {
-        "dungeonRunId": "179713",
-        "completedLevels": "24",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-22 00:27:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,ranged_damage_2,mage_darkmagic,bomber_dangerzone,gladiator_sonofthunder,fairy_gift_of_the_wind,epic_giantsbrewzero,tank_truetank,barbarian_conqueror,gladiator_browbeat,flagbearer_bannerofexaltation,warbeast_terrifying_presence,flagbearer_bannerofluck,rogue_skeletonturret,gladiator_war_machine,warrior_soldieroffortune,warrior_flameslash,archer_steadybow,berserker_rancor,saint_surgeofconfidence,artillery_machine_gun,saint_exalt,melee_followup,ensouled_bravespirits",
-        "nextNodeType": "glitchedretrotown"
     }
 ]
