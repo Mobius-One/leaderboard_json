@@ -54,15 +54,6 @@
         "nextNodeType": "mothershiphangar"
     },
     {
-        "dungeonRunId": "179655",
-        "completedLevels": "31",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-20 15:31:44",
-        "endTime": "2025-03-20 20:19:03",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,support_enchantedstaves,spell_empower_highground,warrior_soldieroffortune,saint_surgeofconfidence,lancer_sarissaspears,assassin_disappearingact,fairy_gift_of_the_wind,epic_giantsbrewzero,lancer_spearofvengeance,spell_empower_killingfield,berserker_rancor,warrior_flameslash,artillery_machine_gun,saint_exalt,musketeer_grapeshot,barbarian_conqueror,flagbearer_bannerofluck,barbarian_bringthepain,archer_steadybow,fairy_fireflyconjuration,archer_venomarrows,gladiator_war_machine,rogue_sneakattack,frogue_cloakingfield,bomber_living_bomb,gladiator_browbeat,rogue_skeletonturret",
-        "nextNodeType": "sugarhill"
-    },
-    {
         "dungeonRunId": "179658",
         "completedLevels": "31",
         "twitchDisplayName": "Hooks",
@@ -70,6 +61,15 @@
         "endTime": "2025-03-21 00:52:44",
         "captainBoons": "common_classic_comeback,assassin_disappearingact,blob_parasite,bomber_dangerzone,archer_venomarrows,templar_beaconofhope,tank_tungstenswords,warrior_flameslash,warbeast_terrifying_presence,lancer_sarissaspears,berserker_enrage,phantom_thehaunting,epic_giantsbrewzero,frogue_cloakingfield,rogue_shadowcloak,barbarian_gloriousdeath,melee_followup,shinobi_lastninja,gladiator_browbeat,bomber_concentrated_burst,ensouled_heroicspirits,centurion_tactician,armored_shieldbash,archer_steadybow,musketeer_rapidreload,support_enchantedstaves,spell_empower_haste,vampire_darkwings,barbarian_bringthepain",
         "nextNodeType": "dungeonlair"
+    },
+    {
+        "dungeonRunId": "179655",
+        "completedLevels": "31",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-20 15:31:44",
+        "endTime": "2025-03-20 20:19:03",
+        "captainBoons": "common_classic_comeback,bomber_dangerzone,support_enchantedstaves,spell_empower_highground,warrior_soldieroffortune,saint_surgeofconfidence,lancer_sarissaspears,assassin_disappearingact,fairy_gift_of_the_wind,epic_giantsbrewzero,lancer_spearofvengeance,spell_empower_killingfield,berserker_rancor,warrior_flameslash,artillery_machine_gun,saint_exalt,musketeer_grapeshot,barbarian_conqueror,flagbearer_bannerofluck,barbarian_bringthepain,archer_steadybow,fairy_fireflyconjuration,archer_venomarrows,gladiator_war_machine,rogue_sneakattack,frogue_cloakingfield,bomber_living_bomb,gladiator_browbeat,rogue_skeletonturret",
+        "nextNodeType": "sugarhill"
     },
     {
         "dungeonRunId": "179604",
