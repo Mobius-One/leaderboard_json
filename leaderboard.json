@@ -45,6 +45,15 @@
         "nextNodeType": "moboohm"
     },
     {
+        "dungeonRunId": "179713",
+        "completedLevels": "35",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-22 00:27:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,ranged_damage_2,mage_darkmagic,bomber_dangerzone,gladiator_sonofthunder,fairy_gift_of_the_wind,epic_giantsbrewzero,tank_truetank,barbarian_conqueror,gladiator_browbeat,warbeast_terrifying_presence,flagbearer_bannerofluck,gladiator_war_machine,warrior_soldieroffortune,warrior_flameslash,archer_steadybow,berserker_rancor,saint_surgeofconfidence,artillery_machine_gun,saint_exalt,ensouled_bravespirits,barbarian_gloriousdeath,archer_venomarrows,spell_empower_highground,musketeer_rapidreload,frogue_cloakingfield",
+        "nextNodeType": "crucibleboss"
+    },
+    {
         "dungeonRunId": "179656",
         "completedLevels": "35",
         "twitchDisplayName": "Panthergal2018",
@@ -52,15 +61,6 @@
         "endTime": "2025-03-20 20:35:16",
         "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,frogue_cloakingfield,archer_steadybow,saint_exalt,centurion_juggernaut,common_specialists,warrior_soldieroffortune,warrior_flameslash,orcs_building_rage,gladiator_browbeat,barbarian_bringthepain,spell_empower_killingfield,archer_venomarrows,fairy_gift_of_the_wind,spell_empower_highground,archer_rapidshot,bomber_concentrated_burst,lancer_ignitingstrike,centurion_tactician,gladiator_sonofthunder,epic_epicaspirations,bomber_dangerzone,saint_surgeofconfidence,templar_beaconofhope,paladin_layonhands,healer_shadowword",
         "nextNodeType": "mothershiphangar"
-    },
-    {
-        "dungeonRunId": "179713",
-        "completedLevels": "34",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-22 00:27:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,ranged_damage_2,mage_darkmagic,bomber_dangerzone,gladiator_sonofthunder,fairy_gift_of_the_wind,epic_giantsbrewzero,tank_truetank,barbarian_conqueror,gladiator_browbeat,warbeast_terrifying_presence,flagbearer_bannerofluck,gladiator_war_machine,warrior_soldieroffortune,warrior_flameslash,archer_steadybow,berserker_rancor,saint_surgeofconfidence,artillery_machine_gun,saint_exalt,ensouled_bravespirits,barbarian_gloriousdeath,archer_venomarrows,spell_empower_highground,musketeer_rapidreload,frogue_cloakingfield",
-        "nextNodeType": "alpharaiderssquare"
     },
     {
         "dungeonRunId": "179658",
