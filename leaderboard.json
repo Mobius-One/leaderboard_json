@@ -81,12 +81,12 @@
         "nextNodeType": "sportiabasket"
     },
     {
-        "dungeonRunId": "179648",
-        "completedLevels": "25",
+        "dungeonRunId": "179736",
+        "completedLevels": "26",
         "twitchDisplayName": "ohitsneb",
-        "startTime": "2025-03-20 11:29:56",
-        "endTime": "2025-03-20 17:58:40",
-        "captainBoons": "common_classic_comeback,flagbearer_bannerofluck,archer_venomarrows,saint_godspeed,bomber_dangerzone,monk_snakestyle,musk_hunters_mark,musketeer_rapidreload,ranged_damage_2,amazon_vineclone,saint_exalt,shinobi_firetechinique,blob_parasite,paladin_layonhands,berserker_enrage,necromancer_bombasticbones,archer_rapidshot,barbarian_bringthepain,centurion_2,tank_tungstenswords,bomber_concentrated_burst,fairy_gift_of_the_wind,epic_giantsbrewzero,flagbearer_bannerofexaltation,ensouled_bravespirits,lancer_sarissaspears",
-        "nextNodeType": "sportiabasket"
+        "startTime": "2025-03-22 19:25:20",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,berserker_rancor,healer_shadowword,ensouled_heroicspirits,healer_combatmedic,ranged_damage_2,warrior_falltodarkness,bomber_dangerzone,saint_surgeofconfidence,flagbearer_focused_morale,saint_exalt,vampire_spectralpresence,monk_heavenskarma,tank_tungstenswords,warrior_flameslash,blob_parasite,archer_rapidshot,armored_shieldbash,musk_hunters_mark,flagbearer_bannerofluck,monk_snakestyle,phantom_thehaunting,centurion_tactician,fairy_hocuspocus,amazon_vineclone,monk_stoptheflow,bomber_concentrated_burst",
+        "nextNodeType": "mothershiphangar"
     }
 ]
