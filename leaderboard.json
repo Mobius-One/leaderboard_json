@@ -1,11 +1,11 @@
 [
     {
         "dungeonRunId": "179803",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-25 19:04:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,assassin_disappearingact,common_specialists,epic_elixirofdeath,support_enchantedstaves",
-        "nextNodeType": "starboss"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,assassin_disappearingact,common_specialists,epic_elixirofdeath,support_enchantedstaves,blob_parasite",
+        "nextNodeType": "steampunkgear"
     }
 ]
