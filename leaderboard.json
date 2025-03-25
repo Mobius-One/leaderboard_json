@@ -1,11 +1,11 @@
 [
     {
         "dungeonRunId": "179803",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-25 19:04:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory",
+        "nextNodeType": "steampunksiege"
     }
 ]
