@@ -1,11 +1,11 @@
 [
     {
         "dungeonRunId": "179803",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-25 19:04:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong",
-        "nextNodeType": "crystaltunnel"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,assassin_disappearingact",
+        "nextNodeType": "lavafurnace"
     }
 ]
