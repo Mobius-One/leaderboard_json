@@ -19,11 +19,11 @@
     },
     {
         "dungeonRunId": "179809",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-25 23:10:35",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage",
-        "nextNodeType": "raidhallalake"
+        "nextNodeType": "newjunglespore"
     }
 ]
