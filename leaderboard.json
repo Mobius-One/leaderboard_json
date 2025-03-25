@@ -1,11 +1,11 @@
 [
     {
         "dungeonRunId": "179803",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-25 19:04:02",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,assassin_disappearingact,common_specialists,epic_elixirofdeath,support_enchantedstaves,blob_parasite,assassin_agility,flying_evasivemaneuvers,epic_armored_armoredgiants,warrior_soldieroffortune,epic_giantsblessing,berserker_killing_spree,healer_combatmedic,elf_elvenimmortality,rogue_shadowcloak,epic_giantsbrewzero,musketeer_grapeshot,ensouled_heroicspirits,rogue_sneakattack",
-        "nextNodeType": "crystaltunnel"
+        "nextNodeType": "crystalcavethrone"
     }
 ]
