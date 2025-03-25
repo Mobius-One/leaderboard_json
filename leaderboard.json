@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179803",
-        "completedLevels": "27",
+        "completedLevels": "28",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-25 19:04:02",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,assassin_disappearingact,common_specialists,epic_elixirofdeath,support_enchantedstaves,blob_parasite,assassin_agility,flying_evasivemaneuvers,epic_armored_armoredgiants,warrior_soldieroffortune,epic_giantsblessing,berserker_killing_spree,healer_combatmedic,elf_elvenimmortality,rogue_shadowcloak,epic_giantsbrewzero,musketeer_grapeshot,ensouled_heroicspirits,rogue_sneakattack,frogue_preparation,bomber_bombardment,epic_elixirofarchery,ensouled_fatedspirits,warbeast_terrifying_presence",
-        "nextNodeType": "newjunglespore"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,assassin_disappearingact,common_specialists,epic_elixirofdeath,support_enchantedstaves,blob_parasite,assassin_agility,flying_evasivemaneuvers,epic_armored_armoredgiants,warrior_soldieroffortune,epic_giantsblessing,berserker_killing_spree,healer_combatmedic,elf_elvenimmortality,rogue_shadowcloak,epic_giantsbrewzero,musketeer_grapeshot,ensouled_heroicspirits,rogue_sneakattack,frogue_preparation,bomber_bombardment,epic_elixirofarchery,ensouled_fatedspirits,warbeast_terrifying_presence,bomber_dangerzone",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "179807",
