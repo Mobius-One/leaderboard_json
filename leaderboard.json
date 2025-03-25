@@ -36,15 +36,6 @@
         "nextNodeType": "sugarhill"
     },
     {
-        "dungeonRunId": "179584",
-        "completedLevels": "38",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-03-18 19:11:09",
-        "endTime": "2025-03-19 00:13:03",
-        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
-        "nextNodeType": "crashzoneboss"
-    },
-    {
         "dungeonRunId": "179713",
         "completedLevels": "38",
         "twitchDisplayName": "elcanadiano",
@@ -52,6 +43,15 @@
         "endTime": "2025-03-22 04:58:38",
         "captainBoons": "common_classic_comeback,lancer_sarissaspears,ranged_damage_2,mage_darkmagic,bomber_dangerzone,gladiator_sonofthunder,fairy_gift_of_the_wind,tank_truetank,barbarian_conqueror,gladiator_browbeat,warbeast_terrifying_presence,flagbearer_bannerofluck,gladiator_war_machine,warrior_soldieroffortune,warrior_flameslash,archer_steadybow,berserker_rancor,saint_surgeofconfidence,artillery_machine_gun,saint_exalt,ensouled_bravespirits,archer_venomarrows,spell_empower_highground,musketeer_rapidreload,frogue_cloakingfield",
         "nextNodeType": "mothershiphangar"
+    },
+    {
+        "dungeonRunId": "179584",
+        "completedLevels": "38",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-03-18 19:11:09",
+        "endTime": "2025-03-19 00:13:03",
+        "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
+        "nextNodeType": "crashzoneboss"
     },
     {
         "dungeonRunId": "179656",
