@@ -10,11 +10,11 @@
     },
     {
         "dungeonRunId": "179807",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-03-25 22:45:53",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings",
-        "nextNodeType": "newjunglespore"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,support_enchantedstaves",
+        "nextNodeType": "crystalcavethrone"
     }
 ]
