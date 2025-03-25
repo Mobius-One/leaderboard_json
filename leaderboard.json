@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179799",
-        "completedLevels": "41",
+        "completedLevels": "42",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-03-24 17:19:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_killing_spree,warrior_soldieroffortune,lancer_ignitingstrike,lancer_sarissaspears,warrior_flameslash,fairy_gift_of_the_wind,musketeer_rapidreload,flagbearer_bannerofexaltation,rogue_shadowcloak,bomber_dangerzone,melee_followup,epic_giantsbrewzero,archer_venomarrows,berserker_rancor,musketeer_grapeshot,epic_epicaspirations,saint_surgeofconfidence,barbarian_gloriousdeath,assassin_disappearingact,gladiator_war_machine,rogue_sneakattack,paladin_avengingsmite",
-        "nextNodeType": "mothershiphangar"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_killing_spree,warrior_soldieroffortune,lancer_ignitingstrike,lancer_sarissaspears,warrior_flameslash,fairy_gift_of_the_wind,musketeer_rapidreload,flagbearer_bannerofexaltation,rogue_shadowcloak,bomber_dangerzone,melee_followup,epic_giantsbrewzero,archer_venomarrows,berserker_rancor,musketeer_grapeshot,saint_surgeofconfidence,barbarian_gloriousdeath,assassin_disappearingact,gladiator_war_machine,rogue_sneakattack,paladin_avengingsmite",
+        "nextNodeType": "elementaliceroad"
     },
     {
         "dungeonRunId": "179592",
@@ -36,15 +36,6 @@
         "nextNodeType": "sugarhill"
     },
     {
-        "dungeonRunId": "179713",
-        "completedLevels": "38",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-22 00:27:03",
-        "endTime": "2025-03-22 04:58:38",
-        "captainBoons": "common_classic_comeback,lancer_sarissaspears,ranged_damage_2,mage_darkmagic,bomber_dangerzone,gladiator_sonofthunder,fairy_gift_of_the_wind,tank_truetank,barbarian_conqueror,gladiator_browbeat,warbeast_terrifying_presence,flagbearer_bannerofluck,gladiator_war_machine,warrior_soldieroffortune,warrior_flameslash,archer_steadybow,berserker_rancor,saint_surgeofconfidence,artillery_machine_gun,saint_exalt,ensouled_bravespirits,archer_venomarrows,spell_empower_highground,musketeer_rapidreload,frogue_cloakingfield",
-        "nextNodeType": "mothershiphangar"
-    },
-    {
         "dungeonRunId": "179584",
         "completedLevels": "38",
         "twitchDisplayName": "Rafipi",
@@ -52,6 +43,15 @@
         "endTime": "2025-03-19 00:13:03",
         "captainBoons": "common_classic_comeback,healer_combatmedic,assassin_disappearingact,bomber_living_bomb,warrior_soldieroffortune,archer_venomarrows,artillery_machine_gun,flagbearer_bannerofluck,saint_surgeofconfidence,bomber_dangerzone,warrior_flameslash,lancer_sarissaspears,bomber_concentrated_burst,centurion_2,support_enchantedstaves,epic_giantsbrewzero,berserker_enrage,fairy_fireflyconjuration,frogue_cloakingfield,healer_healing_bloom,rogue_sneakattack,gladiator_sonofthunder,gladiator_war_machine,berserker_rancor,flagbearer_bannerofexaltation",
         "nextNodeType": "crashzoneboss"
+    },
+    {
+        "dungeonRunId": "179713",
+        "completedLevels": "38",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-22 00:27:03",
+        "endTime": "2025-03-22 04:58:38",
+        "captainBoons": "common_classic_comeback,lancer_sarissaspears,ranged_damage_2,mage_darkmagic,bomber_dangerzone,gladiator_sonofthunder,fairy_gift_of_the_wind,tank_truetank,barbarian_conqueror,gladiator_browbeat,warbeast_terrifying_presence,flagbearer_bannerofluck,gladiator_war_machine,warrior_soldieroffortune,warrior_flameslash,archer_steadybow,berserker_rancor,saint_surgeofconfidence,artillery_machine_gun,saint_exalt,ensouled_bravespirits,archer_venomarrows,spell_empower_highground,musketeer_rapidreload,frogue_cloakingfield",
+        "nextNodeType": "mothershiphangar"
     },
     {
         "dungeonRunId": "179656",
