@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179799",
-        "completedLevels": "47",
+        "completedLevels": "48",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-03-24 17:19:10",
         "endTime": null,
         "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_killing_spree,lancer_ignitingstrike,lancer_sarissaspears,warrior_flameslash,fairy_gift_of_the_wind,musketeer_rapidreload,flagbearer_bannerofexaltation,rogue_shadowcloak,bomber_dangerzone,melee_followup,epic_giantsbrewzero,archer_venomarrows,berserker_rancor,musketeer_grapeshot,saint_surgeofconfidence,barbarian_gloriousdeath,assassin_disappearingact,gladiator_war_machine,rogue_sneakattack",
-        "nextNodeType": "wildsboss"
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179603",
@@ -81,12 +81,12 @@
         "nextNodeType": "sportiabasket"
     },
     {
-        "dungeonRunId": "179762",
+        "dungeonRunId": "179736",
         "completedLevels": "28",
-        "twitchDisplayName": "Soman_Yalts",
-        "startTime": "2025-03-23 14:30:23",
-        "endTime": "2025-03-23 18:36:21",
-        "captainBoons": "common_classic_comeback,bomber_dangerzone,centurion_juggernaut,monk_heavenskarma,lancer_sarissaspears,assassin_disappearingact,common_specialists,archer_rapidshot,warrior_flameslash,spell_empower_haste,warrior_soldieroffortune,support_enchantedstaves,epic_epicaspirations,rogue_sneakattack,saint_surgeofconfidence,berserker_killing_spree,epic_giantsbrewzero,tank_truetank,shinobi_lastninja,vampire_darkwings,gladiator_sonofthunder,spy_fromcaptainwithlove,healer_combatmedic,shinobi_firetechinique,bomber_living_bomb,flagbearer_bannerofluck,musketeer_grapeshot,amazon_vineclone,musketeer_rapidreload",
-        "nextNodeType": "frontierroundup"
+        "twitchDisplayName": "ohitsneb",
+        "startTime": "2025-03-22 19:25:20",
+        "endTime": "2025-03-23 01:58:28",
+        "captainBoons": "common_classic_comeback,berserker_rancor,healer_shadowword,ensouled_heroicspirits,healer_combatmedic,ranged_damage_2,warrior_falltodarkness,bomber_dangerzone,saint_surgeofconfidence,flagbearer_focused_morale,saint_exalt,vampire_spectralpresence,monk_heavenskarma,tank_tungstenswords,warrior_flameslash,blob_parasite,archer_rapidshot,armored_shieldbash,musk_hunters_mark,flagbearer_bannerofluck,monk_snakestyle,phantom_thehaunting,centurion_tactician,fairy_hocuspocus,amazon_vineclone,monk_stoptheflow,bomber_concentrated_burst,vampire_swarmcoffin,musketeer_rapidreload",
+        "nextNodeType": "dungeonlair"
     }
 ]
