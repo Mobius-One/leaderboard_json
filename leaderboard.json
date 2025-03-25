@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179799",
-        "completedLevels": "45",
+        "completedLevels": "46",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-03-24 17:19:10",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_killing_spree,lancer_ignitingstrike,lancer_sarissaspears,warrior_flameslash,fairy_gift_of_the_wind,musketeer_rapidreload,flagbearer_bannerofexaltation,rogue_shadowcloak,bomber_dangerzone,melee_followup,epic_giantsbrewzero,archer_venomarrows,berserker_rancor,musketeer_grapeshot,saint_surgeofconfidence,barbarian_gloriousdeath,assassin_disappearingact,gladiator_war_machine,rogue_sneakattack,paladin_avengingsmite",
-        "nextNodeType": "heartscelestialabyrinth"
+        "captainBoons": "common_classic_comeback,gladiator_browbeat,berserker_killing_spree,lancer_ignitingstrike,lancer_sarissaspears,warrior_flameslash,fairy_gift_of_the_wind,musketeer_rapidreload,flagbearer_bannerofexaltation,rogue_shadowcloak,bomber_dangerzone,melee_followup,epic_giantsbrewzero,archer_venomarrows,berserker_rancor,musketeer_grapeshot,saint_surgeofconfidence,barbarian_gloriousdeath,assassin_disappearingact,gladiator_war_machine,rogue_sneakattack",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "179603",
