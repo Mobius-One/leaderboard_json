@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "179826",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-26 11:17:03",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,berserker_rancor,melee_followup,human_humandestiny,epic_giantsbrewzero,captain_fragile_commander,archer_soulpenetration,epic_elixirofdeath,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofarchery",
-        "nextNodeType": "dungeonexperiment"
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179807",
