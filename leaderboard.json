@@ -19,11 +19,11 @@
     },
     {
         "dungeonRunId": "179809",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-25 23:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory",
-        "nextNodeType": "orctotem"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits",
+        "nextNodeType": "dungeonexperiment"
     }
 ]
