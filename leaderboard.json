@@ -25,5 +25,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,support_enchantedstaves,spell_empower_haste,musketeer_rapidreload,musketeer_grapeshot,artillery_machine_gun,assassin_agility,ranged_damage_2,tank_guardian",
         "nextNodeType": "raidhallalake"
+    },
+    {
+        "dungeonRunId": "179817",
+        "completedLevels": "1",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-26 04:12:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck",
+        "nextNodeType": "winterdinos"
     }
 ]
