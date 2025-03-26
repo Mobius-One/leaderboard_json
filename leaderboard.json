@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179817",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-26 04:12:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,epic_elixirofarchery,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ranged_damage_2,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits,archer_soulpenetration,musketeer_rapidreload,gladiator_sonofthunder,paladin_2,saint_exalt,frogue_preparation,bomber_bombardment",
-        "nextNodeType": "raidhallalake"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,epic_elixirofarchery,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ranged_damage_2,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits,archer_soulpenetration,musketeer_rapidreload,gladiator_sonofthunder,paladin_2,saint_exalt,frogue_preparation,bomber_bombardment,epic_giantsbrewzero",
+        "nextNodeType": "lavachamber"
     },
     {
         "dungeonRunId": "179807",
@@ -40,7 +40,7 @@
         "completedLevels": "2",
         "twitchDisplayName": "fallguyF00",
         "startTime": "2025-03-26 05:43:47",
-        "endTime": null,
+        "endTime": "2025-03-26 06:30:45",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,assassin_disappearingact",
         "nextNodeType": "steampunksiege"
     }
