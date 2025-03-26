@@ -45,6 +45,15 @@
         "nextNodeType": "raidhallalake"
     },
     {
+        "dungeonRunId": "179820",
+        "completedLevels": "9",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-03-26 05:26:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,general_dawnofvictory,ensouled_bravespirits,epic_elixirofhealth,flying_evasivemaneuvers,spell_empower_stronghold,flagbearer_bannerofluck,epic_giantsblessing,warrior_swordofruin",
+        "nextNodeType": "lavachamber"
+    },
+    {
         "dungeonRunId": "179821",
         "completedLevels": "2",
         "twitchDisplayName": "fallguyF00",
