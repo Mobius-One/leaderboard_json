@@ -9,6 +9,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179817",
+        "completedLevels": "37",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-26 04:12:01",
+        "endTime": null,
+        "captainBoons": "amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits,archer_soulpenetration,musketeer_rapidreload,gladiator_sonofthunder,paladin_2,saint_exalt,frogue_preparation,bomber_bombardment,epic_giantsbrewzero,fairy_hocuspocus,warbeast_terrifying_presence,assassin_disappearingact",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "179809",
         "completedLevels": "37",
         "twitchDisplayName": "MozzyAuzzy",
@@ -16,15 +25,6 @@
         "endTime": "2025-03-26 04:07:53",
         "captainBoons": "common_classic_comeback,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic,ensouled_fatedspirits,warbeast_terrifying_presence,saint_exalt,ensouled_enragedspirits,epic_epicaspirations,fairy_fireflyconjuration,assassin_disappearingact,musketeer_rapidreload,artillery_machine_gun,elf_elvenimmortality,tank_guardian,epic_elixirofhealth,shinobi_firetechinique,paladin_2,warrior_soldieroffortune,fairy_hocuspocus",
         "nextNodeType": "heartscelestialabyrinth"
-    },
-    {
-        "dungeonRunId": "179817",
-        "completedLevels": "36",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-03-26 04:12:01",
-        "endTime": null,
-        "captainBoons": "amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits,archer_soulpenetration,musketeer_rapidreload,gladiator_sonofthunder,paladin_2,saint_exalt,frogue_preparation,bomber_bombardment,epic_giantsbrewzero,fairy_hocuspocus,warbeast_terrifying_presence,assassin_disappearingact",
-        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "179807",
