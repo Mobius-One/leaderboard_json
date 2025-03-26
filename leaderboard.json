@@ -18,6 +18,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179826",
+        "completedLevels": "38",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-26 11:17:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,melee_followup,human_humandestiny,epic_giantsbrewzero,captain_fragile_commander,archer_soulpenetration,epic_elixirofdeath,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofarchery,armored_shieldbash,ensouled_bravespirits,epic_elixirofresistance,ensouled_enragedspirits,flagbearer_bannerofluck,robot_robotauthority,spell_empower_highground,support_enchantedstaves,bomber_dangerzone,epic_giantsblessing,berserker_killing_spree,centurion_tactician,flying_evasivemaneuvers,artillery_machine_gun,epic_elixirofrage,ensouled_fatedspirits",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179809",
         "completedLevels": "37",
         "twitchDisplayName": "MozzyAuzzy",
@@ -25,15 +34,6 @@
         "endTime": "2025-03-26 04:07:53",
         "captainBoons": "common_classic_comeback,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic,ensouled_fatedspirits,warbeast_terrifying_presence,saint_exalt,ensouled_enragedspirits,epic_epicaspirations,fairy_fireflyconjuration,assassin_disappearingact,musketeer_rapidreload,artillery_machine_gun,elf_elvenimmortality,tank_guardian,epic_elixirofhealth,shinobi_firetechinique,paladin_2,warrior_soldieroffortune,fairy_hocuspocus",
         "nextNodeType": "heartscelestialabyrinth"
-    },
-    {
-        "dungeonRunId": "179826",
-        "completedLevels": "37",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-26 11:17:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,melee_followup,human_humandestiny,epic_giantsbrewzero,captain_fragile_commander,archer_soulpenetration,epic_elixirofdeath,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofarchery,armored_shieldbash,ensouled_bravespirits,epic_elixirofresistance,ensouled_enragedspirits,warbeast_terrifying_presence,flagbearer_bannerofluck,robot_robotauthority,spell_empower_highground,support_enchantedstaves,bomber_dangerzone,epic_giantsblessing,berserker_killing_spree,centurion_tactician,flying_evasivemaneuvers,artillery_machine_gun,epic_elixirofrage,ensouled_fatedspirits",
-        "nextNodeType": "crystaltunnel"
     },
     {
         "dungeonRunId": "179807",
