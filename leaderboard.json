@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179817",
-        "completedLevels": "14",
+        "completedLevels": "15",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-26 04:12:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,epic_elixirofarchery,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ranged_damage_2",
-        "nextNodeType": "dungeons_jerry"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,epic_elixirofarchery,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ranged_damage_2,ensouled_bravespirits",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "179807",
