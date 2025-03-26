@@ -1,29 +1,29 @@
 [
     {
         "dungeonRunId": "179803",
-        "completedLevels": "34",
+        "completedLevels": "35",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-25 19:04:02",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,common_specialists,epic_elixirofdeath,blob_parasite,assassin_agility,flying_evasivemaneuvers,epic_armored_armoredgiants,warrior_soldieroffortune,berserker_killing_spree,healer_combatmedic,elf_elvenimmortality,rogue_shadowcloak,epic_giantsbrewzero,musketeer_grapeshot,ensouled_heroicspirits,rogue_sneakattack,frogue_preparation,bomber_bombardment,epic_elixirofarchery,ensouled_fatedspirits,warbeast_terrifying_presence,bomber_dangerzone,ensouled_enragedspirits",
-        "nextNodeType": "plaguegrotto"
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179807",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "JayelDraco",
         "startTime": "2025-03-25 22:45:53",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,support_enchantedstaves,spell_empower_haste,musketeer_rapidreload,musketeer_grapeshot,artillery_machine_gun,assassin_agility,ranged_damage_2",
-        "nextNodeType": "steampunksiege"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,support_enchantedstaves,spell_empower_haste,musketeer_rapidreload,musketeer_grapeshot,artillery_machine_gun,assassin_agility,ranged_damage_2,tank_guardian",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "179809",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-25 23:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot",
-        "nextNodeType": "lavafurnace"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend",
+        "nextNodeType": "frontiercavalry"
     }
 ]
