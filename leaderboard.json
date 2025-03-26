@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179817",
-        "completedLevels": "17",
+        "completedLevels": "18",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-26 04:12:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,epic_elixirofarchery,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ranged_damage_2,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits",
-        "nextNodeType": "steampunksiege"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,epic_elixirofarchery,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ranged_damage_2,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits,archer_soulpenetration",
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "179807",
