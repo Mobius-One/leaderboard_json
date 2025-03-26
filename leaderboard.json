@@ -4,18 +4,18 @@
         "completedLevels": "40",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-25 19:04:02",
-        "endTime": null,
+        "endTime": "2025-03-26 00:48:52",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,common_specialists,epic_elixirofdeath,blob_parasite,assassin_agility,flying_evasivemaneuvers,epic_armored_armoredgiants,warrior_soldieroffortune,berserker_killing_spree,healer_combatmedic,elf_elvenimmortality,rogue_shadowcloak,epic_giantsbrewzero,musketeer_grapeshot,rogue_sneakattack,bomber_bombardment,epic_elixirofarchery,ensouled_fatedspirits,bomber_dangerzone,ensouled_enragedspirits",
         "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179809",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-25 23:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic,ensouled_fatedspirits,warbeast_terrifying_presence",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic,ensouled_fatedspirits,warbeast_terrifying_presence,saint_exalt",
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "179807",
