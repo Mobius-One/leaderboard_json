@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "179826",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-26 11:17:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,berserker_rancor,melee_followup,human_humandestiny,epic_giantsbrewzero,captain_fragile_commander",
-        "nextNodeType": "lavafurnace"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,berserker_rancor,melee_followup,human_humandestiny,epic_giantsbrewzero,captain_fragile_commander,archer_soulpenetration",
+        "nextNodeType": "crystaltunnel"
     },
     {
         "dungeonRunId": "179821",
