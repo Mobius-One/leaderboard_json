@@ -1,5 +1,14 @@
 [
     {
+        "dungeonRunId": "179817",
+        "completedLevels": "40",
+        "twitchDisplayName": "chiquik",
+        "startTime": "2025-03-26 04:12:01",
+        "endTime": null,
+        "captainBoons": "amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits,archer_soulpenetration,gladiator_sonofthunder,saint_exalt,frogue_preparation,bomber_bombardment,epic_giantsbrewzero,fairy_hocuspocus,warbeast_terrifying_presence,assassin_disappearingact",
+        "nextNodeType": "steampunkgear"
+    },
+    {
         "dungeonRunId": "179803",
         "completedLevels": "40",
         "twitchDisplayName": "Rafipi",
@@ -7,15 +16,6 @@
         "endTime": "2025-03-26 00:48:52",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,common_specialists,epic_elixirofdeath,blob_parasite,assassin_agility,flying_evasivemaneuvers,epic_armored_armoredgiants,warrior_soldieroffortune,berserker_killing_spree,healer_combatmedic,elf_elvenimmortality,rogue_shadowcloak,epic_giantsbrewzero,musketeer_grapeshot,rogue_sneakattack,bomber_bombardment,epic_elixirofarchery,ensouled_fatedspirits,bomber_dangerzone,ensouled_enragedspirits",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179817",
-        "completedLevels": "39",
-        "twitchDisplayName": "chiquik",
-        "startTime": "2025-03-26 04:12:01",
-        "endTime": null,
-        "captainBoons": "amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits,archer_soulpenetration,musketeer_rapidreload,gladiator_sonofthunder,saint_exalt,frogue_preparation,bomber_bombardment,epic_giantsbrewzero,fairy_hocuspocus,warbeast_terrifying_presence,assassin_disappearingact",
-        "nextNodeType": "dungeonexperiment"
     },
     {
         "dungeonRunId": "179809",
