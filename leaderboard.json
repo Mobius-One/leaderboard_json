@@ -36,6 +36,15 @@
         "nextNodeType": "heartscelestialabyrinth"
     },
     {
+        "dungeonRunId": "179820",
+        "completedLevels": "10",
+        "twitchDisplayName": "Hooks",
+        "startTime": "2025-03-26 05:26:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,general_dawnofvictory,ensouled_bravespirits,epic_elixirofhealth,flying_evasivemaneuvers,spell_empower_stronghold,flagbearer_bannerofluck,epic_giantsblessing,warrior_swordofruin,assassin_agility",
+        "nextNodeType": "frontiercavalry"
+    },
+    {
         "dungeonRunId": "179807",
         "completedLevels": "10",
         "twitchDisplayName": "JayelDraco",
@@ -43,15 +52,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,support_enchantedstaves,spell_empower_haste,musketeer_rapidreload,musketeer_grapeshot,artillery_machine_gun,assassin_agility,ranged_damage_2,tank_guardian",
         "nextNodeType": "raidhallalake"
-    },
-    {
-        "dungeonRunId": "179820",
-        "completedLevels": "10",
-        "twitchDisplayName": "Hooks",
-        "startTime": "2025-03-26 05:26:35",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,general_dawnofvictory,ensouled_bravespirits,epic_elixirofhealth,flying_evasivemaneuvers,spell_empower_stronghold,flagbearer_bannerofluck,epic_giantsblessing,warrior_swordofruin",
-        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "179821",
