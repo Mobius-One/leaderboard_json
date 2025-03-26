@@ -1,21 +1,21 @@
 [
     {
         "dungeonRunId": "179803",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "Rafipi",
         "startTime": "2025-03-25 19:04:02",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,common_specialists,epic_elixirofdeath,blob_parasite,assassin_agility,flying_evasivemaneuvers,epic_armored_armoredgiants,warrior_soldieroffortune,berserker_killing_spree,healer_combatmedic,elf_elvenimmortality,rogue_shadowcloak,epic_giantsbrewzero,musketeer_grapeshot,ensouled_heroicspirits,rogue_sneakattack,bomber_bombardment,epic_elixirofarchery,ensouled_fatedspirits,bomber_dangerzone,ensouled_enragedspirits",
-        "nextNodeType": "crystalcavethrone"
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179809",
-        "completedLevels": "10",
+        "completedLevels": "11",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-25 23:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic",
-        "nextNodeType": "crystaltunnel"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic,ensouled_fatedspirits",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179807",
