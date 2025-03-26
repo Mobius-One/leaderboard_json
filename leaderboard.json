@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179826",
-        "completedLevels": "38",
+        "completedLevels": "39",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-26 11:17:03",
         "endTime": null,
         "captainBoons": "common_classic_comeback,melee_followup,human_humandestiny,epic_giantsbrewzero,captain_fragile_commander,archer_soulpenetration,epic_elixirofdeath,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofarchery,armored_shieldbash,ensouled_bravespirits,epic_elixirofresistance,ensouled_enragedspirits,flagbearer_bannerofluck,robot_robotauthority,spell_empower_highground,support_enchantedstaves,bomber_dangerzone,epic_giantsblessing,berserker_killing_spree,centurion_tactician,flying_evasivemaneuvers,artillery_machine_gun,epic_elixirofrage,ensouled_fatedspirits",
-        "nextNodeType": "orctotem"
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179809",
@@ -46,12 +46,12 @@
     },
     {
         "dungeonRunId": "179820",
-        "completedLevels": "9",
+        "completedLevels": "10",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-26 05:26:35",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,general_dawnofvictory,ensouled_bravespirits,epic_elixirofhealth,flying_evasivemaneuvers,spell_empower_stronghold,flagbearer_bannerofluck,epic_giantsblessing,warrior_swordofruin",
-        "nextNodeType": "lavachamber"
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "179821",
