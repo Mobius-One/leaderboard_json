@@ -28,12 +28,12 @@
     },
     {
         "dungeonRunId": "179826",
-        "completedLevels": "31",
+        "completedLevels": "32",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-26 11:17:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,melee_followup,human_humandestiny,epic_giantsbrewzero,captain_fragile_commander,archer_soulpenetration,epic_elixirofdeath,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofarchery,armored_shieldbash,ensouled_bravespirits,epic_elixirofresistance,ensouled_enragedspirits,warbeast_terrifying_presence,flagbearer_bannerofluck,robot_robotauthority,spell_empower_highground,epic_elixirofhealth,support_enchantedstaves,blob_parasite,bomber_dangerzone,epic_giantsblessing,berserker_killing_spree,centurion_tactician,flying_evasivemaneuvers,artillery_machine_gun,epic_elixirofrage,ensouled_fatedspirits",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,melee_followup,human_humandestiny,epic_giantsbrewzero,captain_fragile_commander,archer_soulpenetration,epic_elixirofdeath,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofarchery,armored_shieldbash,ensouled_bravespirits,epic_elixirofresistance,ensouled_enragedspirits,warbeast_terrifying_presence,flagbearer_bannerofluck,robot_robotauthority,spell_empower_highground,support_enchantedstaves,blob_parasite,bomber_dangerzone,epic_giantsblessing,berserker_killing_spree,centurion_tactician,flying_evasivemaneuvers,artillery_machine_gun,epic_elixirofrage,ensouled_fatedspirits",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179807",
