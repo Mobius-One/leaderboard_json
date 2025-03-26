@@ -61,5 +61,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofresistance",
         "nextNodeType": "dungeonexperiment"
+    },
+    {
+        "dungeonRunId": "179826",
+        "completedLevels": "1",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-26 11:17:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,berserker_rancor",
+        "nextNodeType": "heartscelestialabyrinth"
     }
 ]
