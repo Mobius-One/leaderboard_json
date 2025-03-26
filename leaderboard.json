@@ -45,21 +45,21 @@
         "nextNodeType": "winterdinos"
     },
     {
+        "dungeonRunId": "179826",
+        "completedLevels": "3",
+        "twitchDisplayName": "JayEmDee",
+        "startTime": "2025-03-26 11:17:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,berserker_rancor,melee_followup,human_humandestiny",
+        "nextNodeType": "lavachamber"
+    },
+    {
         "dungeonRunId": "179821",
         "completedLevels": "2",
         "twitchDisplayName": "fallguyF00",
         "startTime": "2025-03-26 05:43:47",
         "endTime": "2025-03-26 06:30:45",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,assassin_disappearingact",
-        "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179826",
-        "completedLevels": "2",
-        "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-26 11:17:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,berserker_rancor,melee_followup",
         "nextNodeType": "steampunksiege"
     },
     {
