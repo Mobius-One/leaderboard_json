@@ -28,11 +28,11 @@
     },
     {
         "dungeonRunId": "179817",
-        "completedLevels": "2",
+        "completedLevels": "3",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-26 04:12:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing",
-        "nextNodeType": "lavafurnace"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike",
+        "nextNodeType": "moboohm"
     }
 ]
