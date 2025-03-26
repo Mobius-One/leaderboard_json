@@ -1,12 +1,12 @@
 [
     {
         "dungeonRunId": "179817",
-        "completedLevels": "55",
+        "completedLevels": "56",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-26 04:12:01",
         "endTime": null,
-        "captainBoons": "flagbearer_bannerofluck,epic_giantsblessing,ensouled_heroicspirits,bomber_dangerzone,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,ensouled_bravespirits,ensouled_enragedspirits,archer_soulpenetration,gladiator_sonofthunder,saint_exalt,bomber_bombardment,epic_giantsbrewzero,fairy_hocuspocus,warbeast_terrifying_presence,assassin_disappearingact",
-        "nextNodeType": "crystaltunnel"
+        "captainBoons": "flagbearer_bannerofluck,epic_giantsblessing,ensouled_heroicspirits,bomber_dangerzone,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,ensouled_enragedspirits,archer_soulpenetration,gladiator_sonofthunder,saint_exalt,bomber_bombardment,epic_giantsbrewzero,fairy_hocuspocus,warbeast_terrifying_presence,assassin_disappearingact",
+        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "179803",
