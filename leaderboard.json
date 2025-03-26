@@ -19,12 +19,12 @@
     },
     {
         "dungeonRunId": "179817",
-        "completedLevels": "28",
+        "completedLevels": "29",
         "twitchDisplayName": "chiquik",
         "startTime": "2025-03-26 04:12:01",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,epic_elixirofarchery,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ranged_damage_2,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits,archer_soulpenetration,musketeer_rapidreload,gladiator_sonofthunder,paladin_2,saint_exalt,frogue_preparation,bomber_bombardment,epic_giantsbrewzero,fairy_hocuspocus,warbeast_terrifying_presence,centurion_tactician",
-        "nextNodeType": "moboohm"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,epic_giantsblessing,lancer_firststrike,epic_elixirofarchery,melee_followup,ensouled_heroicspirits,bomber_dangerzone,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofresistance,general_dawnofvictory,necromancer_bombasticbones,warrior_soldieroffortune,ranged_damage_2,ensouled_bravespirits,epic_elixirofhealth,ensouled_enragedspirits,archer_soulpenetration,musketeer_rapidreload,gladiator_sonofthunder,paladin_2,saint_exalt,frogue_preparation,bomber_bombardment,epic_giantsbrewzero,fairy_hocuspocus,warbeast_terrifying_presence,centurion_tactician,assassin_disappearingact",
+        "nextNodeType": "dungeons_jerry"
     },
     {
         "dungeonRunId": "179807",
@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179820",
-        "completedLevels": "5",
+        "completedLevels": "6",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-26 05:26:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,general_dawnofvictory,ensouled_bravespirits,epic_elixirofhealth,flying_evasivemaneuvers",
-        "nextNodeType": "steampunksiege"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,general_dawnofvictory,ensouled_bravespirits,epic_elixirofhealth,flying_evasivemaneuvers,spell_empower_stronghold",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "179821",
