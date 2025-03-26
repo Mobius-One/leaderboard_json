@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179809",
-        "completedLevels": "11",
+        "completedLevels": "12",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-25 23:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic,ensouled_fatedspirits",
-        "nextNodeType": "starboss"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic,ensouled_fatedspirits,warbeast_terrifying_presence",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "179807",
