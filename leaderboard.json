@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179809",
-        "completedLevels": "16",
+        "completedLevels": "17",
         "twitchDisplayName": "MozzyAuzzy",
         "startTime": "2025-03-25 23:10:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic,ensouled_fatedspirits,warbeast_terrifying_presence,saint_exalt,ensouled_enragedspirits,epic_epicaspirations,fairy_fireflyconjuration",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,epic_giantsblessing,orcs_building_rage,epic_elixirofarchery,musketeer_grapeshot,vampire_aerial_fiend,epic_elixirofrage,general_dawnofvictory,ensouled_heroicspirits,healer_combatmedic,ensouled_fatedspirits,warbeast_terrifying_presence,saint_exalt,ensouled_enragedspirits,epic_epicaspirations,fairy_fireflyconjuration,assassin_disappearingact",
+        "nextNodeType": "crystalcavethrone"
     },
     {
         "dungeonRunId": "179807",
