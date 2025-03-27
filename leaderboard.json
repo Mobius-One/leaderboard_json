@@ -54,6 +54,15 @@
         "nextNodeType": "raidhallalake"
     },
     {
+        "dungeonRunId": "179843",
+        "completedLevels": "3",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-27 01:49:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,lancer_sarissaspears,elf_elvenimmortality,amazon_vineclone",
+        "nextNodeType": "plaguegrotto"
+    },
+    {
         "dungeonRunId": "179821",
         "completedLevels": "2",
         "twitchDisplayName": "fallguyF00",
@@ -61,15 +70,6 @@
         "endTime": "2025-03-26 06:30:45",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,assassin_disappearingact",
         "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179843",
-        "completedLevels": "2",
-        "twitchDisplayName": "elcanadiano",
-        "startTime": "2025-03-27 01:49:05",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,lancer_sarissaspears,elf_elvenimmortality",
-        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179823",
