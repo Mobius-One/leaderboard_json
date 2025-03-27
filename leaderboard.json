@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179851",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "DewInBlack",
         "startTime": "2025-03-27 08:14:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone,assassin_disappearingact,archer_soulpenetration,musketeer_rapidreload,epic_giantsblessing",
-        "nextNodeType": "steampunksiege"
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "179821",
