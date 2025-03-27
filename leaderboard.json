@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179863",
-        "completedLevels": "3",
+        "completedLevels": "4",
         "twitchDisplayName": "panda_moniumm",
         "startTime": "2025-03-27 17:35:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,armored_ignorepain",
+        "nextNodeType": "frontiercavalry"
     },
     {
         "dungeonRunId": "179821",
