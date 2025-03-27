@@ -72,15 +72,6 @@
         "nextNodeType": "steampunksiege"
     },
     {
-        "dungeonRunId": "179823",
-        "completedLevels": "1",
-        "twitchDisplayName": "Tebble",
-        "startTime": "2025-03-26 06:54:27",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofresistance",
-        "nextNodeType": "dungeonexperiment"
-    },
-    {
         "dungeonRunId": "179849",
         "completedLevels": "1",
         "twitchDisplayName": "DewInBlack",
@@ -88,5 +79,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves",
         "nextNodeType": "skyportals"
+    },
+    {
+        "dungeonRunId": "179823",
+        "completedLevels": "1",
+        "twitchDisplayName": "Tebble",
+        "startTime": "2025-03-26 06:54:27",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofresistance",
+        "nextNodeType": "dungeonexperiment"
     }
 ]
