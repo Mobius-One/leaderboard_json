@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179843",
-        "completedLevels": "1",
+        "completedLevels": "2",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-27 01:49:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,lancer_sarissaspears",
-        "nextNodeType": "winterdinos"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,lancer_sarissaspears,elf_elvenimmortality",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179823",
