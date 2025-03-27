@@ -58,7 +58,7 @@
         "completedLevels": "15",
         "twitchDisplayName": "panda_moniumm",
         "startTime": "2025-03-27 17:35:52",
-        "endTime": null,
+        "endTime": "2025-03-27 20:48:10",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,armored_ignorepain,gladiator_sonofthunder,epic_ranged_dragonarrows,epic_giantsbrewzero,epic_giantsblessing,archer_soulpenetration,warrior_soldieroffortune,ranged_damage_2,templar_beaconofhope,support_doomingsong,armored_shieldbash,monk_spiritstrike",
         "nextNodeType": "steampunkgear"
     },
@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179844",
-        "completedLevels": "7",
+        "completedLevels": "8",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-27 04:01:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,captain_fragile_commander,epic_epicaspirations,warrior_soldieroffortune,ranged_damage_2,phantom_thehaunting,paladin_layonhands",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,captain_fragile_commander,epic_epicaspirations,warrior_soldieroffortune,ranged_damage_2,phantom_thehaunting,paladin_layonhands,shinobi_firetechinique",
+        "nextNodeType": "crystalcavethrone"
     }
 ]
