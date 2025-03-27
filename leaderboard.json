@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179851",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "DewInBlack",
         "startTime": "2025-03-27 08:14:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone,assassin_disappearingact,archer_soulpenetration,musketeer_rapidreload,epic_giantsblessing,berserker_killing_spree,fairy_fireflyconjuration,undead_undeadresilience,epic_armored_armoredgiants",
-        "nextNodeType": "dungeonexperiment"
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179807",
