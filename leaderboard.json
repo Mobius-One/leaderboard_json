@@ -37,12 +37,12 @@
     },
     {
         "dungeonRunId": "179843",
-        "completedLevels": "25",
+        "completedLevels": "26",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-27 01:49:05",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,lancer_sarissaspears,elf_elvenimmortality,amazon_vineclone,berserker_rancor,ensouled_fatedspirits,epic_armored_armoredgiants,bomber_dangerzone,ensouled_enragedspirits,blob_parasite,fairy_fireflyconjuration,musketeer_grapeshot,healer_dreamy_wardens,epic_giantsbrewzero,assassin_disappearingact,epic_ranged_dragonarrows,epic_elixirofrage,gladiator_sonofthunder,archer_soulpenetration,saint_exalt,robot_robotauthority,orcs_building_rage,epic_elixirofarchery,spell_empower_aegis,ensouled_heroicspirits,warrior_soldieroffortune",
-        "nextNodeType": "steampunkgear"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,lancer_sarissaspears,elf_elvenimmortality,amazon_vineclone,berserker_rancor,ensouled_fatedspirits,epic_armored_armoredgiants,bomber_dangerzone,ensouled_enragedspirits,blob_parasite,fairy_fireflyconjuration,musketeer_grapeshot,healer_dreamy_wardens,epic_giantsbrewzero,assassin_disappearingact,epic_ranged_dragonarrows,epic_elixirofrage,gladiator_sonofthunder,archer_soulpenetration,saint_exalt,robot_robotauthority,orcs_building_rage,epic_elixirofarchery,spell_empower_aegis,ensouled_heroicspirits,warrior_soldieroffortune,melee_followup",
+        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "179833",
