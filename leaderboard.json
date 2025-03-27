@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179863",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "panda_moniumm",
         "startTime": "2025-03-27 17:35:52",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,armored_ignorepain,gladiator_sonofthunder,epic_ranged_dragonarrows,epic_giantsbrewzero,epic_giantsblessing",
-        "nextNodeType": "starboss"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,armored_ignorepain,gladiator_sonofthunder,epic_ranged_dragonarrows,epic_giantsbrewzero,epic_giantsblessing,archer_soulpenetration",
+        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179821",
