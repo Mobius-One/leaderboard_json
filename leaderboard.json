@@ -54,6 +54,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179844",
+        "completedLevels": "15",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-27 04:01:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,captain_fragile_commander,epic_epicaspirations,warrior_soldieroffortune,ranged_damage_2,phantom_thehaunting,paladin_layonhands,shinobi_firetechinique,common_specialists,epic_elixirofrage,frogue_preparation,archer_soulpenetration,epic_elixirofdeath,musketeer_grapeshot,epic_ranged_dragonarrows",
+        "nextNodeType": "skyportals"
+    },
+    {
         "dungeonRunId": "179863",
         "completedLevels": "15",
         "twitchDisplayName": "panda_moniumm",
@@ -69,15 +78,6 @@
         "startTime": "2025-03-27 08:14:01",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone,assassin_disappearingact,archer_soulpenetration,musketeer_rapidreload,epic_giantsblessing,berserker_killing_spree,fairy_fireflyconjuration,undead_undeadresilience,epic_armored_armoredgiants,shinobi_shadowstrike,musketeer_grapeshot",
-        "nextNodeType": "dungeons_jerry"
-    },
-    {
-        "dungeonRunId": "179844",
-        "completedLevels": "14",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-03-27 04:01:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,captain_fragile_commander,epic_epicaspirations,warrior_soldieroffortune,ranged_damage_2,phantom_thehaunting,paladin_layonhands,shinobi_firetechinique,common_specialists,epic_elixirofrage,frogue_preparation,archer_soulpenetration,epic_elixirofdeath,musketeer_grapeshot",
         "nextNodeType": "dungeons_jerry"
     },
     {
