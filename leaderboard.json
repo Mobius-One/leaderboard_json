@@ -63,6 +63,15 @@
         "nextNodeType": "steampunksiege"
     },
     {
+        "dungeonRunId": "179843",
+        "completedLevels": "1",
+        "twitchDisplayName": "elcanadiano",
+        "startTime": "2025-03-27 01:49:05",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,lancer_sarissaspears",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "179823",
         "completedLevels": "1",
         "twitchDisplayName": "Tebble",
