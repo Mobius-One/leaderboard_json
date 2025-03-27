@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179843",
-        "completedLevels": "6",
+        "completedLevels": "7",
         "twitchDisplayName": "elcanadiano",
         "startTime": "2025-03-27 01:49:05",
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,lancer_sarissaspears,elf_elvenimmortality,amazon_vineclone,berserker_rancor,ensouled_fatedspirits,epic_armored_armoredgiants",
-        "nextNodeType": "dungeonexperiment"
+        "nextNodeType": "newjunglespore"
     },
     {
         "dungeonRunId": "179821",
