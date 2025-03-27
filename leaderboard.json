@@ -72,6 +72,15 @@
         "nextNodeType": "raidhallalake"
     },
     {
+        "dungeonRunId": "179863",
+        "completedLevels": "2",
+        "twitchDisplayName": "panda_moniumm",
+        "startTime": "2025-03-27 17:35:52",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,musketeer_grapeshot",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179821",
         "completedLevels": "2",
         "twitchDisplayName": "fallguyF00",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-26 06:30:45",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,assassin_disappearingact",
         "nextNodeType": "steampunksiege"
-    },
-    {
-        "dungeonRunId": "179854",
-        "completedLevels": "1",
-        "twitchDisplayName": "catclouuud",
-        "startTime": "2025-03-27 12:05:09",
-        "endTime": "2025-03-27 12:50:01",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero",
-        "nextNodeType": "frontiercavalry"
     }
 ]
