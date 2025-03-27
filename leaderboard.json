@@ -81,12 +81,12 @@
         "nextNodeType": "steampunksiege"
     },
     {
-        "dungeonRunId": "179854",
+        "dungeonRunId": "179823",
         "completedLevels": "1",
-        "twitchDisplayName": "catclouuud",
-        "startTime": "2025-03-27 12:05:09",
+        "twitchDisplayName": "Tebble",
+        "startTime": "2025-03-26 06:54:27",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofresistance",
+        "nextNodeType": "dungeonexperiment"
     }
 ]
