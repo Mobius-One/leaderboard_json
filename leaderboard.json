@@ -72,6 +72,15 @@
         "nextNodeType": "dungeons_jerry"
     },
     {
+        "dungeonRunId": "179844",
+        "completedLevels": "10",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-27 04:01:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,captain_fragile_commander,epic_epicaspirations,warrior_soldieroffortune,ranged_damage_2,phantom_thehaunting,paladin_layonhands,shinobi_firetechinique,common_specialists,epic_elixirofrage",
+        "nextNodeType": "dungeonexperiment"
+    },
+    {
         "dungeonRunId": "179807",
         "completedLevels": "10",
         "twitchDisplayName": "JayelDraco",
@@ -79,14 +88,5 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,vampire_darkwings,support_enchantedstaves,spell_empower_haste,musketeer_rapidreload,musketeer_grapeshot,artillery_machine_gun,assassin_agility,ranged_damage_2,tank_guardian",
         "nextNodeType": "raidhallalake"
-    },
-    {
-        "dungeonRunId": "179844",
-        "completedLevels": "9",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-03-27 04:01:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,captain_fragile_commander,epic_epicaspirations,warrior_soldieroffortune,ranged_damage_2,phantom_thehaunting,paladin_layonhands,shinobi_firetechinique,common_specialists",
-        "nextNodeType": "newjunglespore"
     }
 ]
