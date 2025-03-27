@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179844",
-        "completedLevels": "8",
+        "completedLevels": "9",
         "twitchDisplayName": "MsChezaDarling",
         "startTime": "2025-03-27 04:01:03",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,captain_fragile_commander,epic_epicaspirations,warrior_soldieroffortune,ranged_damage_2,phantom_thehaunting,paladin_layonhands,shinobi_firetechinique",
-        "nextNodeType": "crystalcavethrone"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,captain_fragile_commander,epic_epicaspirations,warrior_soldieroffortune,ranged_damage_2,phantom_thehaunting,paladin_layonhands,shinobi_firetechinique,common_specialists",
+        "nextNodeType": "newjunglespore"
     }
 ]
