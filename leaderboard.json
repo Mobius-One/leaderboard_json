@@ -81,12 +81,12 @@
         "nextNodeType": "raidhallalake"
     },
     {
-        "dungeonRunId": "179821",
-        "completedLevels": "2",
-        "twitchDisplayName": "fallguyF00",
-        "startTime": "2025-03-26 05:43:47",
-        "endTime": "2025-03-26 06:30:45",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,assassin_disappearingact",
+        "dungeonRunId": "179812",
+        "completedLevels": "5",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-26 01:37:25",
+        "endTime": "2025-03-27 04:00:54",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,musketeer_rapidreload,elf_elvenimmortality,artillery_machine_gun,support_doomingsong,ensouled_enragedspirits",
         "nextNodeType": "steampunksiege"
     }
 ]
