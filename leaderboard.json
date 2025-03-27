@@ -79,5 +79,14 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofresistance",
         "nextNodeType": "dungeonexperiment"
+    },
+    {
+        "dungeonRunId": "179849",
+        "completedLevels": "1",
+        "twitchDisplayName": "DewInBlack",
+        "startTime": "2025-03-27 05:58:31",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves",
+        "nextNodeType": "skyportals"
     }
 ]
