@@ -45,15 +45,6 @@
         "nextNodeType": "frontiercavalry"
     },
     {
-        "dungeonRunId": "179891",
-        "completedLevels": "24",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-03-28 11:52:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists,warrior_soldieroffortune,elf_elvenimmortality,necromancer_bombasticbones,epic_elixirofdeath,epic_giantsblessing,bomber_bombardment",
-        "nextNodeType": "skyportals"
-    },
-    {
         "dungeonRunId": "179833",
         "completedLevels": "24",
         "twitchDisplayName": "Hooks",
@@ -61,6 +52,15 @@
         "endTime": "2025-03-27 00:08:16",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,saint_exalt,gladiator_sonofthunder,common_specialists,ranged_rangergloves,epic_giantsblessing,phantom_thehaunting,fairy_fireflyconjuration,ensouled_fatedspirits,epic_epicaspirations,shinobi_shadowstrike,frogue_preparation,bomber_bombardment,epic_elixirofarchery,ensouled_enragedspirits,human_humandestiny,centurion_tactician,general_dawnofvictory,templar_beaconofhope,flyingrogue_aggravate,shinobi_firetechinique,necromancer_bombasticbones,epic_giantsbrewzero,ranged_damage_2,archer_soulpenetration",
         "nextNodeType": "steampunkgear"
+    },
+    {
+        "dungeonRunId": "179891",
+        "completedLevels": "24",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-03-28 11:52:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists,warrior_soldieroffortune,elf_elvenimmortality,necromancer_bombasticbones,epic_elixirofdeath,epic_giantsblessing,bomber_bombardment",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "179884",
