@@ -72,6 +72,15 @@
         "nextNodeType": "crystaltunnel"
     },
     {
+        "dungeonRunId": "179896",
+        "completedLevels": "20",
+        "twitchDisplayName": "LITheoss",
+        "startTime": "2025-03-28 16:40:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,musketeer_grapeshot,archer_soulpenetration,epic_elixirofrage,flying_evasivemaneuvers,tank_guardian,ranged_rangergloves,support_enchantedstaves,spell_empower_highground,bomber_dangerzone,armored_shieldbash,orcs_building_rage,epic_elixirofarchery,frogue_preparation,monk_spiritstrike,epic_elixirofresistance,general_dawnofvictory,barbarian_immortal,epic_giantsbrewzero,epic_giantsblessing",
+        "nextNodeType": "steampunksiege"
+    },
+    {
         "dungeonRunId": "179889",
         "completedLevels": "19",
         "twitchDisplayName": "MsChezaDarling",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-28 12:49:36",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,rogue_sneakattack,epic_giantsblessing,epic_ranged_dragonarrows,berserker_rancor,support_enchantedstaves,monk_spiritstrike,epic_elixirofrage,ranged_damage_2,spell_empower_killingfield,fairy_fireflyconjuration,musketeer_grapeshot,archer_soulpenetration,shinobi_shadowstrike,shinobi_firetechinique,flag_1,epic_elixirofresistance,frogue_preparation,blob_parasite,ranged_rangergloves",
         "nextNodeType": "winterdinos"
-    },
-    {
-        "dungeonRunId": "179896",
-        "completedLevels": "19",
-        "twitchDisplayName": "LITheoss",
-        "startTime": "2025-03-28 16:40:12",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,musketeer_grapeshot,archer_soulpenetration,epic_elixirofrage,flying_evasivemaneuvers,tank_guardian,ranged_rangergloves,support_enchantedstaves,spell_empower_highground,bomber_dangerzone,armored_shieldbash,orcs_building_rage,epic_elixirofarchery,frogue_preparation,monk_spiritstrike,epic_elixirofresistance,general_dawnofvictory,barbarian_immortal,epic_giantsbrewzero",
-        "nextNodeType": "dungeonexperiment"
     }
 ]
