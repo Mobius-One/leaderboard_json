@@ -54,6 +54,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179891",
+        "completedLevels": "22",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-03-28 11:52:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists,warrior_soldieroffortune,elf_elvenimmortality,necromancer_bombasticbones,epic_elixirofdeath",
+        "nextNodeType": "lavachamber"
+    },
+    {
         "dungeonRunId": "179884",
         "completedLevels": "21",
         "twitchDisplayName": "ItzJuzKay",
@@ -61,15 +70,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,armored_shieldbash,epic_ranged_dragonarrows,archer_rapidshot,ranged_damage_2,spell_empower_stronghold,fairy_fireflyconjuration,support_enchantedstaves,warrior_swordofruin,epic_elixirofhealth,captain_fragile_commander,spell_empower_haste,bomber_dangerzone,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,flying_evasivemaneuvers,human_humandestiny,melee_charge,melee_followup",
         "nextNodeType": "crystaltunnel"
-    },
-    {
-        "dungeonRunId": "179891",
-        "completedLevels": "21",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-03-28 11:52:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists,warrior_soldieroffortune,elf_elvenimmortality,necromancer_bombasticbones",
-        "nextNodeType": "raidhallalake"
     },
     {
         "dungeonRunId": "179889",
