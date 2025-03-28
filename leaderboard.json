@@ -55,12 +55,12 @@
     },
     {
         "dungeonRunId": "179891",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "MrShadowseer",
         "startTime": "2025-03-28 11:52:18",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists,warrior_soldieroffortune,elf_elvenimmortality,necromancer_bombasticbones,epic_elixirofdeath",
-        "nextNodeType": "lavachamber"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists,warrior_soldieroffortune,elf_elvenimmortality,necromancer_bombasticbones,epic_elixirofdeath,epic_giantsblessing",
+        "nextNodeType": "orctotem"
     },
     {
         "dungeonRunId": "179884",
