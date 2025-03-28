@@ -81,12 +81,12 @@
         "nextNodeType": "winterdinos"
     },
     {
-        "dungeonRunId": "179851",
+        "dungeonRunId": "179896",
         "completedLevels": "17",
-        "twitchDisplayName": "DewInBlack",
-        "startTime": "2025-03-27 08:14:01",
-        "endTime": "2025-03-28 04:30:16",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone,assassin_disappearingact,archer_soulpenetration,musketeer_rapidreload,epic_giantsblessing,berserker_killing_spree,fairy_fireflyconjuration,undead_undeadresilience,epic_armored_armoredgiants,shinobi_shadowstrike,musketeer_grapeshot,spell_empower_stronghold,lancer_sarissaspears,general_dawnofvictory",
-        "nextNodeType": "starboss"
+        "twitchDisplayName": "LITheoss",
+        "startTime": "2025-03-28 16:40:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,musketeer_grapeshot,archer_soulpenetration,epic_elixirofrage,flying_evasivemaneuvers,tank_guardian,ranged_rangergloves,support_enchantedstaves,spell_empower_highground,bomber_dangerzone,armored_shieldbash,orcs_building_rage,epic_elixirofarchery,frogue_preparation,monk_spiritstrike,epic_elixirofresistance,general_dawnofvictory",
+        "nextNodeType": "lavafurnace"
     }
 ]
