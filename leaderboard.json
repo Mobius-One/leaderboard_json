@@ -81,12 +81,12 @@
         "nextNodeType": "raidhallalake"
     },
     {
-        "dungeonRunId": "179876",
-        "completedLevels": "2",
-        "twitchDisplayName": "KingWickedLee",
-        "startTime": "2025-03-28 01:13:06",
-        "endTime": "2025-03-28 01:37:49",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,support_enchantedstaves",
-        "nextNodeType": "steampunksiege"
+        "dungeonRunId": "179878",
+        "completedLevels": "3",
+        "twitchDisplayName": "KrebsTLegend",
+        "startTime": "2025-03-28 01:39:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield",
+        "nextNodeType": "moboohm"
     }
 ]
