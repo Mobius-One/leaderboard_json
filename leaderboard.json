@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179859",
-        "completedLevels": "49",
+        "completedLevels": "50",
         "twitchDisplayName": "JayEmDee",
         "startTime": "2025-03-27 16:01:39",
         "endTime": null,
-        "captainBoons": "lancer_sarissaspears,ensouled_fatedspirits,saint_exalt,fairy_fireflyconjuration,captain_fragile_commander,bomber_bombardment,robot_robotauthority,archer_soulpenetration,bomber_dangerzone,artillery_machine_gun,rogue_sneakattack,melee_followup,barbarian_immortal,undead_undeadresilience,epic_elixirofdeath,blob_parasite,armored_ignorepain,musketeer_grapeshot,epic_melee_gloryofvictory,epic_elixirofrage,support_enchantedstaves",
-        "nextNodeType": "skyportals"
+        "captainBoons": "lancer_sarissaspears,ensouled_fatedspirits,saint_exalt,fairy_fireflyconjuration,captain_fragile_commander,bomber_bombardment,robot_robotauthority,archer_soulpenetration,bomber_dangerzone,artillery_machine_gun,rogue_sneakattack,melee_followup,barbarian_immortal,epic_elixirofdeath,blob_parasite,armored_ignorepain,musketeer_grapeshot,epic_melee_gloryofvictory,epic_elixirofrage,support_enchantedstaves",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179864",
