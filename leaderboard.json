@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179878",
-        "completedLevels": "4",
+        "completedLevels": "5",
         "twitchDisplayName": "KrebsTLegend",
         "startTime": "2025-03-28 01:39:46",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield,armored_ignorepain",
-        "nextNodeType": "frontiercavalry"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield,armored_ignorepain,armored_shieldbash",
+        "nextNodeType": "lavafurnace"
     }
 ]
