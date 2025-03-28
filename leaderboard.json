@@ -81,12 +81,12 @@
         "nextNodeType": "starboss"
     },
     {
-        "dungeonRunId": "179878",
+        "dungeonRunId": "179891",
         "completedLevels": "16",
-        "twitchDisplayName": "KrebsTLegend",
-        "startTime": "2025-03-28 01:39:46",
-        "endTime": "2025-03-28 03:42:06",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield,armored_ignorepain,armored_shieldbash,tank_guardian,rogue_sneakattack,melee_followup,common_specialists,paladin_layonhands,general_dawnofvictory,rogue_shadowcloak,musketeer_rapidreload,ranged_damage_2,spell_empower_highground,flagbearer_bannerofluck",
-        "nextNodeType": "lavachamber"
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-03-28 11:52:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth",
+        "nextNodeType": "raidhallalake"
     }
 ]
