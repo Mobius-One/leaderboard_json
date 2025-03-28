@@ -81,12 +81,12 @@
         "nextNodeType": "raidhallalake"
     },
     {
-        "dungeonRunId": "179821",
+        "dungeonRunId": "179876",
         "completedLevels": "2",
-        "twitchDisplayName": "fallguyF00",
-        "startTime": "2025-03-26 05:43:47",
-        "endTime": "2025-03-26 06:30:45",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,assassin_disappearingact",
+        "twitchDisplayName": "KingWickedLee",
+        "startTime": "2025-03-28 01:13:06",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero",
         "nextNodeType": "steampunksiege"
     }
 ]
