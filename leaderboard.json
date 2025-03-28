@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179896",
-        "completedLevels": "18",
+        "completedLevels": "19",
         "twitchDisplayName": "LITheoss",
         "startTime": "2025-03-28 16:40:12",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,musketeer_grapeshot,archer_soulpenetration,epic_elixirofrage,flying_evasivemaneuvers,tank_guardian,ranged_rangergloves,support_enchantedstaves,spell_empower_highground,bomber_dangerzone,armored_shieldbash,orcs_building_rage,epic_elixirofarchery,frogue_preparation,monk_spiritstrike,epic_elixirofresistance,general_dawnofvictory,barbarian_immortal",
-        "nextNodeType": "plaguegrotto"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,musketeer_grapeshot,archer_soulpenetration,epic_elixirofrage,flying_evasivemaneuvers,tank_guardian,ranged_rangergloves,support_enchantedstaves,spell_empower_highground,bomber_dangerzone,armored_shieldbash,orcs_building_rage,epic_elixirofarchery,frogue_preparation,monk_spiritstrike,epic_elixirofresistance,general_dawnofvictory,barbarian_immortal,epic_giantsbrewzero",
+        "nextNodeType": "dungeonexperiment"
     }
 ]
