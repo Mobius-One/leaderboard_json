@@ -72,6 +72,15 @@
         "nextNodeType": "lavachamber"
     },
     {
+        "dungeonRunId": "179884",
+        "completedLevels": "15",
+        "twitchDisplayName": "ItzJuzKay",
+        "startTime": "2025-03-28 05:13:11",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,armored_shieldbash,epic_ranged_dragonarrows,archer_rapidshot,ranged_damage_2,spell_empower_stronghold,fairy_fireflyconjuration,support_enchantedstaves,warrior_swordofruin,epic_elixirofhealth,captain_fragile_commander,spell_empower_haste,bomber_dangerzone,musketeer_grapeshot,bomber_bombardment",
+        "nextNodeType": "dungeonexperiment"
+    },
+    {
         "dungeonRunId": "179863",
         "completedLevels": "15",
         "twitchDisplayName": "panda_moniumm",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-27 20:48:10",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,armored_ignorepain,gladiator_sonofthunder,epic_ranged_dragonarrows,epic_giantsbrewzero,epic_giantsblessing,archer_soulpenetration,warrior_soldieroffortune,ranged_damage_2,templar_beaconofhope,support_doomingsong,armored_shieldbash,monk_spiritstrike",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179884",
-        "completedLevels": "14",
-        "twitchDisplayName": "ItzJuzKay",
-        "startTime": "2025-03-28 05:13:11",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,armored_shieldbash,epic_ranged_dragonarrows,archer_rapidshot,ranged_damage_2,spell_empower_stronghold,fairy_fireflyconjuration,support_enchantedstaves,warrior_swordofruin,epic_elixirofhealth,captain_fragile_commander,spell_empower_haste,bomber_dangerzone,musketeer_grapeshot",
-        "nextNodeType": "dungeons_jerry"
     }
 ]
