@@ -54,6 +54,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179851",
+        "completedLevels": "17",
+        "twitchDisplayName": "DewInBlack",
+        "startTime": "2025-03-27 08:14:01",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone,assassin_disappearingact,archer_soulpenetration,musketeer_rapidreload,epic_giantsblessing,berserker_killing_spree,fairy_fireflyconjuration,undead_undeadresilience,epic_armored_armoredgiants,shinobi_shadowstrike,musketeer_grapeshot,spell_empower_stronghold,lancer_sarissaspears,general_dawnofvictory",
+        "nextNodeType": "starboss"
+    },
+    {
         "dungeonRunId": "179878",
         "completedLevels": "16",
         "twitchDisplayName": "KrebsTLegend",
@@ -61,15 +70,6 @@
         "endTime": "2025-03-28 03:42:06",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield,armored_ignorepain,armored_shieldbash,tank_guardian,rogue_sneakattack,melee_followup,common_specialists,paladin_layonhands,general_dawnofvictory,rogue_shadowcloak,musketeer_rapidreload,ranged_damage_2,spell_empower_highground,flagbearer_bannerofluck",
         "nextNodeType": "lavachamber"
-    },
-    {
-        "dungeonRunId": "179851",
-        "completedLevels": "16",
-        "twitchDisplayName": "DewInBlack",
-        "startTime": "2025-03-27 08:14:01",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone,assassin_disappearingact,archer_soulpenetration,musketeer_rapidreload,epic_giantsblessing,berserker_killing_spree,fairy_fireflyconjuration,undead_undeadresilience,epic_armored_armoredgiants,shinobi_shadowstrike,musketeer_grapeshot,spell_empower_stronghold,lancer_sarissaspears",
-        "nextNodeType": "moboohm"
     },
     {
         "dungeonRunId": "179863",
