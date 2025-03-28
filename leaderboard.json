@@ -63,15 +63,6 @@
         "nextNodeType": "crystaltunnel"
     },
     {
-        "dungeonRunId": "179889",
-        "completedLevels": "19",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-03-28 10:07:54",
-        "endTime": "2025-03-28 12:49:36",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,rogue_sneakattack,epic_giantsblessing,epic_ranged_dragonarrows,berserker_rancor,support_enchantedstaves,monk_spiritstrike,epic_elixirofrage,ranged_damage_2,spell_empower_killingfield,fairy_fireflyconjuration,musketeer_grapeshot,archer_soulpenetration,shinobi_shadowstrike,shinobi_firetechinique,flag_1,epic_elixirofresistance,frogue_preparation,blob_parasite,ranged_rangergloves",
-        "nextNodeType": "winterdinos"
-    },
-    {
         "dungeonRunId": "179891",
         "completedLevels": "19",
         "twitchDisplayName": "MrShadowseer",
@@ -79,6 +70,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists,warrior_soldieroffortune",
         "nextNodeType": "crystaltunnel"
+    },
+    {
+        "dungeonRunId": "179889",
+        "completedLevels": "19",
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-28 10:07:54",
+        "endTime": "2025-03-28 12:49:36",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,rogue_sneakattack,epic_giantsblessing,epic_ranged_dragonarrows,berserker_rancor,support_enchantedstaves,monk_spiritstrike,epic_elixirofrage,ranged_damage_2,spell_empower_killingfield,fairy_fireflyconjuration,musketeer_grapeshot,archer_soulpenetration,shinobi_shadowstrike,shinobi_firetechinique,flag_1,epic_elixirofresistance,frogue_preparation,blob_parasite,ranged_rangergloves",
+        "nextNodeType": "winterdinos"
     },
     {
         "dungeonRunId": "179851",
