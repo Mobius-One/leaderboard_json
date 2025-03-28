@@ -9,13 +9,13 @@
         "nextNodeType": "steampunkgear"
     },
     {
-        "dungeonRunId": "179826",
-        "completedLevels": "48",
+        "dungeonRunId": "179859",
+        "completedLevels": "49",
         "twitchDisplayName": "JayEmDee",
-        "startTime": "2025-03-26 11:17:03",
-        "endTime": "2025-03-27 11:31:07",
-        "captainBoons": "melee_followup,epic_giantsbrewzero,captain_fragile_commander,archer_soulpenetration,epic_elixirofdeath,shinobi_firetechinique,epic_armored_armoredgiants,epic_elixirofarchery,armored_shieldbash,ensouled_bravespirits,epic_elixirofresistance,ensouled_enragedspirits,support_enchantedstaves,bomber_dangerzone,epic_giantsblessing,berserker_killing_spree,centurion_tactician,flying_evasivemaneuvers,artillery_machine_gun,epic_elixirofrage,ensouled_fatedspirits",
-        "nextNodeType": "raidhallalake"
+        "startTime": "2025-03-27 16:01:39",
+        "endTime": null,
+        "captainBoons": "lancer_sarissaspears,ensouled_fatedspirits,saint_exalt,fairy_fireflyconjuration,captain_fragile_commander,bomber_bombardment,robot_robotauthority,archer_soulpenetration,bomber_dangerzone,artillery_machine_gun,rogue_sneakattack,melee_followup,barbarian_immortal,undead_undeadresilience,epic_elixirofdeath,blob_parasite,armored_ignorepain,musketeer_grapeshot,epic_melee_gloryofvictory,epic_elixirofrage,support_enchantedstaves",
+        "nextNodeType": "skyportals"
     },
     {
         "dungeonRunId": "179864",
