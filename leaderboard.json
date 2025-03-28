@@ -73,12 +73,12 @@
     },
     {
         "dungeonRunId": "179878",
-        "completedLevels": "12",
+        "completedLevels": "13",
         "twitchDisplayName": "KrebsTLegend",
         "startTime": "2025-03-28 01:39:46",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield,armored_ignorepain,armored_shieldbash,tank_guardian,rogue_sneakattack,melee_followup,common_specialists,paladin_layonhands,general_dawnofvictory,rogue_shadowcloak",
-        "nextNodeType": "crystaltunnel"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield,armored_ignorepain,armored_shieldbash,tank_guardian,rogue_sneakattack,melee_followup,common_specialists,paladin_layonhands,general_dawnofvictory,rogue_shadowcloak,musketeer_rapidreload",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179807",
