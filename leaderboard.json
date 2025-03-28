@@ -72,6 +72,15 @@
         "nextNodeType": "winterdinos"
     },
     {
+        "dungeonRunId": "179891",
+        "completedLevels": "18",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-03-28 11:52:18",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists",
+        "nextNodeType": "winterdinos"
+    },
+    {
         "dungeonRunId": "179851",
         "completedLevels": "17",
         "twitchDisplayName": "DewInBlack",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-28 04:30:16",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone,assassin_disappearingact,archer_soulpenetration,musketeer_rapidreload,epic_giantsblessing,berserker_killing_spree,fairy_fireflyconjuration,undead_undeadresilience,epic_armored_armoredgiants,shinobi_shadowstrike,musketeer_grapeshot,spell_empower_stronghold,lancer_sarissaspears,general_dawnofvictory",
         "nextNodeType": "starboss"
-    },
-    {
-        "dungeonRunId": "179891",
-        "completedLevels": "17",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-03-28 11:52:18",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority",
-        "nextNodeType": "lavafurnace"
     }
 ]
