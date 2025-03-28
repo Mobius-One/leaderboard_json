@@ -18,13 +18,13 @@
         "nextNodeType": "raidhallalake"
     },
     {
-        "dungeonRunId": "179803",
-        "completedLevels": "40",
+        "dungeonRunId": "179864",
+        "completedLevels": "41",
         "twitchDisplayName": "Rafipi",
-        "startTime": "2025-03-25 19:04:02",
-        "endTime": "2025-03-26 00:48:52",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,general_dawnofvictory,phantom_thehaunting,support_doomingsong,common_specialists,epic_elixirofdeath,blob_parasite,assassin_agility,flying_evasivemaneuvers,epic_armored_armoredgiants,warrior_soldieroffortune,berserker_killing_spree,healer_combatmedic,elf_elvenimmortality,rogue_shadowcloak,epic_giantsbrewzero,musketeer_grapeshot,rogue_sneakattack,bomber_bombardment,epic_elixirofarchery,ensouled_fatedspirits,bomber_dangerzone,ensouled_enragedspirits",
-        "nextNodeType": "steampunkgear"
+        "startTime": "2025-03-27 19:01:43",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,epic_elixirofresistance,epic_giantsblessing,bomber_dangerzone,ensouled_enragedspirits,epic_elixirofarchery,ensouled_fatedspirits,rogue_sneakattack,robot_robotauthority,rogue_shadowcloak,warrior_soldieroffortune,ensouled_heroicspirits,monk_stoptheflow,undead_undeadresilience,saint_skeletondance,saint_exalt,ranged_damage_2,orcs_building_rage,gladiator_sonofthunder,bomber_bombardment,musketeer_rapidreload,melee_followup,phantom_thehaunting,support_doomingsong,assassin_disappearingact",
+        "nextNodeType": "starboss"
     },
     {
         "dungeonRunId": "179809",
