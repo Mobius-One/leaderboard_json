@@ -63,6 +63,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179878",
+        "completedLevels": "14",
+        "twitchDisplayName": "KrebsTLegend",
+        "startTime": "2025-03-28 01:39:46",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield,armored_ignorepain,armored_shieldbash,tank_guardian,rogue_sneakattack,melee_followup,common_specialists,paladin_layonhands,general_dawnofvictory,rogue_shadowcloak,musketeer_rapidreload,ranged_damage_2",
+        "nextNodeType": "dungeons_jerry"
+    },
+    {
         "dungeonRunId": "179851",
         "completedLevels": "14",
         "twitchDisplayName": "DewInBlack",
@@ -70,15 +79,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,ranged_rangergloves,ranged_damage_2,epic_ranged_dragonarrows,bomber_dangerzone,assassin_disappearingact,archer_soulpenetration,musketeer_rapidreload,epic_giantsblessing,berserker_killing_spree,fairy_fireflyconjuration,undead_undeadresilience,epic_armored_armoredgiants,shinobi_shadowstrike,musketeer_grapeshot",
         "nextNodeType": "dungeons_jerry"
-    },
-    {
-        "dungeonRunId": "179878",
-        "completedLevels": "13",
-        "twitchDisplayName": "KrebsTLegend",
-        "startTime": "2025-03-28 01:39:46",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield,armored_ignorepain,armored_shieldbash,tank_guardian,rogue_sneakattack,melee_followup,common_specialists,paladin_layonhands,general_dawnofvictory,rogue_shadowcloak,musketeer_rapidreload",
-        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179807",
