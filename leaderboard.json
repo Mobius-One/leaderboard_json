@@ -81,12 +81,12 @@
         "nextNodeType": "lavachamber"
     },
     {
-        "dungeonRunId": "179863",
+        "dungeonRunId": "179889",
         "completedLevels": "15",
-        "twitchDisplayName": "panda_moniumm",
-        "startTime": "2025-03-27 17:35:52",
-        "endTime": "2025-03-27 20:48:10",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,musketeer_grapeshot,warbeast_terrifying_presence,armored_ignorepain,gladiator_sonofthunder,epic_ranged_dragonarrows,epic_giantsbrewzero,epic_giantsblessing,archer_soulpenetration,warrior_soldieroffortune,ranged_damage_2,templar_beaconofhope,support_doomingsong,armored_shieldbash,monk_spiritstrike",
-        "nextNodeType": "steampunkgear"
+        "twitchDisplayName": "MsChezaDarling",
+        "startTime": "2025-03-28 10:07:54",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,rogue_sneakattack,epic_giantsblessing,epic_ranged_dragonarrows,berserker_rancor,support_enchantedstaves,monk_spiritstrike,epic_elixirofrage,ranged_damage_2,spell_empower_killingfield,fairy_fireflyconjuration,musketeer_grapeshot,archer_soulpenetration,shinobi_shadowstrike,shinobi_firetechinique,flag_1",
+        "nextNodeType": "skyportals"
     }
 ]
