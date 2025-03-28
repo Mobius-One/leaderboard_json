@@ -63,6 +63,15 @@
         "nextNodeType": "starboss"
     },
     {
+        "dungeonRunId": "179884",
+        "completedLevels": "16",
+        "twitchDisplayName": "ItzJuzKay",
+        "startTime": "2025-03-28 05:13:11",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,armored_shieldbash,epic_ranged_dragonarrows,archer_rapidshot,ranged_damage_2,spell_empower_stronghold,fairy_fireflyconjuration,support_enchantedstaves,warrior_swordofruin,epic_elixirofhealth,captain_fragile_commander,spell_empower_haste,bomber_dangerzone,musketeer_grapeshot,bomber_bombardment",
+        "nextNodeType": "skyportals"
+    },
+    {
         "dungeonRunId": "179878",
         "completedLevels": "16",
         "twitchDisplayName": "KrebsTLegend",
@@ -70,15 +79,6 @@
         "endTime": "2025-03-28 03:42:06",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,assassin_disappearingact,spell_empower_killingfield,armored_ignorepain,armored_shieldbash,tank_guardian,rogue_sneakattack,melee_followup,common_specialists,paladin_layonhands,general_dawnofvictory,rogue_shadowcloak,musketeer_rapidreload,ranged_damage_2,spell_empower_highground,flagbearer_bannerofluck",
         "nextNodeType": "lavachamber"
-    },
-    {
-        "dungeonRunId": "179884",
-        "completedLevels": "15",
-        "twitchDisplayName": "ItzJuzKay",
-        "startTime": "2025-03-28 05:13:11",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,armored_shieldbash,epic_ranged_dragonarrows,archer_rapidshot,ranged_damage_2,spell_empower_stronghold,fairy_fireflyconjuration,support_enchantedstaves,warrior_swordofruin,epic_elixirofhealth,captain_fragile_commander,spell_empower_haste,bomber_dangerzone,musketeer_grapeshot,bomber_bombardment",
-        "nextNodeType": "dungeonexperiment"
     },
     {
         "dungeonRunId": "179863",
