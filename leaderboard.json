@@ -63,6 +63,15 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179896",
+        "completedLevels": "21",
+        "twitchDisplayName": "LITheoss",
+        "startTime": "2025-03-28 16:40:12",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,musketeer_grapeshot,archer_soulpenetration,epic_elixirofrage,flying_evasivemaneuvers,tank_guardian,ranged_rangergloves,support_enchantedstaves,spell_empower_highground,bomber_dangerzone,armored_shieldbash,orcs_building_rage,epic_elixirofarchery,frogue_preparation,monk_spiritstrike,epic_elixirofresistance,general_dawnofvictory,barbarian_immortal,epic_giantsbrewzero,epic_giantsblessing,epic_melee_gloryofvictory",
+        "nextNodeType": "raidhallalake"
+    },
+    {
         "dungeonRunId": "179884",
         "completedLevels": "21",
         "twitchDisplayName": "ItzJuzKay",
@@ -70,15 +79,6 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,armored_shieldbash,epic_ranged_dragonarrows,archer_rapidshot,ranged_damage_2,spell_empower_stronghold,fairy_fireflyconjuration,support_enchantedstaves,warrior_swordofruin,epic_elixirofhealth,captain_fragile_commander,spell_empower_haste,bomber_dangerzone,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,flying_evasivemaneuvers,human_humandestiny,melee_charge,melee_followup",
         "nextNodeType": "crystaltunnel"
-    },
-    {
-        "dungeonRunId": "179896",
-        "completedLevels": "20",
-        "twitchDisplayName": "LITheoss",
-        "startTime": "2025-03-28 16:40:12",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,musketeer_grapeshot,archer_soulpenetration,epic_elixirofrage,flying_evasivemaneuvers,tank_guardian,ranged_rangergloves,support_enchantedstaves,spell_empower_highground,bomber_dangerzone,armored_shieldbash,orcs_building_rage,epic_elixirofarchery,frogue_preparation,monk_spiritstrike,epic_elixirofresistance,general_dawnofvictory,barbarian_immortal,epic_giantsbrewzero,epic_giantsblessing",
-        "nextNodeType": "steampunksiege"
     },
     {
         "dungeonRunId": "179889",
