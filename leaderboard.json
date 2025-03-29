@@ -72,6 +72,15 @@
         "nextNodeType": "heartscelestialabyrinth"
     },
     {
+        "dungeonRunId": "179931",
+        "completedLevels": "26",
+        "twitchDisplayName": "PhoenixBard",
+        "startTime": "2025-03-29 19:34:39",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,epic_giantsblessing,human_humandestiny,berserker_rancor,fairy_hocuspocus,spell_empower_haste,archer_rapidshot,general_dawnofvictory,ensouled_bravespirits,ranged_rangergloves,ensouled_fatedspirits,necromancer_bombasticbones,saint_exalt,flying_evasivemaneuvers,orcs_building_rage,bomber_dangerzone,ranged_damage_2,saint_skeletondance,fairy_fireflyconjuration,ensouled_enragedspirits,barbarian_immortal,healer_combatmedic,gladiator_sonofthunder,blob_parasite,epic_elixirofhealth",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179920",
         "completedLevels": "25",
         "twitchDisplayName": "Panthergal2018",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-29 19:05:32",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,melee_followup,bomber_bombardment,armored_ignorepain,epic_giantsblessing,berserker_killing_spree,epic_giantsbrewzero,undead_undeadresilience,epic_ranged_dragonarrows,saint_exalt,gladiator_sonofthunder,flag_1,bomber_dangerzone,assassin_disappearingact,lancer_firststrike,epic_elixirofresistance,elf_elvenimmortality,blob_parasite,fairy_fireflyconjuration,flying_evasivemaneuvers,human_humandestiny,ranged_rangergloves,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload",
         "nextNodeType": "heartscelestialabyrinth"
-    },
-    {
-        "dungeonRunId": "179931",
-        "completedLevels": "25",
-        "twitchDisplayName": "PhoenixBard",
-        "startTime": "2025-03-29 19:34:39",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,epic_giantsblessing,human_humandestiny,berserker_rancor,fairy_hocuspocus,spell_empower_haste,archer_rapidshot,general_dawnofvictory,ensouled_bravespirits,ranged_rangergloves,ensouled_fatedspirits,necromancer_bombasticbones,saint_exalt,flying_evasivemaneuvers,orcs_building_rage,bomber_dangerzone,ranged_damage_2,saint_skeletondance,fairy_fireflyconjuration,ensouled_enragedspirits,barbarian_immortal,healer_combatmedic,gladiator_sonofthunder,blob_parasite,epic_elixirofhealth",
-        "nextNodeType": "moboohm"
     }
 ]
