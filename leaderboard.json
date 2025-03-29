@@ -81,12 +81,12 @@
         "nextNodeType": "heartscelestialabyrinth"
     },
     {
-        "dungeonRunId": "179896",
+        "dungeonRunId": "179931",
         "completedLevels": "22",
-        "twitchDisplayName": "LITheoss",
-        "startTime": "2025-03-28 16:40:12",
-        "endTime": "2025-03-28 19:44:35",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,musketeer_grapeshot,archer_soulpenetration,epic_elixirofrage,flying_evasivemaneuvers,tank_guardian,ranged_rangergloves,support_enchantedstaves,spell_empower_highground,bomber_dangerzone,armored_shieldbash,orcs_building_rage,epic_elixirofarchery,frogue_preparation,monk_spiritstrike,epic_elixirofresistance,general_dawnofvictory,barbarian_immortal,epic_giantsbrewzero,epic_giantsblessing,epic_melee_gloryofvictory,epic_elixirofdeath",
-        "nextNodeType": "heartscelestialabyrinth"
+        "twitchDisplayName": "PhoenixBard",
+        "startTime": "2025-03-29 19:34:39",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,epic_giantsblessing,human_humandestiny,berserker_rancor,fairy_hocuspocus,spell_empower_haste,archer_rapidshot,general_dawnofvictory,ensouled_bravespirits,ranged_rangergloves,ensouled_fatedspirits,necromancer_bombasticbones,saint_exalt,flying_evasivemaneuvers,orcs_building_rage,bomber_dangerzone,ranged_damage_2,saint_skeletondance,fairy_fireflyconjuration,ensouled_enragedspirits,barbarian_immortal,healer_combatmedic",
+        "nextNodeType": "newjunglespore"
     }
 ]
