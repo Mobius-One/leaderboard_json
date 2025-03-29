@@ -82,11 +82,11 @@
     },
     {
         "dungeonRunId": "179931",
-        "completedLevels": "22",
+        "completedLevels": "23",
         "twitchDisplayName": "PhoenixBard",
         "startTime": "2025-03-29 19:34:39",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,epic_giantsblessing,human_humandestiny,berserker_rancor,fairy_hocuspocus,spell_empower_haste,archer_rapidshot,general_dawnofvictory,ensouled_bravespirits,ranged_rangergloves,ensouled_fatedspirits,necromancer_bombasticbones,saint_exalt,flying_evasivemaneuvers,orcs_building_rage,bomber_dangerzone,ranged_damage_2,saint_skeletondance,fairy_fireflyconjuration,ensouled_enragedspirits,barbarian_immortal,healer_combatmedic",
-        "nextNodeType": "newjunglespore"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,epic_giantsblessing,human_humandestiny,berserker_rancor,fairy_hocuspocus,spell_empower_haste,archer_rapidshot,general_dawnofvictory,ensouled_bravespirits,ranged_rangergloves,ensouled_fatedspirits,necromancer_bombasticbones,saint_exalt,flying_evasivemaneuvers,orcs_building_rage,bomber_dangerzone,ranged_damage_2,saint_skeletondance,fairy_fireflyconjuration,ensouled_enragedspirits,barbarian_immortal,healer_combatmedic,gladiator_sonofthunder",
+        "nextNodeType": "crystalcavethrone"
     }
 ]
