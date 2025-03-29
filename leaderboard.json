@@ -81,12 +81,12 @@
         "nextNodeType": "crystaltunnel"
     },
     {
-        "dungeonRunId": "179889",
+        "dungeonRunId": "179914",
         "completedLevels": "19",
-        "twitchDisplayName": "MsChezaDarling",
-        "startTime": "2025-03-28 10:07:54",
-        "endTime": "2025-03-28 12:49:36",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,rogue_sneakattack,epic_giantsblessing,epic_ranged_dragonarrows,berserker_rancor,support_enchantedstaves,monk_spiritstrike,epic_elixirofrage,ranged_damage_2,spell_empower_killingfield,fairy_fireflyconjuration,musketeer_grapeshot,archer_soulpenetration,shinobi_shadowstrike,shinobi_firetechinique,flag_1,epic_elixirofresistance,frogue_preparation,blob_parasite,ranged_rangergloves",
-        "nextNodeType": "winterdinos"
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-03-29 14:04:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,monk_stoptheflow,captain_fragile_commander,rogue_shadowcloak,ranged_rangergloves,epic_giantsblessing,epic_epicaspirations,epic_elixirofarchery,melee_followup,epic_ranged_dragonarrows,epic_elixirofhealth,elf_elvenimmortality,common_specialists,epic_giantsbrewzero,support_enchantedstaves,necromancer_bombasticbones,epic_elixirofdeath,musketeer_grapeshot,buster_nanobusters,epic_elixirofresistance",
+        "nextNodeType": "moboohm"
     }
 ]
