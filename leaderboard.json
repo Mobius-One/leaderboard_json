@@ -63,6 +63,15 @@
         "nextNodeType": "heartscelestialabyrinth"
     },
     {
+        "dungeonRunId": "179914",
+        "completedLevels": "22",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-03-29 14:04:35",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,monk_stoptheflow,captain_fragile_commander,rogue_shadowcloak,ranged_rangergloves,epic_giantsblessing,epic_epicaspirations,epic_elixirofarchery,melee_followup,epic_ranged_dragonarrows,epic_elixirofhealth,elf_elvenimmortality,common_specialists,epic_giantsbrewzero,support_enchantedstaves,necromancer_bombasticbones,epic_elixirofdeath,musketeer_grapeshot,buster_nanobusters,epic_elixirofresistance,gladiator_sonofthunder,paladin_2,bomber_dangerzone",
+        "nextNodeType": "newjunglespore"
+    },
+    {
         "dungeonRunId": "179896",
         "completedLevels": "22",
         "twitchDisplayName": "LITheoss",
@@ -78,15 +87,6 @@
         "startTime": "2025-03-28 05:13:11",
         "endTime": "2025-03-29 06:14:31",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_giantsbrewzero,armored_shieldbash,epic_ranged_dragonarrows,archer_rapidshot,ranged_damage_2,spell_empower_stronghold,fairy_fireflyconjuration,support_enchantedstaves,warrior_swordofruin,epic_elixirofhealth,captain_fragile_commander,spell_empower_haste,bomber_dangerzone,musketeer_grapeshot,bomber_bombardment,rogue_sneakattack,flying_evasivemaneuvers,human_humandestiny,melee_charge,melee_followup,phantom_thehaunting",
-        "nextNodeType": "crystaltunnel"
-    },
-    {
-        "dungeonRunId": "179914",
-        "completedLevels": "21",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2025-03-29 14:04:35",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,monk_stoptheflow,captain_fragile_commander,rogue_shadowcloak,ranged_rangergloves,epic_giantsblessing,epic_epicaspirations,epic_elixirofarchery,melee_followup,epic_ranged_dragonarrows,epic_elixirofhealth,elf_elvenimmortality,common_specialists,epic_giantsbrewzero,support_enchantedstaves,necromancer_bombasticbones,epic_elixirofdeath,musketeer_grapeshot,buster_nanobusters,epic_elixirofresistance,gladiator_sonofthunder,paladin_2",
         "nextNodeType": "crystaltunnel"
     }
 ]
