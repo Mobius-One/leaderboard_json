@@ -64,12 +64,12 @@
     },
     {
         "dungeonRunId": "179914",
-        "completedLevels": "24",
+        "completedLevels": "25",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-03-29 14:04:35",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,monk_stoptheflow,captain_fragile_commander,rogue_shadowcloak,ranged_rangergloves,epic_giantsblessing,epic_epicaspirations,epic_elixirofarchery,melee_followup,epic_ranged_dragonarrows,epic_elixirofhealth,elf_elvenimmortality,common_specialists,epic_giantsbrewzero,support_enchantedstaves,necromancer_bombasticbones,epic_elixirofdeath,musketeer_grapeshot,buster_nanobusters,epic_elixirofresistance,gladiator_sonofthunder,paladin_2,bomber_dangerzone,fairy_hocuspocus,artillery_machine_gun",
-        "nextNodeType": "skyportals"
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,monk_stoptheflow,captain_fragile_commander,rogue_shadowcloak,ranged_rangergloves,epic_giantsblessing,epic_epicaspirations,epic_elixirofarchery,melee_followup,epic_ranged_dragonarrows,epic_elixirofhealth,elf_elvenimmortality,common_specialists,epic_giantsbrewzero,support_enchantedstaves,necromancer_bombasticbones,epic_elixirofdeath,musketeer_grapeshot,buster_nanobusters,epic_elixirofresistance,gladiator_sonofthunder,paladin_2,bomber_dangerzone,fairy_hocuspocus,artillery_machine_gun,musketeer_rapidreload",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "179896",
