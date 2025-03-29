@@ -54,15 +54,6 @@
         "nextNodeType": "steampunkgear"
     },
     {
-        "dungeonRunId": "179891",
-        "completedLevels": "27",
-        "twitchDisplayName": "MrShadowseer",
-        "startTime": "2025-03-28 11:52:18",
-        "endTime": "2025-03-28 15:35:24",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists,warrior_soldieroffortune,elf_elvenimmortality,necromancer_bombasticbones,epic_elixirofdeath,epic_giantsblessing,bomber_bombardment,ranged_rangergloves,undead_undeadresilience,blob_parasite",
-        "nextNodeType": "heartscelestialabyrinth"
-    },
-    {
         "dungeonRunId": "179894",
         "completedLevels": "27",
         "twitchDisplayName": "Hooks",
@@ -72,6 +63,24 @@
         "nextNodeType": "heartscelestialabyrinth"
     },
     {
+        "dungeonRunId": "179891",
+        "completedLevels": "27",
+        "twitchDisplayName": "MrShadowseer",
+        "startTime": "2025-03-28 11:52:18",
+        "endTime": "2025-03-28 15:35:24",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofrage,melee_followup,paladin_2,saint_exalt,general_dawnofvictory,healer_dreamy_wardens,fairy_fireflyconjuration,ranged_damage_2,flag_1,epic_elixirofresistance,support_enchantedstaves,warrior_swordofruin,epic_giantsbrewzero,assassin_disappearingact,buster_nanobusters,epic_elixirofhealth,robot_robotauthority,common_specialists,warrior_soldieroffortune,elf_elvenimmortality,necromancer_bombasticbones,epic_elixirofdeath,epic_giantsblessing,bomber_bombardment,ranged_rangergloves,undead_undeadresilience,blob_parasite",
+        "nextNodeType": "heartscelestialabyrinth"
+    },
+    {
+        "dungeonRunId": "179920",
+        "completedLevels": "23",
+        "twitchDisplayName": "Panthergal2018",
+        "startTime": "2025-03-29 15:58:03",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,melee_followup,bomber_bombardment,armored_ignorepain,epic_giantsblessing,berserker_killing_spree,epic_giantsbrewzero,undead_undeadresilience,epic_ranged_dragonarrows,saint_exalt,gladiator_sonofthunder,flag_1,bomber_dangerzone,assassin_disappearingact,lancer_firststrike,epic_elixirofresistance,elf_elvenimmortality,blob_parasite,fairy_fireflyconjuration,flying_evasivemaneuvers,human_humandestiny,ranged_rangergloves,musketeer_grapeshot",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179896",
         "completedLevels": "22",
         "twitchDisplayName": "LITheoss",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-28 19:44:35",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,flagbearer_bannerofluck,musketeer_grapeshot,archer_soulpenetration,epic_elixirofrage,flying_evasivemaneuvers,tank_guardian,ranged_rangergloves,support_enchantedstaves,spell_empower_highground,bomber_dangerzone,armored_shieldbash,orcs_building_rage,epic_elixirofarchery,frogue_preparation,monk_spiritstrike,epic_elixirofresistance,general_dawnofvictory,barbarian_immortal,epic_giantsbrewzero,epic_giantsblessing,epic_melee_gloryofvictory,epic_elixirofdeath",
         "nextNodeType": "heartscelestialabyrinth"
-    },
-    {
-        "dungeonRunId": "179920",
-        "completedLevels": "22",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-03-29 15:58:03",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,melee_followup,bomber_bombardment,armored_ignorepain,epic_giantsblessing,berserker_killing_spree,epic_giantsbrewzero,undead_undeadresilience,epic_ranged_dragonarrows,saint_exalt,gladiator_sonofthunder,flag_1,bomber_dangerzone,assassin_disappearingact,lancer_firststrike,epic_elixirofresistance,elf_elvenimmortality,blob_parasite,fairy_fireflyconjuration,flying_evasivemaneuvers,human_humandestiny,ranged_rangergloves",
-        "nextNodeType": "raidhallalake"
     }
 ]
