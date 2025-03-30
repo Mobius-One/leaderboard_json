@@ -18,15 +18,6 @@
         "nextNodeType": "plaguegrotto"
     },
     {
-        "dungeonRunId": "179864",
-        "completedLevels": "46",
-        "twitchDisplayName": "Rafipi",
-        "startTime": "2025-03-27 19:01:43",
-        "endTime": "2025-03-28 00:52:34",
-        "captainBoons": "common_classic_comeback,epic_elixirofresistance,epic_giantsblessing,bomber_dangerzone,ensouled_enragedspirits,epic_elixirofarchery,ensouled_fatedspirits,rogue_sneakattack,rogue_shadowcloak,warrior_soldieroffortune,ensouled_heroicspirits,monk_stoptheflow,saint_skeletondance,saint_exalt,ranged_damage_2,orcs_building_rage,gladiator_sonofthunder,bomber_bombardment,musketeer_rapidreload,melee_followup,phantom_thehaunting,support_doomingsong",
-        "nextNodeType": "plaguegrotto"
-    },
-    {
         "dungeonRunId": "179843",
         "completedLevels": "46",
         "twitchDisplayName": "elcanadiano",
@@ -34,6 +25,15 @@
         "endTime": "2025-03-30 03:54:57",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,amazon_vineclone,berserker_rancor,ensouled_fatedspirits,epic_armored_armoredgiants,bomber_dangerzone,ensouled_enragedspirits,fairy_fireflyconjuration,musketeer_grapeshot,assassin_disappearingact,epic_elixirofrage,archer_soulpenetration,saint_exalt,orcs_building_rage,epic_elixirofarchery,ensouled_heroicspirits,warrior_soldieroffortune,melee_followup,epic_melee_gloryofvictory,flagbearer_bannerofluck,epic_giantsblessing",
         "nextNodeType": "steampunkgear"
+    },
+    {
+        "dungeonRunId": "179864",
+        "completedLevels": "46",
+        "twitchDisplayName": "Rafipi",
+        "startTime": "2025-03-27 19:01:43",
+        "endTime": "2025-03-28 00:52:34",
+        "captainBoons": "common_classic_comeback,epic_elixirofresistance,epic_giantsblessing,bomber_dangerzone,ensouled_enragedspirits,epic_elixirofarchery,ensouled_fatedspirits,rogue_sneakattack,rogue_shadowcloak,warrior_soldieroffortune,ensouled_heroicspirits,monk_stoptheflow,saint_skeletondance,saint_exalt,ranged_damage_2,orcs_building_rage,gladiator_sonofthunder,bomber_bombardment,musketeer_rapidreload,melee_followup,phantom_thehaunting,support_doomingsong",
+        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "179874",
@@ -45,21 +45,21 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179950",
+        "completedLevels": "28",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-30 07:35:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,support_enchantedstaves,blob_parasite,armored_ignorepain,assassin_disappearingact,spy_fromcaptainwithlove,epic_giantsbrewzero,flying_evasivemaneuvers,warrior_swordofruin,ranged_rangergloves,melee_followup,orcs_building_rage,bomber_dangerzone,general_dawnofvictory,flag_1,barbarian_gloriousdeath,gladiator_sonofthunder,archer_soulpenetration,epic_elixirofrage,epic_giantsblessing,rogue_shadowcloak,epic_elixirofarchery,ensouled_fatedspirits,necromancer_bombasticbones,musketeer_rapidreload,elf_elvenimmortality,ensouled_bravespirits,epic_elixirofhealth",
+        "nextNodeType": "moboohm"
+    },
+    {
         "dungeonRunId": "179914",
         "completedLevels": "28",
         "twitchDisplayName": "Meistar",
         "startTime": "2025-03-29 14:04:35",
         "endTime": "2025-03-29 18:01:38",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,monk_stoptheflow,captain_fragile_commander,rogue_shadowcloak,ranged_rangergloves,epic_giantsblessing,epic_epicaspirations,epic_elixirofarchery,melee_followup,epic_ranged_dragonarrows,epic_elixirofhealth,elf_elvenimmortality,common_specialists,epic_giantsbrewzero,support_enchantedstaves,necromancer_bombasticbones,epic_elixirofdeath,musketeer_grapeshot,buster_nanobusters,epic_elixirofresistance,gladiator_sonofthunder,paladin_2,bomber_dangerzone,fairy_hocuspocus,artillery_machine_gun,musketeer_rapidreload,robot_robotauthority,healer_dreamy_wardens,melee_charge",
-        "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179950",
-        "completedLevels": "27",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-30 07:35:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,support_enchantedstaves,blob_parasite,armored_ignorepain,assassin_disappearingact,spy_fromcaptainwithlove,epic_giantsbrewzero,flying_evasivemaneuvers,warrior_swordofruin,ranged_rangergloves,melee_followup,orcs_building_rage,bomber_dangerzone,general_dawnofvictory,flag_1,barbarian_gloriousdeath,gladiator_sonofthunder,archer_soulpenetration,epic_elixirofrage,epic_giantsblessing,rogue_shadowcloak,epic_elixirofarchery,ensouled_fatedspirits,necromancer_bombasticbones,musketeer_rapidreload,elf_elvenimmortality,ensouled_bravespirits",
         "nextNodeType": "steampunkgear"
     },
     {
