@@ -81,12 +81,12 @@
         "nextNodeType": "orctotem"
     },
     {
-        "dungeonRunId": "179920",
-        "completedLevels": "25",
-        "twitchDisplayName": "Panthergal2018",
-        "startTime": "2025-03-29 15:58:03",
-        "endTime": "2025-03-29 19:05:32",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,melee_followup,bomber_bombardment,armored_ignorepain,epic_giantsblessing,berserker_killing_spree,epic_giantsbrewzero,undead_undeadresilience,epic_ranged_dragonarrows,saint_exalt,gladiator_sonofthunder,flag_1,bomber_dangerzone,assassin_disappearingact,lancer_firststrike,epic_elixirofresistance,elf_elvenimmortality,blob_parasite,fairy_fireflyconjuration,flying_evasivemaneuvers,human_humandestiny,ranged_rangergloves,musketeer_grapeshot,epic_epicaspirations,musketeer_rapidreload",
-        "nextNodeType": "heartscelestialabyrinth"
+        "dungeonRunId": "179950",
+        "completedLevels": "26",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-30 07:35:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,support_enchantedstaves,blob_parasite,armored_ignorepain,assassin_disappearingact,spy_fromcaptainwithlove,epic_giantsbrewzero,flying_evasivemaneuvers,warrior_swordofruin,ranged_rangergloves,melee_followup,orcs_building_rage,bomber_dangerzone,general_dawnofvictory,flag_1,barbarian_gloriousdeath,gladiator_sonofthunder,archer_soulpenetration,epic_elixirofrage,epic_giantsblessing,rogue_shadowcloak,epic_elixirofarchery,ensouled_fatedspirits,necromancer_bombasticbones,musketeer_rapidreload,elf_elvenimmortality",
+        "nextNodeType": "crystalcavethrone"
     }
 ]
