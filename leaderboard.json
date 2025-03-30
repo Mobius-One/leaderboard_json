@@ -63,6 +63,15 @@
         "nextNodeType": "heartscelestialabyrinth"
     },
     {
+        "dungeonRunId": "179950",
+        "completedLevels": "27",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-30 07:35:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,support_enchantedstaves,blob_parasite,armored_ignorepain,assassin_disappearingact,spy_fromcaptainwithlove,epic_giantsbrewzero,flying_evasivemaneuvers,warrior_swordofruin,ranged_rangergloves,melee_followup,orcs_building_rage,bomber_dangerzone,general_dawnofvictory,flag_1,barbarian_gloriousdeath,gladiator_sonofthunder,archer_soulpenetration,epic_elixirofrage,epic_giantsblessing,rogue_shadowcloak,epic_elixirofarchery,ensouled_fatedspirits,necromancer_bombasticbones,musketeer_rapidreload,elf_elvenimmortality,ensouled_bravespirits",
+        "nextNodeType": "steampunkgear"
+    },
+    {
         "dungeonRunId": "179894",
         "completedLevels": "27",
         "twitchDisplayName": "Hooks",
@@ -79,14 +88,5 @@
         "endTime": "2025-03-29 23:29:36",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofarchery,epic_giantsblessing,human_humandestiny,berserker_rancor,fairy_hocuspocus,spell_empower_haste,archer_rapidshot,general_dawnofvictory,ensouled_bravespirits,ranged_rangergloves,ensouled_fatedspirits,necromancer_bombasticbones,saint_exalt,flying_evasivemaneuvers,orcs_building_rage,bomber_dangerzone,ranged_damage_2,saint_skeletondance,fairy_fireflyconjuration,ensouled_enragedspirits,barbarian_immortal,healer_combatmedic,gladiator_sonofthunder,blob_parasite,epic_elixirofhealth,musketeer_grapeshot",
         "nextNodeType": "orctotem"
-    },
-    {
-        "dungeonRunId": "179950",
-        "completedLevels": "26",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-30 07:35:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,support_enchantedstaves,blob_parasite,armored_ignorepain,assassin_disappearingact,spy_fromcaptainwithlove,epic_giantsbrewzero,flying_evasivemaneuvers,warrior_swordofruin,ranged_rangergloves,melee_followup,orcs_building_rage,bomber_dangerzone,general_dawnofvictory,flag_1,barbarian_gloriousdeath,gladiator_sonofthunder,archer_soulpenetration,epic_elixirofrage,epic_giantsblessing,rogue_shadowcloak,epic_elixirofarchery,ensouled_fatedspirits,necromancer_bombasticbones,musketeer_rapidreload,elf_elvenimmortality",
-        "nextNodeType": "crystalcavethrone"
     }
 ]
