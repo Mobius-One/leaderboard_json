@@ -10,12 +10,12 @@
     },
     {
         "dungeonRunId": "179950",
-        "completedLevels": "55",
+        "completedLevels": "56",
         "twitchDisplayName": "RealAlize",
         "startTime": "2025-03-30 07:35:33",
         "endTime": null,
-        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,support_enchantedstaves,blob_parasite,assassin_disappearingact,flying_evasivemaneuvers,warrior_swordofruin,orcs_building_rage,bomber_dangerzone,archer_soulpenetration,epic_elixirofrage,epic_giantsblessing,epic_elixirofarchery,necromancer_bombasticbones,musketeer_rapidreload,elf_elvenimmortality,ensouled_bravespirits,epic_elixirofhealth",
-        "nextNodeType": "heartscelestialabyrinth"
+        "captainBoons": "common_classic_comeback,fairy_fireflyconjuration,support_enchantedstaves,blob_parasite,assassin_disappearingact,flying_evasivemaneuvers,warrior_swordofruin,bomber_dangerzone,archer_soulpenetration,epic_elixirofrage,epic_giantsblessing,epic_elixirofarchery,necromancer_bombasticbones,musketeer_rapidreload,elf_elvenimmortality,ensouled_bravespirits,epic_elixirofhealth",
+        "nextNodeType": "lavafurnace"
     },
     {
         "dungeonRunId": "179859",
