@@ -18,6 +18,15 @@
         "nextNodeType": "plaguegrotto"
     },
     {
+        "dungeonRunId": "179950",
+        "completedLevels": "47",
+        "twitchDisplayName": "RealAlize",
+        "startTime": "2025-03-30 07:35:33",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,support_enchantedstaves,blob_parasite,assassin_disappearingact,flying_evasivemaneuvers,warrior_swordofruin,ranged_rangergloves,orcs_building_rage,bomber_dangerzone,gladiator_sonofthunder,archer_soulpenetration,epic_elixirofrage,epic_giantsblessing,epic_elixirofarchery,ensouled_fatedspirits,necromancer_bombasticbones,musketeer_rapidreload,elf_elvenimmortality,ensouled_bravespirits,epic_elixirofhealth",
+        "nextNodeType": "orctotem"
+    },
+    {
         "dungeonRunId": "179864",
         "completedLevels": "46",
         "twitchDisplayName": "Rafipi",
@@ -34,15 +43,6 @@
         "endTime": "2025-03-30 03:54:57",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,amazon_vineclone,berserker_rancor,ensouled_fatedspirits,epic_armored_armoredgiants,bomber_dangerzone,ensouled_enragedspirits,fairy_fireflyconjuration,musketeer_grapeshot,assassin_disappearingact,epic_elixirofrage,archer_soulpenetration,saint_exalt,orcs_building_rage,epic_elixirofarchery,ensouled_heroicspirits,warrior_soldieroffortune,melee_followup,epic_melee_gloryofvictory,flagbearer_bannerofluck,epic_giantsblessing",
         "nextNodeType": "steampunkgear"
-    },
-    {
-        "dungeonRunId": "179950",
-        "completedLevels": "46",
-        "twitchDisplayName": "RealAlize",
-        "startTime": "2025-03-30 07:35:33",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,fairy_fireflyconjuration,support_enchantedstaves,blob_parasite,assassin_disappearingact,flying_evasivemaneuvers,warrior_swordofruin,ranged_rangergloves,orcs_building_rage,bomber_dangerzone,gladiator_sonofthunder,archer_soulpenetration,epic_elixirofrage,epic_giantsblessing,epic_elixirofarchery,ensouled_fatedspirits,necromancer_bombasticbones,musketeer_rapidreload,elf_elvenimmortality,ensouled_bravespirits,epic_elixirofhealth",
-        "nextNodeType": "plaguegrotto"
     },
     {
         "dungeonRunId": "179874",
