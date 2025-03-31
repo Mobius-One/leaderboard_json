@@ -63,21 +63,21 @@
         "nextNodeType": "steampunkgear"
     },
     {
+        "dungeonRunId": "179986",
+        "completedLevels": "30",
+        "twitchDisplayName": "Xari",
+        "startTime": "2025-03-31 14:40:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,assassin_agility,epic_giantsblessing,epic_armored_armoredgiants,epic_elixirofdeath,armored_shieldbash,tank_guardian,ranged_rangergloves,support_enchantedstaves,epic_ranged_dragonarrows,shinobi_shadowstrike,shinobi_firetechinique,spell_empower_haste,epic_elixirofresistance,ranged_damage_2,bomber_bombardment,captain_fragile_commander,rogue_shadowcloak,epic_elixirofarchery,general_dawnofvictory,epic_melee_gloryofvictory,rogue_sneakattack,melee_followup,flag_1,fairy_fireflyconjuration,frogue_preparation,orcs_building_rage,support_doomingsong,fairy_hocuspocus",
+        "nextNodeType": "moboohm"
+    },
+    {
         "dungeonRunId": "179971",
         "completedLevels": "29",
         "twitchDisplayName": "Hooks",
         "startTime": "2025-03-31 03:33:09",
         "endTime": "2025-03-31 17:08:25",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofhealth,epic_giantsblessing,human_humandestiny,epic_giantsbrewzero,ensouled_fatedspirits,epic_ranged_dragonarrows,assassin_agility,ensouled_enragedspirits,epic_armored_armoredgiants,epic_elixirofarchery,fairy_hocuspocus,saint_skeletondance,rogue_sneakattack,melee_followup,paladin_2,monk_stoptheflow,spell_empower_aegis,epic_epicaspirations,shinobi_shadowstrike,assassin_disappearingact,phantom_thehaunting,epic_elixirofrage,general_dawnofvictory,common_specialists,armored_ignorepain,flying_evasivemaneuvers,berserker_killing_spree,gladiator_browbeat,support_enchantedstaves",
-        "nextNodeType": "dungeons_jerry"
-    },
-    {
-        "dungeonRunId": "179986",
-        "completedLevels": "29",
-        "twitchDisplayName": "Xari",
-        "startTime": "2025-03-31 14:40:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,assassin_agility,epic_giantsblessing,epic_armored_armoredgiants,epic_elixirofdeath,armored_shieldbash,tank_guardian,ranged_rangergloves,support_enchantedstaves,epic_ranged_dragonarrows,shinobi_shadowstrike,shinobi_firetechinique,spell_empower_haste,epic_elixirofresistance,ranged_damage_2,bomber_bombardment,berserker_rancor,captain_fragile_commander,rogue_shadowcloak,epic_elixirofarchery,general_dawnofvictory,epic_melee_gloryofvictory,rogue_sneakattack,melee_followup,flag_1,fairy_fireflyconjuration,frogue_preparation,orcs_building_rage,support_doomingsong,fairy_hocuspocus",
         "nextNodeType": "dungeons_jerry"
     },
     {
