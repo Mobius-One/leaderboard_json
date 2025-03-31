@@ -54,15 +54,6 @@
         "nextNodeType": "steampunkgear"
     },
     {
-        "dungeonRunId": "179986",
-        "completedLevels": "31",
-        "twitchDisplayName": "Xari",
-        "startTime": "2025-03-31 14:40:13",
-        "endTime": null,
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,assassin_agility,epic_giantsblessing,epic_armored_armoredgiants,epic_elixirofdeath,armored_shieldbash,tank_guardian,ranged_rangergloves,support_enchantedstaves,epic_ranged_dragonarrows,shinobi_shadowstrike,shinobi_firetechinique,spell_empower_haste,epic_elixirofresistance,ranged_damage_2,bomber_bombardment,captain_fragile_commander,rogue_shadowcloak,epic_elixirofarchery,general_dawnofvictory,epic_melee_gloryofvictory,rogue_sneakattack,melee_followup,flag_1,fairy_fireflyconjuration,frogue_preparation,orcs_building_rage,support_doomingsong,fairy_hocuspocus",
-        "nextNodeType": "heartscelestialabyrinth"
-    },
-    {
         "dungeonRunId": "179967",
         "completedLevels": "31",
         "twitchDisplayName": "ohitsneb",
@@ -70,6 +61,15 @@
         "endTime": "2025-03-31 01:39:21",
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,archer_rapidshot,ensouled_enragedspirits,artillery_machine_gun,bomber_dangerzone,general_dawnofvictory,common_specialists,epic_elixirofhealth,captain_fragile_commander,archer_soulpenetration,centurion_tactician,ensouled_fatedspirits,bomber_bombardment,epic_elixirofrage,ensouled_heroicspirits,healer_combatmedic,armored_shieldbash,vampire_aerial_fiend,flagbearer_bannerofluck,musketeer_grapeshot,ensouled_bravespirits,epic_giantsbrewzero,ranged_damage_2,buster_nanobusters,ranged_rangergloves,elf_elvenimmortality,berserker_killing_spree,armored_ignorepain,flying_evasivemaneuvers",
         "nextNodeType": "steampunkgear"
+    },
+    {
+        "dungeonRunId": "179986",
+        "completedLevels": "31",
+        "twitchDisplayName": "Xari",
+        "startTime": "2025-03-31 14:40:13",
+        "endTime": null,
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,assassin_agility,epic_giantsblessing,epic_armored_armoredgiants,epic_elixirofdeath,armored_shieldbash,tank_guardian,ranged_rangergloves,support_enchantedstaves,epic_ranged_dragonarrows,shinobi_shadowstrike,shinobi_firetechinique,spell_empower_haste,epic_elixirofresistance,ranged_damage_2,bomber_bombardment,captain_fragile_commander,rogue_shadowcloak,epic_elixirofarchery,general_dawnofvictory,epic_melee_gloryofvictory,rogue_sneakattack,melee_followup,flag_1,fairy_fireflyconjuration,frogue_preparation,orcs_building_rage,support_doomingsong,fairy_hocuspocus",
+        "nextNodeType": "heartscelestialabyrinth"
     },
     {
         "dungeonRunId": "179971",
