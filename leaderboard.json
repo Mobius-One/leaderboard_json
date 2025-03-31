@@ -63,15 +63,6 @@
         "nextNodeType": "steampunkgear"
     },
     {
-        "dungeonRunId": "179914",
-        "completedLevels": "28",
-        "twitchDisplayName": "Meistar",
-        "startTime": "2025-03-29 14:04:35",
-        "endTime": "2025-03-29 18:01:38",
-        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,monk_stoptheflow,captain_fragile_commander,rogue_shadowcloak,ranged_rangergloves,epic_giantsblessing,epic_epicaspirations,epic_elixirofarchery,melee_followup,epic_ranged_dragonarrows,epic_elixirofhealth,elf_elvenimmortality,common_specialists,epic_giantsbrewzero,support_enchantedstaves,necromancer_bombasticbones,epic_elixirofdeath,musketeer_grapeshot,buster_nanobusters,epic_elixirofresistance,gladiator_sonofthunder,paladin_2,bomber_dangerzone,fairy_hocuspocus,artillery_machine_gun,musketeer_rapidreload,robot_robotauthority,healer_dreamy_wardens,melee_charge",
-        "nextNodeType": "steampunkgear"
-    },
-    {
         "dungeonRunId": "179971",
         "completedLevels": "28",
         "twitchDisplayName": "Hooks",
@@ -79,6 +70,15 @@
         "endTime": null,
         "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,epic_elixirofhealth,epic_giantsblessing,human_humandestiny,epic_giantsbrewzero,ensouled_fatedspirits,epic_ranged_dragonarrows,assassin_agility,ensouled_enragedspirits,epic_armored_armoredgiants,epic_elixirofarchery,fairy_hocuspocus,saint_skeletondance,rogue_sneakattack,melee_followup,paladin_2,monk_stoptheflow,spell_empower_aegis,epic_epicaspirations,shinobi_shadowstrike,assassin_disappearingact,phantom_thehaunting,epic_elixirofrage,general_dawnofvictory,common_specialists,armored_ignorepain,flying_evasivemaneuvers,berserker_killing_spree,gladiator_browbeat",
         "nextNodeType": "crystaltunnel"
+    },
+    {
+        "dungeonRunId": "179914",
+        "completedLevels": "28",
+        "twitchDisplayName": "Meistar",
+        "startTime": "2025-03-29 14:04:35",
+        "endTime": "2025-03-29 18:01:38",
+        "captainBoons": "common_classic_comeback,amazon_omen_omenofsweetbetrayal,monk_stoptheflow,captain_fragile_commander,rogue_shadowcloak,ranged_rangergloves,epic_giantsblessing,epic_epicaspirations,epic_elixirofarchery,melee_followup,epic_ranged_dragonarrows,epic_elixirofhealth,elf_elvenimmortality,common_specialists,epic_giantsbrewzero,support_enchantedstaves,necromancer_bombasticbones,epic_elixirofdeath,musketeer_grapeshot,buster_nanobusters,epic_elixirofresistance,gladiator_sonofthunder,paladin_2,bomber_dangerzone,fairy_hocuspocus,artillery_machine_gun,musketeer_rapidreload,robot_robotauthority,healer_dreamy_wardens,melee_charge",
+        "nextNodeType": "steampunkgear"
     },
     {
         "dungeonRunId": "179891",
